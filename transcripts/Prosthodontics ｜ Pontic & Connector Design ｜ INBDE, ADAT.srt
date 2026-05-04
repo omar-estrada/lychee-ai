@@ -1,0 +1,476 @@
+1
+00:00:00,000 --> 00:00:05,380
+ Hey everyone, this is Ryan here and welcome back to our prosthodontic series.
+
+2
+00:00:05,380 --> 00:00:12,060
+ In this video, we're going to unpack the idea and the concepts behind Pontic and Connector Design.
+
+3
+00:00:12,060 --> 00:00:16,960
+ So we've already talked about the components of a bridge.
+
+4
+00:00:16,960 --> 00:00:22,540
+ Just to review the abutment is the tooth to which the bridge attaches.
+
+5
+00:00:22,540 --> 00:00:29,380
+ So these two abutment teeth have been properly prepped to receive the crowns of a bridge.
+
+6
+00:00:29,380 --> 00:00:35,020
+ The retainer refers to the crown that actually attaches to the abutment.
+
+7
+00:00:35,020 --> 00:00:38,820
+ So these two would be considered retainers.
+
+8
+00:00:38,820 --> 00:00:48,940
+ The Pontic is the fake tooth between abutments and the connector connects the retainer to the Pontic.
+
+9
+00:00:48,940 --> 00:00:54,820
+ So usually you'll have a Pontic or multiple Pontics between retainers.
+
+10
+00:00:54,820 --> 00:01:02,420
+ But there are cases if you have what's called a cantilever bridge, you can have just one retainer
+
+11
+00:01:02,420 --> 00:01:08,060
+ and one or more Pontics attached to it.
+
+12
+00:01:08,060 --> 00:01:13,240
+ So you can have different combinations of these elements.
+
+13
+00:01:13,240 --> 00:01:20,820
+ So let's focus on the Pontic and the different designs that these fake teeth can have.
+
+14
+00:01:20,820 --> 00:01:27,900
+ So the first one is the hygienic Pontic, also sometimes called the sanitary Pontic.
+
+15
+00:01:27,900 --> 00:01:33,220
+ And this is a cross section or side view of this design.
+
+16
+00:01:33,220 --> 00:01:39,020
+ And notice the space between the Pontic and the ridge.
+
+17
+00:01:39,020 --> 00:01:45,380
+ So the hygienic Pontic is used primarily in the posterior mandible region.
+
+18
+00:01:45,380 --> 00:01:51,020
+ It offers great hygienic capability and hence the name.
+
+19
+00:01:51,020 --> 00:01:55,540
+ And the reason for that is because there's space between the Pontic and the ridge.
+
+20
+00:01:55,540 --> 00:01:59,020
+ So you can fit a round brush between this.
+
+21
+00:01:59,020 --> 00:02:03,940
+ You can fit super floss easily and you can keep food and other things from getting caught
+
+22
+00:02:03,940 --> 00:02:06,460
+ between the bridge and the gingiva.
+
+23
+00:02:06,460 --> 00:02:09,940
+ So that's the main benefit of this design.
+
+24
+00:02:09,940 --> 00:02:15,060
+ However, they're poor aesthetics because you have a pretty big gaping hole between the
+
+25
+00:02:15,060 --> 00:02:17,180
+ tooth and the gums.
+
+26
+00:02:17,180 --> 00:02:23,940
+ And you need to have enough video, which is a vertical dimension of occlusion or restorative
+
+27
+00:02:23,940 --> 00:02:30,420
+ space, meaning there has to be enough room to afford this extra two millimeters of space.
+
+28
+00:02:30,420 --> 00:02:35,380
+ Otherwise you're going to have to make this tooth, or the Pontic, very, very thin.
+
+29
+00:02:35,380 --> 00:02:42,380
+ And when you make something in dentistry too thin, it's prone to breaking fracture.
+
+30
+00:02:42,380 --> 00:02:49,460
+ So the second Pontic design is the saddle Pontic or the ridge lap Pontic.
+
+31
+00:02:49,460 --> 00:02:52,780
+ And this one you really should never use.
+
+32
+00:02:52,780 --> 00:03:00,180
+ And it's because like a saddle on a horse, it firmly wraps around the ridge here.
+
+33
+00:03:00,180 --> 00:03:06,820
+ And so there's no way you could fit some kind of brush underneath that and keep it clean.
+
+34
+00:03:06,820 --> 00:03:10,580
+ And it's very bad for hygiene for that reason.
+
+35
+00:03:10,580 --> 00:03:15,820
+ So a lot of things can get caught under there and it's very hard to keep the area clean.
+
+36
+00:03:15,820 --> 00:03:22,020
+ It can lead to periodontal problems around the abutment teeth and eventual failure of
+
+37
+00:03:22,020 --> 00:03:23,020
+ the bridge.
+
+38
+00:03:23,020 --> 00:03:28,860
+ So this one is not often used and in fact you should never use it.
+
+39
+00:03:28,860 --> 00:03:32,780
+ The next design we have is the conical Pontic design.
+
+40
+00:03:32,780 --> 00:03:35,940
+ This one is reserved mostly for molars.
+
+41
+00:03:35,940 --> 00:03:41,020
+ And it's similar to the hygienic design but marginally better aesthetics.
+
+42
+00:03:41,020 --> 00:03:48,020
+ So the conical design you can see has a conical shape to it from the side view.
+
+43
+00:03:48,020 --> 00:03:56,340
+ And instead of having this space, it has just one little point of contact at the ridge.
+
+44
+00:03:56,340 --> 00:03:59,500
+ So this enables you to slide a brush under here.
+
+45
+00:03:59,500 --> 00:04:05,300
+ There's some give of the soft tissue so you can put a brush or some super floss underneath
+
+46
+00:04:05,300 --> 00:04:08,020
+ the bridge and keep it clean.
+
+47
+00:04:08,020 --> 00:04:09,620
+ So this one's pretty good.
+
+48
+00:04:09,620 --> 00:04:16,140
+ It has some pros and maybe it's not as hygienic as the hygienic Pontic but it still offers
+
+49
+00:04:16,140 --> 00:04:21,540
+ ability for cleanseability.
+
+50
+00:04:21,540 --> 00:04:27,100
+ Alright so we talked about the ridge lap or saddle design, this is a modified form of
+
+51
+00:04:27,100 --> 00:04:28,100
+ it.
+
+52
+00:04:28,100 --> 00:04:30,460
+ So we call it the modified ridge lap Pontic.
+
+53
+00:04:30,460 --> 00:04:38,220
+ This is reserved mostly for anterior Pontics and it offers really good aesthetics.
+
+54
+00:04:38,220 --> 00:04:40,980
+ So this is a look at the modified ridge lap.
+
+55
+00:04:40,980 --> 00:04:46,580
+ You can see instead of wrapping around the buckle and lingual portion of the ridge, it's
+
+56
+00:04:46,580 --> 00:04:54,340
+ only sort of half way in contact with the buckle part of the ridge and the lingual part
+
+57
+00:04:54,340 --> 00:05:01,060
+ is kind of more like the conical design where it peels off and isn't firmly attached and
+
+58
+00:05:01,060 --> 00:05:03,620
+ right up against the soft tissue.
+
+59
+00:05:03,620 --> 00:05:10,780
+ So this enables you to have some cleanseability, not as much as the conical or hygienic designs
+
+60
+00:05:10,780 --> 00:05:13,500
+ because there's a little bit more contact there.
+
+61
+00:05:13,500 --> 00:05:15,900
+ But you're talking about an anterior tooth.
+
+62
+00:05:15,900 --> 00:05:20,420
+ So aesthetics is certainly a consideration.
+
+63
+00:05:20,420 --> 00:05:26,900
+ So you don't obviously want to have a big gaping hole here and even just a little point
+
+64
+00:05:26,900 --> 00:05:30,060
+ contact isn't going to look very natural.
+
+65
+00:05:30,060 --> 00:05:37,020
+ So having this profile contact the soft tissue, you can actually make it appear as if it's
+
+66
+00:05:37,020 --> 00:05:42,660
+ coming out of the gingiva and make it a pretty aesthetic look.
+
+67
+00:05:42,660 --> 00:05:48,780
+ But even better for aesthetics and the most superior aesthetic design has to be the ovate
+
+68
+00:05:48,780 --> 00:05:50,100
+ pontic.
+
+69
+00:05:50,100 --> 00:05:56,260
+ This is used really only for anterior teeth and it provides superior aesthetics because
+
+70
+00:05:56,260 --> 00:06:03,580
+ you actually embed the pontic into a little divot in the soft tissue and the ridge that
+
+71
+00:06:03,580 --> 00:06:04,740
+ you make.
+
+72
+00:06:04,740 --> 00:06:08,980
+ So this one actually requires a minor surgery.
+
+73
+00:06:08,980 --> 00:06:15,340
+ So you actually make this space so that the pontic can go into that little divot and it
+
+74
+00:06:15,340 --> 00:06:23,420
+ actually appears and it's coming out of the soft tissue just as a natural tooth would be
+
+75
+00:06:23,420 --> 00:06:25,540
+ emerging from the gingiva.
+
+76
+00:06:25,540 --> 00:06:31,140
+ We call that the emergence profile when a tooth is coming out of the gingiva in a certain
+
+77
+00:06:31,140 --> 00:06:34,020
+ way to make it appear very natural.
+
+78
+00:06:34,020 --> 00:06:39,460
+ So this one has the best aesthetics for that reason but it requires surgery and the proper
+
+79
+00:06:39,460 --> 00:06:47,020
+ dimensions of a dental ridge in order to make that phenomenon look and appear natural and
+
+80
+00:06:47,020 --> 00:06:48,260
+ aesthetic.
+
+81
+00:06:48,260 --> 00:06:54,060
+ Alright, so those are the five pontic designs I wanted to talk to you about.
+
+82
+00:06:54,060 --> 00:06:58,940
+ But we also have the certain connector designs that I want to mention.
+
+83
+00:06:58,940 --> 00:07:04,540
+ The connector is connecting the retainer to the pontic.
+
+84
+00:07:04,540 --> 00:07:07,180
+ So for connector designs we don't have five to choose from.
+
+85
+00:07:07,180 --> 00:07:13,700
+ We only have really two main categories, those being rigid and non-rigid.
+
+86
+00:07:13,700 --> 00:07:19,180
+ So the rigid connector is either cast in one piece or soldered together.
+
+87
+00:07:19,180 --> 00:07:26,140
+ So if we look at this image here, these connectors we can think of as being rigid.
+
+88
+00:07:26,140 --> 00:07:31,940
+ You can't break them apart, they're stuck together, either cast all in one piece of
+
+89
+00:07:31,940 --> 00:07:39,580
+ metal or these have been soldered together so you can't remove them from each other.
+
+90
+00:07:39,580 --> 00:07:46,980
+ The non-rigid connector design is shown right here in this image where you can actually
+
+91
+00:07:46,980 --> 00:07:52,260
+ put them together like puzzle pieces and take them apart.
+
+92
+00:07:52,260 --> 00:08:00,980
+ So this male female kind of design is indicated when it's impossible to obtain a common path
+
+93
+00:08:00,980 --> 00:08:05,580
+ of insertion between the abutments.
+
+94
+00:08:05,580 --> 00:08:11,580
+ So we see a pretty good example of this in this image because the path of insertion is
+
+95
+00:08:11,580 --> 00:08:15,180
+ along the long axis of the prep.
+
+96
+00:08:15,180 --> 00:08:18,580
+ So that would be about the path of insertion for this one.
+
+97
+00:08:18,580 --> 00:08:25,060
+ Because this tooth is tipped and let's just say you can see how the prep has been made
+
+98
+00:08:25,060 --> 00:08:31,780
+ along the long axis of this tooth, the path of insertion for that crown would be at about
+
+99
+00:08:31,780 --> 00:08:33,380
+ that angle.
+
+100
+00:08:33,380 --> 00:08:39,820
+ So now we have a discrepancy between this very up and down seating and this sort of oblique
+
+101
+00:08:39,820 --> 00:08:41,780
+ path of insertion.
+
+102
+00:08:41,780 --> 00:08:52,940
+ So if we had this all as one big piece with 1, 2, 3 rigid connectors, probably we might
+
+103
+00:08:52,940 --> 00:08:59,980
+ not even be able to seat that bridge because of the discrepancy between the path of insertions.
+
+104
+00:08:59,980 --> 00:09:07,380
+ So if this is an issue then we pull out the non-rigid connector design in order to first
+
+105
+00:09:07,380 --> 00:09:15,540
+ we can seat this one and then since this male connector can slide into this female connector
+
+106
+00:09:15,540 --> 00:09:21,300
+ in a very up and down path of insertion then it's in line with this path of insertion and
+
+107
+00:09:21,300 --> 00:09:28,060
+ we can fit the bridge in two steps, putting this crown in first and then followed by this
+
+108
+00:09:28,060 --> 00:09:31,740
+ bridge component second.
+
+109
+00:09:31,740 --> 00:09:39,500
+ So that's the use of having a rigid and non-rigid connector design and connectors for porcelain
+
+110
+00:09:39,500 --> 00:09:47,660
+ fuse to metal bridges as a sort of guideline should have a minimum of about 3mm of height.
+
+111
+00:09:47,660 --> 00:09:53,140
+ This is so that you have enough strength of the connector so that it doesn't fracture.
+
+112
+00:09:53,140 --> 00:09:58,740
+ Of course if you could afford to have more than that, that's great because increasing
+
+113
+00:09:58,740 --> 00:10:05,260
+ the connector height would increase the strength of the connector due to cervical occlusal
+
+114
+00:10:05,260 --> 00:10:08,460
+ reinforcement.
+
+115
+00:10:08,460 --> 00:10:14,660
+ And by cervical occlusal reinforcement I just mean the vertical dimension from cervical
+
+116
+00:10:14,660 --> 00:10:20,460
+ to occlusal, the thicker that is, the less likely it is to fracture.
+
+117
+00:10:20,460 --> 00:10:25,540
+ Alright thanks so much for watching everyone, I really appreciate all the support, please
+
+118
+00:10:25,540 --> 00:10:30,900
+ stay tuned for the next video in our fixed prosthodontic series, thanks so much for watching
+
+119
+00:10:30,900 --> 00:10:32,060
+ and I'll see you all next time.
+

@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:07,600
+ Hey guys, it's Ryan. Here's the last video in our talk of Biomechanics, and we're going to talk
+
+2
+00:00:07,600 --> 00:00:14,800
+ about duration of force in this one. So we already talked about magnitude of force, how much force
+
+3
+00:00:14,800 --> 00:00:21,520
+ we're applying to the PDL, and we talked about the area over which the force is applied to.
+
+4
+00:00:21,520 --> 00:00:28,400
+ Now we're going to talk about how long that force is applied for. So here's a graph of tooth movement,
+
+5
+00:00:28,400 --> 00:00:35,280
+ efficiency hours in the day, and we need four to eight hours as an absolute minimum
+
+6
+00:00:35,280 --> 00:00:43,920
+ for tooth movement, and then the longer you have an appliance working, especially in terms of like
+
+7
+00:00:43,920 --> 00:00:49,040
+ a removable appliance that you can take in and out at will, the longer you have it acting per day,
+
+8
+00:00:49,040 --> 00:00:58,080
+ the better. And why is this? Because if you remember in our magnitude video, we mentioned that at four
+
+9
+00:00:58,080 --> 00:01:04,560
+ hours for light force at least, that's where cyclic AMP levels are increased, and if we don't have
+
+10
+00:01:04,560 --> 00:01:10,080
+ four hours duration of force, well, we're kind of short-circuiting the system, and we're not getting
+
+11
+00:01:10,080 --> 00:01:16,560
+ those cyclic AMP levels increased, we're not getting cell differentiation for osteoblasts and osteoclasts,
+
+12
+00:01:16,560 --> 00:01:24,400
+ and we're not getting bone resorption in the areas where we need it. Now, if we have force
+
+13
+00:01:24,400 --> 00:01:31,360
+ applying over a certain amount of time, the magnitude of the force typically isn't the same.
+
+14
+00:01:31,360 --> 00:01:43,200
+ Ideally, if we could, that force over time would be steady and unchanging. Now, this is
+
+15
+00:01:43,200 --> 00:01:48,880
+ kind of the case for a super elastic nickel titanium wire that can
+
+16
+00:01:49,600 --> 00:01:55,280
+ phase change and maintain the same consistent force over time and distance, but in this case,
+
+17
+00:01:55,280 --> 00:02:00,240
+ we're kind of talking, let's talk about the standard, you know, stainless steel wire or whatever.
+
+18
+00:02:00,240 --> 00:02:08,400
+ Over time, force is going to tend to decrease because teeth are moving and the wires getting
+
+19
+00:02:08,400 --> 00:02:16,000
+ weaker over time or whatever, the force is decaying for whatever reason. And the closest we can get
+
+20
+00:02:16,000 --> 00:02:22,640
+ to continuous, which is in quotes because it's not perfectly the same level, is getting some
+
+21
+00:02:22,640 --> 00:02:29,280
+ amount of decay and then reactivating it with, you know, tying in a new wire that's bent differently,
+
+22
+00:02:29,280 --> 00:02:35,040
+ and then that starts to decay and then we reactivate and, you know, four to six weeks, we reactivate,
+
+23
+00:02:35,040 --> 00:02:40,160
+ etc. So that's kind of the continuous model for force over time.
+
+24
+00:02:42,640 --> 00:02:50,800
+ For interrupted, that's where we dropped to zero before activating again. So we start somewhere
+
+25
+00:02:50,800 --> 00:02:56,320
+ and then instead of replacing it where we would have with continuous, we let it go down to zero,
+
+26
+00:02:56,320 --> 00:03:01,600
+ then there's no force at all. The wire is completely passive. And then sometime later, we
+
+27
+00:03:01,600 --> 00:03:09,200
+ reactivate, put a new wire in and then let it die out. So that's interrupted, which may seem like
+
+28
+00:03:09,200 --> 00:03:16,400
+ it's less useful than continuous, but there are reasons to have both. And then intermittent is
+
+29
+00:03:16,400 --> 00:03:24,960
+ for patient activated removables. So that's, you know, if you have to wear some sort of appliance
+
+30
+00:03:24,960 --> 00:03:29,200
+ and you take it out when you eat and then put it back in, or you take it out to brush your teeth
+
+31
+00:03:29,200 --> 00:03:34,400
+ and then put it back in, that's basically what's happened. So it's kind of like continuous they're
+
+32
+00:03:34,400 --> 00:03:40,480
+ interrupted, but we're losing force for the time where the appliance is out and then it bounces back
+
+33
+00:03:40,480 --> 00:03:45,680
+ to, you know, where it would have been. And then here, it's just like a reactivation,
+
+34
+00:03:45,680 --> 00:03:53,520
+ putting in a new appliance or strengthening the old one. So that's really just for removables.
+
+35
+00:03:53,520 --> 00:04:00,640
+ But continuous and interrupted, I just want to mention briefly that continuous is best for
+
+36
+00:04:02,640 --> 00:04:09,280
+ something that applies light force as close to continuous as we can get is ideal. However,
+
+37
+00:04:09,280 --> 00:04:16,640
+ we do not want this continuous force model for a heavy force. If it's a heavy continuous force,
+
+38
+00:04:16,640 --> 00:04:23,040
+ then we have a problem because the PDL doesn't have time to repair between the undermining
+
+39
+00:04:23,040 --> 00:04:29,920
+ resorption if we're thinking back to the first talk on magnitude. So if the PDL doesn't have time
+
+40
+00:04:29,920 --> 00:04:35,520
+ to repair, it's going to undergo damage, it's going to be injured, you're going to get unnecessary
+
+41
+00:04:35,520 --> 00:04:41,840
+ pain. So this is a problem for heavy force. What we want for heavy force is actually interrupted.
+
+42
+00:04:41,840 --> 00:04:48,560
+ We want the force to decay after undermining resorption. So we want really one period of
+
+43
+00:04:48,560 --> 00:04:55,360
+ undermining resorption and then decay to zero, stop. And then let the PDL repair itself,
+
+44
+00:04:55,360 --> 00:05:01,040
+ then have the patient come back and then reactivate and then let it die out, then
+
+45
+00:05:01,040 --> 00:05:05,600
+ undermining resorption already happened, let it repair and then reactivate. So this is like
+
+46
+00:05:05,600 --> 00:05:12,000
+ from where I'm starting here, the mouse to about here would be like four weeks, two weeks to
+
+47
+00:05:12,000 --> 00:05:19,600
+ resort, two weeks to repair, and then have the patient come back after that. Yeah, and I think
+
+48
+00:05:19,600 --> 00:05:26,560
+ that's about it. So we talked about magnitude, type of movement and duration, and these three
+
+49
+00:05:26,560 --> 00:05:34,080
+ components contribute to how much force a tooth is experiencing, how much force a PDL is experiencing,
+
+50
+00:05:34,080 --> 00:05:41,200
+ and as such, how much a tooth is going to move in its socket. So I'm going to talk next about
+
+51
+00:05:41,200 --> 00:05:50,640
+ mechanics, how wires and things work, and apply these kind of forces to the tooth so we can link
+
+52
+00:05:50,640 --> 00:05:58,080
+ these two concepts together. Thanks for watching guys, and I'll see you in the next video.
+

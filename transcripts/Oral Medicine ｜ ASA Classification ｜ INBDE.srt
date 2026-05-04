@@ -1,0 +1,468 @@
+1
+00:00:00,000 --> 00:00:11,760
+ Hey everyone, Ryan here, and welcome back to our oral medicine series. This video will
+
+2
+00:00:11,760 --> 00:00:17,380
+ be a brief overview of the ASA classification system, which is asked about on the board
+
+3
+00:00:17,380 --> 00:00:19,880
+ exam.
+
+4
+00:00:19,880 --> 00:00:26,120
+ So the American Society of Anesthesiologists, the ASA physical status classification system,
+
+5
+00:00:26,120 --> 00:00:31,840
+ has been used for well over 60 years now, and the intended purpose of this system was
+
+6
+00:00:31,840 --> 00:00:39,200
+ to determine a patient's medical comorbidities before receiving general anesthesia.
+
+7
+00:00:39,200 --> 00:00:46,040
+ So it ranked people from physical status 1 to 6, and the higher you are, the more at
+
+8
+00:00:46,040 --> 00:00:52,960
+ risk you are of having some adverse medical events during general anesthesia, so it enabled
+
+9
+00:00:52,960 --> 00:00:59,240
+ better communication among anesthesiologists. But it can also be applied more broadly to
+
+10
+00:00:59,240 --> 00:01:04,960
+ just get an overall idea of someone's health status and medical risk based on their medical
+
+11
+00:01:04,960 --> 00:01:07,200
+ history.
+
+12
+00:01:07,200 --> 00:01:12,560
+ So let's go through this chart one row at a time, and we start with ASA 1, which is
+
+13
+00:01:12,560 --> 00:01:19,880
+ a normal, healthy patient. So this would be someone who is not a smoker, they have no
+
+14
+00:01:19,880 --> 00:01:26,280
+ or minimal alcohol use, and also none of these other things that we're going to mention
+
+15
+00:01:26,280 --> 00:01:32,200
+ must apply to this patient. So they're perfectly healthy, and I will say this is actually fairly
+
+16
+00:01:32,200 --> 00:01:38,280
+ rare. It's pretty rare to find somebody who falls perfectly in this ASA 1 category. For
+
+17
+00:01:38,280 --> 00:01:44,480
+ this kind of patient, no special precautions are needed for dental treatment.
+
+18
+00:01:44,480 --> 00:01:50,480
+ Then we go to ASA 2, which is probably the most common of all these rows. This is a patient
+
+19
+00:01:50,480 --> 00:01:56,960
+ with mild systemic disease, and they only have to have one of these things. It doesn't
+
+20
+00:01:56,960 --> 00:02:03,840
+ mean they have all of these, only one of them would automatically put them in ASA 2. So
+
+21
+00:02:03,840 --> 00:02:09,360
+ this could be that they're a current smoker. Pregnancy also puts someone in this category,
+
+22
+00:02:09,360 --> 00:02:16,640
+ a well-controlled hypertension, well-controlled diabetes, which means your HBA1C is less than
+
+23
+00:02:16,640 --> 00:02:25,200
+ 7% for a current diabetic, their social alcohol drinker, obesity, well-controlled epilepsy,
+
+24
+00:02:25,200 --> 00:02:33,120
+ asthma, or thyroid dysfunction. So these are all conditions that impose little to no functional
+
+25
+00:02:33,120 --> 00:02:40,320
+ limitations on the patient. So elective dental care is okay, but you might consider some minor
+
+26
+00:02:40,320 --> 00:02:48,160
+ treatment modifications. Then we go to ASA 3, which is for a patient with severe systemic disease
+
+27
+00:02:48,160 --> 00:02:55,920
+ that limits activity but is not incapacitating. So this could be stable angina pectoris, which is
+
+28
+00:02:56,560 --> 00:03:05,120
+ chest pain only with a stimulus, like physical activity. A past history of more than three months
+
+29
+00:03:05,120 --> 00:03:13,680
+ ago of a heart attack, stroke, or transient ischemic attack. Exercise-induced asthma could
+
+30
+00:03:13,680 --> 00:03:20,240
+ also fall in here, so a specific type of asthma, an end-stage renal disease where the patient is
+
+31
+00:03:20,240 --> 00:03:28,800
+ currently undergoing dialysis treatment, alcohol abuse or dependence, morbid obesity, chronic
+
+32
+00:03:28,800 --> 00:03:35,760
+ obstructive pulmonary disease, poorly controlled hypertension, poorly controlled diabetes,
+
+33
+00:03:35,760 --> 00:03:44,400
+ HBA1C is greater than 7%, poorly controlled epilepsy, and/or symptomatic thyroid dysfunction.
+
+34
+00:03:45,360 --> 00:03:53,040
+ So if the last category was all about well-controlled diseases, this category is all about poorly
+
+35
+00:03:53,040 --> 00:04:01,200
+ controlled diseases. So for these patients, elective care is generally okay, but there needs to be a
+
+36
+00:04:01,200 --> 00:04:06,720
+ serious consideration of treatment modification. And you can reference some of the things we talked
+
+37
+00:04:06,720 --> 00:04:14,560
+ about in the last few videos on what you might do for a patient at a certain hypertension,
+
+38
+00:04:14,560 --> 00:04:21,840
+ blood pressure reading, or blood sugar reading. All right, now we get a little bit more serious.
+
+39
+00:04:21,840 --> 00:04:31,280
+ So for ASA4, that's a patient with an incapacitating systemic disease that's a constant threat to life.
+
+40
+00:04:31,280 --> 00:04:38,080
+ This could be unstable angina pectoris, so spontaneous chest pain with or without a stimulus.
+
+41
+00:04:38,960 --> 00:04:46,720
+ A recent of less than three months ago, heart attack, myocardial infarction, stroke, or transient
+
+42
+00:04:46,720 --> 00:04:53,120
+ ischemic attack, end-stage renal disease where the patient's not undergoing dialysis treatment,
+
+43
+00:04:53,120 --> 00:05:00,960
+ uncontrolled epilepsy or seizures, and septic shock. I would also put something like symptomatic
+
+44
+00:05:01,600 --> 00:05:08,880
+ hypertensive emergency in here as well. Elective care for these patients is contraindicated,
+
+45
+00:05:08,880 --> 00:05:16,000
+ and as for urgent and emergency care, we want to stick to noninvasive treatment if possible,
+
+46
+00:05:16,000 --> 00:05:24,880
+ so for example medications, or invasive treatment in a controlled likely hospital environment.
+
+47
+00:05:24,880 --> 00:05:31,440
+ Then we go down to ASA5, which is even more serious. This would be a more abundant patient
+
+48
+00:05:31,440 --> 00:05:39,280
+ not expected to survive the next 24 hours without a surgery or operation. So this would be end-stage
+
+49
+00:05:39,280 --> 00:05:46,880
+ cancer, end-stage infectious disease, end-stage cardiovascular disease, end-stage hepatic dysfunction,
+
+50
+00:05:46,880 --> 00:05:54,560
+ or a massive life-threatening trauma. Only palliative care beyond the necessary surgery
+
+51
+00:05:54,560 --> 00:05:59,840
+ is advised. And then just for a complete nessake is a declared brain-dead patient,
+
+52
+00:05:59,840 --> 00:06:05,840
+ whose organs are being removed for donor purposes. This is an ASA6. You won't be getting a patient
+
+53
+00:06:05,840 --> 00:06:16,320
+ case down here. Likely most of them will either be ASA2 or 3. So speaking of which, I have a couple
+
+54
+00:06:16,320 --> 00:06:21,840
+ of example cases that we can work through together just to test your knowledge and go over what we
+
+55
+00:06:21,840 --> 00:06:29,040
+ reviewed in the previous chart. So for all of these questions, we'll be asking what ASA classification
+
+56
+00:06:29,040 --> 00:06:33,920
+ best describes this patient, which could absolutely be something that you're asked on the board exam.
+
+57
+00:06:33,920 --> 00:06:39,280
+ So for this kind of question, if you're somebody who reads the question first and then looks at
+
+58
+00:06:39,280 --> 00:06:45,520
+ the patient box, you really don't care about much of this information up here. We don't really care
+
+59
+00:06:45,520 --> 00:06:51,040
+ about their chief complaint. We're really focusing in on the medical history and maybe some of the
+
+60
+00:06:51,040 --> 00:06:58,240
+ current findings if they include vital signs or blood sugar or things like that. So what we see
+
+61
+00:06:58,240 --> 00:07:03,440
+ is that they have hypertension. And if we sneak down here at the medications, we notice they're
+
+62
+00:07:03,440 --> 00:07:10,400
+ taking two medications that are actually used to control hypertension. So remember, hypertension
+
+63
+00:07:10,400 --> 00:07:19,360
+ is ASA2. If it's well controlled, it's ASA3. If it's poorly controlled. And here's another
+
+64
+00:07:19,360 --> 00:07:26,800
+ gray area. What exactly is poorly controlled hypertension? Now some sources will say it's
+
+65
+00:07:26,800 --> 00:07:34,000
+ anything greater than 180 over 110. Some sources will say it's anything over 120 over 80. In my
+
+66
+00:07:34,000 --> 00:07:39,600
+ hypertension video, we talked about all the official AHA categories. And at what readings,
+
+67
+00:07:39,600 --> 00:07:45,920
+ I tend to implement certain treatment modifications like stress management and slow chair movements.
+
+68
+00:07:45,920 --> 00:07:52,320
+ But I was careful not to define well and poorly controlled for this reason because it is a bit
+
+69
+00:07:52,320 --> 00:07:59,120
+ of a gray area. But now that we've gotten to the ASA video, I want you to have a number in your head
+
+70
+00:07:59,120 --> 00:08:07,200
+ for these vital sign readings. So for poorly controlled, I would go with anything that's 140
+
+71
+00:08:07,200 --> 00:08:15,040
+ over 90 or above. That's going to be your threshold for what is poorly controlled.
+
+72
+00:08:15,840 --> 00:08:23,520
+ So basically stage two hypertension. So we see that this patient has an elevated blood pressure.
+
+73
+00:08:23,520 --> 00:08:30,320
+ We are in stage two hypertension, even with some blood pressure medications. So I would say this
+
+74
+00:08:30,320 --> 00:08:38,240
+ is pretty safely a poorly controlled situation. Elevated blood pressure in stage two, even with
+
+75
+00:08:38,240 --> 00:08:48,400
+ two medications. So this would point them towards an ASA three. The obesity is an ASA two. If the
+
+76
+00:08:48,400 --> 00:08:56,240
+ BMI is greater than or equal to 30, it's ASA three. If morbid obesity or the BMI is the body mass
+
+77
+00:08:56,240 --> 00:09:02,480
+ index is greater than or equal to 40. So this would point them towards an ASA two. But we already
+
+78
+00:09:02,480 --> 00:09:07,920
+ have an ASA three. So that one's kind of ruled out. We're always going to pick the thing that puts
+
+79
+00:09:07,920 --> 00:09:15,760
+ you at the highest category. Then they also have end stage renal disease. So this is an ASA three.
+
+80
+00:09:15,760 --> 00:09:21,760
+ If they're under dialysis and ASA four, if there is no dialysis, well, they mentioned that they're
+
+81
+00:09:21,760 --> 00:09:27,120
+ doing it three times a week, which is pretty standard. So this would also be an ASA three.
+
+82
+00:09:28,480 --> 00:09:34,480
+ So again, if you have multiple factors from different ASA levels, you always go with the highest one.
+
+83
+00:09:34,480 --> 00:09:42,240
+ So the answer here would be ASA three. Let's do another one. So we have a patient here.
+
+84
+00:09:42,240 --> 00:09:49,360
+ We have a paramedic who is bringing this patient in. They were the victim of an MVA and they're
+
+85
+00:09:49,360 --> 00:09:55,680
+ triaging them for immediate surgery. So you're probably in some hospital environment. For their
+
+86
+00:09:55,680 --> 00:10:01,840
+ background, they have a zygomatic omaxillary complex fracture, a ruptured abdominal aortic
+
+87
+00:10:01,840 --> 00:10:08,000
+ aneurysm, multi organ dysfunction. And we don't know their medications haven't been able to find
+
+88
+00:10:08,000 --> 00:10:18,480
+ any current findings yet. So this patient needs immediate surgery to survive. And this is a pretty
+
+89
+00:10:18,480 --> 00:10:26,480
+ unlikely case, unless again, you're in an emergency room, you're in a hospital setting. But because of
+
+90
+00:10:26,480 --> 00:10:33,360
+ the multi organ dysfunction, the massive life threatening trauma, this would be an ASA five,
+
+91
+00:10:33,360 --> 00:10:39,520
+ a more abundant patient not expected to survive the next 24 hours without some immediate intervention.
+
+92
+00:10:39,520 --> 00:10:46,560
+ All right, how about this one? So we have a patient 24 years old here for a cleaning.
+
+93
+00:10:47,120 --> 00:10:52,080
+ And let's go to their medical history. They have type two diabetes. This will be
+
+94
+00:10:52,080 --> 00:10:59,760
+ either two or three for the ASA category, depending on how well controlled it is.
+
+95
+00:10:59,760 --> 00:11:05,200
+ So how do we find that out? Well, we can see they're taking some medication. Glipizide,
+
+96
+00:11:05,200 --> 00:11:12,640
+ that's for type two diabetes. And their blood glucose today is 110 milligrams per deciliter.
+
+97
+00:11:13,520 --> 00:11:20,960
+ And this is a, as far as we can tell, a random glucose reading. So that means we assume it is
+
+98
+00:11:20,960 --> 00:11:26,800
+ not under fasting conditions. We assume that they ate something within the last eight hours. So
+
+99
+00:11:26,800 --> 00:11:35,360
+ anything under 140 milligrams per deciliter is acceptable. So that's pretty good. And HBA1C less
+
+100
+00:11:35,360 --> 00:11:43,920
+ than 7% is considered well controlled for a diabetic. Remember, this is measuring the percent of hemoglobin
+
+101
+00:11:43,920 --> 00:11:51,200
+ that is glycosylated in that blood sample. So anything less than 7% well controlled. So
+
+102
+00:11:51,200 --> 00:11:58,320
+ these are looking pretty good. So we would go with an ASA2 for this patient as far as their
+
+103
+00:11:58,320 --> 00:12:06,080
+ diabetes status. So they smoke cigarettes and they drink socially. Both of those point towards an
+
+104
+00:12:06,080 --> 00:12:16,320
+ ASA2 as well. Now her blood pressure is 123 over 65. There's no mention of hypertension in the
+
+105
+00:12:16,320 --> 00:12:25,200
+ medical history. It is considered elevated in our AHA categories, but it's not over that threshold
+
+106
+00:12:25,200 --> 00:12:31,200
+ of 140 over 90. So I wouldn't consider this poorly controlled. This is just maybe an anxious
+
+107
+00:12:31,200 --> 00:12:38,480
+ patient. There's no hypertension to be concerned about for this patient. So they're at two and two.
+
+108
+00:12:38,480 --> 00:12:45,920
+ So we're going to say they are an ASA classification two patient. So those are some examples. You'll
+
+109
+00:12:45,920 --> 00:12:52,480
+ probably see ASA2 and three most commonly. You might see a four and on a very rare occasion you
+
+110
+00:12:52,480 --> 00:12:58,560
+ might see a five. But that is what you're looking for in terms of analyzing a patient's medical
+
+111
+00:12:58,560 --> 00:13:05,440
+ history and their vital signs or blood glucose or HBA1C. And now you know what all those mean thanks
+
+112
+00:13:05,440 --> 00:13:12,000
+ to the last couple videos. Alright, so that's it for this video. Thank you so much for watching
+
+113
+00:13:12,000 --> 00:13:17,600
+ everyone. Please give this video a like if you enjoyed it and subscribe to the channel for much
+
+114
+00:13:17,600 --> 00:13:23,120
+ more on dentistry. If you'd like to support me, please check out my Patreon page. And thank you
+
+115
+00:13:23,120 --> 00:13:28,720
+ to all of my patrons here for all their support. You can unlock access to my video slides to take
+
+116
+00:13:28,720 --> 00:13:33,600
+ notes on and practice questions for the board exams. So go check that out. The link will be in
+
+117
+00:13:33,600 --> 00:13:39,200
+ the description below. Thanks again for watching everyone. I'll see you in the next video.
+

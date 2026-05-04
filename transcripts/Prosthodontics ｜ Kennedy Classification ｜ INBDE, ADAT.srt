@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:07,520
+ Hey everyone, this is Ryan here and welcome back to our prosthodontic series.
+
+2
+00:00:07,520 --> 00:00:11,040
+ And now we're going to start to talk about partial dentures.
+
+3
+00:00:11,040 --> 00:00:15,920
+ And the things we talked about with complete dentures like essentialist anatomy, vertical
+
+4
+00:00:15,920 --> 00:00:22,400
+ dimension of occlusion, support, stability, retention, all those things still matter here.
+
+5
+00:00:22,400 --> 00:00:26,280
+ But now we'll talk about things exclusive to partial dentures.
+
+6
+00:00:26,280 --> 00:00:31,560
+ And the big difference with partials is that the patient still has some of their teeth.
+
+7
+00:00:31,560 --> 00:00:37,600
+ And depending on what teeth they have, they're given a specific Kennedy classification.
+
+8
+00:00:37,600 --> 00:00:41,600
+ And that's what we'll focus on in this video.
+
+9
+00:00:41,600 --> 00:00:47,640
+ So again, different people are missing different teeth, and the Kennedy classification system
+
+10
+00:00:47,640 --> 00:00:54,360
+ seeks to group certain patterns of essentialism into these different classes.
+
+11
+00:00:54,360 --> 00:00:59,280
+ So Kennedy Class 1 is a bilateral distal extension.
+
+12
+00:00:59,280 --> 00:01:06,720
+ And a distal extension means that all the teeth distal to a tooth are missing.
+
+13
+00:01:06,720 --> 00:01:11,960
+ So bilateral, meaning that there's a distal extension on both the patient's right side
+
+14
+00:01:11,960 --> 00:01:14,320
+ and their left side.
+
+15
+00:01:14,320 --> 00:01:18,800
+ So this would be an example of Kennedy Class 1, where the patient is missing all of their
+
+16
+00:01:18,800 --> 00:01:26,160
+ teeth distal to both first premolars in this case.
+
+17
+00:01:26,160 --> 00:01:30,480
+ Kennedy Class 2 is a unilateral distal extension.
+
+18
+00:01:30,480 --> 00:01:37,000
+ So only for this patient, they have a distal extension on their right side.
+
+19
+00:01:37,000 --> 00:01:44,160
+ So how I like to remember this is Class 1 has two distal extensions, whereas Class 2 has
+
+20
+00:01:44,160 --> 00:01:48,840
+ only one distal extension.
+
+21
+00:01:48,840 --> 00:01:53,520
+ Class 3 is a unilateral bounded-adentialist space.
+
+22
+00:01:53,520 --> 00:01:59,480
+ And a bounded-adentialist space is a space of missing teeth that has teeth on either side
+
+23
+00:01:59,480 --> 00:02:00,480
+ of it.
+
+24
+00:02:00,480 --> 00:02:07,360
+ In other words, a bounded-adentialist space, an-adentialist space that's bounded on both
+
+25
+00:02:07,360 --> 00:02:10,720
+ sides.
+
+26
+00:02:10,720 --> 00:02:16,760
+ And lastly, we have Class 4, which is a bilateral bounded-adentialist space.
+
+27
+00:02:16,760 --> 00:02:21,240
+ And bilateral, in this case, doesn't mean it happens on both sides of the mouth.
+
+28
+00:02:21,240 --> 00:02:27,520
+ It means that the-adentialist space crosses the midline, like in this picture.
+
+29
+00:02:27,520 --> 00:02:33,240
+ So those are our four classes, but there are some additional rules we need to keep in mind
+
+30
+00:02:33,240 --> 00:02:36,640
+ to help us with classification.
+
+31
+00:02:36,640 --> 00:02:39,920
+ And these are called Applegate's Rules.
+
+32
+00:02:39,920 --> 00:02:44,920
+ And the first one kind of goes without saying, and it's that the classification should be
+
+33
+00:02:44,920 --> 00:02:48,480
+ assigned after any extractions.
+
+34
+00:02:48,480 --> 00:02:52,920
+ So in other words, you wouldn't classify a patient until after they got all the necessary
+
+35
+00:02:52,920 --> 00:02:56,560
+ extractions of teeth that they needed.
+
+36
+00:02:56,560 --> 00:03:02,480
+ Teeth that have a hopeless periodontal prognosis, or teeth with a non-restorable condition, these
+
+37
+00:03:02,480 --> 00:03:07,200
+ are not teeth you're going to include in their Kennedy classification, because in the treatment
+
+38
+00:03:07,200 --> 00:03:12,240
+ plan, they're going to be removed eventually.
+
+39
+00:03:12,240 --> 00:03:17,240
+ Rule number two is that missing third molars are not considered.
+
+40
+00:03:17,240 --> 00:03:23,000
+ So if the patient is missing their upper third molars on both sides, we wouldn't call this
+
+41
+00:03:23,000 --> 00:03:30,920
+ Kennedy Class 1, because those would not be considered distal extensions.
+
+42
+00:03:30,920 --> 00:03:35,720
+ And rule number three, abutment third molars are considered.
+
+43
+00:03:35,720 --> 00:03:42,360
+ So third molars, like this one, that are present and would need to be used as an abutment tooth
+
+44
+00:03:42,360 --> 00:03:48,360
+ to help support the partial denture, well this one is considered as a tooth bounding
+
+45
+00:03:48,360 --> 00:03:50,560
+ this essentialist space.
+
+46
+00:03:50,560 --> 00:03:56,520
+ So in other words, let's remember that missing third molars do not count against the patient,
+
+47
+00:03:56,520 --> 00:04:05,560
+ whereas present third molars do count as an abutment tooth towards the classification.
+
+48
+00:04:05,560 --> 00:04:11,840
+ Alright and now rule number four is that missing second molars are not considered.
+
+49
+00:04:11,840 --> 00:04:17,440
+ And more accurately, this rule says if a second molar is missing, and is not planned to be
+
+50
+00:04:17,440 --> 00:04:23,080
+ replaced by the partial denture, in other words that tooth is not going to be included
+
+51
+00:04:23,080 --> 00:04:28,360
+ as a denture tooth in the partial design, then it's not considered as part of a distal
+
+52
+00:04:28,360 --> 00:04:32,280
+ extension, same as for the third molars.
+
+53
+00:04:32,280 --> 00:04:37,160
+ So say the third molars and the second molars are missing, and the partial will be designed
+
+54
+00:04:37,160 --> 00:04:40,640
+ only as far back as the first molars.
+
+55
+00:04:40,640 --> 00:04:45,520
+ Then we don't care about the second molars, and we're not calling a missing second molar
+
+56
+00:04:45,520 --> 00:04:48,520
+ a distal extension.
+
+57
+00:04:48,520 --> 00:04:53,160
+ So at this point you may be thinking, well Ryan, what if there's a distal extension and
+
+58
+00:04:53,160 --> 00:04:55,320
+ abounded a denture tooth space?
+
+59
+00:04:55,320 --> 00:04:59,480
+ Well this next rule is probably the most important one of all of them.
+
+60
+00:04:59,480 --> 00:05:08,680
+ And that's the most posterior edentulous area determines the classification.
+
+61
+00:05:08,680 --> 00:05:14,880
+ Now the most posterior edentulous area determines the classification, while other edentulous
+
+62
+00:05:14,880 --> 00:05:19,640
+ areas are referred to as modifications.
+
+63
+00:05:19,640 --> 00:05:27,960
+ So in this example, we have two distal extensions and one bounded edentulous space.
+
+64
+00:05:27,960 --> 00:05:35,960
+ Now according to rule number five, the distal extensions are tied for being the most posterior.
+
+65
+00:05:35,960 --> 00:05:41,320
+ And distal extensions by definition are always going to be the most posterior edentulous
+
+66
+00:05:41,320 --> 00:05:45,840
+ area because they're no teeth distal to them.
+
+67
+00:05:45,840 --> 00:05:52,360
+ Now this is convenient because we have a classification for bilateral distal extension, and that's
+
+68
+00:05:52,360 --> 00:05:54,800
+ Kennedy class one.
+
+69
+00:05:54,800 --> 00:05:59,360
+ Well, but what do we do with this other edentulous area?
+
+70
+00:05:59,360 --> 00:06:04,800
+ Well it's a modification, and how do we classify modifications?
+
+71
+00:06:04,800 --> 00:06:09,600
+ Well it's nice and simple, thankfully, it's just by how many there are.
+
+72
+00:06:09,600 --> 00:06:15,880
+ So if this is Kennedy class one, and there's only one modification, we're going to call
+
+73
+00:06:15,880 --> 00:06:20,680
+ it Kennedy class one, modification one.
+
+74
+00:06:20,680 --> 00:06:23,280
+ And that's it.
+
+75
+00:06:23,280 --> 00:06:27,760
+ And rule number seven is basically what we just said, that the extent of modification
+
+76
+00:06:27,760 --> 00:06:33,560
+ doesn't matter, doesn't matter how big it is, how many teeth are involved, only the amount
+
+77
+00:06:33,560 --> 00:06:40,400
+ of additional spaces in addition to what's needed to define the classification.
+
+78
+00:06:40,400 --> 00:06:45,200
+ And we'll go over a lot more practice later in this video so you can really get to practice
+
+79
+00:06:45,200 --> 00:06:47,480
+ these concepts.
+
+80
+00:06:47,480 --> 00:06:53,880
+ And we have one more rule left, rule number eight, is that class four cannot have any modifications
+
+81
+00:06:53,880 --> 00:06:56,360
+ by definition.
+
+82
+00:06:56,360 --> 00:07:02,040
+ And this is actually completely logical and reinforces all the previous rules.
+
+83
+00:07:02,040 --> 00:07:10,520
+ A class four bilateral bounded edentulous space will always be by definition more anterior
+
+84
+00:07:10,520 --> 00:07:16,360
+ than any other possible edentulous space that could determine a classification.
+
+85
+00:07:16,360 --> 00:07:21,880
+ There can't be an edentulous space that's more anterior than something that crosses the
+
+86
+00:07:21,880 --> 00:07:24,040
+ midline.
+
+87
+00:07:24,040 --> 00:07:31,120
+ So class one, class two and class three will always triumph over a class four, so you can
+
+88
+00:07:31,120 --> 00:07:36,000
+ never have a class four with any modifications.
+
+89
+00:07:36,000 --> 00:07:43,480
+ Alright so we covered all four classes and all eight rules, now it's time for some practice.
+
+90
+00:07:43,480 --> 00:07:48,940
+ So go ahead and pause the video and then we'll go over the Kennedy classification for this
+
+91
+00:07:48,940 --> 00:07:53,840
+ edentulous arch together.
+
+92
+00:07:53,840 --> 00:07:59,120
+ Alright so this is a picture of a partially edentulous upper arch.
+
+93
+00:07:59,120 --> 00:08:04,280
+ And the first thing we're going to consider is rule number three, which is that the abutment
+
+94
+00:08:04,280 --> 00:08:08,840
+ third molars are considered as part of the classification.
+
+95
+00:08:08,840 --> 00:08:13,400
+ And just as a side note, you don't have to remember what number rule corresponds to what
+
+96
+00:08:13,400 --> 00:08:19,560
+ rule, just so you can get an idea of what they all mean when working together.
+
+97
+00:08:19,560 --> 00:08:24,560
+ So the abutment third molars are going to be considered, which makes these two spaces
+
+98
+00:08:24,560 --> 00:08:27,960
+ bounded edentulous spaces.
+
+99
+00:08:27,960 --> 00:08:34,400
+ Now they're also both equally posterior, they both involve a missing second molar as
+
+100
+00:08:34,400 --> 00:08:42,440
+ their most posterior spot, and note here that the missing second molars do count because
+
+101
+00:08:42,440 --> 00:08:45,440
+ we have these third molar abutments.
+
+102
+00:08:45,440 --> 00:08:53,420
+ So by rule number five, this would be considered a Kennedy class three, but according to rules
+
+103
+00:08:53,420 --> 00:09:00,160
+ number six and seven, if we count one of these as towards the class three, we need to count
+
+104
+00:09:00,160 --> 00:09:05,880
+ the other one as an additional extra space, which would make it a modification.
+
+105
+00:09:05,880 --> 00:09:12,840
+ So this one would be Kennedy class three, modification one.
+
+106
+00:09:12,840 --> 00:09:14,880
+ Alright let's try another one.
+
+107
+00:09:14,880 --> 00:09:21,920
+ Go ahead and pause the video, and then we'll talk about this together.
+
+108
+00:09:21,920 --> 00:09:27,640
+ Alright so this one is a partially edentulous lower arch, and otherwise it's pretty similar
+
+109
+00:09:27,640 --> 00:09:29,520
+ to the last one.
+
+110
+00:09:29,520 --> 00:09:36,160
+ You notice there are three bounded edentulous spaces this time, and two of them are tying
+
+111
+00:09:36,160 --> 00:09:42,240
+ for being most posterior, in this case involving a missing first molar as being the most posterior
+
+112
+00:09:42,240 --> 00:09:45,000
+ teeth.
+
+113
+00:09:45,000 --> 00:09:51,080
+ So since we have three bounded edentulous spaces, two of them tying for most posterior, we can
+
+114
+00:09:51,080 --> 00:09:56,560
+ count one of them being towards the Kennedy class three, and that leaves two additional
+
+115
+00:09:56,560 --> 00:10:06,820
+ ones left over, so that would make this a Kennedy class three, modification two.
+
+116
+00:10:06,820 --> 00:10:14,080
+ Alright so go ahead and pause the video, and then we'll go over this one together.
+
+117
+00:10:14,080 --> 00:10:21,600
+ Alright so this is a partially edentulous upper arch, and this one has a distal extension,
+
+118
+00:10:21,600 --> 00:10:27,680
+ which again will automatically win the battle of being most posterior by definition of distal
+
+119
+00:10:27,680 --> 00:10:30,040
+ extension.
+
+120
+00:10:30,040 --> 00:10:35,600
+ So this, in addition to this one, this would make it a Kennedy class two, remember class
+
+121
+00:10:35,600 --> 00:10:41,620
+ one has two distal extensions, class two has one, and now we're left with a couple bounded
+
+122
+00:10:41,620 --> 00:10:43,760
+ edentulous spaces.
+
+123
+00:10:43,760 --> 00:10:49,200
+ There's one here, and these might be a little bit hard to see, but there's actually a bounded
+
+124
+00:10:49,200 --> 00:10:52,800
+ edentulous space here, and here as well.
+
+125
+00:10:52,800 --> 00:10:58,320
+ And yes, even just one tooth missing makes it a bounded edentulous space.
+
+126
+00:10:58,320 --> 00:11:05,080
+ So in this instance, we have the distal extension going towards the classification, and three
+
+127
+00:11:05,080 --> 00:11:07,360
+ modifications left over.
+
+128
+00:11:07,360 --> 00:11:14,080
+ So this is going to be Kennedy class two, modification three.
+
+129
+00:11:14,080 --> 00:11:17,920
+ And we have one more practice problem, go ahead and pause the video, and then we'll talk
+
+130
+00:11:17,920 --> 00:11:21,720
+ about this.
+
+131
+00:11:21,720 --> 00:11:28,720
+ Alright so this one is again a partially edentulous upper arch, and we have a bilateral distal
+
+132
+00:11:28,720 --> 00:11:34,640
+ extension, which will automatically classify this as class one.
+
+133
+00:11:34,640 --> 00:11:40,640
+ Now you'll notice we have a bilateral bounded edentulous space, which if it occurred by
+
+134
+00:11:40,640 --> 00:11:47,040
+ itself, without this class one back here, this would be class four, but since we already
+
+135
+00:11:47,040 --> 00:11:54,200
+ have our class one, this whole thing becomes just one modification.
+
+136
+00:11:54,200 --> 00:12:00,100
+ So this may look like it's very complicated, but it actually turns out to be just a Kennedy
+
+137
+00:12:00,100 --> 00:12:04,000
+ class one, modification one.
+
+138
+00:12:04,000 --> 00:12:11,840
+ Alright, so that's it for this video, I hope it was helpful in learning how to apply the
+
+139
+00:12:11,840 --> 00:12:18,140
+ Kennedy classification in Applegate's rules to determining different patterns of edentulousism.
+
+140
+00:12:18,140 --> 00:12:21,200
+ Thanks so much for watching everyone, and we'll see you all in the next video.
+

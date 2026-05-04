@@ -1,0 +1,984 @@
+1
+00:00:00,000 --> 00:00:07,160
+ Hey everyone, this is Ryan here and welcome back to our oral surgery series.
+
+2
+00:00:07,160 --> 00:00:12,680
+ So far we've talked about indications and contraindications to tooth extraction, why
+
+3
+00:00:12,680 --> 00:00:17,440
+ we would need to perform extractions in the first place, then we talked about the various
+
+4
+00:00:17,440 --> 00:00:23,120
+ instruments utilized for tooth extraction, and now we can finally talk about the exciting
+
+5
+00:00:23,120 --> 00:00:26,840
+ topic of performing a tooth extraction.
+
+6
+00:00:26,840 --> 00:00:33,400
+ The preparatory steps involved and then the actual protocol for a routine tooth extraction.
+
+7
+00:00:33,400 --> 00:00:38,800
+ In the next video we'll talk about surgical extractions and the additional steps that
+
+8
+00:00:38,800 --> 00:00:45,120
+ come with more difficult and complicated procedures.
+
+9
+00:00:45,120 --> 00:00:50,720
+ So there's some preparatory steps we need to take before taking a tooth out, and this
+
+10
+00:00:50,720 --> 00:00:57,280
+ may seem silly, but we need to remove the entire correct tooth.
+
+11
+00:00:57,280 --> 00:01:03,040
+ Because there are serious potential consequences with taking out the wrong tooth and it does
+
+12
+00:01:03,040 --> 00:01:10,280
+ unfortunately happen, so confirm with yourself, with your progress notes, with the patient,
+
+13
+00:01:10,280 --> 00:01:15,480
+ and with your assistant to make sure that you're working on the correct tooth.
+
+14
+00:01:15,480 --> 00:01:20,000
+ Check the tooth condition, you want to see what you're working with.
+
+15
+00:01:20,000 --> 00:01:24,360
+ Are there deep carries where you'll likely crack the crown off?
+
+16
+00:01:24,360 --> 00:01:28,800
+ Is there an adjacent restoration or crown that we may potentially damage and need to
+
+17
+00:01:28,800 --> 00:01:30,400
+ be careful of?
+
+18
+00:01:30,400 --> 00:01:34,640
+ Is this a root tip that we will have to remove some bone in order to access?
+
+19
+00:01:34,640 --> 00:01:38,220
+ These are all questions that you should consider beforehand.
+
+20
+00:01:38,220 --> 00:01:46,160
+ Check the radiograph, radiographs are a must, you absolutely need to have a panoramic for
+
+21
+00:01:46,160 --> 00:01:51,880
+ third molars, and a PA for every tooth you're taking out.
+
+22
+00:01:51,880 --> 00:01:58,720
+ It must clearly show the root shape, the root apices, and the surrounding structures.
+
+23
+00:01:58,720 --> 00:02:05,280
+ You want to check the proximity of the inferior alveolar nerve in the mandibular and the proximity
+
+24
+00:02:05,280 --> 00:02:08,120
+ of the sinus for the maxillary teeth.
+
+25
+00:02:08,120 --> 00:02:14,360
+ And this is just because of those complications we talked about in the first video.
+
+26
+00:02:14,360 --> 00:02:19,560
+ We need informed consent, describe alternate treatment options to the patient, including
+
+27
+00:02:19,560 --> 00:02:25,600
+ no treatment, discuss the procedure in layman's terms so they know what to expect, and possible
+
+28
+00:02:25,600 --> 00:02:31,960
+ complications like swelling, bleeding, pain, infection, those sorts of things.
+
+29
+00:02:31,960 --> 00:02:37,080
+ The patient and provider should both be in comfortable positions.
+
+30
+00:02:37,080 --> 00:02:42,800
+ I find that having the patient's mouth at about elbow level is rather comfortable.
+
+31
+00:02:42,800 --> 00:02:49,060
+ A more upright chair position is best for lower teeth and a more reclined position is best
+
+32
+00:02:49,060 --> 00:02:51,040
+ for upper teeth.
+
+33
+00:02:51,040 --> 00:02:57,560
+ We need profound anesthesia, of course this is pretty obvious, but we need to make sure
+
+34
+00:02:57,560 --> 00:02:59,720
+ that the patient's comfortable.
+
+35
+00:02:59,720 --> 00:03:08,840
+ Blocks are preferred where we can use those in addition to local injections and even PDL
+
+36
+00:03:08,840 --> 00:03:14,520
+ injections as well, and palatal injections are needed for the palate if you're working
+
+37
+00:03:14,520 --> 00:03:22,200
+ on a maxillary tooth in order to get that palatal, soft and hard tissue profoundly numb.
+
+38
+00:03:22,200 --> 00:03:29,840
+ And lastly, we should use a throat screen, usually a 4x4 piece of sterile gauze is placed
+
+39
+00:03:29,840 --> 00:03:35,120
+ in the patient's mouth to block anything from falling down into their throat like an extracted
+
+40
+00:03:35,120 --> 00:03:40,560
+ tooth, and many clinicians consider this a mandatory step for all cases.
+
+41
+00:03:40,560 --> 00:03:46,480
+ All right, so those are the basic preparatory steps for an extraction.
+
+42
+00:03:46,480 --> 00:03:53,240
+ Let's talk about the differences briefly between a simple and a surgical extraction.
+
+43
+00:03:53,240 --> 00:03:59,240
+ So as far as coding for procedures, there is a distinct difference between simple and
+
+44
+00:03:59,240 --> 00:04:01,240
+ surgical extraction.
+
+45
+00:04:01,240 --> 00:04:07,920
+ Simple extractions usually, no incisions are needed, and hence no sutures are needed.
+
+46
+00:04:07,920 --> 00:04:14,360
+ While surgical extractions typically involve a surgical access via elevating a mucoperiosteal
+
+47
+00:04:14,360 --> 00:04:20,240
+ flap, and for flaps, the same rules apply that we talked about in the periodontics videos,
+
+48
+00:04:20,240 --> 00:04:26,000
+ a wide base to maintain vasculature, cut to the line angles of teeth, make the flap sufficiently
+
+49
+00:04:26,000 --> 00:04:31,920
+ large so you can get good access and visibility, and we'll talk about those in detail in the
+
+50
+00:04:31,920 --> 00:04:34,040
+ next video.
+
+51
+00:04:34,040 --> 00:04:38,360
+ A surgical handpiece to remove bone or section the tooth.
+
+52
+00:04:38,360 --> 00:04:43,680
+ Now as soon as I pick up a surgical handpiece, it becomes a surgical extraction.
+
+53
+00:04:43,680 --> 00:04:52,320
+ So that's really the limiting step in determining when we get to a surgical extraction point.
+
+54
+00:04:52,320 --> 00:04:58,600
+ A suture is usually needed since we had to open up a flap for surgical visibility and
+
+55
+00:04:58,600 --> 00:05:00,040
+ access.
+
+56
+00:05:00,040 --> 00:05:04,680
+ So again, we'll talk about all these things in much more detail in the next video.
+
+57
+00:05:04,680 --> 00:05:10,720
+ Let's focus on simple, uncomplicated extractions in this video.
+
+58
+00:05:10,720 --> 00:05:17,320
+ So the first step is to sever the soft tissue attachment.
+
+59
+00:05:17,320 --> 00:05:24,280
+ We want to loosen the gingival fibers and the periodontal ligament fibers attached to
+
+60
+00:05:24,280 --> 00:05:26,680
+ the tooth.
+
+61
+00:05:26,680 --> 00:05:29,560
+ So here we see a periosteal elevator.
+
+62
+00:05:29,560 --> 00:05:33,920
+ We talked about this in the last video on instrumentation.
+
+63
+00:05:33,920 --> 00:05:40,280
+ This would typically be a Woodson or a number nine malt periosteal elevator.
+
+64
+00:05:40,280 --> 00:05:45,960
+ And so when we're doing this first step, it confirms good anesthesia.
+
+65
+00:05:45,960 --> 00:05:49,080
+ It tells you if the patient is profoundly numb.
+
+66
+00:05:49,080 --> 00:05:54,640
+ They shouldn't feel anything sharp, but they will feel pressure and pushing.
+
+67
+00:05:54,640 --> 00:05:59,680
+ And make sure that the patient understands this before starting.
+
+68
+00:05:59,680 --> 00:06:05,440
+ By placing the periosteal elevator and pushing and severing that soft tissue attachment
+
+69
+00:06:05,440 --> 00:06:11,760
+ 360 degrees around the tooth, it allows for apical placement of the forceps.
+
+70
+00:06:11,760 --> 00:06:19,020
+ By severing those fibers and freeing up access to tooth structure, ideally apical to the
+
+71
+00:06:19,020 --> 00:06:21,120
+ CEJ.
+
+72
+00:06:21,120 --> 00:06:26,960
+ Certainly apical to the clinical crown that we can see because we want to get as close
+
+73
+00:06:26,960 --> 00:06:35,800
+ to the center of resistance, which is at the center of the embedded root, with the forceps.
+
+74
+00:06:35,800 --> 00:06:41,600
+ So step number two is to luxate that tooth with the dental elevator.
+
+75
+00:06:41,600 --> 00:06:46,960
+ So the last step we use the periosteal elevator, once we sever as much of those fibers as
+
+76
+00:06:46,960 --> 00:06:51,320
+ we can, we can confidently move to this next step.
+
+77
+00:06:51,320 --> 00:06:58,400
+ So the face of the dental elevator blade should be placed against the tooth to be extracted.
+
+78
+00:06:58,400 --> 00:07:06,640
+ We can see this in the top image and this lower left part of this image.
+
+79
+00:07:06,640 --> 00:07:13,640
+ So the face of the blade is against the tooth to be extracted and the back of the blade,
+
+80
+00:07:13,640 --> 00:07:19,840
+ the curved portion, should be against the alveolar crest.
+
+81
+00:07:19,840 --> 00:07:25,400
+ So most of these elevators, like the ones we talked about in the previous video, are
+
+82
+00:07:25,400 --> 00:07:31,480
+ used as a lever with a fulcrum on the alveolar bone.
+
+83
+00:07:31,480 --> 00:07:36,920
+ Now it's usually inevitable that you will also have some amount of fulcrum on the adjacent
+
+84
+00:07:36,920 --> 00:07:41,480
+ tooth, just because of how the anatomy is, especially if there's a tight contact between
+
+85
+00:07:41,480 --> 00:07:42,480
+ the two.
+
+86
+00:07:42,480 --> 00:07:49,400
+ But you want to avoid luxating or damaging the crown of this tooth, unless it too is
+
+87
+00:07:49,400 --> 00:07:51,960
+ being extracted.
+
+88
+00:07:51,960 --> 00:07:57,800
+ So the idea with the elevator is to find what's called a purchase point, somewhere where
+
+89
+00:07:57,800 --> 00:08:05,960
+ you can get between bone and the tooth and feel a good amount of resistance as you slowly
+
+90
+00:08:05,960 --> 00:08:14,880
+ twist the elevator in a clockwise or a counterclockwise direction, so that the blade is gradually
+
+91
+00:08:14,880 --> 00:08:22,120
+ facing occlusily and the tooth moves slightly up and away from the elevator.
+
+92
+00:08:22,120 --> 00:08:28,080
+ So you can see how in this image we're now moving in a counterclockwise direction to
+
+93
+00:08:28,080 --> 00:08:31,800
+ get that blade to face occlusily.
+
+94
+00:08:31,800 --> 00:08:36,560
+ Now you can move the blade in either direction, here it's showing clockwise, here it's showing
+
+95
+00:08:36,560 --> 00:08:42,720
+ counterclockwise, and you can alternate between those two methods.
+
+96
+00:08:42,720 --> 00:08:49,240
+ But whichever way you stick to, this should be done in a very slow and controlled manner,
+
+97
+00:08:49,240 --> 00:08:57,840
+ twisting and holding the elevator in a point of resistance for up to 10 seconds.
+
+98
+00:08:57,840 --> 00:09:03,880
+ Because what we're doing with this step is expanding the alveolus or the socket of that
+
+99
+00:09:03,880 --> 00:09:11,280
+ tooth to allow easy delivery of the entire tooth in the third step.
+
+100
+00:09:11,280 --> 00:09:18,520
+ So it can be good practice to support the alveolar ridge with your opposite hand or support the
+
+101
+00:09:18,520 --> 00:09:24,000
+ tuberosity if you're working on an upper third molar in order to ensure that you're
+
+102
+00:09:24,000 --> 00:09:29,460
+ not applying too much force to the ridge.
+
+103
+00:09:29,460 --> 00:09:35,680
+ So again we're causing expansion of bone and continued tearing of the peridontal ligament
+
+104
+00:09:35,680 --> 00:09:38,240
+ that's holding that tooth in place.
+
+105
+00:09:38,240 --> 00:09:43,560
+ So I find that being slow and deliberate with these first two steps can make an otherwise
+
+106
+00:09:43,560 --> 00:09:48,740
+ difficult extraction go very very smoothly.
+
+107
+00:09:48,740 --> 00:09:55,320
+ And now our third step to deliver the tooth with forceps and again, here's the key, slow
+
+108
+00:09:55,320 --> 00:09:56,680
+ and deliberate.
+
+109
+00:09:56,680 --> 00:10:03,000
+ Any forces should be held for several seconds to allow the bone time to expand instead of
+
+110
+00:10:03,000 --> 00:10:07,120
+ just jerking one way and then the next way and then the next way.
+
+111
+00:10:07,120 --> 00:10:11,840
+ That's how things tend to break and crack and fracture.
+
+112
+00:10:11,840 --> 00:10:16,120
+ So a great concept that I learned in dental school is that the tooth should first be
+
+113
+00:10:16,120 --> 00:10:19,320
+ moved and then removed.
+
+114
+00:10:19,320 --> 00:10:24,160
+ So all of these steps, one, two and three, are working towards the same goal.
+
+115
+00:10:24,160 --> 00:10:30,160
+ We're breaking the peridontal ligament fibers and we're expanding the investing bone sufficiently
+
+116
+00:10:30,160 --> 00:10:35,880
+ to make the tooth nice and mobile and then allow the tooth to be delivered from its socket.
+
+117
+00:10:35,880 --> 00:10:41,560
+ Again while you're doing this, your opposite hand might grab the alveolar process to provide
+
+118
+00:10:41,560 --> 00:10:48,140
+ tactile information about bone expansion and also support and stabilize the jaw for lower
+
+119
+00:10:48,140 --> 00:10:52,040
+ teeth if you're not using a bite block.
+
+120
+00:10:52,040 --> 00:10:57,760
+ So when we're grabbing the tooth with our dental forceps, there are several motions
+
+121
+00:10:57,760 --> 00:10:59,640
+ we can do.
+
+122
+00:10:59,640 --> 00:11:04,320
+ The outward motion, which is towards the buckle or the labial, is the initial movement for
+
+123
+00:11:04,320 --> 00:11:06,160
+ most permanent teeth.
+
+124
+00:11:06,160 --> 00:11:13,120
+ An inward or lingual palatal movement is typically the initial movement for most primary teeth
+
+125
+00:11:13,120 --> 00:11:18,840
+ and that's because of the orientation of the roots of most primary teeth.
+
+126
+00:11:18,840 --> 00:11:25,960
+ A rotary movement can be used as the initial movement for conical rooted teeth like upper
+
+127
+00:11:25,960 --> 00:11:30,280
+ centrals and lower premolars for example.
+
+128
+00:11:30,280 --> 00:11:36,560
+ Extended apical pressure should be applied to every tooth with the forceps.
+
+129
+00:11:36,560 --> 00:11:41,840
+ You want to grab the tooth as apically as possible, like we mentioned before, to get
+
+130
+00:11:41,840 --> 00:11:49,080
+ as close to the center of resistance as possible and to avoid breaking the crown off.
+
+131
+00:11:49,080 --> 00:11:54,640
+ But we want to avoid excessive pressure in the maxillary molar region and that's one
+
+132
+00:11:54,640 --> 00:11:59,920
+ of those complications we talked about in the first video, displacement into the maxillary
+
+133
+00:11:59,920 --> 00:12:02,360
+ sinus.
+
+134
+00:12:02,360 --> 00:12:08,000
+ Now there's a bit more technique sensitive method but you can do a figure eight motion
+
+135
+00:12:08,000 --> 00:12:13,920
+ while simultaneously applying apical pressure and that can be very effective as well.
+
+136
+00:12:13,920 --> 00:12:22,480
+ But let's talk about specific teeth and the specific movements you'd make with each one.
+
+137
+00:12:22,480 --> 00:12:29,520
+ So after the periosteal and dental elevators, we want to see the forceps as apically as
+
+138
+00:12:29,520 --> 00:12:36,400
+ possible around the tooth since we freed up some of those soft tissue attachments that
+
+139
+00:12:36,400 --> 00:12:39,800
+ would otherwise be getting in the way of us accessing this.
+
+140
+00:12:39,800 --> 00:12:48,680
+ So then we would luxate or move the tooth labially in this direction and then lingually
+
+141
+00:12:48,680 --> 00:12:51,000
+ until it's mobile enough to remove.
+
+142
+00:12:51,000 --> 00:12:58,080
+ So we would go labial with some resistance, hold for a few seconds, then push it.
+
+143
+00:12:58,080 --> 00:13:03,160
+ And then lingually hold for a few seconds and it's slow and deliberate.
+
+144
+00:13:03,160 --> 00:13:09,080
+ Nothing is incredibly forceful but you want to always apply some apical pressure in order
+
+145
+00:13:09,080 --> 00:13:14,320
+ to get the tips of these forceps as apically seated as possible.
+
+146
+00:13:14,320 --> 00:13:20,880
+ Also rotary motion can be used because of these conical roots and that can help to break
+
+147
+00:13:20,880 --> 00:13:25,600
+ a lot of the more apically located PDL fibers.
+
+148
+00:13:25,600 --> 00:13:30,640
+ And then the tooth can be removed once it's sufficiently mobile.
+
+149
+00:13:30,640 --> 00:13:36,240
+ Upper canines, similar concept to the last slide, we want to move the tooth labially
+
+150
+00:13:36,240 --> 00:13:41,520
+ then lingually then some rotation with apical pressure.
+
+151
+00:13:41,520 --> 00:13:48,560
+ But canines have very long roots and the canine eminence is often adherent to the root, making
+
+152
+00:13:48,560 --> 00:13:51,680
+ it more difficult to extract.
+
+153
+00:13:51,680 --> 00:13:58,080
+ So it may require a mucoperiosteal flap and you make a trough around the tooth to avoid
+
+154
+00:13:58,080 --> 00:14:01,280
+ removing the entire bony socket.
+
+155
+00:14:01,280 --> 00:14:05,920
+ And these are all things we're going to talk about in the next video.
+
+156
+00:14:05,920 --> 00:14:08,800
+ How about upper first premolars?
+
+157
+00:14:08,800 --> 00:14:14,400
+ So we can move the tooth buckily, hold for a few seconds, then lingual, then buckle and
+
+158
+00:14:14,400 --> 00:14:15,680
+ so on.
+
+159
+00:14:15,680 --> 00:14:21,440
+ The difference here is that upper first premolars often have these two roots that don't
+
+160
+00:14:21,440 --> 00:14:24,580
+ split until the apical third of the tooth.
+
+161
+00:14:24,580 --> 00:14:31,480
+ So these are very easy to crack off, especially if you're applying rotational force.
+
+162
+00:14:31,480 --> 00:14:37,360
+ So you might notice we don't have that rotational arrow in this image and that's because as
+
+163
+00:14:37,360 --> 00:14:45,960
+ a general rule, we do not rotate any teeth that have more than one root.
+
+164
+00:14:45,960 --> 00:14:50,160
+ And this is something that we would confirm with that periapical radiograph that we took
+
+165
+00:14:50,160 --> 00:14:52,320
+ prior to the extraction.
+
+166
+00:14:52,320 --> 00:14:56,680
+ So you can go in knowing that I'm not going to use rotational force, we're just going
+
+167
+00:14:56,680 --> 00:15:02,320
+ to use buckle and lingual force.
+
+168
+00:15:02,320 --> 00:15:04,400
+ How about upper second premolars?
+
+169
+00:15:04,400 --> 00:15:11,080
+ Now these don't typically have that second root they can, so again just be cognizant
+
+170
+00:15:11,080 --> 00:15:20,600
+ of that and use those force movements that we've talked about.
+
+171
+00:15:20,600 --> 00:15:22,560
+ How about upper molars?
+
+172
+00:15:22,560 --> 00:15:26,880
+ So now we're talking about teeth with multiple roots and so we have to be a little bit more
+
+173
+00:15:26,880 --> 00:15:33,640
+ careful and these are just more difficult by virtue of having more peridontal ligament
+
+174
+00:15:33,640 --> 00:15:39,320
+ surface area or volume that is holding the tooth in place.
+
+175
+00:15:39,320 --> 00:15:47,080
+ So for the first molar we want to start with a buckle movement and notice that it can be
+
+176
+00:15:47,080 --> 00:15:48,360
+ a little bit confusing.
+
+177
+00:15:48,360 --> 00:15:55,360
+ The previous images buckle was shown as being to the left but it's to the right in these
+
+178
+00:15:55,360 --> 00:15:56,600
+ photos.
+
+179
+00:15:56,600 --> 00:16:02,640
+ So we start with buckle movement and then a lingual or palatal movement and we want to
+
+180
+00:16:02,640 --> 00:16:07,760
+ favor buckle pressure in the upper molars.
+
+181
+00:16:07,760 --> 00:16:13,920
+ And that's because the palatal root, which is shown here, may be forced into the sinus
+
+182
+00:16:13,920 --> 00:16:20,520
+ if we're not careful and apply excessive palatal pressure and excessive apical pressure.
+
+183
+00:16:20,520 --> 00:16:26,600
+ We can end up forcing that long bulky palatal root into the maxillary sinus.
+
+184
+00:16:26,600 --> 00:16:33,920
+ So for upper molars we tend to focus on buckle pressure and delivering the tooth in an outward
+
+185
+00:16:33,920 --> 00:16:35,400
+ buckle direction.
+
+186
+00:16:35,400 --> 00:16:39,640
+ Alright, so let's talk about the lower teeth.
+
+187
+00:16:39,640 --> 00:16:44,440
+ Lower incisors and canines follow a similar concept.
+
+188
+00:16:44,440 --> 00:16:51,040
+ The bone is thin on both sides of these teeth so be careful of breaks.
+
+189
+00:16:51,040 --> 00:16:56,880
+ Roots are a little bit less conical and circular than the upper anterior teeth so use less
+
+190
+00:16:56,880 --> 00:17:00,920
+ rotation and more buckle movement.
+
+191
+00:17:00,920 --> 00:17:07,640
+ And this is also the most common site of crowding which can make access with the forceps more
+
+192
+00:17:07,640 --> 00:17:11,120
+ difficult.
+
+193
+00:17:11,120 --> 00:17:16,520
+ Lower premolars, these are probably among the easiest teeth to extract.
+
+194
+00:17:16,520 --> 00:17:22,520
+ Rotation is most important due to these very conical and they tend to be straight single
+
+195
+00:17:22,520 --> 00:17:23,520
+ roots.
+
+196
+00:17:23,520 --> 00:17:29,120
+ So lower premolars can be very, very nice to extract and again we see that rotational
+
+197
+00:17:29,120 --> 00:17:32,360
+ arrow here.
+
+198
+00:17:32,360 --> 00:17:35,960
+ Now lower molars are exact opposite.
+
+199
+00:17:35,960 --> 00:17:39,440
+ These are among the hardest teeth to extract.
+
+200
+00:17:39,440 --> 00:17:48,280
+ Since the roots are often divergent and the bone is densest and the posterior mandible.
+
+201
+00:17:48,280 --> 00:17:55,560
+ So here we see a mesial view of or distal view of a lower molar and we're seeing this
+
+202
+00:17:55,560 --> 00:18:00,800
+ buckle pressure being applied first and then the lingual pressure and of course no rotational
+
+203
+00:18:00,800 --> 00:18:03,640
+ pressure because we have multiple roots.
+
+204
+00:18:03,640 --> 00:18:09,960
+ So these you have to be very slow and steady again focusing on apical pressure, apical
+
+205
+00:18:09,960 --> 00:18:15,080
+ seating of the forceps and using something like a cow horn forceps in order to engage
+
+206
+00:18:15,080 --> 00:18:21,400
+ the bifurcation area.
+
+207
+00:18:21,400 --> 00:18:26,840
+ So after the tooth is removed, what can we do after the tooth is removed to promote the
+
+208
+00:18:26,840 --> 00:18:30,200
+ best healing of the tooth socket?
+
+209
+00:18:30,200 --> 00:18:35,240
+ So remember we expanded the alveolus as part of our extraction.
+
+210
+00:18:35,240 --> 00:18:41,400
+ That was one of our main features and treatment philosophies was expanding that bone.
+
+211
+00:18:41,400 --> 00:18:47,400
+ So it's good practice to squeeze the buckle and lingual cortical plates together with
+
+212
+00:18:47,400 --> 00:18:50,640
+ your fingers to facilitate better healing.
+
+213
+00:18:50,640 --> 00:18:56,560
+ So you'd want to bend back the bone unless orthonautics or an implant is planned in that
+
+214
+00:18:56,560 --> 00:18:58,680
+ area in the future.
+
+215
+00:18:58,680 --> 00:19:00,200
+ Bone is flexible to an extent.
+
+216
+00:19:00,200 --> 00:19:06,000
+ We don't have to force it especially if the cortical plates are really thin but we can
+
+217
+00:19:06,000 --> 00:19:13,400
+ bend that bone back just slightly with our fingers in order to make that alveolus a little
+
+218
+00:19:13,400 --> 00:19:15,320
+ bit smaller.
+
+219
+00:19:15,320 --> 00:19:20,240
+ But we want to avoid doing this if ortho or implant is planned in the future because smashing
+
+220
+00:19:20,240 --> 00:19:26,420
+ the cortical plates together will inevitably cause undesirable cortical anchorage and
+
+221
+00:19:26,420 --> 00:19:32,760
+ thinning of the buckle lingual dimension of alveolar bone which is not desirable for implant
+
+222
+00:19:32,760 --> 00:19:38,880
+ placement or for future orthodontics if we're going to be moving teeth through that area.
+
+223
+00:19:38,880 --> 00:19:45,760
+ Now after an extraction is done we have to clean up the scene and do some CSI or crime
+
+224
+00:19:45,760 --> 00:19:47,120
+ scene investigation.
+
+225
+00:19:47,120 --> 00:19:54,760
+ So I remember CSI as our acronym here stands for curitage, smooth bone and irrigate.
+
+226
+00:19:54,760 --> 00:20:02,640
+ So when curating we want to remove residual cysts, radicular cysts, granulation tissue,
+
+227
+00:20:02,640 --> 00:20:07,160
+ root and bone debris, whatever might be in that socket and clean it out.
+
+228
+00:20:07,160 --> 00:20:12,260
+ And we do have to be careful about anatomy in the area like if we have the sinus close
+
+229
+00:20:12,260 --> 00:20:18,480
+ by or the inferior alveolar nerve running close by as well.
+
+230
+00:20:18,480 --> 00:20:25,000
+ So we get some nice bleeding into the socket and everything is cleaned out.
+
+231
+00:20:25,000 --> 00:20:30,600
+ We can also smooth the bone with a bone file or ringer pliers.
+
+232
+00:20:30,600 --> 00:20:36,520
+ So we're talking about bone removers and this is so we can avoid having really sharp areas
+
+233
+00:20:36,520 --> 00:20:42,400
+ on the ridge that can irritate the patient and also make healing a little bit less than
+
+234
+00:20:42,400 --> 00:20:44,080
+ pleasant.
+
+235
+00:20:44,080 --> 00:20:49,680
+ And lastly we irrigate the socket to flush everything out, again remove any of that bone
+
+236
+00:20:49,680 --> 00:20:58,720
+ debris or root debris that was left with some sterile saline and typically a monoget syringe.
+
+237
+00:20:58,720 --> 00:21:01,440
+ Alright and that's it for this video.
+
+238
+00:21:01,440 --> 00:21:06,280
+ This one was really fun to put together I think it's a really really fun topic and I'm looking
+
+239
+00:21:06,280 --> 00:21:11,600
+ forward to the next video on surgical extraction where we can continue this discussion and just
+
+240
+00:21:11,600 --> 00:21:17,800
+ add in a couple more procedures to help with those more complicated extractions.
+
+241
+00:21:17,800 --> 00:21:19,440
+ So thank you again for watching.
+
+242
+00:21:19,440 --> 00:21:24,440
+ If you're interested in supporting the channel please check out my Patreon page, a huge thank
+
+243
+00:21:24,440 --> 00:21:28,680
+ you to Michael Raja and all of my patrons for their continued support.
+
+244
+00:21:28,680 --> 00:21:34,280
+ You can unlock extras like access to these video slides and you can get some practice
+
+245
+00:21:34,280 --> 00:21:38,440
+ questions on there so go check that out, the link will be in the description.
+
+246
+00:21:38,440 --> 00:21:41,480
+ Thanks again for watching everyone, I'll see you all in the next video.
+

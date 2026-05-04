@@ -1,0 +1,2124 @@
+1
+00:00:00,000 --> 00:00:03,760
+ You've heard it in the news before, right?
+
+2
+00:00:03,760 --> 00:00:06,400
+ Genetically modified organisms?
+
+3
+00:00:06,400 --> 00:00:07,840
+ Are they safe?
+
+4
+00:00:07,840 --> 00:00:11,520
+ Or are they unsafe?
+
+5
+00:00:11,520 --> 00:00:16,000
+ In the United States and Western Europe, many people choose to buy groceries at food
+
+6
+00:00:16,000 --> 00:00:22,640
+ co-ops that don't carry genetically modified products or GMOs for short, and they'll spend
+
+7
+00:00:22,640 --> 00:00:25,160
+ extra money just to avoid it.
+
+8
+00:00:25,160 --> 00:00:30,760
+ Also, these consumers might avoid milk from cows treated with growth hormone and fruits
+
+9
+00:00:30,760 --> 00:00:35,700
+ and vegetables produced using genetic techniques.
+
+10
+00:00:35,700 --> 00:00:41,720
+ In addition to exercising their rights at the grocery store, many protest against GMOs,
+
+11
+00:00:41,720 --> 00:00:47,960
+ and they work towards legislation that'll prevent those foods from entering the marketplace.
+
+12
+00:00:47,960 --> 00:00:53,720
+ And they want to make sure that GMOs are clearly labeled on their packages.
+
+13
+00:00:53,720 --> 00:00:59,020
+ Do these people have any real science to back up their claims?
+
+14
+00:00:59,020 --> 00:01:06,480
+ Or is it all just hearsay and rumors and basing their ideas on what they see on the internet
+
+15
+00:01:06,480 --> 00:01:10,720
+ from certain groups?
+
+16
+00:01:10,720 --> 00:01:18,040
+ Are their actions and voices hurting more than just their own bank account?
+
+17
+00:01:18,040 --> 00:01:25,000
+ Are objections to genetic modified foods affecting impoverished people who actually don't have
+
+18
+00:01:25,000 --> 00:01:27,280
+ a voice in the debate?
+
+19
+00:01:27,280 --> 00:01:33,300
+ But much more to lose their lives and suffering from starvation, for example.
+
+20
+00:01:33,300 --> 00:01:39,920
+ Take for example golden rice, a genetically modified rice that could help prevent deficiencies
+
+21
+00:01:39,920 --> 00:01:46,360
+ in vitamin A that cause serious health issues for our poorest people on the planet.
+
+22
+00:01:46,360 --> 00:01:51,360
+ This rice appears golden because it's rich in beta-carotene, which is necessary for the
+
+23
+00:01:51,360 --> 00:01:53,600
+ synthesis of vitamin A.
+
+24
+00:01:53,600 --> 00:01:59,520
+ According to the World Health Organization and UNICEF, 40% of children under the age
+
+25
+00:01:59,520 --> 00:02:04,360
+ of five in the developing world are deficient in vitamin A.
+
+26
+00:02:04,360 --> 00:02:10,680
+ It also compromises their immune system and leads to high death rates and even blindness.
+
+27
+00:02:10,680 --> 00:02:15,560
+ Half a million children go blind every year.
+
+28
+00:02:15,560 --> 00:02:21,120
+ Although scientific and regulatory agencies around the world have repeatedly and consistently
+
+29
+00:02:21,120 --> 00:02:27,600
+ found modified foods to be safe, anti-GMO organizations like Greenpeace have worked to
+
+30
+00:02:27,600 --> 00:02:36,200
+ slow the development and distribution of foods, including golden rice.
+
+31
+00:02:36,200 --> 00:02:41,520
+ Should people in developed countries with access to a stable food supply be able to
+
+32
+00:02:41,520 --> 00:02:47,600
+ prevent technologies that could help millions of impoverished people when no science actually
+
+33
+00:02:47,600 --> 00:02:50,560
+ backs their claims?
+
+34
+00:02:50,560 --> 00:02:55,240
+ To better understand the debate about this and many other genetic technologies, we'll
+
+35
+00:02:55,240 --> 00:03:00,840
+ take a look at how and why these technologies are being used, as well as other potential
+
+36
+00:03:00,840 --> 00:03:03,960
+ ethical issues that they raise.
+
+37
+00:03:03,960 --> 00:03:11,400
+ We'll also learn about gene expression, mutation, stem cells, and cloning in this chapter.
+
+38
+00:03:11,400 --> 00:03:17,800
+ Some questions to ask ourselves as we go through this, considering food justice and equity.
+
+39
+00:03:17,800 --> 00:03:23,240
+ Do objections to genetically modified foods adversely affect impoverished people who
+
+40
+00:03:23,240 --> 00:03:28,360
+ have fewer resources and less influence on government policies?
+
+41
+00:03:28,360 --> 00:03:34,560
+ And another question, are genetically modified foods produced for profits or for humanitarian
+
+42
+00:03:34,560 --> 00:03:36,840
+ efforts?
+
+43
+00:03:36,840 --> 00:03:42,200
+ As we go through our chapter, be sure to identify these learning outcomes as you reach them
+
+44
+00:03:42,200 --> 00:03:51,120
+ and review them often in your notes, lecture, and in the book.
+
+45
+00:03:51,120 --> 00:03:53,760
+ Once again, golden rice.
+
+46
+00:03:53,760 --> 00:03:59,200
+ It's a genetically modified organism and it looks golden because it's so rich in beta
+
+47
+00:03:59,200 --> 00:04:06,760
+ keratin, which is very, very essential for vitamin A synthesis, as we said before, vitamin
+
+48
+00:04:06,760 --> 00:04:13,080
+ A deficiencies are found in 40% of this world's children.
+
+49
+00:04:13,080 --> 00:04:18,400
+ Vitamin A deficiencies definitely lead to health problems, as we see in the young man
+
+50
+00:04:18,400 --> 00:04:20,560
+ in the upper corner.
+
+51
+00:04:20,560 --> 00:04:28,000
+ For instance, compromised immune system, childhood blindness even, over 500,000 children go blind
+
+52
+00:04:28,000 --> 00:04:35,040
+ each year and about 50% will die within one year of going blind.
+
+53
+00:04:35,040 --> 00:04:36,040
+ Here's a question.
+
+54
+00:04:36,040 --> 00:04:37,040
+ See if you know this.
+
+55
+00:04:37,040 --> 00:04:41,720
+ For how many years have genetically modified crops been available in our foods?
+
+56
+00:04:41,720 --> 00:04:46,560
+ So our answer here is 20.
+
+57
+00:04:46,560 --> 00:04:52,920
+ Although a slower method of genetically modifying our food has been around for thousands of years,
+
+58
+00:04:52,920 --> 00:04:59,080
+ and that's called artificial selection, but we'll get to that eventually.
+
+59
+00:04:59,080 --> 00:05:06,360
+ So in order to produce GMOs or genetically modified organisms, we have to regulate gene
+
+60
+00:05:06,360 --> 00:05:08,200
+ expression.
+
+61
+00:05:08,200 --> 00:05:15,560
+ Regulating gene expression is controlling the amount of proteins that an organism produces.
+
+62
+00:05:15,560 --> 00:05:20,400
+ All living organisms have the ability to regulate gene expression.
+
+63
+00:05:20,400 --> 00:05:25,280
+ And bacteria can do this in response to the changes in their environment.
+
+64
+00:05:25,280 --> 00:05:30,000
+ And that allows a particular gene to increase or decrease the amount of protein produced
+
+65
+00:05:30,000 --> 00:05:35,520
+ to meet the changing demands of the cell without wasting a lot of energy or making more protein
+
+66
+00:05:35,520 --> 00:05:38,560
+ than what would be needed.
+
+67
+00:05:38,560 --> 00:05:43,760
+ Scientists have figured out how to transfer the regulating of gene expression over to
+
+68
+00:05:43,760 --> 00:05:45,600
+ the science lab.
+
+69
+00:05:45,600 --> 00:05:51,320
+ One of the first examples of scientists controlling gene expression occurred in the early 1980s
+
+70
+00:05:51,320 --> 00:06:03,360
+ when genetic engineers began to produce recombinant bovine growth hormone, or RBGH for short.
+
+71
+00:06:03,360 --> 00:06:06,480
+ This was done in their laboratories.
+
+72
+00:06:06,480 --> 00:06:13,160
+ Recombinant bovine growth hormone, or R, means the recombinant, it's a protein that's made
+
+73
+00:06:13,160 --> 00:06:18,400
+ by genetically engineered bacteria.
+
+74
+00:06:18,400 --> 00:06:24,960
+ These bacteria cells have had their DNA manipulated, so it carries the instructions for or encodes
+
+75
+00:06:24,960 --> 00:06:29,400
+ a cow growth protein that can be produced in the laboratory.
+
+76
+00:06:29,400 --> 00:06:35,120
+ Growth hormones act on many different organs to increase the overhaul size of the body.
+
+77
+00:06:35,120 --> 00:06:39,720
+ Bovine growth hormone that's produced in a laboratory can be ejected into dairy cows
+
+78
+00:06:39,720 --> 00:06:44,640
+ to increase their milk production which then of course would feed more people.
+
+79
+00:06:44,640 --> 00:06:49,480
+ Production of growth hormone protein or any protein in the lab or in a cell requires the
+
+80
+00:06:49,480 --> 00:06:56,480
+ use of genetic information coded in the DNA.
+
+81
+00:06:56,480 --> 00:07:04,440
+ Protein synthesis involves the using of instructions carried by a gene to build a particular protein.
+
+82
+00:07:04,440 --> 00:07:09,240
+ Remember that a gene is a sequence of DNA that codes for a protein.
+
+83
+00:07:09,240 --> 00:07:15,240
+ When you're looking at someone you're actually looking at proteins or the results of proteins.
+
+84
+00:07:15,240 --> 00:07:22,760
+ A protein is a very large molecule, a macromolecule composed of building blocks called amino acids.
+
+85
+00:07:22,760 --> 00:07:28,940
+ There's about 20 different amino acids in the human body and in living organisms that
+
+86
+00:07:28,940 --> 00:07:33,200
+ compose all the proteins that make us.
+
+87
+00:07:33,200 --> 00:07:39,520
+ The actual genes themselves built into DNA do not build proteins directly, instead you
+
+88
+00:07:39,520 --> 00:07:45,000
+ could say they carry the instructions or the recipe that dictates how a protein should
+
+89
+00:07:45,000 --> 00:07:47,720
+ be built.
+
+90
+00:07:47,720 --> 00:07:52,840
+ Understanding protein synthesis requires that we review a first, a few basic things about
+
+91
+00:07:52,840 --> 00:07:59,000
+ DNA genes and RNA.
+
+92
+00:07:59,000 --> 00:08:06,240
+ First of all remember that DNA, a very big macromolecule is a polymer and a polymer means
+
+93
+00:08:06,240 --> 00:08:09,960
+ that it's a molecule built out of repeating units.
+
+94
+00:08:09,960 --> 00:08:15,200
+ The repeating unit that builds DNA is called nucleotides.
+
+95
+00:08:15,200 --> 00:08:19,560
+ You can see a picture of a nucleotide here off to the right.
+
+96
+00:08:19,560 --> 00:08:28,720
+ This is the nucleotide thymine, a nucleotide contains the base unit, in this case it's
+
+97
+00:08:28,720 --> 00:08:35,400
+ thymine but it could also be adenine, cytosine or guanine, if it's DNA.
+
+98
+00:08:35,400 --> 00:08:40,320
+ In RNA there's another type of nucleotide called uracil.
+
+99
+00:08:40,320 --> 00:08:48,640
+ You'll notice that the base unit has hydrogens, carbons, oxygens and then nitrogens, so sometimes
+
+100
+00:08:48,640 --> 00:08:51,960
+ they're nicknamed nitrogen bases.
+
+101
+00:08:51,960 --> 00:08:59,640
+ Another part of a nucleotide is the sugar, it's a small simple sugar that forms a pentagon
+
+102
+00:08:59,640 --> 00:09:04,040
+ when in a water solution like the water in our body.
+
+103
+00:09:04,040 --> 00:09:10,240
+ It's called deoxyribose, if this was RNA it would be just ribose.
+
+104
+00:09:10,240 --> 00:09:18,280
+ And then third, a nucleotide is made out of a phosphate group which formula is PO4.
+
+105
+00:09:18,280 --> 00:09:24,720
+ The phosphate group has a negative charge which gives DNA overall a negative charge,
+
+106
+00:09:24,720 --> 00:09:30,760
+ which makes it very useful in DNA fingerprinting.
+
+107
+00:09:30,760 --> 00:09:36,120
+ You can send it through electrically charged gel and it'll travel towards the opposite
+
+108
+00:09:36,120 --> 00:09:38,920
+ charged end, the positive end.
+
+109
+00:09:38,920 --> 00:09:47,480
+ Again, there's four different bases that comprise DNA, thymine, adenine, cytosine and
+
+110
+00:09:47,480 --> 00:09:49,160
+ guanine.
+
+111
+00:09:49,160 --> 00:09:54,160
+ Remember that DNA is actually a double helix as we see in the picture here to the right,
+
+112
+00:09:54,160 --> 00:09:56,240
+ it's a twisted ladder.
+
+113
+00:09:56,240 --> 00:10:03,600
+ So there's two sides and remember the complementary pairing, that adenine always pairs with thymine
+
+114
+00:10:03,600 --> 00:10:06,640
+ and cytosine always pairs with guanine.
+
+115
+00:10:06,640 --> 00:10:14,240
+ So we see that here in the top picture, cytosine with guanines, thymine with adenines.
+
+116
+00:10:14,240 --> 00:10:20,160
+ That way you only have to figure out one side of DNA and you'll know the other because
+
+117
+00:10:20,160 --> 00:10:23,360
+ of the complementary base pairing.
+
+118
+00:10:23,360 --> 00:10:31,040
+ RNA is a very related molecule, there's a few different types of RNA, the one we're
+
+119
+00:10:31,040 --> 00:10:34,240
+ looking at here is called messenger RNA.
+
+120
+00:10:34,240 --> 00:10:41,240
+ RNA is just single stranded but it's also made out of nucleotides, it's made out of some
+
+121
+00:10:41,240 --> 00:10:46,280
+ of the same ones as DNA but there is one different one.
+
+122
+00:10:46,280 --> 00:10:53,080
+ There is adenine, cytosine and guanine but instead of thymine in RNA you will find uracil
+
+123
+00:10:53,080 --> 00:10:59,280
+ which actually in reality looks very similar to thymine anyway.
+
+124
+00:10:59,280 --> 00:11:06,400
+ So again RNA is a polymer of nucleotides just like DNA except that it's single stranded
+
+125
+00:11:06,400 --> 00:11:14,680
+ in this case, that's made out of nucleotides which have the same parts, the base, the sugar
+
+126
+00:11:14,680 --> 00:11:21,200
+ in this case it's ribose and then the phosphate group as well.
+
+127
+00:11:21,200 --> 00:11:27,520
+ RNA's job is to come in and make a copy of genes on DNA.
+
+128
+00:11:27,520 --> 00:11:34,600
+ So when the copying happens, cytosine will pair with guanine as usual but adenine must
+
+129
+00:11:34,600 --> 00:11:44,040
+ pair with uracil because RNA does not have any thymine.
+
+130
+00:11:44,040 --> 00:11:52,560
+ So protein synthesis goes in many steps from DNA from the actual gene to the RNA or mRNA
+
+131
+00:11:52,560 --> 00:11:59,280
+ messenger RNA for short which copies those genes with a complementary copy and then it
+
+132
+00:11:59,280 --> 00:12:05,600
+ takes that message out to where the proteins are actually built in the cytoplasm at the
+
+133
+00:12:05,600 --> 00:12:12,400
+ ribosomes which actually is also made out of RNA as well but it's more like clumps
+
+134
+00:12:12,400 --> 00:12:14,920
+ of RNA.
+
+135
+00:12:14,920 --> 00:12:19,440
+ So the flow of genetic information goes through those steps.
+
+136
+00:12:19,440 --> 00:12:28,960
+ Transcription is going from DNA to RNA and translation is going from RNA to protein.
+
+137
+00:12:28,960 --> 00:12:35,200
+ So here's an example of that here, we've got our double stranded DNA laid out flat so
+
+138
+00:12:35,200 --> 00:12:41,040
+ we're looking at a portion of a gene here, we can see our nucleotides lined up with their
+
+139
+00:12:41,040 --> 00:12:51,040
+ complementary base pairs, A's with T's, C's with G's, RNA must come in and copy the coding
+
+140
+00:12:51,040 --> 00:12:56,840
+ strand of the DNA, looks like it's this top one here and it makes a complementary copy.
+
+141
+00:12:56,840 --> 00:13:05,680
+ So if DNA said C RNA would put down a G then our next letter in DNA is a G so RNA puts down
+
+142
+00:13:05,680 --> 00:13:15,040
+ a C. DNA has a T next so RNA then would match up with an A and then when DNA has an A RNA
+
+143
+00:13:15,040 --> 00:13:23,700
+ would match up with a U and so on and so forth until the whole gene is copied or transcribed.
+
+144
+00:13:23,700 --> 00:13:30,420
+ This is again a single strand which makes it nice and skinny enough to fit through the
+
+145
+00:13:30,420 --> 00:13:39,400
+ nucleus pores and then travel out to the ribosome which is in the cytoplasm and then the protein
+
+146
+00:13:39,400 --> 00:13:48,120
+ is actually built by another type of RNA that we'll get to in a moment called T RNA or transfer
+
+147
+00:13:48,120 --> 00:13:54,640
+ RNA that will bring these amino acids in the correct order and then the ribosome will
+
+148
+00:13:54,640 --> 00:14:03,360
+ help chain those together until we make our protein.
+
+149
+00:14:03,360 --> 00:14:11,280
+ So once again transcription is going from DNA to RNA it occurs in the nucleus of the cell
+
+150
+00:14:11,280 --> 00:14:19,440
+ and this forms the type of RNA called mRNA or messenger RNA. An enzyme that big green
+
+151
+00:14:19,440 --> 00:14:26,800
+ thing here is called RNA polymerase. It binds to what's called a promoter it's a sequence
+
+152
+00:14:26,800 --> 00:14:34,160
+ of DNA that lets the RNA polymerase know where to actually bind where that gene actually
+
+153
+00:14:34,160 --> 00:14:44,960
+ starts once it binds to DNA it unzips it temporarily and then starts adding these mRNA nucleotides.
+
+154
+00:14:44,960 --> 00:14:56,000
+ Remember the correct pairing? If DNA says A RNA says U if DNA says T RNA says A if DNA
+
+155
+00:14:56,000 --> 00:15:05,680
+ says C RNA says G if DNA says C and I do that one already if DNA says G RNA says C I hope
+
+156
+00:15:05,680 --> 00:15:12,760
+ I got all four in there. So it lays down these complementary nucleotides and it just copies
+
+157
+00:15:12,760 --> 00:15:18,800
+ the gene not the whole sequence of DNA just the gene. So again the promoter is the sequence
+
+158
+00:15:18,800 --> 00:15:27,160
+ of DNA where it binds unzips the DNA and then we lay down our RNA nucleotides and then that
+
+159
+00:15:27,160 --> 00:15:35,640
+ will leave so that DNA can zip back up again as if nothing happens.
+
+160
+00:15:35,640 --> 00:15:43,600
+ Now our mRNA can travel out to the ribosome which is out in the cytoplasm usually attached
+
+161
+00:15:43,600 --> 00:15:49,720
+ to the endoplasmic reticulum but some ribosomes do float freely in the cytoplasm and we're
+
+162
+00:15:49,720 --> 00:15:55,760
+ going to put together our protein here that's called translation. So our requirements we
+
+163
+00:15:55,760 --> 00:16:02,880
+ need to have made a correct copy of mRNA during transcription so that should be a complementary
+
+164
+00:16:02,880 --> 00:16:10,240
+ copy of the gene from DNA. We're going to need amino acids you get those through your
+
+165
+00:16:10,240 --> 00:16:16,840
+ diet and through cells making them those will be floating around in the cytoplasm they'll
+
+166
+00:16:16,840 --> 00:16:25,120
+ be also attached to tRNA molecules transfer RNA for short or tRNA for short because they
+
+167
+00:16:25,120 --> 00:16:31,640
+ bring the amino acids to the correct location. We'll need ribosomes which are made out of
+
+168
+00:16:31,640 --> 00:16:39,240
+ clumps of RNA called ribosomal or rRNA and then of course as most things need we need
+
+169
+00:16:39,240 --> 00:16:46,680
+ energy in the form of ATP to do this as well. Here's what a ribosome looks like it looks
+
+170
+00:16:46,680 --> 00:16:53,040
+ like two big clumps. It's made out of RNA that's kind of folded to look like clumps
+
+171
+00:16:53,040 --> 00:17:00,560
+ like this so it's still made out of nucleotides A, C's, G's and U's but it's all folded up
+
+172
+00:17:00,560 --> 00:17:07,280
+ to make these clumps. There's a large subunit and a small subunit so this type of RNA is
+
+173
+00:17:07,280 --> 00:17:17,360
+ called rRNA or ribosomal RNA. Here's the transfer RNA or tRNA for short. It's kind of
+
+174
+00:17:17,360 --> 00:17:23,040
+ shaped like a quover leaf some books call it a quover leaf although I don't know that
+
+175
+00:17:23,040 --> 00:17:31,920
+ it looks like a quover leaf to me looks more like a cross. The bottom part of the tRNA has
+
+176
+00:17:31,920 --> 00:17:37,960
+ a code it's called an anti codon so it's a sequence of three nucleotides that are going
+
+177
+00:17:37,960 --> 00:17:47,020
+ to match up with a sequence of three nucleotides on mRNA called the codon. Over on the other
+
+178
+00:17:47,020 --> 00:17:52,560
+ end here we have the amino acid attached so this is called the transfer RNA because it
+
+179
+00:17:52,560 --> 00:18:01,800
+ grabs on to specific amino acids in the cytoplasm and brings them to the ribosomal RNA or ribosome.
+
+180
+00:18:01,800 --> 00:18:11,420
+ Again remember the sequence of three nucleotides on mRNA is called a codon. Remember that was
+
+181
+00:18:11,420 --> 00:18:18,080
+ originally complimentary copied from DNA in the nucleus and then we have the anti codon
+
+182
+00:18:18,080 --> 00:18:24,680
+ the three nucleotides on the tRNA so you can see how it's very specific how they match
+
+183
+00:18:24,680 --> 00:18:30,760
+ up and how they bring only specific amino acids in a certain order based on the order
+
+184
+00:18:30,760 --> 00:18:39,800
+ of nucleotides of mRNA which was originally copied from DNA. So protein synthesis is similar
+
+185
+00:18:39,800 --> 00:18:50,000
+ to baking a cake. We have our genome or genes in the nucleus then we make a copy of mRNA
+
+186
+00:18:50,000 --> 00:18:58,040
+ of that gene whatever protein we need that's the gene we're going to copy. Remember it's
+
+187
+00:18:58,040 --> 00:19:04,760
+ a complimentary copy though. Then we go to the ribosome out in the cytoplasm the ribosome
+
+188
+00:19:04,760 --> 00:19:14,440
+ locks on to the mRNA. It also grabs the tRNA as well and matches them up so that the proper
+
+189
+00:19:14,440 --> 00:19:24,040
+ amino acids are brought and then we make our protein. Which type of RNA carries amino acids
+
+190
+00:19:24,040 --> 00:19:31,960
+ to the growing polypeptide chain? That would be tRNA. A polypeptide chain is what a protein
+
+191
+00:19:31,960 --> 00:19:43,800
+ is called before it's finished. So proteins are made by attaching one amino acid at a time
+
+192
+00:19:43,800 --> 00:19:51,080
+ in a chain because proteins just like DNA are also a polymer made out of different repeating
+
+193
+00:19:51,080 --> 00:20:03,080
+ units called amino acids. Although DNA has just four building blocks proteins have about
+
+194
+00:20:03,080 --> 00:20:09,840
+ 20 building blocks called amino acids that we find in ourselves. The ribosome attaches
+
+195
+00:20:09,840 --> 00:20:17,680
+ to the mRNA at the promoter region then the ribosome facilitates the docking of tRNA
+
+196
+00:20:17,680 --> 00:20:25,420
+ anti codons to the mRNA codons. A peptide bond that's one that forms between amino acids
+
+197
+00:20:25,420 --> 00:20:36,440
+ will join the two adjacent tRNAs. A stop codon when a ribosome reaches that that's a codon
+
+198
+00:20:36,440 --> 00:20:45,720
+ that doesn't code for any amino acids. That's when the ribosome knows the protein is done
+
+199
+00:20:45,720 --> 00:20:56,120
+ and to release it. So it looks like this. This big purple thing that is our ribosome
+
+200
+00:20:56,120 --> 00:21:06,820
+ and look how it's reading the mRNA just three letters at a time. Three letters here, UUU
+
+201
+00:21:06,820 --> 00:21:15,680
+ is the codon that matches up with the anti codon on tRNA which then would be AAAA. And
+
+202
+00:21:15,680 --> 00:21:21,480
+ then that particular tRNA brings in amino acid called phenylalanine and joins it to the
+
+203
+00:21:21,480 --> 00:21:29,760
+ chain. And then the next one will be red. mRNA is codons as AUA. So the tRNA anti codon
+
+204
+00:21:29,760 --> 00:21:37,400
+ will say UAU and will bring this particular amino acid. And we keep chaining these amino
+
+205
+00:21:37,400 --> 00:21:44,760
+ acids together until we reach a stop codon which doesn't code for anything. And so then
+
+206
+00:21:44,760 --> 00:21:54,280
+ the ribosome knows to let that protein go. Once tRNAs deliver an amino acid to the ribosome,
+
+207
+00:21:54,280 --> 00:22:01,360
+ they're free to leave and go pick up more amino acids. And in this way we're able to
+
+208
+00:22:01,360 --> 00:22:13,960
+ build proteins. So our genetic code is the order of DNA nucleotides. It allows a specific
+
+209
+00:22:13,960 --> 00:22:22,740
+ codon to code for a specific amino acid. So a codon again is composed of three nucleotides
+
+210
+00:22:22,740 --> 00:22:32,200
+ so I like to call it a triplet. So there's four to the three possible combinations. There's
+
+211
+00:22:32,200 --> 00:22:38,760
+ 61 different codons that code for amino acids along with three that are stop codons which
+
+212
+00:22:38,760 --> 00:22:47,240
+ actually end protein synthesis. The genetic code is actually redundant because there's
+
+213
+00:22:47,240 --> 00:22:55,320
+ multiple codons that can code for the same amino acid like for instance these four codons
+
+214
+00:22:55,320 --> 00:23:03,920
+ all code for the same amino acid three and the genetic code is universal. For instance
+
+215
+00:23:03,920 --> 00:23:12,360
+ UUU that codon on mRNA codes for phenylalanine and nothing else. And all organisms decode
+
+216
+00:23:12,360 --> 00:23:21,440
+ the same gene to produce the same protein. We all have that in common. Pretty cool.
+
+217
+00:23:21,440 --> 00:23:27,880
+ Here's the chart that scientists use to look up amino acids and they figured this out in
+
+218
+00:23:27,880 --> 00:23:33,240
+ a certain year. I can't quite remember which year that was but this is the chart that we
+
+219
+00:23:33,240 --> 00:23:40,160
+ all use now and it comes in a few different forms but this is the one that your book uses.
+
+220
+00:23:40,160 --> 00:23:48,080
+ For instance let's use the UUU for phenylalanine. We take the first base look it up here U and
+
+221
+00:23:48,080 --> 00:23:53,960
+ then we take the next base second base U. We know it's going to be in this box and then
+
+222
+00:23:53,960 --> 00:24:00,960
+ we bring the third base over third base right here U. Bring it over UUU then we code for
+
+223
+00:24:00,960 --> 00:24:06,600
+ phenylalanine but you'll also see there's another codon that also codes for phenylalanine
+
+224
+00:24:06,600 --> 00:24:13,720
+ UUC also does. Instead of writing the whole amino acid down scientists often only write
+
+225
+00:24:13,720 --> 00:24:19,320
+ the first three letters it helps to shorten it up a little bit so instead of writing phenylalanine
+
+226
+00:24:19,320 --> 00:24:28,240
+ they'll write PHE for short. Here's the three stop codons UAA, UAG and UGA. They don't code
+
+227
+00:24:28,240 --> 00:24:35,920
+ for anything they tell the ribosome the protein is done. Here's the start codon methionine
+
+228
+00:24:35,920 --> 00:24:45,800
+ all polypeptide chains are proteins start with methionine. A sequence of mRNA called
+
+229
+00:24:45,800 --> 00:24:54,640
+ a codon reads GGA. What sequence of nucleotides will be on the anti codon on the tRNA? Well
+
+230
+00:24:54,640 --> 00:25:01,320
+ remember the complementary base pairs what pairs with G? Well that would be C. So CC
+
+231
+00:25:01,320 --> 00:25:07,560
+ and what pairs with A? That would be U. So CCU is the correct answer and let's go ahead
+
+232
+00:25:07,560 --> 00:25:14,780
+ and look up what amino acid that would be coding for. Scientists use the mRNA codon to
+
+233
+00:25:14,780 --> 00:25:20,080
+ look it up even though the tRNA is the one that carries it to the ribosome. Scientists
+
+234
+00:25:20,080 --> 00:25:26,920
+ use the mRNA to look it up. So we're going to look up GGA back here at our chart. Our
+
+235
+00:25:26,920 --> 00:25:35,120
+ first base is G. Second base here is G. So it's going to be in this box. Third base is
+
+236
+00:25:35,120 --> 00:25:45,040
+ A. So bring it over GGA is going to code for an amino acid called glutamic acid or GLU
+
+237
+00:25:45,040 --> 00:25:59,640
+ for short. So in eukaryotic cells those that have a nucleus protein synthesis is spatially
+
+238
+00:25:59,640 --> 00:26:05,120
+ separated with where transcription occurs which is in the nucleus and where translation
+
+239
+00:26:05,120 --> 00:26:11,800
+ occurs which is outside the nucleus. But in prokaryotic cells they don't have a nucleus
+
+240
+00:26:11,800 --> 00:26:18,720
+ so transcription and translation would have to occur at the same time and the same place
+
+241
+00:26:18,720 --> 00:26:28,180
+ as we see here in the bacteria or prokaryotic cell here below. We've got DNA and transcription
+
+242
+00:26:28,180 --> 00:26:38,640
+ happening very close to where the actual translation is happening at the ribosome. Sometimes
+
+243
+00:26:38,640 --> 00:26:47,040
+ mistakes are made. These are called mutations. It's a change in the genetic sequence like
+
+244
+00:26:47,040 --> 00:26:52,880
+ for instance one letter being missing or one letter being changed to something else or
+
+245
+00:26:52,880 --> 00:26:59,600
+ more than one letter being changed. Of course this then can affect well the sequence so
+
+246
+00:26:59,600 --> 00:27:05,560
+ then that can affect the order of the amino acids and the protein. So the precise order
+
+247
+00:27:05,560 --> 00:27:12,800
+ of amino acids is very necessary for properly functioning proteins. Although not all mutations
+
+248
+00:27:12,800 --> 00:27:21,360
+ are bad, yes some mutations will result in a non-functional protein but some might result
+
+249
+00:27:21,360 --> 00:27:27,120
+ in no change in the protein because well if it's a change that's really close to what
+
+250
+00:27:27,120 --> 00:27:36,680
+ we had such as if it was a codon that used to be UUA and now A got changed to a G for
+
+251
+00:27:36,680 --> 00:27:43,240
+ the codon in mRNA. You'll see that codes for the same amino acid anyway so your cells
+
+252
+00:27:43,240 --> 00:27:48,880
+ wouldn't even notice that one because you would still code for leucine but if you went
+
+253
+00:27:48,880 --> 00:27:57,840
+ from a UUA to a UUU well that would change our amino acid from leucine to phenylalanine
+
+254
+00:27:57,840 --> 00:28:03,040
+ and phenylalanine might have different properties than leucine and it might change up how the
+
+255
+00:28:03,040 --> 00:28:13,880
+ protein works and it might make it a non-functional protein or it might even make the protein work
+
+256
+00:28:13,880 --> 00:28:20,720
+ better make it a different protein that has happened as well. So lots of different outcomes
+
+257
+00:28:20,720 --> 00:28:27,600
+ here from no change that's a neutral mutation to a non-functional protein to a just a different
+
+258
+00:28:27,600 --> 00:28:38,240
+ protein that functions in a different maybe even better way.
+
+259
+00:28:38,240 --> 00:28:44,600
+ So here's some examples this is a substitution mutation where one simple substitution of a
+
+260
+00:28:44,600 --> 00:28:57,000
+ base is for another. So here in our DNA we had CTA and then the mRNA codon for that would
+
+261
+00:28:57,000 --> 00:29:06,120
+ be GAU so CTA I'm using this top strand is my coding strand CTA to GAU and then that
+
+262
+00:29:06,120 --> 00:29:14,480
+ would code for this amino acid here called asparginine well what happens instead of CTA
+
+263
+00:29:14,480 --> 00:29:21,880
+ what if it becomes CCA and we substitute a C for the T that used to be there will that
+
+264
+00:29:21,880 --> 00:29:31,460
+ change our codon on our mRNA yes it will our new codon will read GGU and if I go back to
+
+265
+00:29:31,460 --> 00:29:44,200
+ my amino acid chart GGU codes for glycine there it is there so we have changed our amino acid
+
+266
+00:29:44,200 --> 00:29:52,720
+ from asparginine to glycine and this could potentially be a non-functional protein we
+
+267
+00:29:52,720 --> 00:30:02,280
+ can see it's shaped differently than the original one a neutral mutation does not change the
+
+268
+00:30:02,280 --> 00:30:12,600
+ function of the protein as we've seen before the same amino acid can result from the codon
+
+269
+00:30:12,600 --> 00:30:20,440
+ as we see here again our T got changed to a C but in this case it didn't matter it codes
+
+270
+00:30:20,440 --> 00:30:31,020
+ for the same amino acid so nothing changed here this was a neutral mutation this one's
+
+271
+00:30:31,020 --> 00:30:39,320
+ a little more abrupt this is a frame shift mutation sometimes a base gets added or deleted
+
+272
+00:30:39,320 --> 00:30:47,760
+ out of DNA sequence this changes the reading frame by if a base is added it pushes it down
+
+273
+00:30:47,760 --> 00:30:55,600
+ or if a base is deleted then it pushes the other bases over it changes the reading frame
+
+274
+00:30:55,600 --> 00:31:07,000
+ hence frame shift mutation in the name sometimes can result in a stop codon or a shorter non-functional
+
+275
+00:31:07,000 --> 00:31:22,140
+ protein might be produced what type of mutation will result in the production of a regular
+
+276
+00:31:22,140 --> 00:31:35,640
+ protein that would be a neutral mutation each body cell except sperm and eggs of course
+
+277
+00:31:35,640 --> 00:31:42,720
+ because they have half each body cell or somatic cell has the same DNA and humans that would
+
+278
+00:31:42,720 --> 00:31:50,680
+ be a DNA for 46 chromosomes and cells express different genes based on their functions so
+
+279
+00:31:50,680 --> 00:31:57,760
+ it means that some genes are actually turned off in certain cells and turned on in others
+
+280
+00:31:57,760 --> 00:32:11,440
+ so genetic engineering precisely controls gene expression the first step in the production
+
+281
+00:32:11,440 --> 00:32:22,160
+ of the R B G H protein is to transfer the B G H gene from the nucleus of a cow cell into
+
+282
+00:32:22,160 --> 00:32:30,080
+ the bacterial cell bacteria are single celled prokaryotes that copy themselves very rapidly
+
+283
+00:32:30,080 --> 00:32:37,000
+ after all their single circular chromosome in their cytoplasm only contains maybe a few
+
+284
+00:32:37,000 --> 00:32:42,840
+ million base pairs they can thrive in the laboratory if they're allowed to grow in a
+
+285
+00:32:42,840 --> 00:32:50,560
+ liquid broth containing the nutrients they need for life bacteria with the B G H gene
+
+286
+00:32:50,560 --> 00:32:57,160
+ can serve as factories to produce millions of copies of this gene and its protein product
+
+287
+00:32:57,160 --> 00:33:09,240
+ making many copies of a gene is called cloning a gene here's the following steps involved
+
+288
+00:33:09,240 --> 00:33:18,640
+ in moving a B G H gene into a bacteria cell first of all we have to remove the gene from
+
+289
+00:33:18,640 --> 00:33:25,100
+ the cow chromosome the gene is sliced out of the cow chromosome on which it resides by
+
+290
+00:33:25,100 --> 00:33:34,560
+ exposing the cow DNA to enzymes that cut the DNA enzymes that cut DNA are called restriction
+
+291
+00:33:34,560 --> 00:33:42,600
+ enzymes they act like highly specific molecular scissors most restriction enzymes cut DNA
+
+292
+00:33:42,600 --> 00:33:57,880
+ only at a specific sequence called a palindrome note that the bottom middle sequence is the
+
+293
+00:33:57,880 --> 00:34:08,480
+ reverse of the top middle sequence many restriction enzymes cut the DNA in a staggered pattern
+
+294
+00:34:08,480 --> 00:34:23,580
+ leaving what's called sticky ends the unpaired bases form bonds with any complementary bases
+
+295
+00:34:23,580 --> 00:34:29,360
+ with which they come in contact with the enzyme selected by scientists cuts on both ends of
+
+296
+00:34:29,360 --> 00:34:37,720
+ the B H gene but not inside the gene a particular restriction enzyme cuts DNA at a specific
+
+297
+00:34:37,720 --> 00:34:43,520
+ sequence therefore scientists need information about the organisms genome in order to determine
+
+298
+00:34:43,520 --> 00:34:49,560
+ which restriction enzyme cutting sites surround the gene of interest cutting the DNA generates
+
+299
+00:34:49,560 --> 00:34:58,120
+ many different fragments only one of which will carry the gene of interest for step 2
+
+300
+00:34:58,120 --> 00:35:06,400
+ we have to insert the B G H gene into the bacterial plasmid a plasmid is a small circular piece
+
+301
+00:35:06,400 --> 00:35:13,520
+ of DNA so once the gene is removed from the cow genome it's inserted into a bacterial
+
+302
+00:35:13,520 --> 00:35:19,160
+ structure called a plasmid a plasmid is a circular piece of DNA that normally exists
+
+303
+00:35:19,160 --> 00:35:26,160
+ separate from the bacterial chromosome and can replicate independently of the main bacterial
+
+304
+00:35:26,160 --> 00:35:33,200
+ chromosome think of the plasmid as a molecular fairy boat able to carry a gene into a bacterial
+
+305
+00:35:33,200 --> 00:35:40,000
+ cell where it can be replicated to incorporate the B G H gene into the plasmid the plasmid
+
+306
+00:35:40,000 --> 00:35:46,480
+ is also cut with the same restriction enzyme used to cut the main gene cutting both the
+
+307
+00:35:46,480 --> 00:35:52,840
+ plasmid and the gene with the same enzyme allows the sticky ends that are generated
+
+308
+00:35:52,840 --> 00:36:04,040
+ to base pair with each other remember A's always with T's and C's always with G's
+
+309
+00:36:04,040 --> 00:36:08,800
+ when the cut plasmid and the cut gene are placed together in a test tube they'll reform
+
+310
+00:36:08,800 --> 00:36:15,960
+ back together into a circular plasmid with the extra gene now incorporated and here we
+
+311
+00:36:15,960 --> 00:36:28,120
+ can see it here in the picture
+
+312
+00:36:28,120 --> 00:36:34,800
+ the bacterial plasmid has now been genetically engineered to carry a cow gene at this juncture
+
+313
+00:36:34,800 --> 00:36:42,280
+ the B G H gene is referred to as the RB G H gene with the R indicated that this product
+
+314
+00:36:42,280 --> 00:36:50,320
+ is genetically engineered or recombinant because it's been removed from the original location
+
+315
+00:36:50,320 --> 00:37:03,440
+ in the cow genome and recombined there's the word recombined with the plasmid DNA
+
+316
+00:37:03,440 --> 00:37:11,280
+ next we have to insert the recombinant plasmid into a bacterial cell the recombinant plasmid
+
+317
+00:37:11,280 --> 00:37:16,960
+ is now inserted into a bacterial cell and the bacteria can be treated so their cell membranes
+
+318
+00:37:16,960 --> 00:37:24,200
+ become porous when treated bacteria are placed into a suspension of plasmids the bacterial
+
+319
+00:37:24,200 --> 00:37:31,440
+ cells allow the plasmids back into their cytoplasm of their cell once inside the cell the plasmids
+
+320
+00:37:31,440 --> 00:37:38,480
+ replicate themselves as does the bacteria cell making thousands of copies of our gene
+
+321
+00:37:38,480 --> 00:37:44,720
+ so using this procedure scientists can grow large amounts of bacteria capable of producing
+
+322
+00:37:44,720 --> 00:37:54,920
+ B G H once scientists successfully clone the B G H gene into bacteria cells the bacteria
+
+323
+00:37:54,920 --> 00:38:00,680
+ produce the protein encoded by the gene then the scientists are able to break open the
+
+324
+00:38:00,680 --> 00:38:09,000
+ bacteria cells isolate the B G H protein and inject it in the cows bacteria can be genetically
+
+325
+00:38:09,000 --> 00:38:16,400
+ engineered to produce many proteins of importance for humans for example bacteria are now used
+
+326
+00:38:16,400 --> 00:38:23,240
+ to produce the clotting protein missing from people with hemophilia as well as human insulation
+
+327
+00:38:23,240 --> 00:38:39,160
+ for people or insulin for people with diabetes the FDA or food and drug administration regulates
+
+328
+00:38:39,160 --> 00:38:48,880
+ this the majority of US dairy cows receive daily RB G H injections and the injected cows
+
+329
+00:38:48,880 --> 00:38:57,400
+ will have 20% more milk than those without it the FDA ensures safety of food and food
+
+330
+00:38:57,400 --> 00:39:04,440
+ ingredients so there's no detectable difference between milk from treated and untreated cows
+
+331
+00:39:04,440 --> 00:39:14,320
+ there is literally no way to distinguish RB G H milk from non RB G H milk the RB G H story
+
+332
+00:39:14,320 --> 00:39:20,600
+ is a little different from that of most GMOs because RB G H protein is produced by bacteria
+
+333
+00:39:20,600 --> 00:39:27,440
+ and then administered to cows when organisms are genetically modified the genome itself
+
+334
+00:39:27,440 --> 00:39:35,680
+ is altered so we'll see this in the next sections according to the FDA what differences
+
+335
+00:39:35,680 --> 00:39:42,320
+ are found in milk from cows treated with RB G H versus milk from untreated cows remember
+
+336
+00:39:42,320 --> 00:39:54,900
+ there's actually no detectable difference between these two types of milk unless you've
+
+337
+00:39:54,900 --> 00:40:02,960
+ been making a concerted effort not to you've been consuming genetically modified foods every
+
+338
+00:40:02,960 --> 00:40:09,280
+ day for the past 20 years the majority of the corn and soy grown in the United States
+
+339
+00:40:09,280 --> 00:40:19,600
+ has been genetically modified in fact as we see from the graph GMO foods or GM foods have
+
+340
+00:40:19,600 --> 00:40:30,880
+ increased the production over the past 20 years since 1996 from a low percentage to a
+
+341
+00:40:30,880 --> 00:40:41,920
+ very high percentage
+
+342
+00:40:41,920 --> 00:40:48,080
+ process foods come from GM products like corn syrup which we find in a lot of the foods
+
+343
+00:40:48,080 --> 00:40:56,840
+ and sweets and things that we eat like this great flavored drink here also found in soy
+
+344
+00:40:56,840 --> 00:41:05,920
+ and vegetable oils for some this causes concern let's see if we can figure out why and if there's
+
+345
+00:41:05,920 --> 00:41:17,840
+ any scientific reason why there should be any concern first of all a form of genetically
+
+346
+00:41:17,840 --> 00:41:27,560
+ modifying organisms as food and foods has been occurring for over thousands of years actually
+
+347
+00:41:27,560 --> 00:41:33,160
+ both plants and animals have been subject to human modification by what's called artificial
+
+348
+00:41:33,160 --> 00:41:39,920
+ selection for thousands of years every time a farmer chooses which plants or animals to
+
+349
+00:41:39,920 --> 00:41:46,320
+ use in producing for the next generation he or she is modifying the frequency of alleles
+
+350
+00:41:46,320 --> 00:41:53,400
+ in that population of organisms by artificial selection in fact golden rice was first produced
+
+351
+00:41:53,400 --> 00:41:59,640
+ using artificial selection scientists switch to using the available genetic technologies
+
+352
+00:41:59,640 --> 00:42:05,440
+ when artificial selection techniques were only able to establish strains with slightly
+
+353
+00:42:05,440 --> 00:42:12,880
+ higher than normal beta carotene levels over many generations golden rice can be engineered
+
+354
+00:42:12,880 --> 00:42:20,440
+ to contain more than 20 times the amount of beta carotene in just one generation although
+
+355
+00:42:20,440 --> 00:42:25,720
+ crossing plants to increase nutritive value or breeding those cattle that produce more
+
+356
+00:42:25,720 --> 00:42:31,320
+ milk does not involve moving a gene from one organism to another it does select for the
+
+357
+00:42:31,320 --> 00:42:40,240
+ propagation of particular genes in addition to increasing the rate at which a desirable
+
+358
+00:42:40,240 --> 00:42:46,400
+ trait can be produced the suite of genes available for use is also increased to the use of genetic
+
+359
+00:42:46,400 --> 00:42:55,120
+ technologies for instance two corn plants that are bred together can only draw from traits
+
+360
+00:42:55,120 --> 00:43:03,240
+ coded by genes contained in their genomes I'll go back to this slide with genetic engineering
+
+361
+00:43:03,240 --> 00:43:09,360
+ genes from other organisms can be introduced into the genome it's this slicing of genes
+
+362
+00:43:09,360 --> 00:43:16,040
+ from unrelated organisms that is the source of the most concern about modifying foods to
+
+363
+00:43:16,040 --> 00:43:26,960
+ understand whether these concerns are justified we must first consider how crops are modified
+
+364
+00:43:26,960 --> 00:43:32,840
+ to move a novel gene into a plant a gene must be able to gain access to the plant cell which
+
+365
+00:43:32,840 --> 00:43:39,040
+ means it must be able to move through the plants rigid cell wall moving genes into many
+
+366
+00:43:39,040 --> 00:43:45,080
+ agricultural crops like corn barley and rice can be accomplished using a device called a
+
+367
+00:43:45,080 --> 00:43:59,840
+ gene gun a gene gun shoots DNA coated pellets into a plant cell a small percentage of these
+
+368
+00:43:59,840 --> 00:44:06,480
+ genes may be incorporated into the plant's genome then when a gene from one species is
+
+369
+00:44:06,480 --> 00:44:16,720
+ incorporated into the genome of another it's called the transgenic organism when the embryonic
+
+370
+00:44:16,720 --> 00:44:24,160
+ plant so treated grows into an adult plant all of its cells contain the inserted gene and the
+
+371
+00:44:24,160 --> 00:44:34,680
+ gene will be passed on to its offspring crop plants are genetically modified to increase their
+
+372
+00:44:34,680 --> 00:44:41,460
+ shelf life for one reason tomatoes for instance have been engineered to soften and ripen more
+
+373
+00:44:41,460 --> 00:44:48,200
+ slowly the longer ripening time means that tomatoes stay on the vine longer thus making
+
+374
+00:44:48,200 --> 00:44:53,640
+ them taste better the slower ripening also increases the amount of time that tomatoes will
+
+375
+00:44:53,640 --> 00:44:59,280
+ be appealing to its consumers who don't want to purchase fruit that's over ripe or bruised
+
+376
+00:44:59,280 --> 00:45:07,120
+ genetic engineering techniques also increase crop yield when plants are manipulated to be
+
+377
+00:45:07,120 --> 00:45:15,360
+ resistant to pesticides and herbicides for centuries farmers have tried to increase yields by killing
+
+378
+00:45:15,360 --> 00:45:21,240
+ the pests that damage their crops by controlling the growth of weeds that compete for the nutrients
+
+379
+00:45:21,240 --> 00:45:28,040
+ water and sunlight in the u.s. farmers typically spray high volumes of chemical pesticides and
+
+380
+00:45:28,040 --> 00:45:34,200
+ herbicides directly onto their fields this practice concerns people worried about the
+
+381
+00:45:34,200 --> 00:45:41,320
+ health effects of eating food that's been treated by often toxic and cancer c-cancer
+
+382
+00:45:41,320 --> 00:45:46,960
+ causing chemicals in addition both pesticides and herbicides may leech through the soil
+
+383
+00:45:46,960 --> 00:45:53,640
+ and contaminate drinking water there is hope and even some evidence that plants modified
+
+384
+00:45:53,640 --> 00:46:03,800
+ to be resistant herbicides and pesticides would allow farmers to use less chemicals so that's good
+
+385
+00:46:03,800 --> 00:46:18,480
+ news another concern is that genetically modified crop plants may transfer engineered genes from
+
+386
+00:46:18,480 --> 00:46:25,680
+ modified cramp crop plants to their wild or weedy relatives when rain birds and bees carry
+
+387
+00:46:25,680 --> 00:46:31,760
+ genetically modified pollen to related plants in nearby fields containing genetically or
+
+388
+00:46:31,760 --> 00:46:38,440
+ non genetically modified crops many cultivated crops have retained the ability to interbreed
+
+389
+00:46:38,440 --> 00:46:45,040
+ with their wild relatives in these cases genes from farm crops can mix with genes from wild
+
+390
+00:46:45,040 --> 00:46:51,320
+ crops and with crops grown in nearby farms including those that are meant to be organic
+
+391
+00:46:51,320 --> 00:47:04,520
+ and thus free of GMO products animals can be genetically modified as well
+
+392
+00:47:04,520 --> 00:47:12,400
+ Alaskan salmon have been engineered to carry genes from other fish that make them grow
+
+393
+00:47:12,400 --> 00:47:19,280
+ larger and faster than normal eggs from wild Alaskan salmon are injected with the gene that
+
+394
+00:47:19,280 --> 00:47:26,320
+ codes for growth hormone from other faster growing fish because this gene is injected
+
+395
+00:47:26,320 --> 00:47:31,680
+ into the fertilized egg cell all the cells of the grown salmon would then express this
+
+396
+00:47:31,680 --> 00:47:44,680
+ enhanced version of growth factor these then would be called transgenic salmon the benefits
+
+397
+00:47:44,680 --> 00:47:51,040
+ the salmon can eat less food but grow twice as fast they can be grown in isolation by
+
+398
+00:47:51,040 --> 00:48:00,320
+ cities there's a reduced transportation cost and it prevents interbreeding with wild fish
+
+399
+00:48:00,320 --> 00:48:08,640
+ some concerns though engineered salmon mating can happen with salmon in the wild populations
+
+400
+00:48:08,640 --> 00:48:15,320
+ also these transgenic salmon could also increase competition with organisms around them and
+
+401
+00:48:15,320 --> 00:48:21,600
+ can disrupt food webs it remains to be seen whether consumers will notice any difference
+
+402
+00:48:21,600 --> 00:48:34,360
+ in the taste of modified salmon compared with the unmodified versions that they're used to
+
+403
+00:48:34,360 --> 00:48:38,640
+ eating why were genetically or why were salmon genetically modified letter D to increase their
+
+404
+00:48:38,640 --> 00:48:48,840
+ growth rate using less food in addition to being genetically modified for human dietary
+
+405
+00:48:48,840 --> 00:48:56,660
+ consumption animals can be modified to help humans in other ways biological farming a
+
+406
+00:48:56,660 --> 00:49:03,160
+ blend of the words pharmaceutical and farming biological farming is the production of GMOs
+
+407
+00:49:03,160 --> 00:49:09,880
+ that produce drugs used to treat or prevent disease tobacco plants have been engineered
+
+408
+00:49:09,880 --> 00:49:16,000
+ to produce proteins normally found in human blood goats have been engineered to produce
+
+409
+00:49:16,000 --> 00:49:22,880
+ human blood clotting proteins in their milk concerns about farming include the ethics of
+
+410
+00:49:22,880 --> 00:49:30,520
+ using animals in this manner and the unregulated spread of modified plant or animal genes via
+
+411
+00:49:30,520 --> 00:49:41,400
+ reproduction here in the picture we see a human clotting gene being injected into a fertilized
+
+412
+00:49:41,400 --> 00:49:54,000
+ bag then the female goats pregnant and then the offspring goat goat is being milked with
+
+413
+00:49:54,000 --> 00:50:06,800
+ the proteins being in the goat's milk instead of combining genes from species that would
+
+414
+00:50:06,800 --> 00:50:12,440
+ never mate in nature to produce transgenic organisms scientists have recently discovered
+
+415
+00:50:12,440 --> 00:50:18,660
+ a way to directly alter delete and even replace a DNA sequence in an organism the powerful
+
+416
+00:50:18,660 --> 00:50:29,440
+ new tool scientists are using for a gene editing process is known as CRISPR it stands for clustered
+
+417
+00:50:29,440 --> 00:50:42,200
+ regularly interspace palindromic repeats widespread application of this technology which is faster
+
+418
+00:50:42,200 --> 00:50:47,900
+ more effective and less cumbersome than its predecessor techniques will allow precise
+
+419
+00:50:47,900 --> 00:50:57,560
+ modification of crop plants and animals to delete mutations and to add desired gene sequences
+
+420
+00:50:57,560 --> 00:51:04,760
+ CRISPR is a naturally occurring part of a bacterias immune system its evolution allowed bacteria
+
+421
+00:51:04,760 --> 00:51:12,920
+ to thwart a viral infection by removing genetic information present in an invading virus scientists
+
+422
+00:51:12,920 --> 00:51:19,760
+ have co-opted this bacterial system for use in other organisms there are two components
+
+423
+00:51:19,760 --> 00:51:29,920
+ in the CRISPR system first the first component is a guide that finds the DNA sequence it has
+
+424
+00:51:29,920 --> 00:51:36,800
+ been sent to edit and the second the second is an enzyme that functions like a molecular
+
+425
+00:51:36,800 --> 00:51:47,360
+ scissors to snip out the unwanted DNA and replace it with the corrected DNA sequence
+
+426
+00:51:47,360 --> 00:51:53,640
+ are experimenting with the use of this technique to delete genes that attract pests in crop
+
+427
+00:51:53,640 --> 00:52:00,680
+ plants decreasing the use of pesticides in addition crops may someday be modified to stay
+
+428
+00:52:00,680 --> 00:52:07,040
+ fresh longer or to contain more nutrients or fiber alterations to animals are on the
+
+429
+00:52:07,040 --> 00:52:13,240
+ horizon as well livestock breeders may be able to use CRISPR to produce animals with
+
+430
+00:52:13,240 --> 00:52:20,200
+ more muscle mass and more leaner meat scientists are even attempting to edit genes and pig
+
+431
+00:52:20,200 --> 00:52:28,440
+ embryos to make their organs suitable for transplantation to humans perhaps the most
+
+432
+00:52:28,440 --> 00:52:34,360
+ exciting use of CRISPR is the ability to edit genes involved in reproduction in the mosquito
+
+433
+00:52:34,360 --> 00:52:40,960
+ that causes malaria leading to the eradication of the species of mosquito this would prevent
+
+434
+00:52:40,960 --> 00:52:49,800
+ the deaths of close to 1 million African people a year 70% whom our children like the one pictured
+
+435
+00:52:49,800 --> 00:53:02,880
+ to the right so we've discussed genetically modifying crop plants and other organisms
+
+436
+00:53:02,880 --> 00:53:12,760
+ but how about humans not surprisingly genetic modification of humans has been even more controversial
+
+437
+00:53:12,760 --> 00:53:19,120
+ than modification of other living things from the use of stem cells to cloning of humans
+
+438
+00:53:19,120 --> 00:53:28,720
+ the potential risks and benefits are still emerging stem cells are unspecialized or undifferentiated
+
+439
+00:53:28,720 --> 00:53:35,800
+ precursor cells with an undetermined function they can become whatever they want they typically
+
+440
+00:53:35,800 --> 00:53:43,040
+ have all of their genes turned on nothing's been turned off yet so they can become whatever
+
+441
+00:53:43,040 --> 00:53:52,000
+ and that's the case of like in a zygote after fertilization after the egg divides by mitosis
+
+442
+00:53:52,000 --> 00:53:58,040
+ becomes this ball of cells called a zygote these are all stem cells that have a capacity
+
+443
+00:53:58,040 --> 00:54:08,060
+ to become anything from nerve cells to heart cells to liver cells to skin cells as embryos
+
+444
+00:54:08,060 --> 00:54:14,080
+ develop then the cells become more specialized that's because different genes get turned
+
+445
+00:54:14,080 --> 00:54:21,000
+ off and on within those cells it's like they get their specialized assignment of what they
+
+446
+00:54:21,000 --> 00:54:29,080
+ become and then they're unable to turn back and become anything else when they're specialized
+
+447
+00:54:29,080 --> 00:54:39,640
+ they are now non stem cells and can only make copies of those cell types scientists believe
+
+448
+00:54:39,640 --> 00:54:45,360
+ that stem cells when nudged in a particular direction can become any type of cell and
+
+449
+00:54:45,360 --> 00:54:56,560
+ therefore can serve as this type of all-purpose repair material for the body stem cells can
+
+450
+00:54:56,560 --> 00:55:04,240
+ be isolated from early embryos that are left over after fertility treatments in vitro which
+
+451
+00:55:04,240 --> 00:55:11,480
+ in latin means in glass in vitro fertilization procedures often result in the production of
+
+452
+00:55:11,480 --> 00:55:16,840
+ excess embryos because many egg cells are harvested from a woman who wishes to become
+
+453
+00:55:16,840 --> 00:55:22,040
+ pregnant the egg cells are then mixed with their partner sperm in a petri dish often
+
+454
+00:55:22,040 --> 00:55:27,960
+ resulting in the production of many fertilized eggs that can grow into embryos a few of the
+
+455
+00:55:27,960 --> 00:55:33,320
+ embryos are then implanted into the woman's uterus and then the remaining ones are stored
+
+456
+00:55:33,320 --> 00:55:38,960
+ so that more attempts can be made if pregnancy does not result or if they desire more children
+
+457
+00:55:38,960 --> 00:55:44,880
+ later when the couple achieves their desired number of pregnancies they're faced with the
+
+458
+00:55:44,880 --> 00:55:50,280
+ choice of what to do with the remaining embryos they can choose to discard them and destroy them
+
+459
+00:55:50,280 --> 00:55:57,000
+ they could donate them to other couples who are experiencing fertility problems or allow them
+
+460
+00:55:57,000 --> 00:56:12,280
+ to be used in stem cell research stem cells can also be found in non-embrios or non-embriotic
+
+461
+00:56:12,280 --> 00:56:18,680
+ tissues this includes in the umbilical cord of a newborn and in the primary teeth of
+
+462
+00:56:18,680 --> 00:56:25,080
+ children adult stem cells have been found in a variety of organs and tissues including
+
+463
+00:56:25,080 --> 00:56:31,080
+ in our bone marrow and in some blood vessels and muscles the brain and the liver the role
+
+464
+00:56:31,080 --> 00:56:36,320
+ of stem cells in the adult body is to help maintain tissues and to replace damaged or
+
+465
+00:56:36,320 --> 00:56:44,240
+ disease cells adult stem cell research has in some ways progressed more rapidly than expected
+
+466
+00:56:44,240 --> 00:56:49,480
+ due to the right wide variety of tissues in which these cells can be found but it's been
+
+467
+00:56:49,480 --> 00:56:55,480
+ hampered because these cells also occur in very small numbers in a particular tissue
+
+468
+00:56:55,480 --> 00:57:02,240
+ and will divide only a limited number of times these properties make establishing useful cultures
+
+469
+00:57:02,240 --> 00:57:07,360
+ of stem cells somewhat more difficult when using stem cells derived from adult tissues
+
+470
+00:57:07,360 --> 00:57:21,040
+ versus those from embryos whether derived from embryos or from tissues of children and
+
+471
+00:57:21,040 --> 00:57:27,320
+ adult stem cells can someday possibly be used to replace organs damage in accidents
+
+472
+00:57:27,320 --> 00:57:34,560
+ or organs that are gradually failing due to degenerative diseases some of these diseases
+
+473
+00:57:34,560 --> 00:57:42,000
+ are of the liver the long heart disease multiple sclerosis Alzheimer's and Parkinson's which
+
+474
+00:57:42,000 --> 00:57:51,240
+ start with a slow breakdown of an organ and then progress eventually to organ failure
+
+475
+00:57:51,240 --> 00:57:55,960
+ stem cells could provide healthy tissue to replace those tissues damaged by spinal cord
+
+476
+00:57:55,960 --> 00:58:02,160
+ injuries or burns they could be used to produce healthy tissues as a replacement for damaged
+
+477
+00:58:02,160 --> 00:58:10,600
+ tissues in a type of therapeutic cloning new heart muscle could be produced to replace
+
+478
+00:58:10,600 --> 00:58:16,960
+ damaged heart muscle such as from a heart attack maybe someday a diabetic could be supplied
+
+479
+00:58:16,960 --> 00:58:23,480
+ with a new pancreas and people suffering from some types of arthritis might get replacement
+
+480
+00:58:23,480 --> 00:58:30,240
+ cartilage in order to cushion their joints thousands of people are waiting for organ transplants
+
+481
+00:58:30,240 --> 00:58:37,000
+ and they might one day be saved by this therapeutic cloning done from stem cells if new organs
+
+482
+00:58:37,000 --> 00:58:49,040
+ can be grown in the lab how do stem cells differ from skin cells well stem cells are
+
+483
+00:58:49,040 --> 00:59:02,200
+ undifferentiated or unspecialized they can develop into skin cells but not vice versa
+
+484
+00:59:02,200 --> 00:59:07,520
+ scientists who try to replace defective human genes with functional genes are performing
+
+485
+00:59:07,520 --> 00:59:15,760
+ what's called gene therapy one type of gene therapy is called somatic cell gene therapy
+
+486
+00:59:15,760 --> 00:59:21,840
+ and it can be performed on body cells to fix or replace the defective protein in only the
+
+487
+00:59:21,840 --> 00:59:29,520
+ affected cells in this method scientists introduce a functional version of a defective gene into
+
+488
+00:59:29,520 --> 00:59:35,560
+ the affected individual cell in the lab and it allows the cell to reproduce and then place
+
+489
+00:59:35,560 --> 00:59:46,120
+ the copies of the cell bearing the corrected gene into the diseased person gene therapy
+
+490
+00:59:46,120 --> 00:59:52,840
+ to date has focused on diseases caused by single genes for which defective cells can
+
+491
+00:59:52,840 --> 00:59:58,360
+ be removed from the body treated and then reintroduced to the body for example there
+
+492
+00:59:58,360 --> 01:00:03,200
+ are studies underway to determine whether individuals with genetically inherited lung
+
+493
+01:00:03,200 --> 01:00:11,280
+ disease like cystic fibrosis can be able to breathe in harmless viruses carrying a functioning
+
+494
+01:00:11,280 --> 01:00:18,840
+ copy of the cystic fibrosis gene if that gene gains access to long cells and replaces the
+
+495
+01:00:18,840 --> 01:00:26,880
+ non-functional version of the functional one lung function could improve one additional
+
+496
+01:00:26,880 --> 01:00:33,240
+ type of genetic engineering involves making an exact copy of an entire organism by a process
+
+497
+01:00:33,240 --> 01:00:41,200
+ called reproductive cloning this process has proven to be very controversial for many especially
+
+498
+01:00:41,200 --> 01:00:49,920
+ when the cloning involves humans cloning actually happens naturally in a woman's body when identical
+
+499
+01:00:49,920 --> 01:00:56,640
+ twins are created they're basically human clones of each other this is when an embryo
+
+500
+01:00:56,640 --> 01:01:04,080
+ subdivides into two separate embryos early on in development and then both go on to grow
+
+501
+01:01:04,080 --> 01:01:11,600
+ into their own organism but because they came from the same sperm and egg they're genetically
+
+502
+01:01:11,600 --> 01:01:22,760
+ identical many mammals have been cloned in the lab as well such as sheep cattle goats
+
+503
+01:01:22,760 --> 01:01:38,920
+ pigs horse mice cats rabbits camels and monkeys the process for cloning whole organisms involves
+
+504
+01:01:38,920 --> 01:01:48,000
+ nuclear transfer you start with an egg a nice healthy egg and you remove the nucleus from
+
+505
+01:01:48,000 --> 01:01:56,160
+ it then you take a body cell or a somatic cell of the organism you want to clone and
+
+506
+01:01:56,160 --> 01:02:06,400
+ you remove its nucleus and transplant that nucleus into the big empty egg then you subject
+
+507
+01:02:06,400 --> 01:02:15,360
+ it to some procedures to make it start dividing without fertilization from a sperm and then
+
+508
+01:02:15,360 --> 01:02:24,200
+ it grows into a zygote or an embryo then you implant it into a surrogate mother and
+
+509
+01:02:24,200 --> 01:02:32,720
+ then the clone is born as an infant this process is currently used for animals and it's the
+
+510
+01:02:32,720 --> 01:02:40,800
+ process that was used in the 1990's for the famous dolly the sheep of course there's some
+
+511
+01:02:40,800 --> 01:02:52,240
+ ethical concerns that come with this it appears likely that the same nuclear transfer technique
+
+512
+01:02:52,240 --> 01:02:58,880
+ can be used to clone humans possibly one day but ethical concerns have thus far prevented
+
+513
+01:02:58,880 --> 01:03:04,560
+ this from happening if human cloning does occur it's not clear whether implanted embryos
+
+514
+01:03:04,560 --> 01:03:10,800
+ can survive gestation to be born nor is it known what if any health issues there might
+
+515
+01:03:10,800 --> 01:03:20,560
+ be for human clones such as with dolly the sheep she died of cancer at about what would
+
+516
+01:03:20,560 --> 01:03:30,200
+ normally be midlife for that type of sheep that she was more studies obviously need
+
+517
+01:03:30,200 --> 01:03:37,680
+ to be performed before something like this would be tried with humans but many different
+
+518
+01:03:37,680 --> 01:03:44,560
+ animals have been cloned in the laboratory in this way initial attempts at cloning focused
+
+519
+01:03:44,560 --> 01:03:50,560
+ on livestock that had genetic traits that would make them beneficial to farmers like sheep
+
+520
+01:03:50,560 --> 01:03:56,720
+ that produced high quality wool were the very first cloned animals because the animals genome
+
+521
+01:03:56,720 --> 01:04:04,200
+ is duplicated cloning prized livestock leaves less to chance than simply allowing two animals
+
+522
+01:04:04,200 --> 01:04:14,540
+ to breed another thing to consider is that when you do clone something you might expect
+
+523
+01:04:14,540 --> 01:04:21,520
+ it to have the same personality and temperament and intelligence and such as the original
+
+524
+01:04:21,520 --> 01:04:28,280
+ but is that the truth we all know that there is of course nature but there is nurture as
+
+525
+01:04:28,280 --> 01:04:35,640
+ well every organism has its own experiences as it grows up and matures which then gives
+
+526
+01:04:35,640 --> 01:04:44,840
+ it different temperament different intelligence and different behaviors so which treatment
+
+527
+01:04:44,840 --> 01:04:55,400
+ is used with cystic fibrosis patients remember it was somatic cell gene therapy what human
+
+528
+01:04:55,400 --> 01:05:03,240
+ disease might be repaired by future CRISPR technology well we discussed hemophilia as
+
+529
+01:05:03,240 --> 01:05:11,080
+ one of the examples make sure you look through all of the learning outcomes and make sure
+
+530
+01:05:11,080 --> 01:05:17,840
+ you can do each of these return to the different parts of the lecture and the book and the notes
+
+531
+01:05:17,840 --> 01:05:21,660
+ for anything that you still have questions on or would like to reveal
+

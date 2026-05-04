@@ -1,0 +1,1420 @@
+1
+00:00:00,000 --> 00:00:07,200
+ Hey everybody, Ryan here, and welcome back to our Operative Dentistry series.
+
+2
+00:00:07,200 --> 00:00:12,920
+ This video we will talk all about the cavity preparation, how to classify them, how to
+
+3
+00:00:12,920 --> 00:00:18,040
+ name the different components of them, and finally we'll go through from start to finish
+
+4
+00:00:18,040 --> 00:00:22,580
+ how to do a cavity preparation.
+
+5
+00:00:22,580 --> 00:00:28,680
+ So Green Vardaman Black, better known as GV Black, is one of the founders of modern
+
+6
+00:00:28,680 --> 00:00:34,680
+ dentistry in the US, and he established a lot of the concepts that we'll discuss throughout
+
+7
+00:00:34,680 --> 00:00:40,960
+ this video, one of those being the classification system for cavity preparations, very commonly
+
+8
+00:00:40,960 --> 00:00:43,600
+ tested on board exams.
+
+9
+00:00:43,600 --> 00:00:49,240
+ So let's start with a class 1 decay, which involves the pits and fissures, this is going
+
+10
+00:00:49,240 --> 00:00:55,960
+ to be your occlusal surfaces of the premolars and molars, also the buckle or lingual pits
+
+11
+00:00:55,960 --> 00:01:01,480
+ of upper incisors.
+
+12
+00:01:01,480 --> 00:01:09,240
+ Now we're shifting to class 2 decay, as soon as your occlusal surface of a premolar molar
+
+13
+00:01:09,240 --> 00:01:16,280
+ involves at least one proximal surface, it becomes a class 2 restoration.
+
+14
+00:01:16,280 --> 00:01:23,960
+ So this involves a mesial occlusal or MO, a disto occlusal or DO, or even an MOD, which
+
+15
+00:01:23,960 --> 00:01:31,760
+ involves both the mesial and distal proximal contact areas of those posterior teeth.
+
+16
+00:01:31,760 --> 00:01:38,040
+ Class 3 decay is diagnosed in the proximal surfaces of your incisors and canines, so
+
+17
+00:01:38,040 --> 00:01:46,280
+ class 2 is proximal posterior, class 3 is proximal anterior, but one other important distinction
+
+18
+00:01:46,280 --> 00:01:54,080
+ to make between this type and the next one is that class 3 does not involve the incisal
+
+19
+00:01:54,080 --> 00:01:55,440
+ edge.
+
+20
+00:01:55,440 --> 00:02:01,120
+ So class 4 decay is also the proximal surface of the anterior teeth, but this time it does
+
+21
+00:02:01,120 --> 00:02:04,120
+ involve the incisal angle.
+
+22
+00:02:04,120 --> 00:02:11,320
+ So a class 4 lesion is basically a larger version of class 3 that this time covers the
+
+23
+00:02:11,320 --> 00:02:13,240
+ incisal angle.
+
+24
+00:02:13,240 --> 00:02:20,400
+ Class 5 decay refers to carries in the cervical third of the facial or lingual surface of
+
+25
+00:02:20,400 --> 00:02:24,360
+ any tooth right along the gum line.
+
+26
+00:02:24,360 --> 00:02:30,800
+ So this is a common place to get carries for people with exposed root surfaces, zerostomia,
+
+27
+00:02:30,800 --> 00:02:36,960
+ or an adult in adolescence or young adults with particularly poor oral hygiene.
+
+28
+00:02:36,960 --> 00:02:42,360
+ And finally class 6 decay is probably the rarest one up here, and it refers to decay on the
+
+29
+00:02:42,360 --> 00:02:50,560
+ incisal edge of anterior teeth alone, or a cusp tip or multiple cusp tips of a posterior
+
+30
+00:02:50,560 --> 00:02:51,720
+ tooth.
+
+31
+00:02:51,720 --> 00:02:58,280
+ So this type of unique decay is often caused first by some kind of abrasion or erosion,
+
+32
+00:02:58,280 --> 00:03:04,280
+ and then those defects expose underlying vulnerable dentin that is then cavitated.
+
+33
+00:03:04,280 --> 00:03:09,920
+ So let's get into specifics of the cavity preparation.
+
+34
+00:03:09,920 --> 00:03:17,800
+ So here we are staring at the mesial surface of this lower premolar, and the cemento enamel
+
+35
+00:03:17,800 --> 00:03:22,800
+ junction is down here, the crown of the tooth is up here.
+
+36
+00:03:22,800 --> 00:03:29,440
+ So this is a class 2 cavity because it involves at least one proximal surface of a posterior
+
+37
+00:03:29,440 --> 00:03:37,700
+ tooth, and we'll start by defining what's called the caveau surface margin.
+
+38
+00:03:37,700 --> 00:03:44,760
+ So this is a really important concept to understand, and it's where the cavity preparation meets
+
+39
+00:03:44,760 --> 00:03:51,920
+ the original tooth surface, hence the name caveau for cavity and then surface for the
+
+40
+00:03:51,920 --> 00:03:54,040
+ tooth surface.
+
+41
+00:03:54,040 --> 00:03:59,880
+ So let me show you what that looks like in this image.
+
+42
+00:03:59,880 --> 00:04:08,720
+ If we trace this around here, this is where the original untouched tooth surface meets
+
+43
+00:04:08,720 --> 00:04:13,560
+ the cavity preparation that the dentist has done.
+
+44
+00:04:13,560 --> 00:04:20,800
+ So that is the entire outline of the cavity preparation that is the entirety of the caveau
+
+45
+00:04:20,800 --> 00:04:23,520
+ surface margin in this case.
+
+46
+00:04:23,520 --> 00:04:30,320
+ If you understand that, you're in great shape already for the rest of the concepts we'll
+
+47
+00:04:30,320 --> 00:04:31,320
+ discuss.
+
+48
+00:04:31,320 --> 00:04:33,920
+ So now we can talk about the preparation walls.
+
+49
+00:04:33,920 --> 00:04:38,040
+ Let's start with the external or outer walls.
+
+50
+00:04:38,040 --> 00:04:44,800
+ These are distinct walls of your cavity preparation that contact the caveau surface margin.
+
+51
+00:04:44,800 --> 00:04:50,720
+ So in other words, they are the walls that share an edge with the caveau surface margin.
+
+52
+00:04:50,720 --> 00:04:57,680
+ These walls are named for the outer tooth surface or aspect that they are both parallel
+
+53
+00:04:57,680 --> 00:05:01,520
+ to and closest to.
+
+54
+00:05:01,520 --> 00:05:05,520
+ So remember, we're staring at the mesial surface of this tooth.
+
+55
+00:05:05,520 --> 00:05:11,520
+ And this side to the left is the facial surface of the tooth.
+
+56
+00:05:11,520 --> 00:05:22,700
+ So this external wall here is going to be our facial wall because it is parallel and
+
+57
+00:05:22,700 --> 00:05:27,920
+ closest to the facial surface of the tooth.
+
+58
+00:05:27,920 --> 00:05:34,560
+ Likewise, if I change colors here, if we're looking at the lingual surface of the tooth
+
+59
+00:05:34,560 --> 00:05:42,560
+ here, the wall opposite of the one we just talked about is parallel and closest to the
+
+60
+00:05:42,560 --> 00:05:43,680
+ lingual wall.
+
+61
+00:05:43,680 --> 00:05:51,760
+ So this orange one is going to be our lingual wall of the cavity preparation.
+
+62
+00:05:51,760 --> 00:06:01,800
+ The wall farthest away from us runs parallel and is closest to the distal surface of the
+
+63
+00:06:01,800 --> 00:06:05,560
+ tooth, which is what we cannot see in this image up here.
+
+64
+00:06:05,560 --> 00:06:14,000
+ So that's going to be our distal wall and we don't have a mesial wall because that part
+
+65
+00:06:14,000 --> 00:06:18,480
+ of the tooth was removed as part of the cavity preparation.
+
+66
+00:06:18,480 --> 00:06:21,960
+ We do have another outer wall we have to talk about though and this one down here is a little
+
+67
+00:06:21,960 --> 00:06:28,440
+ bit funky because we don't have a gingival surface of a tooth.
+
+68
+00:06:28,440 --> 00:06:34,120
+ But if you imagine this tooth crown being a six sided cube that the imaginary bottom
+
+69
+00:06:34,120 --> 00:06:39,320
+ surface of that cube would be called the "gingival surface."
+
+70
+00:06:39,320 --> 00:06:47,520
+ And so this floor of a class two cavity preparation is called the gingival wall or more commonly
+
+71
+00:06:47,520 --> 00:06:54,000
+ the gingival floor because it runs parallel to the floor.
+
+72
+00:06:54,000 --> 00:06:59,560
+ Now let's move to the internal walls which are nice and easy because there are only ever
+
+73
+00:06:59,560 --> 00:07:05,120
+ two, one or two names that you need to know for these.
+
+74
+00:07:05,120 --> 00:07:14,320
+ So this one that we've been staring at the entire time right here is called the axial
+
+75
+00:07:14,320 --> 00:07:23,120
+ wall and that's because it runs parallel to the long axis of the tooth.
+
+76
+00:07:23,120 --> 00:07:30,800
+ And finally we have the, I'm running out of colors or finally we have the popo wall or
+
+77
+00:07:30,800 --> 00:07:38,600
+ more commonly the popo floor because it lays flat along the base of the prep and runs just
+
+78
+00:07:38,600 --> 00:07:41,600
+ above the pulp chamber.
+
+79
+00:07:41,600 --> 00:07:47,960
+ In a class one restoration you won't have this cut out proximal box area and so the
+
+80
+00:07:47,960 --> 00:07:54,640
+ only internal wall you would have in a class one preparation is the popo floor.
+
+81
+00:07:54,640 --> 00:07:57,480
+ So hopefully all of that makes some sense.
+
+82
+00:07:57,480 --> 00:08:01,960
+ Alright so some more essential definitions here.
+
+83
+00:08:01,960 --> 00:08:09,480
+ The junction formed between two walls of a cavity preparation.
+
+84
+00:08:09,480 --> 00:08:15,040
+ We're looking at this area here, the junction between in this case the popo floor and the
+
+85
+00:08:15,040 --> 00:08:17,280
+ axial wall.
+
+86
+00:08:17,280 --> 00:08:21,400
+ This area right here is called the line angle.
+
+87
+00:08:21,400 --> 00:08:27,800
+ So anywhere where two walls meet could be here two walls are meeting along here two walls
+
+88
+00:08:27,800 --> 00:08:34,840
+ are meeting any you could pick any point though those are all called line angles.
+
+89
+00:08:34,840 --> 00:08:41,400
+ Now if we have a junction of three walls coming together that point where three walls joined
+
+90
+00:08:41,400 --> 00:08:48,880
+ together like here for example this little point is called a point angle.
+
+91
+00:08:48,880 --> 00:08:55,520
+ So that's our line angle and our point angle so really important terms to know.
+
+92
+00:08:55,520 --> 00:09:00,320
+ Specifically what they're called it depends on the walls that are intersecting there.
+
+93
+00:09:00,320 --> 00:09:08,320
+ So this line angle I drew here is the intersection of the axial wall on the popo floor so that's
+
+94
+00:09:08,320 --> 00:09:19,160
+ called the axial popo line angle this one down here is called the axial lingo gingival
+
+95
+00:09:19,160 --> 00:09:24,680
+ point angle so you just combine all of the involved walls.
+
+96
+00:09:24,680 --> 00:09:30,360
+ This is a quick diagram of a class three preparation you can appreciate how all the names of these
+
+97
+00:09:30,360 --> 00:09:38,200
+ walls sound familiar and they follow the same concepts that we just discussed.
+
+98
+00:09:38,200 --> 00:09:43,360
+ Next we're going to talk about GV Black's preparation steps that are frequently frequently
+
+99
+00:09:43,360 --> 00:09:53,760
+ tested on the board exam and we'll start with the four steps of the initial tooth preparation.
+
+100
+00:09:53,760 --> 00:10:02,080
+ So the outline form defined by GV Black describes the external outline of the tooth surface to
+
+101
+00:10:02,080 --> 00:10:07,840
+ be included in the preparation along the cave surface margin.
+
+102
+00:10:07,840 --> 00:10:11,520
+ So this is where the cave surface margin really shines.
+
+103
+00:10:11,520 --> 00:10:17,560
+ This external perimeter is defined by the extent of the carious lesion.
+
+104
+00:10:17,560 --> 00:10:25,440
+ So you extend mesial distal facial and lingual as needed in order to remove the caries.
+
+105
+00:10:25,440 --> 00:10:32,400
+ This idea of extension for prevention is where you I don't have it listed here but extension
+
+106
+00:10:32,400 --> 00:10:37,600
+ for prevention if you ever have heard that or read that anywhere that refers to the concept
+
+107
+00:10:37,600 --> 00:10:44,080
+ where you remove adjacent defective pits and fissures in addition to caries where caries
+
+108
+00:10:44,080 --> 00:10:54,120
+ could recur at faulty margins if you were to leave those defective pits and fissures untouched.
+
+109
+00:10:54,120 --> 00:10:59,600
+ Importantly though in this step of the outline form you must restrict the initial depth to
+
+110
+00:10:59,600 --> 00:11:08,480
+ just inside the DEJ, the dentin enamel junction that's 0.2 to 0.5 millimeters inside the DEJ.
+
+111
+00:11:08,480 --> 00:11:14,440
+ That should be your initial depth whether or not there are still caries that go deeper.
+
+112
+00:11:14,440 --> 00:11:23,400
+ So the outline form you're working on the width and the length of the prep to remove
+
+113
+00:11:23,400 --> 00:11:29,200
+ all caries, mesial distal facial and lingual but not the depth at this point.
+
+114
+00:11:29,200 --> 00:11:36,040
+ So there may very likely be caries that go deeper into the tooth that we're not concerned
+
+115
+00:11:36,040 --> 00:11:40,920
+ with at this initial stage.
+
+116
+00:11:40,920 --> 00:11:48,320
+ By that token you should extend the gingival floor in class 2 preps in order to get 0.5
+
+117
+00:11:48,320 --> 00:11:50,520
+ millimeters of clearance.
+
+118
+00:11:50,520 --> 00:11:56,400
+ That means space that you can see between this and the adjacent tooth.
+
+119
+00:11:56,400 --> 00:12:02,720
+ So this area down here is what we call gingival clearance between this tooth and the adjacent
+
+120
+00:12:02,720 --> 00:12:03,720
+ tooth.
+
+121
+00:12:03,720 --> 00:12:08,440
+ So it's a good rule of thumb to get at least half a millimeter of clearance to help with
+
+122
+00:12:08,440 --> 00:12:11,280
+ your restoration process.
+
+123
+00:12:11,280 --> 00:12:17,360
+ You can also extend the facial and lingual proximal walls to get 0.5 millimeters of clearance
+
+124
+00:12:17,360 --> 00:12:18,360
+ that way.
+
+125
+00:12:18,360 --> 00:12:25,880
+ So that's talking specifically breaking these contacts between that part of the prep and
+
+126
+00:12:25,880 --> 00:12:27,800
+ the adjacent tooth.
+
+127
+00:12:27,800 --> 00:12:33,560
+ Gingival clearance was talking about this space down here specifically.
+
+128
+00:12:33,560 --> 00:12:38,480
+ So it's also a good idea to get that kind of clearance facially and lingualy unless it
+
+129
+00:12:38,480 --> 00:12:45,000
+ would require unreasonable removal of sound to structure in order to break that contact.
+
+130
+00:12:45,000 --> 00:12:49,480
+ Because we don't want to just get rid of a bunch of healthy to structure if it's going
+
+131
+00:12:49,480 --> 00:12:53,880
+ way out of the way from where the caries is.
+
+132
+00:12:53,880 --> 00:12:58,960
+ But why do we usually want to break the proximal contacts in class 2 preps you might be asking?
+
+133
+00:12:58,960 --> 00:13:03,360
+ Well, it gives us adequate access for the preparation.
+
+134
+00:13:03,360 --> 00:13:06,280
+ We have less potential to nick the adjacent tooth.
+
+135
+00:13:06,280 --> 00:13:13,680
+ It allows for easier placement of the matrix band and easier condensation and carving of
+
+136
+00:13:13,680 --> 00:13:17,040
+ amalgam if that's the restorative material we're using.
+
+137
+00:13:17,040 --> 00:13:23,040
+ All right, so that's about everything that you could be tested on for the outline form.
+
+138
+00:13:23,040 --> 00:13:27,040
+ I talked about having healthy enamel.
+
+139
+00:13:27,040 --> 00:13:33,320
+ This is examples of unhealthy enamel and during the outline form all weakened and unsupported
+
+140
+00:13:33,320 --> 00:13:36,040
+ enamel should be removed.
+
+141
+00:13:36,040 --> 00:13:41,080
+ So friable enamel refers to demineralized enamel that needs to be removed because the
+
+142
+00:13:41,080 --> 00:13:45,400
+ bonding agent is not as effective when used on it.
+
+143
+00:13:45,400 --> 00:13:51,520
+ Unsupported enamel is undermined which also needs to be removed because there's no underlying
+
+144
+00:13:51,520 --> 00:13:58,920
+ healthy dentin to support it, so essentially it's been the dentin that has been supporting
+
+145
+00:13:58,920 --> 00:14:06,640
+ the enamel has been compromised so this enamel is going to be kind of hanging out with no
+
+146
+00:14:06,640 --> 00:14:08,960
+ underlying healthy support.
+
+147
+00:14:08,960 --> 00:14:13,280
+ So both of these types of enamel, they're different but they both have to be removed
+
+148
+00:14:13,280 --> 00:14:14,680
+ for different reasons.
+
+149
+00:14:14,680 --> 00:14:20,800
+ All right, so our second step is getting primary resistance form.
+
+150
+00:14:20,800 --> 00:14:27,000
+ Entrance form is defined as the shape and placement of the preparation walls to enable
+
+151
+00:14:27,000 --> 00:14:34,400
+ both the remaining two structure and the eventual restoration to withstand mass secondary forces
+
+152
+00:14:34,400 --> 00:14:37,440
+ and the associated fracture.
+
+153
+00:14:37,440 --> 00:14:39,600
+ So this involves a couple things.
+
+154
+00:14:39,600 --> 00:14:46,160
+ The floors, here we have our gingival floor and our popal floor of this class II restoration,
+
+155
+00:14:46,160 --> 00:14:55,240
+ the floors should be horizontal in order to best withstand occlusal forces, so flat floors.
+
+156
+00:14:55,240 --> 00:15:01,360
+ If the extension of the preparation is more than half the distance from primary groove
+
+157
+00:15:01,360 --> 00:15:05,280
+ to cusp tip, consider capping the cusp.
+
+158
+00:15:05,280 --> 00:15:12,040
+ So we want to preserve cusps and marginal ridges whenever possible to maintain the tooth's strength
+
+159
+00:15:12,040 --> 00:15:18,160
+ and integrity, but if we ever need to extend the preparation because there are caries that
+
+160
+00:15:18,160 --> 00:15:24,500
+ are compromising that cusps, for example, and we go more than half this distance, we're
+
+161
+00:15:24,500 --> 00:15:31,320
+ encroaching onto that cusp, we have to consider capping this tooth with an onlay or even a
+
+162
+00:15:31,320 --> 00:15:35,800
+ crown in order to maintain its integrity.
+
+163
+00:15:35,800 --> 00:15:39,360
+ Also we want rounded internal line angles.
+
+164
+00:15:39,360 --> 00:15:47,080
+ Here you can see these sharp angles as opposed to the more rounded edges in this one and sharp
+
+165
+00:15:47,080 --> 00:15:56,040
+ line angles act as areas of stress concentration and so rounded line angles are much more desirable.
+
+166
+00:15:56,040 --> 00:16:02,160
+ So here are your aspects of primary resistance form and then we also, usually in tandem with
+
+167
+00:16:02,160 --> 00:16:07,440
+ that, we're thinking about primary retention form.
+
+168
+00:16:07,440 --> 00:16:14,440
+ So retention is defined as prevention of displacement of the restorative material.
+
+169
+00:16:14,440 --> 00:16:20,720
+ So convergent walls is something that we want and this occlusal convergence means that the
+
+170
+00:16:20,720 --> 00:16:27,000
+ walls of the preparation slightly converge in order to lock the restorative material
+
+171
+00:16:27,000 --> 00:16:30,240
+ and prevent it from dislodging occlusal.
+
+172
+00:16:30,240 --> 00:16:35,560
+ So as you go up, the two walls kind of lean in towards each other, the two opposite walls
+
+173
+00:16:35,560 --> 00:16:43,000
+ all throughout this prep so that the material, once it's placed and either sets in the case
+
+174
+00:16:43,000 --> 00:16:49,480
+ of amalgam or is cured in the case of composite, it has a much harder time escaping because
+
+175
+00:16:49,480 --> 00:16:56,160
+ those walls are tipping in towards each other, preventing occlusal displacement.
+
+176
+00:16:56,160 --> 00:17:01,120
+ Dove tailing of the preparation, which you see on the right, prevents proximal displacement
+
+177
+00:17:01,120 --> 00:17:03,040
+ of the restoration.
+
+178
+00:17:03,040 --> 00:17:10,240
+ Another idea, right, the walls are coming in towards each other, this time from our axial
+
+179
+00:17:10,240 --> 00:17:16,480
+ view here and we can see that as these walls are coming in closer, the material when it
+
+180
+00:17:16,480 --> 00:17:24,160
+ sets or is cured is going to have a much harder time escaping in this direction.
+
+181
+00:17:24,160 --> 00:17:29,960
+ We can rely, however, more on bonding if we're using a composite material, which we'll talk
+
+182
+00:17:29,960 --> 00:17:38,320
+ more about later in the series but these features are absolutely essential if you're using amalgam.
+
+183
+00:17:38,320 --> 00:17:44,680
+ And also note how both the 245 and 330 burrs that we talked about in the last video give
+
+184
+00:17:44,680 --> 00:17:52,000
+ you both resistance form because you have these rounded ends of the burr that are naturally
+
+185
+00:17:52,000 --> 00:17:57,880
+ causing rounded internal line angles and also you're getting primary retention form because
+
+186
+00:17:57,880 --> 00:18:04,080
+ that pear shaped occlusal convergence is built into the burr itself.
+
+187
+00:18:04,080 --> 00:18:11,320
+ So that's pretty cool and a smart design choice for those burrs.
+
+188
+00:18:11,320 --> 00:18:14,920
+ Now next we're thinking about convenience form.
+
+189
+00:18:14,920 --> 00:18:19,840
+ Convenience is talking about improved access and visibility as needed.
+
+190
+00:18:19,840 --> 00:18:26,160
+ So this is extension of the preparation in order to provide adequate visibility, accessibility
+
+191
+00:18:26,160 --> 00:18:32,280
+ and just overall ease of operation in preparing and restoring the tooth so you can see what
+
+192
+00:18:32,280 --> 00:18:34,080
+ the heck it is you're doing.
+
+193
+00:18:34,080 --> 00:18:38,440
+ Alright, so that's enough for the initial tooth preparation.
+
+194
+00:18:38,440 --> 00:18:46,080
+ The final prep focuses on removing any remaining defects, pulply and axially, and incorporating
+
+195
+00:18:46,080 --> 00:18:52,920
+ any additional features like liners, slots and pins and we'll talk all about that right
+
+196
+00:18:52,920 --> 00:18:54,760
+ now.
+
+197
+00:18:54,760 --> 00:18:59,720
+ So you might have been wondering well what are we doing about the carries that goes deeper
+
+198
+00:18:59,720 --> 00:19:03,700
+ into the tooth while this is where we take care of it.
+
+199
+00:19:03,700 --> 00:19:09,320
+ So the initial preparation may remove all carries in which case this step is skipped
+
+200
+00:19:09,320 --> 00:19:16,360
+ entirely but if there are carries remaining we have to remove all infected dentin.
+
+201
+00:19:16,360 --> 00:19:21,920
+ So the elimination of any carries tooth structure or faulty restorative material left in the
+
+202
+00:19:21,920 --> 00:19:27,560
+ tooth preparation is happening now and now we are concerned with the depth.
+
+203
+00:19:27,560 --> 00:19:34,000
+ So we've already talked taking care of the length and the width of the initial prep but
+
+204
+00:19:34,000 --> 00:19:40,320
+ now if and only if there are carries remaining pulply or axially this is the step to extend
+
+205
+00:19:40,320 --> 00:19:43,120
+ the prep as needed.
+
+206
+00:19:43,120 --> 00:19:47,440
+ So all of this infected dentin needs to go.
+
+207
+00:19:47,440 --> 00:19:52,520
+ Now we might get to the point where we're getting very close to the pulp if it is a very
+
+208
+00:19:52,520 --> 00:20:00,120
+ large filling for instance and so pulp protection is the next thing that we consider to protect
+
+209
+00:20:00,120 --> 00:20:04,520
+ the pulp or aid pulp or recovery if indicated.
+
+210
+00:20:04,520 --> 00:20:08,840
+ So if we're doing some deep excavation and we're getting close to the pulp we may have
+
+211
+00:20:08,840 --> 00:20:14,240
+ to consider an indirect pulp cap with some kind of base material.
+
+212
+00:20:14,240 --> 00:20:20,400
+ If we have a pulp exposure it's a less than 1 millimeter in diameter and it's asymptomatic
+
+213
+00:20:20,400 --> 00:20:27,080
+ we can consider a direct pulp cap with a liner and a base and if it's greater than 1 millimeter
+
+214
+00:20:27,080 --> 00:20:33,200
+ exposure either carriers exposure that carries just feeds right into the pulp or it's a mechanical
+
+215
+00:20:33,200 --> 00:20:41,400
+ exposure on the by the operator and it's symptomatic we have to think about some kind of pulpotomy
+
+216
+00:20:41,400 --> 00:20:43,120
+ or root canal treatment.
+
+217
+00:20:43,120 --> 00:20:47,880
+ So let's talk to some more specifics of the materials used here and these things that
+
+218
+00:20:47,880 --> 00:20:52,640
+ are frequently popping up on the board exams.
+
+219
+00:20:52,640 --> 00:20:59,200
+ So sealer and desensitizer is kind of a thing you can use in most of the preparations that
+
+220
+00:20:59,200 --> 00:21:03,440
+ you do that go into the dentin layer especially if you're concerned with sensitivity issues
+
+221
+00:21:03,440 --> 00:21:05,160
+ down the road.
+
+222
+00:21:05,160 --> 00:21:10,680
+ It includes dentinol tubules by cross-linking tubular proteins.
+
+223
+00:21:10,680 --> 00:21:17,560
+ So it blocks up and clogs up the tubules that as we talked about with the hypersensitivity
+
+224
+00:21:17,560 --> 00:21:23,920
+ theory result in that sensitivity that patients often feel.
+
+225
+00:21:23,920 --> 00:21:29,400
+ This is for if you have two millimeters or more of dentin remaining between the depth
+
+226
+00:21:29,400 --> 00:21:32,120
+ of the defect and the pulp.
+
+227
+00:21:32,120 --> 00:21:34,040
+ Gluma is probably the most commonly used.
+
+228
+00:21:34,040 --> 00:21:40,560
+ It's a combination of glutaraldehyde and hema which is where it gets its name from and
+
+229
+00:21:40,560 --> 00:21:43,480
+ water as well.
+
+230
+00:21:43,480 --> 00:21:49,760
+ Liner is used for direct or near pulp exposures so now we're getting closer to encroaching
+
+231
+00:21:49,760 --> 00:21:51,320
+ on that pulp tissue.
+
+232
+00:21:51,320 --> 00:21:57,960
+ It provides a barrier to protect dentin from residual reactants, the restoration and oral
+
+233
+00:21:57,960 --> 00:21:58,960
+ fluids.
+
+234
+00:21:58,960 --> 00:22:05,360
+ It provides insulation, thermal protection and also popo treatment it can actually cause
+
+235
+00:22:05,360 --> 00:22:12,320
+ the odonna blast in here to form tertiary reparative dentin.
+
+236
+00:22:12,320 --> 00:22:20,240
+ And calcium hydroxide or dical is frequently used as a liner and then a base can be used
+
+237
+00:22:20,240 --> 00:22:23,960
+ for metal restorations and when liner is used.
+
+238
+00:22:23,960 --> 00:22:30,920
+ So it goes over the liner in order to protect it from being resorbed and washed out.
+
+239
+00:22:30,920 --> 00:22:36,760
+ The base also provides thermal protection and can distribute local stress across all
+
+240
+00:22:36,760 --> 00:22:39,800
+ the underlying dentin.
+
+241
+00:22:39,800 --> 00:22:45,920
+ Resin modified glass ionomer which is what this stands for is frequently used as a base,
+
+242
+00:22:45,920 --> 00:22:51,400
+ vitre bond is our example here.
+
+243
+00:22:51,400 --> 00:22:56,000
+ So here's a quick reference chart for what material you're using as your restorative
+
+244
+00:22:56,000 --> 00:23:02,480
+ material, how far from the pulp you are, which is the remaining dentin thickness.
+
+245
+00:23:02,480 --> 00:23:08,560
+ That's what that means and what pulp protective materials you might consider using in each
+
+246
+00:23:08,560 --> 00:23:10,520
+ of those scenarios.
+
+247
+00:23:10,520 --> 00:23:15,800
+ So feel free to take a screenshot of this if you like for future reference while you're
+
+248
+00:23:15,800 --> 00:23:20,360
+ studying.
+
+249
+00:23:20,360 --> 00:23:27,240
+ So now we can think about once all the carries are removed, the pulp is protected if needed.
+
+250
+00:23:27,240 --> 00:23:32,640
+ We can think about secondary resistance and retention features.
+
+251
+00:23:32,640 --> 00:23:36,280
+ So these include things like retentive grooves.
+
+252
+00:23:36,280 --> 00:23:44,280
+ These are little shallow grooves that are placed often with a 169L or a quarter round
+
+253
+00:23:44,280 --> 00:23:51,440
+ burr just inside the dentin enamel junction to help prevent displacement of the material
+
+254
+00:23:51,440 --> 00:23:55,760
+ proximally in this case is going to prevent it from moving this way, but it can also be
+
+255
+00:23:55,760 --> 00:24:00,120
+ placed in areas to prevent occlusal displacement as well.
+
+256
+00:24:00,120 --> 00:24:05,440
+ It's mostly done for amalgam restorations that don't have that benefit of enamel and
+
+257
+00:24:05,440 --> 00:24:08,480
+ dentin bonding.
+
+258
+00:24:08,480 --> 00:24:15,320
+ You can also use beveled enamel margins as seen here and beveled margins provide more
+
+259
+00:24:15,320 --> 00:24:24,400
+ surface area and roughness for enamel bonding with composite slots and pins can be used
+
+260
+00:24:24,400 --> 00:24:28,960
+ interchangeably and offer similar amounts of retention.
+
+261
+00:24:28,960 --> 00:24:36,320
+ Now typically these things are only used for complex amalgam restorations that are either
+
+262
+00:24:36,320 --> 00:24:43,880
+ missing cusps and/or external walls entirely in order to help bolster their resistance
+
+263
+00:24:43,880 --> 00:24:49,400
+ and retention form because again with amalgam you cannot rely on bonding.
+
+264
+00:24:49,400 --> 00:24:56,240
+ So slots we see a slot right here in this complex prep and it has to be at least one
+
+265
+00:24:56,240 --> 00:25:05,880
+ millimeter deep, one millimeter long and about 0.5 millimeters inside that dentin enamel junction.
+
+266
+00:25:05,880 --> 00:25:14,240
+ And pins can also be used, self threading are the most common and usually where a vertical
+
+267
+00:25:14,240 --> 00:25:16,160
+ wall is missing.
+
+268
+00:25:16,160 --> 00:25:22,600
+ Here is an example of a little pin there that's placed kind of in line where you can imagine
+
+269
+00:25:22,600 --> 00:25:29,000
+ that cusp tip was at some point before the tooth was prepped.
+
+270
+00:25:29,000 --> 00:25:35,360
+ So those are some cool tips and tricks to use for adding additional retention and resistance
+
+271
+00:25:35,360 --> 00:25:40,880
+ form in addition to what you've already done in the initial prep stage, just bolster the
+
+272
+00:25:40,880 --> 00:25:44,360
+ longevity of that restoration.
+
+273
+00:25:44,360 --> 00:25:46,600
+ And finally we just want to finish external walls.
+
+274
+00:25:46,600 --> 00:25:51,080
+ So establish design and smoothness of that capo surface margin.
+
+275
+00:25:51,080 --> 00:25:57,560
+ We also want to clean and inspect the preparation before progressing to the restoration phase.
+
+276
+00:25:57,560 --> 00:26:02,040
+ But that's it for the eight steps of the cavity preparation.
+
+277
+00:26:02,040 --> 00:26:05,040
+ So definitely commit those eight steps to memory.
+
+278
+00:26:05,040 --> 00:26:11,080
+ This is some really good board exam stuff there.
+
+279
+00:26:11,080 --> 00:26:15,720
+ The moisture control is something that's being done during the preparation and restoration
+
+280
+00:26:15,720 --> 00:26:16,720
+ process.
+
+281
+00:26:16,720 --> 00:26:21,280
+ I've already talked about stuff like this in other series, but you can use rubber dam,
+
+282
+00:26:21,280 --> 00:26:27,720
+ cotton rolls, dry angle suction, local anesthetic if it has epinephrine, it can also prevent
+
+283
+00:26:27,720 --> 00:26:35,080
+ some bleeding and prevention of circular fluid, saliva and blood from contaminating where you're
+
+284
+00:26:35,080 --> 00:26:41,440
+ working is the idea behind these moisture control measures.
+
+285
+00:26:41,440 --> 00:26:46,080
+ So we're going to finish this video with some specifics concerning preparation design for
+
+286
+00:26:46,080 --> 00:26:52,680
+ amalgam, composite and gold.
+
+287
+00:26:52,680 --> 00:26:59,600
+ So we can use for an amalgam preparation any kind of burr that we prefer, but the board
+
+288
+00:26:59,600 --> 00:27:06,840
+ exam does like to say the carbide burr is preferred because you get these smoother walls.
+
+289
+00:27:06,840 --> 00:27:11,160
+ For amalgam, we don't really need or want roughened walls.
+
+290
+00:27:11,160 --> 00:27:15,240
+ Smooth walls are preferable retention.
+
+291
+00:27:15,240 --> 00:27:19,840
+ We get from occlusal convergence, mostly which we talked about, and then you can also add
+
+292
+00:27:19,840 --> 00:27:25,640
+ those groove slots or pins for some secondary retention if you like.
+
+293
+00:27:25,640 --> 00:27:27,120
+ Resistance for the tooth.
+
+294
+00:27:27,120 --> 00:27:32,640
+ We want to maintain a 90 degree cavosurface margin.
+
+295
+00:27:32,640 --> 00:27:34,160
+ So what does that mean exactly?
+
+296
+00:27:34,160 --> 00:27:42,000
+ That means that this tooth surface and this part of the cavosurface margin form a 90 degree
+
+297
+00:27:42,000 --> 00:27:43,920
+ angle.
+
+298
+00:27:43,920 --> 00:27:49,960
+ So here and here should be 90 degree angles for the best resistance, the least likelihood
+
+299
+00:27:49,960 --> 00:27:56,320
+ of fracture of that tooth surface is to maintain that 90 degree cavosurface margin.
+
+300
+00:27:56,320 --> 00:27:58,600
+ That's really, really helpful.
+
+301
+00:27:58,600 --> 00:28:02,640
+ We also want to maintain cusps and marginal ridges.
+
+302
+00:28:02,640 --> 00:28:06,320
+ Those are the parts of the tooth that offer the most strength.
+
+303
+00:28:06,320 --> 00:28:11,720
+ We want to remove that unsupported or friable enamel that we talked about before.
+
+304
+00:28:11,720 --> 00:28:18,840
+ We want to maintain flat, popol and gingival floors, rounded internal line angles, and
+
+305
+00:28:18,840 --> 00:28:22,600
+ pins can offer secondary resistance as well.
+
+306
+00:28:22,600 --> 00:28:25,480
+ So that's just a review of all the things we talked about.
+
+307
+00:28:25,480 --> 00:28:30,880
+ Now in terms of the resistance of the amalgam material, we also want that to be 90 degrees
+
+308
+00:28:30,880 --> 00:28:36,320
+ and that makes sense because if we have 90 degree angle here, we're naturally going to
+
+309
+00:28:36,320 --> 00:28:41,680
+ have a 90 degree angle between this part of the cavosurface margin and the amalgam that
+
+310
+00:28:41,680 --> 00:28:44,880
+ will restore that missing tooth structure.
+
+311
+00:28:44,880 --> 00:28:50,080
+ So 90 and 90, easy to remember, for the board exam.
+
+312
+00:28:50,080 --> 00:28:54,800
+ And we didn't talk about this before, but we want at least 1 1/2 to 2 millimeters depth
+
+313
+00:28:54,800 --> 00:29:00,560
+ of the preparation for adequate restorative thickness of the amalgam.
+
+314
+00:29:00,560 --> 00:29:06,260
+ Which coincidentally, you'll have this if you're at least 0.2 millimeters inside the
+
+315
+00:29:06,260 --> 00:29:10,440
+ DEJ because the enamel is at least 2 millimeters thick.
+
+316
+00:29:10,440 --> 00:29:15,840
+ Now if the amalgam material is too thin, it will likely fracture.
+
+317
+00:29:15,840 --> 00:29:23,480
+ So that's why you want to have at least this minimal depth of restorative material.
+
+318
+00:29:23,480 --> 00:29:30,400
+ For the composite preparation, the board exam likes to prefer us to use coarse diamonds in
+
+319
+00:29:30,400 --> 00:29:33,240
+ order to have rough walls.
+
+320
+00:29:33,240 --> 00:29:36,760
+ So remember I said before, we want smooth walls for amalgam.
+
+321
+00:29:36,760 --> 00:29:43,240
+ For composite, the rough walls offer more surface area, which gives us better retention
+
+322
+00:29:43,240 --> 00:29:44,980
+ when we're bonding.
+
+323
+00:29:44,980 --> 00:29:48,880
+ So that's why coarse diamonds can be preferred.
+
+324
+00:29:48,880 --> 00:29:55,800
+ The next thing here is that really all of those philosophies stay true for composite, except
+
+325
+00:29:55,800 --> 00:30:00,880
+ there's not really a need for those retentive features, those secondary features we talked
+
+326
+00:30:00,880 --> 00:30:07,000
+ about, grooves, slats, pins, things like that, occlusal convergence isn't as needed, it's
+
+327
+00:30:07,000 --> 00:30:12,600
+ still a good practice to keep, but it's not as relied upon.
+
+328
+00:30:12,600 --> 00:30:15,440
+ And we don't need as much of a uniform depth.
+
+329
+00:30:15,440 --> 00:30:20,360
+ So the basic idea here is there's a lot, a little bit more freedom, and we can perform
+
+330
+00:30:20,360 --> 00:30:27,040
+ what's called a conservative prep design and save more to structure as opposed to a strictly
+
+331
+00:30:27,040 --> 00:30:36,800
+ conventional prep design that focuses very strictly on retention and resistance features.
+
+332
+00:30:36,800 --> 00:30:39,200
+ And lastly, the gold onlay preparation.
+
+333
+00:30:39,200 --> 00:30:44,320
+ I'm not going to go into too much depth here, because this gets really convoluted, but the
+
+334
+00:30:44,320 --> 00:30:49,200
+ most important things to know for the board exam are what these terms mean.
+
+335
+00:30:49,200 --> 00:30:55,160
+ So again, the gold onlay preparation can get very, very complex, but if you can just think
+
+336
+00:30:55,160 --> 00:31:02,360
+ of these couple quick, these nice, what do you call them, buzzwords we'll call them for
+
+337
+00:31:02,360 --> 00:31:06,120
+ the board exam, because sometimes these words show up and it's just kind of nice to know
+
+338
+00:31:06,120 --> 00:31:07,120
+ what they might mean.
+
+339
+00:31:07,120 --> 00:31:14,000
+ So a collar is talking about this beveled shoulder around a capped cusp for in order
+
+340
+00:31:14,000 --> 00:31:21,600
+ to offer resistance form, this bracing effect, and a skirt is an even less aggressive and
+
+341
+00:31:21,600 --> 00:31:27,240
+ a mini preparation around a capped cusp with like a feather edge margin.
+
+342
+00:31:27,240 --> 00:31:33,400
+ And both of these things provide secondary resistance and retention form for your gold
+
+343
+00:31:33,400 --> 00:31:37,000
+ onlay preparation.
+
+344
+00:31:37,000 --> 00:31:41,520
+ Alright so that's it for this video guys, thank you so much for watching.
+
+345
+00:31:41,520 --> 00:31:46,400
+ Please like this video if you enjoyed it, and subscribe to this channel for much more
+
+346
+00:31:46,400 --> 00:31:47,400
+ on dentistry.
+
+347
+00:31:47,400 --> 00:31:52,600
+ If you're interested in supporting this channel, and what I do here, please check out my Patreon
+
+348
+00:31:52,600 --> 00:31:53,920
+ page.
+
+349
+00:31:53,920 --> 00:32:01,280
+ Thank you to Michael Raja, Rev Boyd, Rhea Wadwa, Jonathan Muff, Eric Demadio, Alexa
+
+350
+00:32:01,280 --> 00:32:08,160
+ Clunder, David Jaden, Isabella Kaldis, Ali Benjir, Badir Hefnawi, and all of my patrons
+
+351
+00:32:08,160 --> 00:32:09,720
+ for their support.
+
+352
+00:32:09,720 --> 00:32:14,200
+ You can unlock things like access to these video slides, so you can take notes on them
+
+353
+00:32:14,200 --> 00:32:20,760
+ while you're studying, and practice questions with explained answers, and all that for board
+
+354
+00:32:20,760 --> 00:32:24,440
+ exam prep, so go check that out, the link is in the description.
+
+355
+00:32:24,440 --> 00:32:27,480
+ Thanks again for watching everyone, and I'll see you in the next video.
+

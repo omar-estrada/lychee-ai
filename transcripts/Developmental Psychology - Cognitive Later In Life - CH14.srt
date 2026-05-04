@@ -1,0 +1,1964 @@
+1
+00:00:00,000 --> 00:00:07,740
+ Chapter 14 and 15 are going to be covering the later part of our life, as many people
+
+2
+00:00:07,740 --> 00:00:12,500
+ like to call it our senior years.
+
+3
+00:00:12,500 --> 00:00:20,000
+ Demographics is the study of how people change across time within certain societies.
+
+4
+00:00:20,000 --> 00:00:24,640
+ In healthcare, we do a lot of demographic studies, and the reason for this is that we
+
+5
+00:00:24,640 --> 00:00:31,680
+ need to understand how our current environment is changing.
+
+6
+00:00:31,680 --> 00:00:34,740
+ So what is the population going to look like today?
+
+7
+00:00:34,740 --> 00:00:37,520
+ What's the population going to look like five years from now?
+
+8
+00:00:37,520 --> 00:00:38,880
+ Ten years from now?
+
+9
+00:00:38,880 --> 00:00:45,360
+ If we have a lot of young people, let's say between 16 and 18, or let's make it even
+
+10
+00:00:45,360 --> 00:00:51,080
+ younger, 10 to 18, we can predict that that number of people have a potential for having
+
+11
+00:00:51,080 --> 00:00:54,560
+ babies between the ages of 20 and 30.
+
+12
+00:00:54,560 --> 00:00:57,240
+ So we kind of might know how many babies we have coming.
+
+13
+00:00:57,240 --> 00:01:02,160
+ If we have a lot of people between 50 and 55, or between 50 and 60, let's say, in the
+
+14
+00:01:02,160 --> 00:01:06,000
+ next 10 years, we can predict how many people we're going to have between the ages of 60
+
+15
+00:01:06,000 --> 00:01:09,520
+ and 70, and the type of healthcare that they're going to need.
+
+16
+00:01:09,520 --> 00:01:14,280
+ So demographics is something that we study an enormous amount here in healthcare, especially
+
+17
+00:01:14,280 --> 00:01:16,560
+ if you decide you want to go into public health.
+
+18
+00:01:16,560 --> 00:01:18,880
+ It is how we determine the number of beds that we have.
+
+19
+00:01:18,880 --> 00:01:24,560
+ It is how we determine how many doctors really can suit an area, how many nurses we might
+
+20
+00:01:24,560 --> 00:01:25,560
+ have.
+
+21
+00:01:25,560 --> 00:01:33,080
+ Demographics is extremely important within understanding the availability and the potential
+
+22
+00:01:33,080 --> 00:01:38,680
+ for delivering healthcare needs to basic our entire society.
+
+23
+00:01:38,680 --> 00:01:42,440
+ It isn't just about aging, it isn't just about seniors.
+
+24
+00:01:42,440 --> 00:01:46,720
+ We got to look at the demographics of how many young kids there are, so we can determine
+
+25
+00:01:46,720 --> 00:01:51,280
+ how many elementary schools we might need, and how many middle schools, and how many junior
+
+26
+00:01:51,280 --> 00:01:54,400
+ high schools or high schools we might need.
+
+27
+00:01:54,400 --> 00:01:59,760
+ So demographics is actually something that we take a look a lot at here in pretty much
+
+28
+00:01:59,760 --> 00:02:07,320
+ all medical fields, including psychology and physical.
+
+29
+00:02:07,320 --> 00:02:11,360
+ You would think that talking about longevity would be pretty straightforward, but it's
+
+30
+00:02:11,360 --> 00:02:12,520
+ not.
+
+31
+00:02:12,520 --> 00:02:14,800
+ Here we have three different ways to look at longevity.
+
+32
+00:02:14,800 --> 00:02:18,680
+ I think your textbook might even have four different ways to look at longevity.
+
+33
+00:02:18,680 --> 00:02:24,760
+ So maximum life expectancy is what is a life that any human could have?
+
+34
+00:02:24,760 --> 00:02:28,800
+ What is the maximum life that potentially a human could have?
+
+35
+00:02:28,800 --> 00:02:34,480
+ So right now, we're saying maybe about 120 years could possibly be the longest right
+
+36
+00:02:34,480 --> 00:02:35,480
+ now.
+
+37
+00:02:35,480 --> 00:02:39,360
+ That means that somebody born already, and they might even be only a year or two, might
+
+38
+00:02:39,360 --> 00:02:43,840
+ make it to 120 years of age, and we've had some pretty long living people.
+
+39
+00:02:43,840 --> 00:02:49,000
+ But as you know, that's a rarity, but that would be the maximum life expectancy.
+
+40
+00:02:49,000 --> 00:02:55,080
+ Whereas useful life expectancy is the number of year a person lives from any kind of debilitating
+
+41
+00:02:55,080 --> 00:02:57,200
+ or chronic disease.
+
+42
+00:02:57,200 --> 00:03:02,600
+ So if you develop Alzheimer's, as we're going to talk about later, that's a chronic disease.
+
+43
+00:03:02,600 --> 00:03:08,200
+ The question is, how many years might you live before you develop something such as that?
+
+44
+00:03:08,200 --> 00:03:11,160
+ Average life expectancy is what you generally hear people talk about.
+
+45
+00:03:11,160 --> 00:03:13,320
+ What's your average life expectancy?
+
+46
+00:03:13,320 --> 00:03:19,040
+ Now one of the keys here, and we tend to forget this in the definition, is that it is basically
+
+47
+00:03:19,040 --> 00:03:24,300
+ half the people are still alive that were born in a particular year.
+
+48
+00:03:24,300 --> 00:03:31,360
+ So half of the people born in a particular year will have died.
+
+49
+00:03:31,360 --> 00:03:36,720
+ So when we say the average life expectancy of a woman, let's say is 80, what we're saying
+
+50
+00:03:36,720 --> 00:03:43,840
+ is is that when she was born, 80 years later, half the people who were born are still alive.
+
+51
+00:03:43,840 --> 00:03:49,440
+ So if there were a million people born, there's only 500,000 people now.
+
+52
+00:03:49,440 --> 00:03:53,760
+ That's 500,000 people who are 80 years of age.
+
+53
+00:03:53,760 --> 00:03:59,000
+ We tend to think if you've made it to average life expectancy, you've done really well.
+
+54
+00:03:59,000 --> 00:04:04,360
+ Not really, you've done on average, because half of the people born have already died.
+
+55
+00:04:04,360 --> 00:04:10,160
+ So a lot of people died in infancy, some people died in their 20s, 30s, 40s, and so on and
+
+56
+00:04:10,160 --> 00:04:11,420
+ so forth.
+
+57
+00:04:11,420 --> 00:04:16,280
+ So what we're basically having is a lot more seniors than most people tend to think if
+
+58
+00:04:16,280 --> 00:04:19,040
+ we're looking at average life expectancy as being 80.
+
+59
+00:04:19,040 --> 00:04:23,640
+ That means half the people born 80 years ago are still alive.
+
+60
+00:04:23,640 --> 00:04:28,760
+ One of the interesting statistics that I read not too long ago said that if you make it
+
+61
+00:04:28,760 --> 00:04:37,200
+ to 65, relatively healthy, doesn't mean perfect, but relatively healthy, that on average people
+
+62
+00:04:37,200 --> 00:04:39,360
+ live another 20 years.
+
+63
+00:04:39,360 --> 00:04:45,600
+ So if you make it to 65 without too many debilitating diseases, the basic ones of old age, then
+
+64
+00:04:45,600 --> 00:04:50,360
+ you're probably going to make it to 85, and that's half the people make it to 65.
+
+65
+00:04:50,360 --> 00:04:55,760
+ So again, if we have 2 million people who've made it to 65, that means that 85, we're still
+
+66
+00:04:55,760 --> 00:04:58,160
+ going to have a million people alive.
+
+67
+00:04:58,160 --> 00:05:01,840
+ That's a lot of seniors that we start thinking about the baby boomers.
+
+68
+00:05:01,840 --> 00:05:05,800
+ Also the other thing I kind of throw out to you, since most of you sort of expect to be
+
+69
+00:05:05,800 --> 00:05:12,560
+ somewhat healthy at 65, have you saved enough money to live another 20, maybe even 30 years
+
+70
+00:05:12,560 --> 00:05:15,560
+ beyond retirement?
+
+71
+00:05:15,560 --> 00:05:21,640
+ It's one reason why people in the finance world constantly are asking you all to start
+
+72
+00:05:21,640 --> 00:05:24,880
+ saving money and start thinking about your retirement.
+
+73
+00:05:24,880 --> 00:05:29,480
+ You may be retired for as long as you have worked for some of you.
+
+74
+00:05:29,480 --> 00:05:36,480
+ You work for 30 years, and then you're retired for 30 years.
+
+75
+00:05:36,480 --> 00:05:42,640
+ So one of the things that also asks is, is it genetics or heredity that tends to make
+
+76
+00:05:42,640 --> 00:05:46,840
+ a difference in our livelihood, you might say?
+
+77
+00:05:46,840 --> 00:05:51,280
+ Heredity seems to be the biggest thing as far as longevity, especially those who've lived
+
+78
+00:05:51,280 --> 00:05:56,480
+ to be 100, and I love these pictures because they have these people who tried to pose exactly
+
+79
+00:05:56,480 --> 00:06:00,240
+ like they did in these pictures they have of themselves.
+
+80
+00:06:00,240 --> 00:06:04,760
+ We do know though that environmental play has come in.
+
+81
+00:06:04,760 --> 00:06:09,680
+ Things such as smoking and other risky behaviors, toxins that might be in the air, certain diseases
+
+82
+00:06:09,680 --> 00:06:16,480
+ that go around may also result in certain areas having death.
+
+83
+00:06:16,480 --> 00:06:23,000
+ As a good example, in Utah, there's a very high risk of breast cancer and breast cancer
+
+84
+00:06:23,000 --> 00:06:29,840
+ deaths, and yet they don't have the disease, they don't have risky behaviors, they're
+
+85
+00:06:29,840 --> 00:06:36,160
+ actually very healthy as far as women are concerned, but in this case it's toxins because of the
+
+86
+00:06:36,160 --> 00:06:39,560
+ radio fallout from the nuclear testing that was done.
+
+87
+00:06:39,560 --> 00:06:43,960
+ There are their huge clusters of breast cancer in Utah.
+
+88
+00:06:43,960 --> 00:06:49,480
+ So we have to also understand there are going to be some things that are in the environment
+
+89
+00:06:49,480 --> 00:06:57,840
+ that could affect longevity, but most of it actually is going to be heredity.
+
+90
+00:06:57,840 --> 00:07:01,080
+ Gender does make a difference in your life expectancy.
+
+91
+00:07:01,080 --> 00:07:07,200
+ Women in general live longer than men, and as you can see by the slide, at birth we live
+
+92
+00:07:07,200 --> 00:07:12,040
+ about five years longer than men if we're going from birth to average age.
+
+93
+00:07:12,040 --> 00:07:18,360
+ If though both people make it to 85, then basically a woman's only going to outlive the
+
+94
+00:07:18,360 --> 00:07:20,720
+ man by about one year.
+
+95
+00:07:20,720 --> 00:07:24,640
+ So that's why this may look a little bit disconcerting at first.
+
+96
+00:07:24,640 --> 00:07:27,960
+ So from birth to average age, that's five years.
+
+97
+00:07:27,960 --> 00:07:34,760
+ But if they both make it to 85, the woman will probably make it to 86.
+
+98
+00:07:34,760 --> 00:07:40,120
+ One thing we do need to think about though is why are our senior centers and our assist
+
+99
+00:07:40,120 --> 00:07:44,720
+ living homes and our nursing homes just full of little white hair women?
+
+100
+00:07:44,720 --> 00:07:51,160
+ Well, it's pretty easy because we do say that women tend to outlive men by five years.
+
+101
+00:07:51,160 --> 00:07:54,280
+ So let's say that we have a married couple.
+
+102
+00:07:54,280 --> 00:08:01,240
+ She's 70, and he is 75, I guess I should use two different colors.
+
+103
+00:08:01,240 --> 00:08:05,520
+ Now he dies, unfortunately, at 75.
+
+104
+00:08:05,520 --> 00:08:13,160
+ So she's got five more years to get to be 75, that would be equal to when he died.
+
+105
+00:08:13,160 --> 00:08:19,640
+ But because she lives longer, she's probably going to live to be 80, which means that she
+
+106
+00:08:19,640 --> 00:08:24,600
+ has outlived her husband by about 10 years.
+
+107
+00:08:24,600 --> 00:08:26,960
+ And on average, that's what we see.
+
+108
+00:08:26,960 --> 00:08:33,400
+ Older women will outlive their husbands by about 10 years.
+
+109
+00:08:33,400 --> 00:08:38,960
+ Your book goes into some of the biological theories of aging, and a lot of this is very
+
+110
+00:08:38,960 --> 00:08:42,020
+ easy to read and go straight through.
+
+111
+00:08:42,020 --> 00:08:45,080
+ So I'm not going to spend a whole lot of time on it, because a lot of these questions
+
+112
+00:08:45,080 --> 00:08:49,920
+ that you're going to have coming up are going to be basically kind of fact-based questions.
+
+113
+00:08:49,920 --> 00:08:57,240
+ So the rate of living theory basically says that when we are born, our metabolism is already
+
+114
+00:08:57,240 --> 00:08:59,760
+ sort of preset.
+
+115
+00:08:59,760 --> 00:09:05,360
+ Our metabolism gets slower as we get older, and basically we are not going to be able
+
+116
+00:09:05,360 --> 00:09:10,640
+ to reproduce our cells at a good rate.
+
+117
+00:09:10,640 --> 00:09:17,080
+ Now the cellular theory is kind of one that is pretty interesting, and that's what this
+
+118
+00:09:17,080 --> 00:09:19,120
+ chart is basically talking about.
+
+119
+00:09:19,120 --> 00:09:22,200
+ Basically, we're talking about these things called telomeres.
+
+120
+00:09:22,200 --> 00:09:27,680
+ And as you get older, those get shorter the shorter they get, the more trouble you have
+
+121
+00:09:27,680 --> 00:09:33,480
+ with aging, it is also perhaps what is directly related to things like getting wrinkles or
+
+122
+00:09:33,480 --> 00:09:39,680
+ metabolism rates, and they're even now tests you can take to figure out how short or how
+
+123
+00:09:39,680 --> 00:09:41,720
+ long those are.
+
+124
+00:09:41,720 --> 00:09:43,560
+ And the last one is program theory.
+
+125
+00:09:43,560 --> 00:09:48,280
+ Now program theory basically says that we're pre-programmed with how long we're going to
+
+126
+00:09:48,280 --> 00:09:49,880
+ live.
+
+127
+00:09:49,880 --> 00:09:54,400
+ That kind of goes back to genetics, meaning is that your genetics, I've already said
+
+128
+00:09:54,400 --> 00:09:58,840
+ that your family is going to be a long living family, lots of people who are going to make
+
+129
+00:09:58,840 --> 00:10:03,120
+ it to 100, or most of your family is going to die in their 70s.
+
+130
+00:10:03,120 --> 00:10:07,880
+ So what we find is probably it's going to be a combination of these when we talk about
+
+131
+00:10:07,880 --> 00:10:08,880
+ aging.
+
+132
+00:10:08,880 --> 00:10:11,280
+ And when we talk about aging, we're not just talking about the age of death, but we're
+
+133
+00:10:11,280 --> 00:10:14,080
+ also just talking about the whole body aging.
+
+134
+00:10:14,080 --> 00:10:20,120
+ Why do our faces change, why do our insides change, and all those type of aspects that
+
+135
+00:10:20,120 --> 00:10:25,400
+ we deal with the aging body.
+
+136
+00:10:25,400 --> 00:10:28,360
+ Physiologically, we also have changes in our brain.
+
+137
+00:10:28,360 --> 00:10:33,280
+ Now the big thing that we're going to see is this plaque and this tangle.
+
+138
+00:10:33,280 --> 00:10:36,920
+ Now I like this particular picture, it is talking about Alzheimer's, and we'll come
+
+139
+00:10:36,920 --> 00:10:39,320
+ back and talk a lot more about Alzheimer's.
+
+140
+00:10:39,320 --> 00:10:44,320
+ But what we're talking about is that as we age here in this figure B, what we're going
+
+141
+00:10:44,320 --> 00:10:49,880
+ to see is that we start to develop these tangles right through here, and basically within the
+
+142
+00:10:49,880 --> 00:10:55,240
+ neurons, these complex webs begin to occur.
+
+143
+00:10:55,240 --> 00:11:01,440
+ We also will find that plaque will begin to occur, and as that plaque begins to occur,
+
+144
+00:11:01,440 --> 00:11:07,040
+ what can happen is that the brain basically begins to disintegrate.
+
+145
+00:11:07,040 --> 00:11:13,480
+ And that's why we see with some very severe Alzheimer's, is why people have problems with
+
+146
+00:11:13,480 --> 00:11:17,600
+ cognitive areas with Alzheimer's, because basically they don't have a healthy brain
+
+147
+00:11:17,600 --> 00:11:20,000
+ anymore and parts of their brain are missing.
+
+148
+00:11:20,000 --> 00:11:25,160
+ But even if you don't have Alzheimer's, everybody's going to have some tangles and some plaque
+
+149
+00:11:25,160 --> 00:11:26,480
+ that builds up.
+
+150
+00:11:26,480 --> 00:11:31,520
+ No matter what, this tangle and plaque can make it much more difficult for seniors and
+
+151
+00:11:31,520 --> 00:11:35,600
+ for older individuals to think and process as clearly.
+
+152
+00:11:35,600 --> 00:11:38,480
+ Now let me make sure that I make this clear.
+
+153
+00:11:38,480 --> 00:11:42,600
+ First of all, not everyone's going to develop the same amount, and we don't instantly have
+
+154
+00:11:42,600 --> 00:11:44,240
+ it at 65.
+
+155
+00:11:44,240 --> 00:11:50,600
+ And 65 was just an age that was picked as a retirement age because of the development
+
+156
+00:11:50,600 --> 00:11:52,600
+ of Social Security.
+
+157
+00:11:52,600 --> 00:11:58,640
+ They basically picked 65 because they had figured out how long someone might live past
+
+158
+00:11:58,640 --> 00:11:59,640
+ that.
+
+159
+00:11:59,640 --> 00:12:05,200
+ But that's not an official body type thing, not in physiological terms.
+
+160
+00:12:05,200 --> 00:12:08,720
+ It is more as far as a work life sort of term.
+
+161
+00:12:08,720 --> 00:12:14,160
+ So we may really be talking about 70, 75 when we start seeing these types of things.
+
+162
+00:12:14,160 --> 00:12:20,320
+ So again, it depends on your genetics.
+
+163
+00:12:20,320 --> 00:12:24,240
+ Cardiovascular and respiratory systems becomes your next one.
+
+164
+00:12:24,240 --> 00:12:26,720
+ Again, pretty straightforward information.
+
+165
+00:12:26,720 --> 00:12:31,120
+ But one of the ones I do like to talk a little bit about is vascular dementia.
+
+166
+00:12:31,120 --> 00:12:36,400
+ And the reason I like to talk about vascular dementia is because of the word dementia.
+
+167
+00:12:36,400 --> 00:12:41,600
+ People tend to think that if it's dementia, then it must be a brain related problem.
+
+168
+00:12:41,600 --> 00:12:46,880
+ And yes, it is, but we're going to find that dementia is a category of diseases.
+
+169
+00:12:46,880 --> 00:12:52,000
+ There are many diseases, but yet this isn't listed under dementia.
+
+170
+00:12:52,000 --> 00:12:55,000
+ This is part of that cardiovascular system.
+
+171
+00:12:55,000 --> 00:12:59,920
+ And if you know, cardiovascular system deals with blood flow and the ability for blood
+
+172
+00:12:59,920 --> 00:13:07,680
+ to basically get around the system with your heart, your capillaries, veins, arteries,
+
+173
+00:13:07,680 --> 00:13:09,000
+ that type of stuff.
+
+174
+00:13:09,000 --> 00:13:12,200
+ So if we're talking about vascular dementia, we must be talking about something that happens
+
+175
+00:13:12,200 --> 00:13:13,200
+ in the brain.
+
+176
+00:13:13,200 --> 00:13:17,440
+ And that's what's nice about this particular model over here, what they're trying to show
+
+177
+00:13:17,440 --> 00:13:22,840
+ you is the difference between Alzheimer's disease and the vascular dementia.
+
+178
+00:13:22,840 --> 00:13:27,160
+ Alzheimer's has to do with those tangles and neurons we talked about in the actual brain
+
+179
+00:13:27,160 --> 00:13:32,840
+ sort of disintegrating, where vascular dementia has to do with the ability of blood flow through
+
+180
+00:13:32,840 --> 00:13:33,840
+ the brain.
+
+181
+00:13:33,840 --> 00:13:40,220
+ Now, when the blood flow through the brain is disturbed or it has too much, it can make
+
+182
+00:13:40,220 --> 00:13:45,200
+ us appear to have dementia because we have the inability to remember things, we have
+
+183
+00:13:45,200 --> 00:13:47,360
+ the inability to function.
+
+184
+00:13:47,360 --> 00:13:50,400
+ We can also find that the brain could have little bleeds all over.
+
+185
+00:13:50,400 --> 00:13:51,920
+ That's a vascular dementia.
+
+186
+00:13:51,920 --> 00:13:58,360
+ And when these little bleeds occur, again, we have this issue with having the ability
+
+187
+00:13:58,360 --> 00:14:06,200
+ to think and actually control sometimes even motions, but it's not Alzheimer's.
+
+188
+00:14:06,200 --> 00:14:14,080
+ And it is not a dementia-specific disease, it's actually a cardiovascular disease.
+
+189
+00:14:14,080 --> 00:14:17,320
+ So it's kind of an interesting one and one you might want to take a look at if you ever
+
+190
+00:14:17,320 --> 00:14:25,720
+ have to do a comparison, compare vascular dementia to Alzheimer's disease.
+
+191
+00:14:25,720 --> 00:14:32,360
+ Parkinson's disease is caused by this deterioration of dopamine production in the midbrain.
+
+192
+00:14:32,360 --> 00:14:37,280
+ So people of Parkinson's, and there have been some very famous people who have Parkinson's,
+
+193
+00:14:37,280 --> 00:14:39,360
+ have a variety of symptoms.
+
+194
+00:14:39,360 --> 00:14:44,200
+ There are some that seem to be directly related to the reduction of the dopamine.
+
+195
+00:14:44,200 --> 00:14:50,480
+ There also seem to be hypothetically, no, not hypothetically, hypothesis, it is hard
+
+196
+00:14:50,480 --> 00:14:53,560
+ to say that word when you're in the middle of a conversation.
+
+197
+00:14:53,560 --> 00:14:59,560
+ The hypothesis is that some Parkinson's disease can also be caused by injury.
+
+198
+00:14:59,560 --> 00:15:08,360
+ So having brain injury such as boxing or football can injure that area of the brain that produces
+
+199
+00:15:08,360 --> 00:15:09,360
+ dopamine.
+
+200
+00:15:09,360 --> 00:15:12,960
+ Now in other cases, there may not be any head trauma and it could just simply be a disease
+
+201
+00:15:12,960 --> 00:15:14,520
+ within the brain.
+
+202
+00:15:14,520 --> 00:15:20,680
+ Either way, we do know that most people are going to suffer some sort of cognitive impairment
+
+203
+00:15:20,680 --> 00:15:24,560
+ and unfortunately eventually some sort of dementia.
+
+204
+00:15:24,560 --> 00:15:28,840
+ As you know, there are several people who are famous who've had Parkinson's and they
+
+205
+00:15:28,840 --> 00:15:32,560
+ are working really hard on trying to find ways around it.
+
+206
+00:15:32,560 --> 00:15:38,920
+ What is good is that they do know if they raise the dopamine that that can help the
+
+207
+00:15:38,920 --> 00:15:44,600
+ brain at least function, but it doesn't mean that it's going to stop or cure the Parkinson's
+
+208
+00:15:44,600 --> 00:15:48,640
+ disease at this time.
+
+209
+00:15:48,640 --> 00:15:53,120
+ Vision changes, anybody who's dealt with somebody who's older knows that there's going to be
+
+210
+00:15:53,120 --> 00:15:54,680
+ some vision changes.
+
+211
+00:15:54,680 --> 00:15:58,520
+ And even if you're younger, you're going to have some vision changes.
+
+212
+00:15:58,520 --> 00:16:03,560
+ Even by the time you're 20 years old, we can expect to begin to see some difficulty with
+
+213
+00:16:03,560 --> 00:16:09,000
+ low light vision by the time you're 60, have fun.
+
+214
+00:16:09,000 --> 00:16:15,700
+ Now the one that I want to talk about specifically is AMD or what they call age-related macular
+
+215
+00:16:15,700 --> 00:16:16,700
+ degeneration.
+
+216
+00:16:16,700 --> 00:16:20,420
+ Now the reason I want to talk about that one is that it's one that we're going to see
+
+217
+00:16:20,420 --> 00:16:25,680
+ far more often in our population and one that people have very little knowledge of.
+
+218
+00:16:25,680 --> 00:16:30,360
+ Now there are two types of age-related macular degeneration, there's what's called the wet
+
+219
+00:16:30,360 --> 00:16:34,520
+ and the dry age-related macular degeneration.
+
+220
+00:16:34,520 --> 00:16:39,560
+ Basically the macular is this little area right here that's right by the octave nerve.
+
+221
+00:16:39,560 --> 00:16:45,760
+ And what happens with macular degeneration is that basically that area begins to have
+
+222
+00:16:45,760 --> 00:16:50,560
+ problems and basically it begins to disintegrate, which is why they say degeneration.
+
+223
+00:16:50,560 --> 00:16:55,600
+ Now with dry macular degeneration that we see right here, basically we're going to get
+
+224
+00:16:55,600 --> 00:17:02,480
+ little dry patches that sort of begin to disintegrate that macular area.
+
+225
+00:17:02,480 --> 00:17:06,600
+ With wet macular degeneration, what actually begins to happen is that we begin to get
+
+226
+00:17:06,600 --> 00:17:08,560
+ some bleeding right here.
+
+227
+00:17:08,560 --> 00:17:12,800
+ And when we get the bleeding in there, it actually destroys the macular again, making
+
+228
+00:17:12,800 --> 00:17:15,600
+ it very difficult for someone to see.
+
+229
+00:17:15,600 --> 00:17:22,080
+ So with macular degeneration, what you get is sort of this kind of curvy area you might
+
+230
+00:17:22,080 --> 00:17:23,400
+ want to say.
+
+231
+00:17:23,400 --> 00:17:27,360
+ So you may have seen one of these grids before where basically they've got these lines that
+
+232
+00:17:27,360 --> 00:17:28,960
+ go one way and the other way.
+
+233
+00:17:28,960 --> 00:17:29,960
+ That's a pretty crooked line.
+
+234
+00:17:29,960 --> 00:17:32,280
+ And it's got a little dot in the center.
+
+235
+00:17:32,280 --> 00:17:36,320
+ What they ask people to do is to take a look at that dot, just keep, you know, everyone's
+
+236
+00:17:36,320 --> 00:17:38,360
+ all walked by and take a look at it.
+
+237
+00:17:38,360 --> 00:17:43,960
+ When you begin to see that dot waiver, then you may have the beginning of macular degeneration.
+
+238
+00:17:43,960 --> 00:17:49,760
+ Then over here in the second image, you see basically a very strong macular degeneration.
+
+239
+00:17:49,760 --> 00:17:50,760
+ Now what does that mean?
+
+240
+00:17:50,760 --> 00:17:54,720
+ Well, that means is that your vision, right, in the middle of your eye is going to basically
+
+241
+00:17:54,720 --> 00:17:56,920
+ begin to go away.
+
+242
+00:17:56,920 --> 00:18:02,320
+ Now these people never go totally blind, but it's almost as if they were blind because
+
+243
+00:18:02,320 --> 00:18:08,040
+ as the macular gets more destructive, a larger black spot will occur in the melody eye.
+
+244
+00:18:08,040 --> 00:18:12,960
+ They might see way off in the corner of their eye or way off to the side, which is why sometimes
+
+245
+00:18:12,960 --> 00:18:17,200
+ you go to the macular degeneration when they want to look at you, won't look at you.
+
+246
+00:18:17,200 --> 00:18:20,360
+ They'll look to the left of you or look to the right of you because they might have
+
+247
+00:18:20,360 --> 00:18:24,120
+ still a little bit of vision on either side of the eye.
+
+248
+00:18:24,120 --> 00:18:31,680
+ Now macular degeneration is absolutely age-related, meaning is that we see most of it happening
+
+249
+00:18:31,680 --> 00:18:34,040
+ when people get to be older, 70.
+
+250
+00:18:34,040 --> 00:18:42,400
+ It is also surprisingly, ethnically there and it is something that affects white Americans
+
+251
+00:18:42,400 --> 00:18:45,120
+ more than African Americans.
+
+252
+00:18:45,120 --> 00:18:50,960
+ Asian Americans are just a little less than Caucasians and then Latinos.
+
+253
+00:18:50,960 --> 00:18:53,000
+ But there's also a gender to this.
+
+254
+00:18:53,000 --> 00:18:58,440
+ So white females are going to be the most likely to have age-related macular degeneration.
+
+255
+00:18:58,440 --> 00:19:07,040
+ About 35% of the population of women of the age 70 or above will have macular-related degeneration,
+
+256
+00:19:07,040 --> 00:19:08,400
+ AMD.
+
+257
+00:19:08,400 --> 00:19:13,040
+ So that is something to think about as you begin to deal with older individuals if they're
+
+258
+00:19:13,040 --> 00:19:15,280
+ having difficulty seeing something.
+
+259
+00:19:15,280 --> 00:19:18,800
+ It doesn't mean to raise your voice, which I hear way too often.
+
+260
+00:19:18,800 --> 00:19:24,440
+ But what it may mean is that they will need assistance in filling out forms.
+
+261
+00:19:24,440 --> 00:19:29,560
+ With a lot of things these days, we are asking people to fill out forms online, which people
+
+262
+00:19:29,560 --> 00:19:34,760
+ with macular degeneration can't do, or we hand them a tablet and we ask them to fill
+
+263
+00:19:34,760 --> 00:19:38,240
+ in their information from the tablet and they can't do that.
+
+264
+00:19:38,240 --> 00:19:43,240
+ A lot of people who have AMD have learned to live in their world through field, just
+
+265
+00:19:43,240 --> 00:19:44,640
+ like a blind person.
+
+266
+00:19:44,640 --> 00:19:50,680
+ And as AMD gets progressive, they become more and more just like a blind person.
+
+267
+00:19:50,680 --> 00:19:56,120
+ So when you go to the store and they pick up whatever it is that they want to pick up,
+
+268
+00:19:56,120 --> 00:20:01,680
+ and then the nice little clerk says just push the green button while they can't see the
+
+269
+00:20:01,680 --> 00:20:05,680
+ green button and they go to feel for the button, but there's no buttons because the buttons
+
+270
+00:20:05,680 --> 00:20:07,720
+ are on a screen.
+
+271
+00:20:07,720 --> 00:20:11,640
+ And if we can't see the screen, then how do we see the buttons?
+
+272
+00:20:11,640 --> 00:20:19,520
+ Not only that, as you see, we begin to develop a difficulty with blue, green color variations.
+
+273
+00:20:19,520 --> 00:20:24,560
+ And so when you're asked to pick something out like a green button, you may be seeing
+
+274
+00:20:24,560 --> 00:20:28,760
+ only black and white at this point or shades of gray, so the red button and the green button
+
+275
+00:20:28,760 --> 00:20:30,480
+ look the same.
+
+276
+00:20:30,480 --> 00:20:35,480
+ It really is going to become an issue as we have more and more of our baby boomers getting
+
+277
+00:20:35,480 --> 00:20:42,520
+ older and they develop AMD.
+
+278
+00:20:42,520 --> 00:20:47,520
+ Now the loss of hearing is basically something that's going to happen to all of us.
+
+279
+00:20:47,520 --> 00:20:53,280
+ What I really love is this chart because basically you can see by the time you're 90 years old,
+
+280
+00:20:53,280 --> 00:20:56,360
+ you're losing a lot of high pitch hearing.
+
+281
+00:20:56,360 --> 00:21:01,720
+ Now what we mean by high pitch sound is we're talking about basically the hertz.
+
+282
+00:21:01,720 --> 00:21:08,640
+ And even by 20 years of age, you can see that you've lost a little bit right here.
+
+283
+00:21:08,640 --> 00:21:13,960
+ So what is interesting is that if we were to take an eight year old and play something
+
+284
+00:21:13,960 --> 00:21:19,080
+ that's at the eight kilohertz, an eight year old could hear it, but a 20 year old couldn't,
+
+285
+00:21:19,080 --> 00:21:23,240
+ which is one reason why anytime I have a little kid tells me that there's some annoying sound,
+
+286
+00:21:23,240 --> 00:21:28,800
+ I always believe them even though I might be young because I realize that they can hear
+
+287
+00:21:28,800 --> 00:21:33,640
+ things we simply can't hear.
+
+288
+00:21:33,640 --> 00:21:38,400
+ When it comes to diabetes, most of us know there are two types, type one, type two.
+
+289
+00:21:38,400 --> 00:21:44,320
+ The way I always remember type two is that you're too fat and it's more than just simply
+
+290
+00:21:44,320 --> 00:21:47,760
+ being too fat, but that's what we tend to talk about.
+
+291
+00:21:47,760 --> 00:21:50,920
+ And as you can see in the chart, there's a lot more type two diabetes than there is
+
+292
+00:21:50,920 --> 00:21:52,000
+ type one.
+
+293
+00:21:52,000 --> 00:21:58,000
+ Now there is a third type of diabetes, which is basically women who are pregnant who get
+
+294
+00:21:58,000 --> 00:22:01,280
+ elevated glucose levels during pregnancy.
+
+295
+00:22:01,280 --> 00:22:05,080
+ But for most of us, we tend to think of only type one and type two.
+
+296
+00:22:05,080 --> 00:22:09,840
+ Those of you who are going into the allied health fields, you might even discuss up to
+
+297
+00:22:09,840 --> 00:22:13,000
+ five different types of diabetes.
+
+298
+00:22:13,000 --> 00:22:18,120
+ But for us for this class, type one, type two, and remember type two is because you're
+
+299
+00:22:18,120 --> 00:22:25,760
+ too fat, as I always like to do, give you little hints to help you remember things.
+
+300
+00:22:25,760 --> 00:22:31,720
+ Information processing, no surprise, we get a little slower as we get older.
+
+301
+00:22:31,720 --> 00:22:36,460
+ Now in part, this is due to the decline of white matter in our brains.
+
+302
+00:22:36,460 --> 00:22:39,880
+ The white matter helps us process faster.
+
+303
+00:22:39,880 --> 00:22:42,760
+ And as you have less white matter, it's going to take you a little longer.
+
+304
+00:22:42,760 --> 00:22:45,240
+ You also have some tangles and you have some plaque.
+
+305
+00:22:45,240 --> 00:22:47,760
+ So all of those things are there.
+
+306
+00:22:47,760 --> 00:22:54,280
+ But there is a difference between slower processing and stubbornness, you might want to say.
+
+307
+00:22:54,280 --> 00:22:59,280
+ Slower processing simply means I might take me a little bit longer to gain the information
+
+308
+00:22:59,280 --> 00:23:02,840
+ that you're telling me and for me to process that information.
+
+309
+00:23:02,840 --> 00:23:08,920
+ Now one way you can help people who are a little older is not to suddenly speak louder.
+
+310
+00:23:08,920 --> 00:23:10,320
+ That isn't going to work.
+
+311
+00:23:10,320 --> 00:23:19,160
+ If they can hear, they can hear, if they can't, they can't, but instead focus on doing sort
+
+312
+00:23:19,160 --> 00:23:29,440
+ of this stutter speaking where you have little pauses in your speaking like I'm doing now
+
+313
+00:23:29,440 --> 00:23:36,840
+ to allow the brain time to process that information and get it in.
+
+314
+00:23:36,840 --> 00:23:43,520
+ If they have the time between words and little phrases to process the information, they can
+
+315
+00:23:43,520 --> 00:23:46,000
+ do just fine.
+
+316
+00:23:46,000 --> 00:23:52,480
+ But what happens is that you're a mental health professional and you walk in the room, you've
+
+317
+00:23:52,480 --> 00:23:57,000
+ already said the same speech to five other people.
+
+318
+00:23:57,000 --> 00:24:03,640
+ And all you can think about is that your doctor is asking you to speed it up because you're
+
+319
+00:24:03,640 --> 00:24:09,360
+ already running about 15 to 20 minutes late and suddenly you get in and you start talking
+
+320
+00:24:09,360 --> 00:24:12,200
+ at this speed and here's what we want you to do and then go ahead and take this and
+
+321
+00:24:12,200 --> 00:24:19,200
+ we've called you and the poor people have totally lost you, they have no idea what you're saying.
+
+322
+00:24:19,200 --> 00:24:24,540
+ So it's really important that we give them the moment that they might need to process
+
+323
+00:24:24,540 --> 00:24:25,880
+ the information.
+
+324
+00:24:25,880 --> 00:24:32,000
+ It doesn't mean that they do not have intelligence, but if you speak too fast, it simply won't
+
+325
+00:24:32,000 --> 00:24:36,460
+ get in and some of you may have found that I speak really fast and you have to go back
+
+326
+00:24:36,460 --> 00:24:39,120
+ and listen to the information again.
+
+327
+00:24:39,120 --> 00:24:44,000
+ Well, if you're thinking I'm speaking fast and you're pretty young in your brain, can
+
+328
+00:24:44,000 --> 00:24:47,340
+ you imagine what's going to happen for a brain that's a little bit older?
+
+329
+00:24:47,340 --> 00:24:51,760
+ It's going to take a little longer for them to process the information.
+
+330
+00:24:51,760 --> 00:24:55,800
+ The one thing you do have to remember though is that this processing speed probably doesn't
+
+331
+00:24:55,800 --> 00:24:58,680
+ really see a dramatic drop into your 70s.
+
+332
+00:24:58,680 --> 00:25:03,620
+ Up until about 70, most brains are handling this stuff pretty easily.
+
+333
+00:25:03,620 --> 00:25:12,320
+ However, many people think that older people are stubborn or that they just simply can't
+
+334
+00:25:12,320 --> 00:25:14,560
+ grasp the new information.
+
+335
+00:25:14,560 --> 00:25:16,880
+ A lot of times that is not true.
+
+336
+00:25:16,880 --> 00:25:22,320
+ What's actually occurring is that you haven't convinced the older person to make this change.
+
+337
+00:25:22,320 --> 00:25:29,000
+ So if you think about this for yourself and the women will get this, we go out and we
+
+338
+00:25:29,000 --> 00:25:33,960
+ have this wonderful lipstick we love and then we go to the store and suddenly that lipstick
+
+339
+00:25:33,960 --> 00:25:35,600
+ is discontinued.
+
+340
+00:25:35,600 --> 00:25:39,840
+ Do we jump up and down for joy and say, "Yay, I get to find new lipstick?"
+
+341
+00:25:39,840 --> 00:25:44,560
+ No, we curse and say, "Why did they stop making it and we're pissed?"
+
+342
+00:25:44,560 --> 00:25:49,020
+ Or you start heading home and they've closed the road and they make you take another way
+
+343
+00:25:49,020 --> 00:25:54,400
+ to get home, even though this other way may be a little faster or exactly the same time,
+
+344
+00:25:54,400 --> 00:25:55,400
+ you're not happy.
+
+345
+00:25:55,400 --> 00:25:56,480
+ You don't like going this way.
+
+346
+00:25:56,480 --> 00:25:59,360
+ You have a way that you go.
+
+347
+00:25:59,360 --> 00:26:04,920
+ For a lot of people, by the time you get to be an older individually, you might want to
+
+348
+00:26:04,920 --> 00:26:06,640
+ say you're sitting in your ways.
+
+349
+00:26:06,640 --> 00:26:11,360
+ As much as we've already figured out what works for us and we don't want to change it.
+
+350
+00:26:11,360 --> 00:26:16,360
+ Most people will not make change unless they see a reason to make change.
+
+351
+00:26:16,360 --> 00:26:21,360
+ So it becomes really important to explain the reason for the change and then sometimes
+
+352
+00:26:21,360 --> 00:26:25,040
+ it's just simply to say, "You know what, you're correct.
+
+353
+00:26:25,040 --> 00:26:30,280
+ I don't think the new meter is something that you should be happy about.
+
+354
+00:26:30,280 --> 00:26:36,720
+ However, your insurance company won't pay for the old meter and so we have a choice.
+
+355
+00:26:36,720 --> 00:26:42,640
+ You can pay out a pocket for the little, I don't know what it might you need for your
+
+356
+00:26:42,640 --> 00:26:44,200
+ meter.
+
+357
+00:26:44,200 --> 00:26:48,960
+ But the little utensil you need for the meter or you need to change the new meter so that
+
+358
+00:26:48,960 --> 00:26:53,080
+ your insurance company will accept it."
+
+359
+00:26:53,080 --> 00:27:00,040
+ It kind of sometimes comes down to that but don't think that just because somebody may
+
+360
+00:27:00,040 --> 00:27:08,480
+ not want to change, that means that they don't understand the change.
+
+361
+00:27:08,480 --> 00:27:13,680
+ When it comes to memory, there are four types of memory you might want to say.
+
+362
+00:27:13,680 --> 00:27:17,400
+ There's two large categories, explicit and implicit.
+
+363
+00:27:17,400 --> 00:27:21,200
+ I'm going to start with implicit even though it's on the last one here because basically
+
+364
+00:27:21,200 --> 00:27:24,400
+ it's the easiest one I think to understand.
+
+365
+00:27:24,400 --> 00:27:27,720
+ Implicit is something that just pops into your brain.
+
+366
+00:27:27,720 --> 00:27:33,080
+ Maybe you're driving down the road and all of a sudden a memory of a Christmas pass comes
+
+367
+00:27:33,080 --> 00:27:37,160
+ into your brain and you might even go, "How in the world did I even think of that?"
+
+368
+00:27:37,160 --> 00:27:40,440
+ I don't even know what made me think about that past memory.
+
+369
+00:27:40,440 --> 00:27:41,600
+ That's an implicit memory.
+
+370
+00:27:41,600 --> 00:27:43,760
+ It's basically automatic, it's unconscious.
+
+371
+00:27:43,760 --> 00:27:48,600
+ You didn't try to bring it up, it just popped into your head.
+
+372
+00:27:48,600 --> 00:27:53,720
+ Implicit, explicit memories, the first one, is deliberate.
+
+373
+00:27:53,720 --> 00:27:55,520
+ These are ones like you do for the test.
+
+374
+00:27:55,520 --> 00:28:00,600
+ When you read something and you try to remember what it is that the question is asking.
+
+375
+00:28:00,600 --> 00:28:04,200
+ There's generally two types that they're going to be asking for.
+
+376
+00:28:04,200 --> 00:28:08,080
+ One is semantics, so you're trying to remember the meaning of the word.
+
+377
+00:28:08,080 --> 00:28:11,340
+ The question and you say, "What does that word mean?"
+
+378
+00:28:11,340 --> 00:28:16,200
+ Then there's episodic, which is recalling the information.
+
+379
+00:28:16,200 --> 00:28:22,200
+ When you did your chapters and introduction to psychology about memory, you sort of learned
+
+380
+00:28:22,200 --> 00:28:26,280
+ that we're going to pull information out of long-term memory and bring it back to short-term
+
+381
+00:28:26,280 --> 00:28:27,280
+ memory.
+
+382
+00:28:27,280 --> 00:28:30,800
+ We often do that through recall or recognition.
+
+383
+00:28:30,800 --> 00:28:34,280
+ Both of them, you need to be able to recall some information.
+
+384
+00:28:34,280 --> 00:28:36,680
+ You have to be able to recognize what the words mean.
+
+385
+00:28:36,680 --> 00:28:41,120
+ It's going to be that crystallized memory that you're going to get better as you get
+
+386
+00:28:41,120 --> 00:28:42,120
+ older.
+
+387
+00:28:42,120 --> 00:28:45,820
+ Then you're going to have to try to relate that information back to some episode or something
+
+388
+00:28:45,820 --> 00:28:51,120
+ that you remember.
+
+389
+00:28:51,120 --> 00:28:52,720
+ I bring this slide in.
+
+390
+00:28:52,720 --> 00:28:56,800
+ Not that creativity is something you're going to have to know for your test, but I do think
+
+391
+00:28:56,800 --> 00:29:00,600
+ of that when we're talking about aging, that creativity is kind of an interesting thing
+
+392
+00:29:00,600 --> 00:29:02,240
+ to look at.
+
+393
+00:29:02,240 --> 00:29:06,640
+ What you're seeing here is when people tend to be at their most creative.
+
+394
+00:29:06,640 --> 00:29:11,200
+ Creative means to be able to produce work in a novel way.
+
+395
+00:29:11,200 --> 00:29:16,600
+ If I write a song that's being creative, if I sing somebody else's song, that's not being
+
+396
+00:29:16,600 --> 00:29:17,600
+ creative.
+
+397
+00:29:17,600 --> 00:29:20,440
+ That's somebody writing and me just interpreting.
+
+398
+00:29:20,440 --> 00:29:22,600
+ Me drawing an original picture is creative.
+
+399
+00:29:22,600 --> 00:29:26,200
+ Me copying a master is not creative.
+
+400
+00:29:26,200 --> 00:29:31,000
+ What this basically shows is one of the interesting things is that, first of all, we already kind
+
+401
+00:29:31,000 --> 00:29:35,800
+ of knew that creativity is sort of at its peak around your 35.
+
+402
+00:29:35,800 --> 00:29:41,360
+ So between 30 and 40 is when most people are at their peak, except for the fact that it's
+
+403
+00:29:41,360 --> 00:29:47,440
+ sort of changed, that what we're seeing is that creativity as we have moved through the
+
+404
+00:29:47,440 --> 00:29:51,920
+ years has really sort of shifted.
+
+405
+00:29:51,920 --> 00:30:02,080
+ Right here, after 1965, before 1935, and between 1935 and 1965, that's what each one of these
+
+406
+00:30:02,080 --> 00:30:04,440
+ little lines show.
+
+407
+00:30:04,440 --> 00:30:10,560
+ Since 1965, we can see that the most creative time in people's lives tend to be a little
+
+408
+00:30:10,560 --> 00:30:12,800
+ bit later than they were before.
+
+409
+00:30:12,800 --> 00:30:19,160
+ So if I draw that same line straight down here from, I'm going to do my best to be straight,
+
+410
+00:30:19,160 --> 00:30:23,320
+ straight from the green line, we can see we're getting more toward our peak in almost close
+
+411
+00:30:23,320 --> 00:30:30,280
+ to the 40, whereas in this first one, which was before 1935, and again, this is sort of
+
+412
+00:30:30,280 --> 00:30:34,200
+ an estimate, the best I can do with drawing a straight line, we can see it was close to
+
+413
+00:30:34,200 --> 00:30:35,880
+ a 35.
+
+414
+00:30:35,880 --> 00:30:40,440
+ Now this is based on Nobel Prize winning and some other things that they've got that they
+
+415
+00:30:40,440 --> 00:30:43,960
+ can measure this with, and we look at that as being creative.
+
+416
+00:30:43,960 --> 00:30:49,680
+ It is interesting that as we have age or as our society has age, we have found that our
+
+417
+00:30:49,680 --> 00:30:52,760
+ creativity comes a little bit later.
+
+418
+00:30:52,760 --> 00:30:57,440
+ There's all kinds of hypothesis on why that is, but the other interesting thing that has
+
+419
+00:30:57,440 --> 00:31:01,680
+ occurred, and you might not have noticed that when you first looked at the curve, but it's
+
+420
+00:31:01,680 --> 00:31:04,120
+ the actual shape of the curve.
+
+421
+00:31:04,120 --> 00:31:10,520
+ So if you kind of look at this one, and you look at the shape of that one, now I'm going
+
+422
+00:31:10,520 --> 00:31:15,520
+ to take that away so you can see the shape of the other one, you can see that the shape
+
+423
+00:31:15,520 --> 00:31:22,560
+ of the one that's more today is much wider.
+
+424
+00:31:22,560 --> 00:31:27,640
+ So we have a longer period of creativity you might want to say.
+
+425
+00:31:27,640 --> 00:31:32,800
+ So if we want to talk about people being highly creative, if we're looking at, let's say this
+
+426
+00:31:32,800 --> 00:31:42,560
+ point three line, and we look at our first group, we can see it ends here, but with the
+
+427
+00:31:42,560 --> 00:31:48,600
+ more current generation, we can see it's almost two or fifty.
+
+428
+00:31:48,600 --> 00:31:54,320
+ So the good thing is you're living in a day and age when your creativity is still relatively
+
+429
+00:31:54,320 --> 00:31:59,640
+ there, you're probably on the downslope once you get to be about fifty, but we still have
+
+430
+00:31:59,640 --> 00:32:04,240
+ a lot of creativity in us.
+
+431
+00:32:04,240 --> 00:32:09,600
+ Unfortunately one of the things that really help hit seniors and our older individuals
+
+432
+00:32:09,600 --> 00:32:10,840
+ is depression.
+
+433
+00:32:10,840 --> 00:32:14,880
+ Now what it says is nine percent younger adults compared to fourteen point five percent and
+
+434
+00:32:14,880 --> 00:32:20,800
+ older adults, thirteen percent of older adults though who have some sort of health care are
+
+435
+00:32:20,800 --> 00:32:23,520
+ going to show signs of depression.
+
+436
+00:32:23,520 --> 00:32:28,400
+ Unfortunately of that thirteen percent of adults who have depression, only about forty
+
+437
+00:32:28,400 --> 00:32:31,240
+ percent are going to get some sort of treatment.
+
+438
+00:32:31,240 --> 00:32:33,840
+ In part, there's lots of reasons for this.
+
+439
+00:32:33,840 --> 00:32:39,280
+ We do have maybe the stigma of depression with people who are older because they grew
+
+440
+00:32:39,280 --> 00:32:42,520
+ up in a time where people didn't have mental health problems.
+
+441
+00:32:42,520 --> 00:32:46,020
+ But we also have a problem in that we tend to say, well, yeah, we can understand why they're
+
+442
+00:32:46,020 --> 00:32:51,680
+ sad and depressed because they're older and they can't do what they could do before.
+
+443
+00:32:51,680 --> 00:32:56,320
+ The thing is that they still have problems with neurotransmitters and if they are having
+
+444
+00:32:56,320 --> 00:33:03,960
+ problems with any kind of brain issues or other issues that deal with the brain, we may
+
+445
+00:33:03,960 --> 00:33:09,080
+ see that levels of serotonin are at their proper levels or levels of dopamine are too
+
+446
+00:33:09,080 --> 00:33:10,080
+ strong.
+
+447
+00:33:10,080 --> 00:33:13,640
+ So they really do need to get treatment but they should get treatment from some of these
+
+448
+00:33:13,640 --> 00:33:19,160
+ specialises with the aging because the brain and the brain chemistry is so much different
+
+449
+00:33:19,160 --> 00:33:22,760
+ when we're talking about a seventy or an eighty year old than we are when we're talking about
+
+450
+00:33:22,760 --> 00:33:23,680
+ a forty year old.
+
+451
+00:33:27,320 --> 00:33:33,880
+ Alzheimer's is a disease of dementia.
+
+452
+00:33:33,880 --> 00:33:36,320
+ Now we have many diseases of dementia.
+
+453
+00:33:36,320 --> 00:33:41,600
+ The reason that we bring Alzheimer's up front is because it seems to be one in which we
+
+454
+00:33:41,600 --> 00:33:44,520
+ have a lot more discussion about.
+
+455
+00:33:44,520 --> 00:33:49,800
+ Now we do know that Alzheimer's can have two types early onset Alzheimer's which is a
+
+456
+00:33:49,800 --> 00:33:55,840
+ genetic one that we can pretty much diagnose early on and then we have sort of the more
+
+457
+00:33:55,840 --> 00:34:00,360
+ normal Alzheimer's or I want to say which comes on a little later in life.
+
+458
+00:34:00,360 --> 00:34:04,000
+ Unfortunately right now we don't really have a great way to test whether or not you actually
+
+459
+00:34:04,000 --> 00:34:05,480
+ have Alzheimer's.
+
+460
+00:34:05,480 --> 00:34:10,640
+ And the other interesting thing is that when it comes to risk factors, there are some genes
+
+461
+00:34:10,640 --> 00:34:15,640
+ that apparently hurt us and some genes that apparently help us.
+
+462
+00:34:15,640 --> 00:34:18,440
+ So that's not so good either.
+
+463
+00:34:18,440 --> 00:34:24,640
+ But the genes that we do know that tend to increase Alzheimer's are ones that we can
+
+464
+00:34:24,640 --> 00:34:25,760
+ test for.
+
+465
+00:34:25,760 --> 00:34:31,280
+ But remember we also tend to have genes that might reduce our risk factors so genes could
+
+466
+00:34:31,280 --> 00:34:35,160
+ help or even hurt us.
+
+467
+00:34:35,160 --> 00:34:40,440
+ So how do we know that somebody actually has Alzheimer's or only going to know after an
+
+468
+00:34:40,440 --> 00:34:42,360
+ autopsy?
+
+469
+00:34:42,360 --> 00:34:48,640
+ Unfortunately before that we don't really know if it's truly Alzheimer's or if it is
+
+470
+00:34:48,640 --> 00:34:53,440
+ another type of dementia disease because there's more than one type of dementia disease that
+
+471
+00:34:53,440 --> 00:34:58,180
+ might shrink this gray matter that we talk about so much.
+
+472
+00:34:58,180 --> 00:35:00,080
+ So it is kind of unfortunate.
+
+473
+00:35:00,080 --> 00:35:04,640
+ Now what we do most of the time these days is that we give it a try basically we look
+
+474
+00:35:04,640 --> 00:35:07,520
+ at some neurological testing.
+
+475
+00:35:07,520 --> 00:35:08,720
+ We do some medical testing.
+
+476
+00:35:08,720 --> 00:35:09,720
+ We do some scans.
+
+477
+00:35:09,720 --> 00:35:12,600
+ We look for behavior symptoms and then we give them medication.
+
+478
+00:35:12,600 --> 00:35:16,960
+ If it seems to be working, we're going to assume it's Alzheimer's and we're going to
+
+479
+00:35:16,960 --> 00:35:20,200
+ go forward from there.
+
+480
+00:35:20,200 --> 00:35:27,800
+ Especially with dementia diseases the variety of them.
+
+481
+00:35:27,800 --> 00:35:31,600
+ If the medication works for Alzheimer's it could also work for two or three other types
+
+482
+00:35:31,600 --> 00:35:33,480
+ of dementia diseases.
+
+483
+00:35:33,480 --> 00:35:42,480
+ It is getting better at making those diagnoses as we begin to get better imaging.
+
+484
+00:35:42,480 --> 00:35:48,240
+ The question though does come down to just how much do we really want to get into this
+
+485
+00:35:48,240 --> 00:35:50,700
+ as far as the diagnosis is concerned.
+
+486
+00:35:50,700 --> 00:35:55,320
+ What they're really looking at more is trying to find factors that can help stop Alzheimer's
+
+487
+00:35:55,320 --> 00:35:57,160
+ or slow it down.
+
+488
+00:35:57,160 --> 00:36:02,020
+ If we can slow down the Alzheimer's we may not be able to stop it because the brain is
+
+489
+00:36:02,020 --> 00:36:11,520
+ going to age but slowing it down might allow someone to have a more successful senior life.
+
+490
+00:36:11,520 --> 00:36:15,800
+ So this is the end of chapter 14 and as normal if you have any questions you can contact me
+
+491
+00:36:15,800 --> 00:36:21,960
+ at Ramona B at KaiserUniversity.edu and we will see you in class.
+

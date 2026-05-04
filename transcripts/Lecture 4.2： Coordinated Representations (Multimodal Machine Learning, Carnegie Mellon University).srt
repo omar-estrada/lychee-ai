@@ -1,0 +1,2088 @@
+1
+00:00:00,000 --> 00:00:09,020
+ Great. This is the Lecture 4.2 on coordinated representation. The goal today will do a quick
+
+2
+00:00:09,020 --> 00:00:16,040
+ recap about multimodal joint representation, what we discussed on Tuesday. Then start discussing
+
+3
+00:00:16,040 --> 00:00:24,480
+ coordinated representation. And to study one, or in fact quite a few of these, I like to do a mini
+
+4
+00:00:24,480 --> 00:00:33,260
+ tutorial reminder on multivariate statistical analysis, including multivariate and covariance.
+
+5
+00:00:33,260 --> 00:00:41,560
+ And then that will allow us to study some one very popular approach, which is the canonical
+
+6
+00:00:41,560 --> 00:00:49,320
+ correlation analysis as an extension to the simple just correlation analysis. And also some of the
+
+7
+00:00:49,320 --> 00:00:57,400
+ future extension that came after that, including deep CCA and deep CCA to encoder. I will also
+
+8
+00:00:57,400 --> 00:01:04,040
+ look at multiview clustering. It's a very interesting aspect of a more almost unsupervised
+
+9
+00:01:04,040 --> 00:01:13,320
+ approach on how do you analyze multiple multimodal or multi-view data. And then look at interesting
+
+10
+00:01:13,320 --> 00:01:20,160
+ paper that is also one of the reading assignment. I will just give a high-level intuition about
+
+11
+00:01:20,160 --> 00:01:29,400
+ this paper. So it brings some interesting aspect. Within the spectrum of multimodal coordinated
+
+12
+00:01:29,400 --> 00:01:37,920
+ representation, CCA may be a little bit closer to joint representation or to encoder is a little
+
+13
+00:01:37,920 --> 00:01:49,920
+ bit closer to the unconnected, completely unconnected views. Quick rip cap. We look at quite a few
+
+14
+00:01:49,920 --> 00:01:58,440
+ last week on Tuesday. We discuss the generative models. Generative models are interesting because
+
+15
+00:01:58,440 --> 00:02:04,600
+ they allow you if learn and train within the details on how to do training, which we'll discuss
+
+16
+00:02:04,600 --> 00:02:10,600
+ more in about three or four weeks. But if you can train a generative model, the interesting aspect
+
+17
+00:02:10,600 --> 00:02:17,720
+ is that you can almost translate in any direction. So you can generate from image, generate images
+
+18
+00:02:17,720 --> 00:02:24,360
+ condition on the text or on the opposite, you can generate text condition on the image because
+
+19
+00:02:24,360 --> 00:02:31,120
+ the advantage is that we because we model the full joint distribution between X and Y, that allows
+
+20
+00:02:31,120 --> 00:02:40,280
+ us to do a lot of these interesting conditional probability or translation tasks. We can use
+
+21
+00:02:40,280 --> 00:02:50,800
+ these representations that we learn either through generative models like those machine or some
+
+22
+00:02:50,800 --> 00:02:57,520
+ other ones, which we'll discuss others unsupervised approaches. And then once you have these, then
+
+23
+00:02:57,520 --> 00:03:02,600
+ what's interesting is that you can later on just learn maybe one or two layers on top of it to do
+
+24
+00:03:02,600 --> 00:03:08,960
+ another task like a supervised learning task. In this case of the paper was looking at the image
+
+25
+00:03:08,960 --> 00:03:17,680
+ retrieval from that. We look at another way to train these joint representations in an unsupervised
+
+26
+00:03:17,680 --> 00:03:26,000
+ way, one of them being stack or to encoder. And if you remember, you can learn end-to-end in this
+
+27
+00:03:26,000 --> 00:03:32,480
+ case, the loss function is a two part level loss function. One is how well you generate text, how
+
+28
+00:03:32,480 --> 00:03:39,360
+ way do you generate images. You can train it with both image and input as image and text as input,
+
+29
+00:03:39,360 --> 00:03:45,760
+ or you could decide to train it just with the image as input, but still have your loss as text
+
+30
+00:03:45,760 --> 00:03:53,240
+ and image. I think that was one of the questions at the end. There's also the idea of learning these
+
+31
+00:03:53,240 --> 00:04:00,280
+ intermediate representation with the feed forward neural network where you are doing a translation
+
+32
+00:04:00,280 --> 00:04:06,200
+ task. So here you're not looking at training or learning the joint, but more of the conditional
+
+33
+00:04:06,200 --> 00:04:12,760
+ probability. And so you're using in this case like the image and encoder image to be able to
+
+34
+00:04:12,760 --> 00:04:20,040
+ generate the text. That's for like example, here is image captioning. And so at this point then the
+
+35
+00:04:20,040 --> 00:04:28,040
+ middle representation is expected to be an intermediate representation between text and image. In practice,
+
+36
+00:04:28,040 --> 00:04:33,880
+ often this one may be closer to the text or closer to the image. There's nothing that
+
+37
+00:04:33,880 --> 00:04:40,280
+ enforces it to be really a joint representation, but it is differently somewhere in between image
+
+38
+00:04:40,280 --> 00:04:49,160
+ and text. And then we discussed at the fact that some of these representations don't explicitly model
+
+39
+00:04:49,160 --> 00:04:56,840
+ like all of the different ways you can interact. And so we look at bi-linear models. One example of
+
+40
+00:04:56,840 --> 00:05:05,480
+ that was the tensor fusion network, which allowed us to do both unimodal and bi-modal. And although
+
+41
+00:05:05,480 --> 00:05:15,160
+ it increases kind of the number of parameters, it allows us that each of these are a little bit
+
+42
+00:05:15,160 --> 00:05:22,200
+ more representative. So it may end up being easier for the later stages of the network to find out
+
+43
+00:05:22,200 --> 00:05:32,440
+ which either unimodal or bi-modal features are the most useful for the task. So and that's also
+
+44
+00:05:32,440 --> 00:05:39,560
+ aligned with some architectures where sometimes the input in even in the multi-layer perceptron,
+
+45
+00:05:39,560 --> 00:05:45,880
+ sometimes people will extend the number of neurons before finally summarizing. That's maybe a
+
+46
+00:05:45,880 --> 00:05:51,960
+ little bit the same intuition you should have here. But how can we learn even better representation?
+
+47
+00:05:51,960 --> 00:05:58,120
+ I think better is probably debatable, but it's different type of representation. Coordinated
+
+48
+00:05:58,120 --> 00:06:04,840
+ is this other type. And if you remember coordinated, the idea is that not only instead of failing and
+
+49
+00:06:04,840 --> 00:06:09,400
+ finding only one joint representation, then maybe you alone one representation for each
+
+50
+00:06:09,400 --> 00:06:15,240
+ modality and you find a way to coordinate it. We talk about ways to coordinate it very strongly
+
+51
+00:06:15,240 --> 00:06:23,640
+ at the end of the meeting on Tuesday where you ask them to be the same almost with cosine distance
+
+52
+00:06:23,640 --> 00:06:28,760
+ being your last function. And this is although it's sometimes called unsupervised learning,
+
+53
+00:06:29,560 --> 00:06:35,800
+ the unsupervised learning is a little bit misleading because it still needs some supervision in this
+
+54
+00:06:35,800 --> 00:06:43,160
+ time is the pair. The pairing between image and text is still needed to be able to learn these two
+
+55
+00:06:43,160 --> 00:06:49,800
+ separate representation. I call them separate, but because they depending on which similarity
+
+56
+00:06:49,800 --> 00:06:55,800
+ metric you use, if it's a very strong like cosine distance, these will almost be equivalent.
+
+57
+00:06:57,480 --> 00:07:03,080
+ So and we show the example and that's the same example that we showed at the beginning. And now
+
+58
+00:07:03,080 --> 00:07:09,000
+ we can probably understand it much better what is happening because really what it was is that
+
+59
+00:07:09,000 --> 00:07:16,120
+ you had paired data of image and text and for each you have an image in the description of the text.
+
+60
+00:07:16,120 --> 00:07:22,360
+ And so from the image, you may get a CNN that encodes it up to maybe in fact the input, maybe
+
+61
+00:07:22,360 --> 00:07:27,560
+ just the CNN features, and the input here could be just the word to VEC average over the whole
+
+62
+00:07:27,560 --> 00:07:35,240
+ sentence. And then the goal is to learn from these new representations in such a way that they
+
+63
+00:07:35,240 --> 00:07:41,800
+ as close as possible, their angles as close as possible. And when you do these, that was the beauty
+
+64
+00:07:41,800 --> 00:07:49,560
+ of this 2014 paper where they were able to train on the pair data and then test time go ahead and
+
+65
+00:07:49,560 --> 00:07:58,920
+ take an image and push it forward, like in the feed forward, push it forward, push it this image
+
+66
+00:07:58,920 --> 00:08:06,280
+ forward there, get their representation, take the word blue, take its representation, take the word
+
+67
+00:08:06,280 --> 00:08:11,640
+ red, take its representation, and then do some arid metric. And then you can sample from there
+
+68
+00:08:11,640 --> 00:08:16,360
+ the kind of images that are the closest. Now you can understand better that,
+
+69
+00:08:16,360 --> 00:08:25,400
+ via the paper, this visual semantic embedding paper, and you could do it on the day and night.
+
+70
+00:08:25,400 --> 00:08:34,520
+ Now these will not work perfectly, and that's one of the issues of this. They need to, although
+
+71
+00:08:34,520 --> 00:08:40,760
+ they are trained to be close to each other, they will not work for every possible word. This,
+
+72
+00:08:41,560 --> 00:08:50,840
+ you cannot just do minus day plus color, so then suddenly you will become in a space that is no more
+
+73
+00:08:50,840 --> 00:09:00,200
+ the same region. So this arid metric is not perfect, but it's nice to see some of this working.
+
+74
+00:09:00,200 --> 00:09:07,640
+ When you train these, you can also train them, and I think one of them is even a paper,
+
+75
+00:09:07,640 --> 00:09:15,240
+ either an optional paper or reading assignment, is the idea of also keeping ordering when you
+
+76
+00:09:15,240 --> 00:09:23,960
+ learn those structures. So you have those two embeddings, and then you say, I want them to
+
+77
+00:09:23,960 --> 00:09:33,960
+ be coordinated somehow. And maybe you say, hey, every caption, I want them to have cosign
+
+78
+00:09:33,960 --> 00:09:40,600
+ similarity between image and captions. That's the way we just described. Or you could just say,
+
+79
+00:09:40,600 --> 00:09:49,320
+ order embedding. So this case is that it's more of a structured way to putting that coordination.
+
+80
+00:09:49,320 --> 00:09:59,960
+ You may want, in fact, that if it is the same entity at a very high level, that these two are
+
+81
+00:09:59,960 --> 00:10:06,520
+ about persons, then yes, they are close to each other. Maybe the caption talk about,
+
+82
+00:10:06,520 --> 00:10:18,200
+ I don't know, a farmer, and the image is a skier. So the farmer in the skier, in a sense, they're
+
+83
+00:10:18,200 --> 00:10:27,240
+ not exactly the same, but at a very high level, they're both people. And so the entity,
+
+84
+00:10:29,320 --> 00:10:36,920
+ the idea here is that these should still be related, these two examples, but maybe not as
+
+85
+00:10:36,920 --> 00:10:45,320
+ closely as if they were talking about a skier and language and also seeing a skier. And so that's
+
+86
+00:10:45,320 --> 00:10:54,040
+ a little bit the intuition with this kind of more structured approach into this. And another way of
+
+87
+00:10:54,040 --> 00:11:07,880
+ doing it is to say, I have these text and these images. And the way I will connect them together
+
+88
+00:11:07,880 --> 00:11:14,040
+ is through some kind of coding mechanism, like a hashing table. That will also allow me to be
+
+89
+00:11:14,040 --> 00:11:21,400
+ both efficient and also enforce some of the similarity. It will also be a binarized version
+
+90
+00:11:21,400 --> 00:11:28,280
+ of that similarity, I will force between that. So these are other examples. I want to also discuss
+
+91
+00:11:28,280 --> 00:11:35,800
+ about CCA and some of the others, but for that, I need to introduce or remind you about some of
+
+92
+00:11:35,800 --> 00:11:41,400
+ the things you, I'm sure you're learning undergrad, but I want to just be sure we're all on the same
+
+93
+00:11:41,400 --> 00:11:47,640
+ page. And it's about multivariate statistical analysis as a building tool for these coordinated
+
+94
+00:11:47,640 --> 00:12:01,240
+ representation. So multivariate statistical analysis, sorry, statistical approaches to understand the
+
+95
+00:12:01,240 --> 00:12:10,200
+ relationship in high dimensional data, multivariate is, you can see it as multiple variables or high
+
+96
+00:12:10,200 --> 00:12:18,760
+ multiple dimensions in your data. Example, a very popular, there's the ANOVA and then there's the
+
+97
+00:12:18,760 --> 00:12:27,720
+ multivariate version of ANOVA, the MANOVA, PCA and factor analysis are other approaches under the
+
+98
+00:12:27,720 --> 00:12:34,680
+ umbrella of multivariate. And then LDA, a linear discriminant analysis, I will not discuss as much
+
+99
+00:12:34,680 --> 00:12:40,440
+ although, but it's a good reminder if you could look at it also and we'll discuss CCA in a second.
+
+100
+00:12:40,440 --> 00:12:49,560
+ But the core of this are random variables, random variables, a variable whose possible values are
+
+101
+00:12:49,560 --> 00:12:57,480
+ numerical outcomes of a random phenomena. And as you probably remember from previous courses on
+
+102
+00:12:57,480 --> 00:13:05,000
+ this topic, there's two types of random variable, discrete random variable. In this case, the values
+
+103
+00:13:05,000 --> 00:13:11,640
+ that these random variables can take are discrete, so 0, 1, 2, 3, 4, or they could even be colors or
+
+104
+00:13:11,640 --> 00:13:20,920
+ age or other type of, so it could be a tribute or numerical. Continuous will be when it's an
+
+105
+00:13:20,920 --> 00:13:28,280
+ infinite number of value, continuous value. So example, someone's age, someone's height,
+
+106
+00:13:28,280 --> 00:13:36,840
+ someone's weight, age could be represented as a continuous, but age is sort of often represented
+
+107
+00:13:36,840 --> 00:13:47,000
+ as a discrete variable, height could also be continuous, but often it's like, oh, I'm 5 feet,
+
+108
+00:13:47,000 --> 00:13:52,920
+ 11 or something, and the weight similarly would discretize a lot of these. And by the interesting
+
+109
+00:13:52,920 --> 00:13:59,080
+ thing is also which one are correlated with each other, age may be correlated at least at the
+
+110
+00:13:59,080 --> 00:14:05,960
+ beginning, age with height and weight, height and weight by themselves could also be correlated.
+
+111
+00:14:05,960 --> 00:14:13,000
+ So correlation is a very interesting aspect when we look at random variable. So given two random
+
+112
+00:14:13,000 --> 00:14:22,680
+ variable, I want to define a few terms, expected value, that's something you will hear quite often,
+
+113
+00:14:22,680 --> 00:14:28,920
+ and I want to be sure that you have a mental image of it. It's the probably weighted average
+
+114
+00:14:28,920 --> 00:14:37,080
+ of the values. So if it's a discrete space, so I have all my possible values, and here it's for
+
+115
+00:14:37,080 --> 00:14:47,480
+ the discrete case here, but for all my possible values, and it's multiplied, I have a discrete
+
+116
+00:14:47,480 --> 00:14:53,480
+ number of these values, and it's multiplied by how the probability of that value itself
+
+117
+00:14:53,480 --> 00:15:00,680
+ is happening. And in many cases, that probably may be just equal for everybody. So in that case,
+
+118
+00:15:00,680 --> 00:15:06,920
+ what is it equal to? And it's just if it's the same for all observation, then this is exactly the
+
+119
+00:15:06,920 --> 00:15:14,920
+ same as just an Android metric mean. So the expected value could be seen as the mean in many cases,
+
+120
+00:15:14,920 --> 00:15:21,400
+ but if some samples or some values are more likely than others, then this will allow us to take this
+
+121
+00:15:21,400 --> 00:15:29,720
+ into consideration. So variance comes as the next version after that, that measure the spread of my
+
+122
+00:15:29,720 --> 00:15:42,120
+ observation. So it is the expected value of your data minus the mean n squared. And so that's the
+
+123
+00:15:42,120 --> 00:15:48,920
+ variance of your data. Variance is equal to the square of the standard deviation. That's another
+
+124
+00:15:48,920 --> 00:15:56,920
+ way to see it. Variance is going to be important when we also start looking at covariance and also
+
+125
+00:15:56,920 --> 00:16:05,000
+ at correlation. A lot of time, if your data is already normalized, or if you already removed the
+
+126
+00:16:05,000 --> 00:16:14,760
+ mean, then your variance is just almost a multiplication of your data, if the data is already centered
+
+127
+00:16:14,760 --> 00:16:21,160
+ in this case. The covariance is where things start being interesting, because you measure how
+
+128
+00:16:21,160 --> 00:16:28,120
+ two random variables change together. And that's interesting. So you have one random variable,
+
+129
+00:16:28,120 --> 00:16:35,720
+ you have another one, and then you're trying to see how are these two run like, how are these two
+
+130
+00:16:35,720 --> 00:16:45,160
+ changing together. Here at this point, all of this is for univite, like I'm not yet doing the multivite,
+
+131
+00:16:47,240 --> 00:16:54,360
+ but in a second we'll show that. But if it's only x is one dimensional and y is one dimensional,
+
+132
+00:16:54,360 --> 00:17:00,680
+ and you remove the mean, so you remove the mean from both of them, and then then your question is
+
+133
+00:17:00,680 --> 00:17:12,120
+ like, hey, how is the, if my x is suddenly increasing, how is my y changing? And if my y is changing,
+
+134
+00:17:12,120 --> 00:17:18,360
+ how is the x changing? So that's the, and that's, if it is already normalized data,
+
+135
+00:17:18,360 --> 00:17:23,080
+ then it's only the multiplication of the two. So the multiplication will become important,
+
+136
+00:17:23,080 --> 00:17:29,560
+ because multiplication, the correlation is just a normalized version of the covariance. The
+
+137
+00:17:29,560 --> 00:17:34,760
+ correlation, which measure the extent to which two variables have a linear relationship with
+
+138
+00:17:34,760 --> 00:17:40,200
+ each other, really what they're doing is just a normalized version. It's looking at the covariance,
+
+139
+00:17:40,200 --> 00:17:45,400
+ it's like how much do they change together, but you just normalize it unlike how much x change
+
+140
+00:17:45,400 --> 00:17:51,640
+ by itself, and how much y no changes by itself. By normalizing it, what's the nice thing is the
+
+141
+00:17:51,640 --> 00:17:58,680
+ correlation will be between one and minus one. So you get and get a nice, because you normalize it
+
+142
+00:17:59,480 --> 00:18:11,320
+ correctly nicely. So let's do a little test of these. If x is the horizontal axis and y is the
+
+143
+00:18:11,320 --> 00:18:21,240
+ vertical axis, and I show you a plot like this one, will you say x and y are both, and each dot
+
+144
+00:18:21,240 --> 00:18:27,880
+ there is one of my sample. So these are scattered to graph, that's one way to call them,
+
+145
+00:18:28,600 --> 00:18:34,280
+ and these are each of my plot. And while if I have something like this, will you say they're
+
+146
+00:18:34,280 --> 00:18:42,600
+ correlated? And so in this case, it's very strongly correlated. Every time there's, in fact it's,
+
+147
+00:18:42,600 --> 00:18:47,400
+ you could say positively correlated. So every time there's an increase in x, there's also an
+
+148
+00:18:47,400 --> 00:18:54,200
+ increase in y. And as you get here, they're very scattered all around, and so at that point you
+
+149
+00:18:54,200 --> 00:18:58,760
+ lose and don't have a strong correlation. So this was a bit easier. Now this one,
+
+150
+00:18:58,760 --> 00:19:04,520
+ so this one we knew is positive correlated. Yeah, these are also correlated.
+
+151
+00:19:04,520 --> 00:19:16,040
+ So yes, in fact, these are still very correlated. It is still very strongly correlated. It's just
+
+152
+00:19:16,040 --> 00:19:23,080
+ that the correlation is, there's still a strong correlation. So every time one is changing,
+
+153
+00:19:23,080 --> 00:19:32,120
+ the other is changing. And the important part here is that fact that in the Pearson correlation,
+
+154
+00:19:32,120 --> 00:19:39,080
+ we were normalizing by each, like variance of x and variance of y. And for that reason,
+
+155
+00:19:39,080 --> 00:19:44,600
+ even though it looks like, I don't know, one is maybe more correlated than the other,
+
+156
+00:19:44,600 --> 00:19:49,800
+ but because you divide by variance of x and variance of y, then they end up having almost
+
+157
+00:19:49,800 --> 00:19:56,520
+ or exactly like both a correlation of one. The only one is the middle one, which is undefined,
+
+158
+00:19:56,520 --> 00:20:04,760
+ because at that point, if you always get no variation in one of your x or y, then if you
+
+159
+00:20:04,760 --> 00:20:11,000
+ remember the equation, you divide by the variance of x and the variance of y. And if that variance is
+
+160
+00:20:11,000 --> 00:20:18,360
+ zero, there's no change, then it becomes undefined divided by zero. And then you have a bunch of other
+
+161
+00:20:19,480 --> 00:20:25,160
+ graphs here. And that will be part of your homework. And I'm just kidding. But yeah,
+
+162
+00:20:25,160 --> 00:20:31,560
+ these, I will say, are less correlated or very little correlated, although it would maybe be
+
+163
+00:20:31,560 --> 00:20:38,920
+ tempting to call this correlated. But these are, I will say maybe not exactly zero, but the very
+
+164
+00:20:38,920 --> 00:20:46,280
+ uncorrelated. Okay, so multivariate is an extension from that. So I talk about univviates, or in
+
+165
+00:20:46,280 --> 00:20:53,080
+ your universe, you have, let's say, age and the weight, and then you're looking at this. But in many
+
+166
+00:20:53,080 --> 00:21:02,840
+ cases, you have multiviodes. So x and y may be like x may be language, and x1 may be looking at
+
+167
+00:21:02,840 --> 00:21:12,520
+ sentiment of the in the language, x2 may be looking at, I don't know the, is it about the past or the
+
+168
+00:21:12,520 --> 00:21:19,800
+ present I'm talking about. So this could be all of these from lexicon, like L.I.W.C, like description
+
+169
+00:21:19,800 --> 00:21:26,280
+ of the language. And maybe in the image, I could be looking at features like, is it about a person?
+
+170
+00:21:26,280 --> 00:21:33,880
+ Is the person smiling? Where are they looking? So these are a bunch of feature random variables.
+
+171
+00:21:33,880 --> 00:21:40,120
+ And so each of these, you could, a lot of time we call them features in a non statistical way,
+
+172
+00:21:40,120 --> 00:21:47,960
+ we'll just call them features. And so if for one view x and one view x and one view y,
+
+173
+00:21:47,960 --> 00:21:54,840
+ or one modality x and one modality y. And then the everything we described earlier,
+
+174
+00:21:54,840 --> 00:22:05,000
+ it will still exist in the multivariate sense. So one thing is the covariance matrix,
+
+175
+00:22:05,640 --> 00:22:14,520
+ which is like within one modality, within modality x, how are these different random variable,
+
+176
+00:22:14,520 --> 00:22:21,960
+ how are these different features related to each other? So when I change, I don't know the
+
+177
+00:22:21,960 --> 00:22:32,040
+ sentiment, does it change also the way, I don't know how often I talk about the future,
+
+178
+00:22:33,080 --> 00:22:43,160
+ like how often I use the, I don't know, first person pronouns. And so is there very, are they
+
+179
+00:22:43,160 --> 00:22:52,040
+ varying together or not? I mean, this matrix, the diagonal of this matrix will be how each
+
+180
+00:22:52,040 --> 00:22:57,800
+ of them are varying with each other. So it would be one. And then if really nothing, none of them
+
+181
+00:22:57,800 --> 00:23:05,240
+ vary with each other, then all of the of diagonal would be zero. So that's what you get with a
+
+182
+00:23:05,240 --> 00:23:11,080
+ covariance matrix. The more interesting is the cross covariance matrix, because now it's not
+
+183
+00:23:11,080 --> 00:23:18,200
+ comparing x with itself, but it's looking at x and y. And so for looking at how, like if the
+
+184
+00:23:18,200 --> 00:23:25,560
+ language, if the sentiment is very positive, how does it change with me being a man or a woman,
+
+185
+00:23:25,560 --> 00:23:33,480
+ or me being smiling or not in the image, or me having a certain age, or me like, so how is all
+
+186
+00:23:33,480 --> 00:23:41,320
+ these features that I have, how do they vary to each other? How often do I get more of the positive,
+
+187
+00:23:41,320 --> 00:23:46,600
+ how does it change on having more smiles? And so that's what this matrix is going to be. And so
+
+188
+00:23:46,600 --> 00:23:55,880
+ this is going to be an interesting matrix. This matrix is, and to show it visually, this matrix,
+
+189
+00:23:55,880 --> 00:24:05,480
+ the same, the diagonal will be how x1 and y1 vary to each other, yx1 and y2. The thing is,
+
+190
+00:24:05,480 --> 00:24:13,000
+ the ordering should not matter as much. So I should like, if I can't reshape the,
+
+191
+00:24:13,720 --> 00:24:20,440
+ re-swap the order of this, although after I decided on order, then I should be consistent
+
+192
+00:24:20,440 --> 00:24:31,320
+ afterward. But here, like x1 versus x2 is just arbitrary. I pick x1 to be the positive words,
+
+193
+00:24:31,320 --> 00:24:37,480
+ and x2 may be negative words. But the more interesting is to look like inside this,
+
+194
+00:24:37,480 --> 00:24:44,600
+ how is these correlated with the other modality? So this is the covariance. And I'm just going to,
+
+195
+00:24:44,600 --> 00:24:51,880
+ before I get into the CCA, which looks at correlation with this, which, as you remember,
+
+196
+00:24:51,880 --> 00:25:01,960
+ correlation, what was correlation? Correlation was covariance of x and y divided by the variance of
+
+197
+00:25:01,960 --> 00:25:09,000
+ x times the variance of y. So it's going to be, in matrix like this, divided by matrix like this,
+
+198
+00:25:09,000 --> 00:25:14,680
+ multiplied by the matrix of the y. So you can already know how the covariance,
+
+199
+00:25:14,680 --> 00:25:22,520
+ the correlation could be computed. Now, I just want to define that the trace is defined as the
+
+200
+00:25:22,520 --> 00:25:28,440
+ sum of the element of the diagonal. I just want to define that. So by the way, the trace here,
+
+201
+00:25:28,440 --> 00:25:37,800
+ what would be the trace? Because here is the trace is one, like the diagonal is always one.
+
+202
+00:25:37,800 --> 00:25:42,520
+ And so the trace will just be the multiplication of these, which is,
+
+203
+00:25:42,520 --> 00:25:56,120
+ so that's the trace, does the diagonal of this. But the more, so PCA is what you all know or have
+
+204
+00:25:56,120 --> 00:26:05,400
+ worked with in this kind of multivariate world. PCA is, the idea is that you have two set of points,
+
+205
+00:26:05,400 --> 00:26:15,160
+ point clouds are, or scatter plots. And so you have samples. And let's say, for now, I have,
+
+206
+00:26:15,160 --> 00:26:23,800
+ here, I have, PCA, I will do it on one point cloud. So I have one point cloud, maybe all my
+
+207
+00:26:23,800 --> 00:26:32,280
+ language data. I have all my language data. And let's say I have only two viable x and y, okay,
+
+208
+00:26:32,280 --> 00:26:40,840
+ and x and y. And so principal component analysis is this idea that although x and y were looking at,
+
+209
+00:26:40,840 --> 00:26:49,080
+ I don't know, positivity, and I don't know what would be this one, like language, another language
+
+210
+00:26:49,080 --> 00:26:54,840
+ features. And then, although I have defined these features, and that's how I measure it,
+
+211
+00:26:54,840 --> 00:27:01,000
+ that's maybe not how the variance is happening. And so PCA is about looking where is the variance
+
+212
+00:27:01,000 --> 00:27:06,680
+ happening? What is that direction where most of the variance is happening? And clearly,
+
+213
+00:27:06,680 --> 00:27:14,760
+ most of the variance is around this axis. And so that will be called your first eigenvector.
+
+214
+00:27:14,760 --> 00:27:20,760
+ And then the second eigenvector will always be perpendicular to the first one. And that one
+
+215
+00:27:20,760 --> 00:27:27,080
+ will have less variance happening there. So this is a lot more interesting to study this. If I was
+
+216
+00:27:27,080 --> 00:27:32,520
+ to look at factor analysis, I will probably also study this kind of where the variance is happening.
+
+217
+00:27:32,520 --> 00:27:40,840
+ So officially, PCA converts a set of observations of possibly correlated volume to a set of value,
+
+218
+00:27:40,840 --> 00:27:46,760
+ which are linearly-encrolated variables called principal components. And so I showed it for two
+
+219
+00:27:46,760 --> 00:27:54,920
+ different point clouds here. Eigenvectors are the orthogonal. And the first couple of eigenvector
+
+220
+00:27:54,920 --> 00:28:03,080
+ usually explain most of this. And the low eigenvector, low eigenvalues mean less information. And so
+
+221
+00:28:03,080 --> 00:28:10,040
+ maybe it's just noise that is there. So maybe I could just remove the noise. Eigenvalue decomposition.
+
+222
+00:28:10,040 --> 00:28:17,080
+ I want to describe it because we will reuse it when we talk about CCA. So if you have a matrix A
+
+223
+00:28:17,080 --> 00:28:27,960
+ of n by n, is there exists a non-zero vector x in such a way that a at a time x is a scalar
+
+224
+00:28:27,960 --> 00:28:38,120
+ multiplying multiply of x. So this is another way to say it is that I have my matrix A that I'm trying
+
+225
+00:28:38,120 --> 00:28:46,440
+ to learn what is the eigenvector. And if I multiply by an eigenvector, then I should be able to be
+
+226
+00:28:46,440 --> 00:28:53,800
+ equal to multiplying the same eigenvector by the eigenvalues. That's the intuition mathematically
+
+227
+00:28:53,800 --> 00:29:02,200
+ with one way of solving it is in such a way that if I have that, if I found that, if I have my
+
+228
+00:29:02,200 --> 00:29:11,240
+ original scattered data all around and I was to find this one eigenvector, then the multiplying
+
+229
+00:29:11,240 --> 00:29:18,360
+ by the eigenvalue would be equivalent to multiplying all of my data by that eigenvector. So that was
+
+230
+00:29:18,360 --> 00:29:25,240
+ another intuition. And that was nice to say there to solve these. There has been a lot of interesting
+
+231
+00:29:25,240 --> 00:29:32,920
+ ways to solve this. One of it is single value, the composition taking your matrix A and decomposing
+
+232
+00:29:32,920 --> 00:29:41,880
+ it in columns U. The columns of U are the eigenvectors of A times A transpose and V are the eigenvector
+
+233
+00:29:41,880 --> 00:29:50,120
+ of A times A transpose A. And so this is, I'm going a little bit fast on this. This is probably for
+
+234
+00:29:50,120 --> 00:29:56,840
+ most of you just a quick reminder that of these. But the thing that you may or may not have worked
+
+235
+00:29:56,840 --> 00:30:02,360
+ on as much is canonical correlationization analysis. And this is very interesting because
+
+236
+00:30:02,360 --> 00:30:09,960
+ in many problems in where you have multi-view learning, you have some demographic and then some
+
+237
+00:30:09,960 --> 00:30:18,120
+ response to surveys. And so you're trying to match how the demographic align with different
+
+238
+00:30:18,120 --> 00:30:25,720
+ aspects of surveys. Or in all case, is that you have audio and video and you want to see how these
+
+239
+00:30:25,720 --> 00:30:33,480
+ correlated to each other. And that's really for us. When I think of multi-view, I think of multi-model
+
+240
+00:30:33,480 --> 00:30:38,280
+ when the more general says is multi-view is could be for any type of data.
+
+241
+00:30:41,800 --> 00:30:50,920
+ So canonical is about reduce to the simplest or clearest schema of possible. And so correlation
+
+242
+00:30:50,920 --> 00:30:58,280
+ analysis goes in three steps. And so I have my text and I have my images. And for now, I could
+
+243
+00:30:58,280 --> 00:31:03,960
+ call it unsupervised, but it is really paired data. So it has some kind of supervision. I have
+
+244
+00:31:03,960 --> 00:31:12,360
+ this paired data. And my goal is to learn and embedding where these embedding, these representation
+
+245
+00:31:12,360 --> 00:31:18,760
+ for image and text are going to be as correlated as possible. That's the first intuition. But it's
+
+246
+00:31:18,760 --> 00:31:23,960
+ not the exact one and I'm going to clarify it. But at a high level, you could say I want to have
+
+247
+00:31:23,960 --> 00:31:29,320
+ these embedding as correlated as possible. That correlated mean is there's increase in one,
+
+248
+00:31:29,320 --> 00:31:34,920
+ then I also increases in the other, or if it's positive correlated or negatively correlated.
+
+249
+00:31:34,920 --> 00:31:44,040
+ So if it was, this is the idea is to learn two linear projection. So I have my features for
+
+250
+00:31:44,040 --> 00:31:50,600
+ X, my feature for Y, so text and images. And I want to project them. And for now, I will just go
+
+251
+00:31:50,600 --> 00:31:56,440
+ with linear CCA, which says I have a linear projection. So I'm going to, I have already my
+
+252
+00:31:56,440 --> 00:32:03,720
+ embedding, maybe of Word2vec and CNN. And I just want to learn a linear projection of the two.
+
+253
+00:32:03,720 --> 00:32:08,360
+ But I want to learn these projections so that these two projections, and my projection,
+
+254
+00:32:08,360 --> 00:32:13,960
+ I really mean representation or embeddings, these two projections are as correlated as possible.
+
+255
+00:32:13,960 --> 00:32:21,240
+ And that's the first way. And that's, if I was just to do this, it would not be called
+
+256
+00:32:21,240 --> 00:32:27,000
+ canonical correlation analysis, it would be called correlation analysis, because this is just how
+
+257
+00:32:27,000 --> 00:32:34,680
+ these two are as most correlated. But isn't there, and this is, I say here that it's the two embeddings
+
+258
+00:32:34,680 --> 00:32:40,760
+ that are correlated, but mathematically, it's also, you can imagine that it's the projection. So I
+
+259
+00:32:40,760 --> 00:32:46,760
+ have my X, and I project it, and then I want these projections to be as correlated as possible.
+
+260
+00:32:47,960 --> 00:32:53,800
+ So this is the first step, and just the intuition there is I want these to be as correlated. So I
+
+261
+00:32:53,800 --> 00:33:04,920
+ have X and Y, and X and Y are, let's say for now, I have my, I have paired data, and for the X and
+
+262
+00:33:04,920 --> 00:33:15,080
+ the Y, and let's say for now, I X and Y are in 2D, X, Y is in 2D, and X is also in 2D. And the correlation
+
+263
+00:33:15,080 --> 00:33:21,960
+ is such a way that if there is an increase in X in some direction, that they will also be an
+
+264
+00:33:21,960 --> 00:33:29,720
+ increase similarly in Y. That's the main idea is that you find it that every time that if there
+
+265
+00:33:29,720 --> 00:33:37,640
+ is a change in X, it also has a similar change in Y. That's the idea of correlation. So maybe
+
+266
+00:33:38,440 --> 00:33:48,840
+ if I have a loud, very, let's say that X was about audio, and V was here, the audio in the visual.
+
+267
+00:33:48,840 --> 00:34:01,240
+ So it says stronger, very strong loudness, and also maybe high pitch, very strong
+
+268
+00:34:01,240 --> 00:34:09,880
+ loudness and high pitch, and in visual, what you see is an increase in eyebrows, but a decrease in
+
+269
+00:34:09,880 --> 00:34:16,680
+ smile. There is a lot less smile, but there's an increase in eyebrows. So eyebrows goes up,
+
+270
+00:34:16,680 --> 00:34:23,880
+ and but a reduction in smile, every time that there is a very, very strong,
+
+271
+00:34:25,160 --> 00:34:37,480
+ and like I may say, maybe every time there's a reduction in my loudness, and my example here
+
+272
+00:34:37,480 --> 00:34:46,200
+ was pitch. Although the example I was imagining was closer to being this way. So maybe the next
+
+273
+00:34:46,200 --> 00:34:54,360
+ time I present it, I will show it that way. So this is the correlation. This is just if it was
+
+274
+00:34:54,360 --> 00:35:03,240
+ correlation analysis, but in our case, and that's the beauty of Canonical correlation analysis,
+
+275
+00:35:03,240 --> 00:35:11,880
+ is that I will not just learn it. And this is the same Canonical correlation here. I'm just re,
+
+276
+00:35:11,880 --> 00:35:17,880
+ oh, sorry, before I get into the second one, I just want to remind you correlation
+
+277
+00:35:17,880 --> 00:35:23,800
+ is covariance and variance of each of them. So how well did they vary to each other?
+
+278
+00:35:23,800 --> 00:35:31,400
+ They're just normalized by each of them. And if they are, these are already normalized,
+
+279
+00:35:31,400 --> 00:35:37,960
+ then you can rename, we can rewrite this, because if the data has been already normalized,
+
+280
+00:35:37,960 --> 00:35:44,120
+ here what I did is just a rewriting is like, there is this data, initial data that I have,
+
+281
+00:35:44,120 --> 00:35:51,720
+ and then I projected this I Y, and that gave me my H Y. I took my X and I projected it and gave
+
+282
+00:35:51,720 --> 00:36:00,120
+ my H X, and then similarly for the variance on X, variance on Y. So I'm doing this just because it's
+
+283
+00:36:00,120 --> 00:36:08,040
+ kind of everybody will often change the notation to something like this, which is like your covariance
+
+284
+00:36:08,040 --> 00:36:16,440
+ matrix and your cross covariance matrix and your covariance matrix. Here's, and so you often will
+
+285
+00:36:16,440 --> 00:36:22,840
+ see it this way, but this equation are exactly the same with just the normalized data. Now the,
+
+286
+00:36:22,840 --> 00:36:33,960
+ the reason I go there is that I want to say that the second intuition is that I have H X and H Y,
+
+287
+00:36:33,960 --> 00:36:41,080
+ and I could say, hey, I want them to be as correlated as possible, but there may be more than one way
+
+288
+00:36:41,080 --> 00:36:47,880
+ this data can be correlated, and it has a beauty of canonical correlation analysis is to say,
+
+289
+00:36:47,880 --> 00:36:55,560
+ there's more than, maybe more than one way that the data could be correlated, and so we want these
+
+290
+00:36:55,560 --> 00:37:04,760
+ multiple projection of it, of the data, and so you have this data, and I will find multiple
+
+291
+00:37:05,320 --> 00:37:11,240
+ projection. Each of these projections will be also going to, with each other, so I'm going to learn
+
+292
+00:37:11,240 --> 00:37:18,360
+ like these multiple projection, but I will learn them in such a way that my first one may be the
+
+293
+00:37:18,360 --> 00:37:25,320
+ most correlated, the second one is the second most correlated and third one, third most correlated,
+
+294
+00:37:25,320 --> 00:37:32,040
+ and so the beauty of it is that there may be more than one way H X and H Y will be correlated,
+
+295
+00:37:32,040 --> 00:37:38,360
+ and then I just need to find a way to enforce that these will be orthogonal or canonical, so
+
+296
+00:37:38,360 --> 00:37:43,880
+ by canonical is the simplest, and how to make it simple is to make it orthogonal. If you didn't
+
+297
+00:37:43,880 --> 00:37:49,640
+ make it canonical, then they could be like these could be like, but now if you make it canonical,
+
+298
+00:37:49,640 --> 00:37:57,480
+ then they're all, and that what it means canonical and mostly mean that H X one, if I multiply one by
+
+299
+00:37:57,480 --> 00:38:06,920
+ the other, then it should be zero. That's the idea, and so another way to make it is to say
+
+300
+00:38:06,920 --> 00:38:16,680
+ that this whole thing, if everything, here's a, it takes a little while to realize it,
+
+301
+00:38:16,680 --> 00:38:25,240
+ but I want them to be canonical, what it means is that H X, if I take two of them,
+
+302
+00:38:26,600 --> 00:38:34,440
+ they should be zero, if they are, if they are two different one, there should be zero,
+
+303
+00:38:34,440 --> 00:38:41,880
+ otherwise they should be non-zero. So this whole matrix, in fact, I'm going to force it to be zero,
+
+304
+00:38:41,880 --> 00:38:51,480
+ and I'm only going to focus on the center part of it, on the trace, and so because everything else
+
+305
+00:38:51,480 --> 00:38:57,880
+ I want it to be zero, and so I want only focusing on the trace. And so I can rename, and we can
+
+306
+00:38:57,880 --> 00:39:09,560
+ rewrite it this way, saying I'm going to focus only on the trace, but I'm also, because if you
+
+307
+00:39:09,560 --> 00:39:16,440
+ don't add this other one, I'm also going to make it in such a way that since this subject is
+
+308
+00:39:16,440 --> 00:39:23,480
+ invariance and scale, I want to add this constraint that these should be equal to identity.
+
+309
+00:39:23,480 --> 00:39:30,200
+ I will make it as a constraint, and then when I do it and make it as they are equal to identity,
+
+310
+00:39:30,200 --> 00:39:38,840
+ I'm also enforcing that the off-dangle of this are zero. I'm forcing it by having this one there.
+
+311
+00:39:38,840 --> 00:39:50,280
+ And so the canonical correlation analysis can be written as maximizing the trace,
+
+312
+00:39:50,280 --> 00:40:00,200
+ that's really what I'm maximizing, in such a way that the covariance are unit and entity matrix,
+
+313
+00:40:00,200 --> 00:40:06,760
+ and also that the off-dangle are zero. So that's what I want to optimize.
+
+314
+00:40:07,480 --> 00:40:20,280
+ And so how do I see this visually? This, specifically this part here, how do I can show it visually?
+
+315
+00:40:20,280 --> 00:40:27,480
+ I'm doing it in such a way that all of my off, I make it so that here, I make it so that these
+
+316
+00:40:27,480 --> 00:40:35,720
+ are identity, and I'm making it so that these are off-dangle are zero, and then I am optimizing
+
+317
+00:40:35,720 --> 00:40:42,280
+ to maximize these. I want these as large as possible. So I want as these as large as possible,
+
+318
+00:40:42,280 --> 00:40:53,160
+ while keeping all of this zero, and then an identity for the variance here. And so how do you
+
+319
+00:40:53,160 --> 00:41:00,520
+ solve this? And I don't know if you're probably a little while you look at this optimization problem,
+
+320
+00:41:00,520 --> 00:41:08,040
+ but when you see maximize and then subject to some constraints, you can probably know that one of
+
+321
+00:41:08,040 --> 00:41:19,960
+ the waiters optimize this is Lagrange multiplier, which is translated as the barn, the multiplier
+
+322
+00:41:19,960 --> 00:41:27,080
+ of the barn, but no Lagrange is probably the last name of the mathematician who did this.
+
+323
+00:41:28,120 --> 00:41:34,360
+ And there, what it is, is the idea of this is that you Lagrange function that is defined as
+
+324
+00:41:34,360 --> 00:41:41,080
+ what you're trying to maximize, and then it has two, apart with each of them has these Lagrange
+
+325
+00:41:41,080 --> 00:41:49,480
+ multiplier, and these Lagrange multipliers will allow you to define those stationary points,
+
+326
+00:41:49,480 --> 00:41:57,480
+ and I'm not going in all of the detail, but once you get this into a function, which is,
+
+327
+00:41:57,480 --> 00:42:05,400
+ this is your last function, then now I can start an optimizing like you do optimizing many of them
+
+328
+00:42:05,400 --> 00:42:11,400
+ by looking at how they change, look at their gradient, and then when for you do from that,
+
+329
+00:42:11,400 --> 00:42:19,480
+ when you force them to be a zero as a stationary point, then you can get this. This is just some
+
+330
+00:42:19,480 --> 00:42:26,440
+ simple interesting mathematics that goes. But what's interesting in this is that it is in fact very
+
+331
+00:42:26,440 --> 00:42:37,000
+ related to SVD, to solve for this equation is in fact very related to SVD, because what you have
+
+332
+00:42:37,000 --> 00:42:47,480
+ is these eigenvectors, and then these eigenvalues here, so you can solve CCA with SVD decomposition,
+
+333
+00:42:47,480 --> 00:42:56,280
+ and so the SVD can nicely take on, and so you can take this part here, and that will give you
+
+334
+00:42:56,280 --> 00:43:07,640
+ the decomposition. So the canonical correlation analysis, the nice aspect of it, is that it finds
+
+335
+00:43:07,640 --> 00:43:14,840
+ multiple ways that things are correlated. So in the spectrum of coordinated representation,
+
+336
+00:43:14,840 --> 00:43:21,480
+ I'm not forcing the representation to be cool to each other, I'm not forcing them to be completely
+
+337
+00:43:21,480 --> 00:43:26,440
+ correlated to each other, which will be kind of equivalent to just saying, multiplying,
+
+338
+00:43:26,440 --> 00:43:31,400
+ it's almost the same as the other, but here you're saying, hey, that there's more than one way that
+
+339
+00:43:31,400 --> 00:43:38,680
+ they can be correlated. It's still in the big scheme of thing, it's still relatively close to
+
+340
+00:43:38,680 --> 00:43:46,360
+ joint representation, but it allows a little bit more loose coordination to that. So these are the
+
+341
+00:43:46,360 --> 00:43:54,200
+ three main intuition for canonical correlation analysis. So linear projection that maximizes
+
+342
+00:43:54,200 --> 00:43:59,320
+ the correlation, but each of these projections are orthogonal, and you make it the unit variance
+
+343
+00:43:59,320 --> 00:44:05,880
+ of the projection vector. The unit variance was also something we would do if you remember for the
+
+344
+00:44:05,880 --> 00:44:17,240
+ word to beck when we were comparing the projection. So now this is CCA, what's really nice is like,
+
+345
+00:44:17,240 --> 00:44:26,600
+ let's look at extension that are nonlinear version of this. So the paper in 2013 that got
+
+346
+00:44:26,600 --> 00:44:33,960
+ quite popular, it was an extension of CCA to make it nonlinear version.
+
+347
+00:44:36,840 --> 00:44:43,400
+ And in this case, it's not just the linear projection, but I would also have a nonlinear,
+
+348
+00:44:43,400 --> 00:44:50,520
+ and I'm only putting one nonlinearity, but it could be many more of them. And so the objective
+
+349
+00:44:50,520 --> 00:44:58,360
+ function is still to make my loss function, and because I have paired data, my loss function here
+
+350
+00:44:58,360 --> 00:45:03,320
+ is still going to be about the correlation of these two to be as correlated as possible,
+
+351
+00:45:03,320 --> 00:45:11,240
+ because if it's paired data, I know that this sample X is supposed to co-occur with Y,
+
+352
+00:45:11,240 --> 00:45:18,840
+ and so I will want there to be as correlated as possible. And for this, you need to compute the
+
+353
+00:45:18,840 --> 00:45:30,360
+ gradient of these between H of X and the U. And then you can, after that, once you've done that,
+
+354
+00:45:30,360 --> 00:45:35,400
+ as long as you get that gradient, which we talked about in the previous slide,
+
+355
+00:45:35,400 --> 00:45:42,440
+ that this is something that can be analytically computed, then it's a gradient-based approach,
+
+356
+00:45:42,440 --> 00:45:48,440
+ and deep neural representation are all about analytical gradient. So if I can get an analytical
+
+357
+00:45:48,440 --> 00:45:54,040
+ gradient, then I can propagate my gradient, and then everything goes well. What is the beauty of
+
+358
+00:45:54,040 --> 00:46:03,480
+ it is that you can learn and just pre-train, and that was more like specifically how they did it
+
+359
+00:46:03,480 --> 00:46:10,840
+ in that paper. That paper came not too long after the multimodal deep learning paper. So at that point,
+
+360
+00:46:10,840 --> 00:46:21,880
+ there was this idea which is still now very popular in language, which is the idea of pre-training,
+
+361
+00:46:21,880 --> 00:46:27,720
+ which is the idea of let's pre-train on maybe a larger amount of data. So maybe you can pre-train
+
+362
+00:46:27,720 --> 00:46:34,280
+ on a text base where I have multiple nonlinear representation, nonlinear projection, and maybe
+
+363
+00:46:34,280 --> 00:46:40,520
+ a linear projection. And then eventually, I'm going to middle representation in such a way
+
+364
+00:46:40,520 --> 00:46:46,920
+ that I can recreate my text. I can pre-train that way, and then that allows me, after that,
+
+365
+00:46:47,640 --> 00:46:53,800
+ to fine-tune it. So I can fine-tune maybe just a linear projection, or I can fine-tune all of them.
+
+366
+00:46:53,800 --> 00:47:05,880
+ Now, CCA, one of the challenges of CCA is that it's correlation. And if I give you
+
+367
+00:47:05,880 --> 00:47:14,440
+ one sample like an image and a text, I give you just two samples, one sample from each modality,
+
+368
+00:47:14,440 --> 00:47:24,840
+ and I say, what is the correlation? I don't know. You're looking at an image of LP, and I don't know,
+
+369
+00:47:24,840 --> 00:47:33,960
+ and I don't know, like brown eyes. Is there a correlation? It's only two samples you can't.
+
+370
+00:47:33,960 --> 00:47:44,200
+ The correlation is undefined. And so the correlation needs a lot of samples.
+
+371
+00:47:44,200 --> 00:47:51,400
+ So if you are to do a batch-based approach, it becomes very important to do large mini batches,
+
+372
+00:47:51,400 --> 00:47:56,120
+ or full batches, and then you do something like the Newton that we talked about.
+
+373
+00:47:56,120 --> 00:48:05,320
+ What's really interesting of that paper and extension of that paper is to start and not only
+
+374
+00:48:05,320 --> 00:48:15,240
+ pre-train with an autoencorder and then do the CCA, but you can do it together. And that I think
+
+375
+00:48:15,240 --> 00:48:23,960
+ is really interesting. What is the loss function here? Look at this model. What is the loss function?
+
+376
+00:48:23,960 --> 00:48:34,280
+ You have the autoencorder for text, autoencorder of images, and then you have some coordination
+
+377
+00:48:34,280 --> 00:48:41,320
+ between the two. So definitely, h of x should be good in such a way that it creates images,
+
+378
+00:48:41,320 --> 00:48:47,080
+ can recreate the image, or at least the image features, and here you have your representation
+
+379
+00:48:47,080 --> 00:48:54,520
+ in such a way that it can recreate the text feature. But then you also have the loss here.
+
+380
+00:48:54,520 --> 00:49:01,640
+ And so if you are to train it, if you had to start which of these three losses,
+
+381
+00:49:01,640 --> 00:49:06,760
+ so the losses there, the loss will have three parts. How well I generate the text, how well I
+
+382
+00:49:06,760 --> 00:49:14,360
+ generate the image, and how always they correlate them. Training it, you could start with all three
+
+383
+00:49:14,360 --> 00:49:21,000
+ losses equal, you could start maybe with these two stronger, and then eventually you want it to
+
+384
+00:49:21,000 --> 00:49:26,040
+ be as correlated. This is kind of a smooth version of the previous approach. The previous approach,
+
+385
+00:49:26,040 --> 00:49:32,760
+ you do autoencoding, and then you do the CCA. In this one, you're kind of doing all of them
+
+386
+00:49:32,760 --> 00:49:38,520
+ together. But even though you do it together, you may not want to wait all the losses the same
+
+387
+00:49:38,520 --> 00:49:43,640
+ at every iteration during your optimization. So that's another thing to think about.
+
+388
+00:49:43,640 --> 00:49:54,120
+ And so as a CCA, you can always learn the CCA in a stack manner that we discussed before.
+
+389
+00:49:55,080 --> 00:50:06,680
+ I'm not going in the details of LDA and some of these MANOVA. But I will say, in our world,
+
+390
+00:50:06,680 --> 00:50:13,000
+ where everybody is using the same approaches, and we're all based on the same set of tools,
+
+391
+00:50:13,000 --> 00:50:21,160
+ I really invite you to start looking at others. Sometimes they look like old work, but this work
+
+392
+00:50:21,160 --> 00:50:29,160
+ is very strong in the sense that there's been a lot of proofs and there's a lot of interesting
+
+393
+00:50:29,160 --> 00:50:36,200
+ results. And if you look at interpretability as one of the things you want, these statistical
+
+394
+00:50:36,200 --> 00:50:45,240
+ approaches can give you a lot better, and often they will give you interpretability. They also
+
+395
+00:50:45,240 --> 00:50:52,680
+ have bounds into it. And so that really useful information. So let's say, for example,
+
+396
+00:50:52,680 --> 00:51:02,120
+ interconfidence intervals on some parameters. So I invite you to study a little bit more on this
+
+397
+00:51:02,120 --> 00:51:10,520
+ topic. I want to look at a sister topic, which is called multi-view clustering, because we talk
+
+398
+00:51:10,520 --> 00:51:19,080
+ about if you have paired data, so we call it unsupervised data, you have paired data,
+
+399
+00:51:19,080 --> 00:51:25,880
+ and you want to learn a representation. But clustering, and just this one is not yet the
+
+400
+00:51:25,880 --> 00:51:33,160
+ multi-view clustering, it's just a clustering. It's the idea of partition, a set of data samples,
+
+401
+00:51:33,160 --> 00:51:41,000
+ such that similar sample are grouped together, and dissimilar samples are divided. So the nice thing
+
+402
+00:51:41,000 --> 00:51:50,040
+ here, and that's in the world of interpretable models, the idea of data clustering is to not only
+
+403
+00:51:50,040 --> 00:51:57,000
+ learn a representation, but within that representation, what are the clusters, what are the groups on
+
+404
+00:51:57,000 --> 00:52:08,520
+ this? And so the basic version of this is k-mean clustering, and this is a simple clustering based
+
+405
+00:52:08,520 --> 00:52:18,200
+ on competitive learning, where things can be part of only one of the k-groups, and it's an iterative
+
+406
+00:52:18,200 --> 00:52:26,920
+ process. So it's a sign, the idea is you're randomly usually, or you can have a warm start,
+
+407
+00:52:26,920 --> 00:52:35,480
+ but you can randomly set the middle of each group, and then you, for all the examples,
+
+408
+00:52:35,480 --> 00:52:43,720
+ assign them into one of the group, the closest one, and then you recompute the center of the cluster,
+
+409
+00:52:43,720 --> 00:52:50,920
+ and you do it until convergence. Winners takes out, that's why it's competitive. The subversion of that
+
+410
+00:52:50,920 --> 00:52:59,320
+ is a non-negative matrix factorization. So the idea here is you have a matrix X,
+
+411
+00:52:59,320 --> 00:53:11,080
+ and then you want to factorize this in such a way where what you want is a non-negative matrix F,
+
+412
+00:53:11,080 --> 00:53:22,520
+ and matrix G. And so in this case, you could say you will have some kind of basis or factors,
+
+413
+00:53:22,520 --> 00:53:31,560
+ and then you will have some coefficient for these factors. So you could see it also maybe as G
+
+414
+00:53:31,560 --> 00:53:43,800
+ being those different centers of the clusters, and F being as how much each of these columns of X
+
+415
+00:53:43,800 --> 00:53:53,640
+ each of these samples, how much is it part of each of these. So G will have, let's say, let's say,
+
+416
+00:53:53,640 --> 00:54:00,920
+ 10 different center clusters, let's say, 10 different center clusters, and let's say you have
+
+417
+00:54:00,920 --> 00:54:13,720
+ 100 samples in X, and so it will say for my first sample in X, how much is it part of the first
+
+418
+00:54:13,720 --> 00:54:19,960
+ cluster, how much is it part of the second cluster, how much is it part of the third cluster,
+
+419
+00:54:19,960 --> 00:54:27,960
+ that's the kind of nice soft clustering that I'm talking about. And this F, it makes sense the most
+
+420
+00:54:27,960 --> 00:54:37,000
+ when the F is, in fact, non-negative, because in that case, if it's non-negative, then it's really
+
+421
+00:54:37,000 --> 00:54:43,000
+ how much I'm part of that first cluster, how much I'm part of the second cluster.
+
+422
+00:54:43,000 --> 00:54:57,400
+ And so for this, there's been a nice and interesting extension of that. SVD does
+
+423
+00:54:58,280 --> 00:55:05,640
+ the composition, but this one is not necessarily non-negative. In that typical non-negative
+
+424
+00:55:05,640 --> 00:55:12,760
+ metric structureization, both the G and the F are going to be positive. In the semi-non-negative,
+
+425
+00:55:12,760 --> 00:55:22,360
+ then maybe just one of them is, and the second one will be positive. If you go with the example I
+
+426
+00:55:22,360 --> 00:55:33,800
+ was saying, then then the F, how much is it part, I could be also negative or positive,
+
+427
+00:55:33,800 --> 00:55:40,440
+ and then there's the context version of that. Just the semi-non-negative is interesting,
+
+428
+00:55:40,440 --> 00:55:46,520
+ because I like it, because it also, you can go be both positive and negative in the way
+
+429
+00:55:47,080 --> 00:55:56,040
+ each of my cluster are defined, and you can do it in a deep way. So there's a nice paper on a deep
+
+430
+00:55:56,040 --> 00:56:06,200
+ semi-negative metric factorization, and it's deep. They call it deep, but it could be like
+
+431
+00:56:06,200 --> 00:56:14,840
+ multi-factors, and you kind of have NMF for one factor, NMF for another, NMF for third one,
+
+432
+00:56:15,480 --> 00:56:23,400
+ and that's deep in that sense. I will say one direction I like is the idea of
+
+433
+00:56:23,400 --> 00:56:31,480
+ learn the data partition from multiple view. So up to now, this is just about looking at this
+
+434
+00:56:31,480 --> 00:56:39,240
+ clustering, but what if I have multiple view? That's interesting. So it's not just I have all my
+
+435
+00:56:39,240 --> 00:56:45,400
+ language data, and I want to cluster it, like the classic is topic modeling. I have a bunch of
+
+436
+00:56:45,400 --> 00:56:51,880
+ web pages, and I want to know topics that are discussed, but here it's interesting is I have
+
+437
+00:56:51,880 --> 00:57:00,920
+ maybe the text of these, and I may also have images in these web pages. I can also have maybe audio
+
+438
+00:57:00,920 --> 00:57:07,880
+ associated with it, and I want to do the clustering based on all those three modalities. That's the
+
+439
+00:57:07,880 --> 00:57:15,640
+ interesting part, and for now, let's say that I have paired data. So I know that in instance,
+
+440
+00:57:15,640 --> 00:57:26,520
+ I know that each instance I come from the same audio text and images for now, and so the principle
+
+441
+00:57:26,520 --> 00:57:33,560
+ of multi-view clustering, two important principle, is the first one is consensus principle. You want
+
+442
+00:57:33,560 --> 00:57:42,280
+ to maximize what is consistent across multiple view. You want to group together information
+
+443
+00:57:42,280 --> 00:57:52,120
+ that is, so in each modality, I can have many dimensions, many features, but I'm going to,
+
+444
+00:57:52,120 --> 00:58:02,840
+ let's say I have for view one, I have a lot of features, and for view two, I have a lot of features,
+
+445
+00:58:02,840 --> 00:58:09,000
+ but there's a subset of these features that have a consensus, and so that they are like
+
+446
+00:58:09,000 --> 00:58:17,160
+ similar, but also multiple views need to get more comprehensive and accurate
+
+447
+00:58:17,160 --> 00:58:24,120
+ description, so there's also that each, there's complementarity in between the view, so there's
+
+448
+00:58:24,120 --> 00:58:31,400
+ consensus and there's complementarity, and so the multi-view subset clustering, which is
+
+449
+00:58:31,400 --> 00:58:38,120
+ one way, one type or one approach, learns a unified feature representation from all of you
+
+450
+00:58:38,120 --> 00:58:46,680
+ subspace by assuming that all of you share this one representation, so you have all of these views
+
+451
+00:58:46,680 --> 00:58:54,360
+ that have a subspace for it, so it's like kind of an embedding for each, and then you're doing it
+
+452
+00:58:55,240 --> 00:59:03,560
+ in such a way you learn this subspace so that it learn to be able to predict that unified
+
+453
+00:59:03,560 --> 00:59:11,800
+ representation, and so how to end for data clustering in our multimodal data, which is very interesting,
+
+454
+00:59:11,800 --> 00:59:21,240
+ so I have this multiple modalities and I want to make it in such a way that data can be easily
+
+455
+00:59:21,240 --> 00:59:27,960
+ clustered, so I want a learner representation of text and a learner represent an image in such a
+
+456
+00:59:27,960 --> 00:59:34,440
+ way that there will be a natural clustering in my data, and that cluster will be consistent
+
+457
+00:59:34,440 --> 00:59:42,920
+ across modality, and so one fact, one paper that you invited to look at, which was one of the early
+
+458
+00:59:42,920 --> 00:59:48,680
+ one in that direction, was the deep metrics factorization, which you have a visual,
+
+459
+00:59:49,720 --> 00:59:57,160
+ you have visual features, you have in this case the language was represented in a discrete way,
+
+460
+00:59:57,160 --> 01:00:06,040
+ and these two will be taken together, here the one will be embedded, but then finally you will
+
+461
+01:00:06,040 --> 01:00:12,360
+ find this way in such a way that there is a nice factorization of your data, and then if you do
+
+462
+01:00:12,360 --> 01:00:21,400
+ that at test time, it also helps you at test time for the image tagging in this case. I invite you
+
+463
+01:00:21,400 --> 01:00:29,240
+ to look at these other approaches, because I don't have time to discuss all the different ways,
+
+464
+01:00:29,240 --> 01:00:37,080
+ because one way that we look at it is as a subspace, and then the subspace in such a way that there
+
+465
+01:00:37,080 --> 01:00:46,360
+ is a nice grouping, but you could also have in it a graph, so the sub embeddings of each view is in
+
+466
+01:00:46,360 --> 01:00:53,320
+ fact a graph, and you want to do it such that the graph has a nice way of being clustered,
+
+467
+01:00:53,320 --> 01:01:00,280
+ and that's a little bit closer to what we discussed also last Tuesday, and so I invite you to look at
+
+468
+01:01:00,280 --> 01:01:07,560
+ these approaches, and it's really nice because you can do that in such a way that you can also
+
+469
+01:01:07,560 --> 01:01:17,560
+ bootstrap between this, so this is just the idea that you will do the clustering, you get some knowledge
+
+470
+01:01:17,560 --> 01:01:23,560
+ of it, and then you use that knowledge for another modality, get the clustering, and then do the
+
+471
+01:01:23,560 --> 01:01:33,880
+ knowledge and do this, this is kind of a co-training way to do that. Okay, the last part of the lecture
+
+472
+01:01:33,880 --> 01:01:44,840
+ that I want to discuss today, this is about the auto encoder, auto encoder, and so, and this is an
+
+473
+01:01:44,840 --> 01:01:57,320
+ extension, and in the spectrum of coordinated, so we talk about having very strong coordination,
+
+474
+01:01:57,320 --> 01:02:06,040
+ like cosine similarity, we talk about correlation, we talk about canonical correlation, we talk about
+
+475
+01:02:06,040 --> 01:02:15,000
+ clustering, which I would say is like a little bit loosely, so even graph base, and here we'll talk
+
+476
+01:02:15,000 --> 01:02:26,120
+ about having it about, it has a little bit of that same intuition of latent space, but it's a nice
+
+477
+01:02:26,120 --> 01:02:36,120
+ extension of that, so just the quick reminder of the deep CCA, the deep CCA is the idea that you
+
+478
+01:02:36,120 --> 01:02:43,480
+ learn, you have an auto encoder, and you have an auto encoder, and then you force it to be, at the
+
+479
+01:02:43,480 --> 01:02:50,040
+ same time you have a third loss, that also makes it that is correlated with orthogonal projections,
+
+480
+01:02:51,720 --> 01:03:06,280
+ but multi-view latent intact space is, the intuition there is that, for good or for bad,
+
+481
+01:03:06,280 --> 01:03:17,480
+ it's the intuition that there is this non-noisy, like this like real intact representation space
+
+482
+01:03:17,480 --> 01:03:27,880
+ that exists, and then each modality or each view is kind of a slice of that, plus some noise, like
+
+483
+01:03:27,880 --> 01:03:37,080
+ that makes it so, and one view of that is like I have an intent, I really want you guys to love
+
+484
+01:03:37,080 --> 01:03:44,040
+ multi-modal machine learning, and understand coordinated representation, so that's my intent,
+
+485
+01:03:44,040 --> 01:03:50,840
+ and that's in my brain, you don't observe that, but there is this intact, oh I don't know, hopefully
+
+486
+01:03:50,840 --> 01:04:04,680
+ intact, space that I have of representation that I have, but when I talk, this is me sharing,
+
+487
+01:04:04,680 --> 01:04:11,560
+ this is a view of what's not visible, but this is a small view of what's not visible,
+
+488
+01:04:13,160 --> 01:04:21,000
+ and you see my expression and you hear my voice, and all of these are all different view of that
+
+489
+01:04:21,000 --> 01:04:33,640
+ same intact space, so I have this intact space, and I said something, you see my non-verbal
+
+490
+01:04:33,640 --> 01:04:41,800
+ microistic, and that gives you a noisy version of what I wanted to say, that's the first intuition
+
+491
+01:04:41,800 --> 01:04:49,560
+ I want to share, which is the intuition of intact space, the other one which is even cooler for this
+
+492
+01:04:49,560 --> 01:05:00,600
+ model is that that intact space is different for every instance, so if you look at the first five
+
+493
+01:05:00,600 --> 01:05:08,440
+ minutes of this lecture, I had one message I wanted to share, that was my intact space for that first
+
+494
+01:05:08,440 --> 01:05:16,440
+ five minutes, but the next five minutes, and now this current five minutes, I have another intact
+
+495
+01:05:16,440 --> 01:05:29,640
+ space, and so at every time I have this new intact space, and it's a different,
+
+496
+01:05:31,320 --> 01:05:39,400
+ I had a different intent at each of these five minutes, I have a different intent,
+
+497
+01:05:39,400 --> 01:05:50,040
+ and you see a different view of that, so if I was to call it like H, my intent, my hidden intent,
+
+498
+01:05:50,040 --> 01:05:55,800
+ and it's intact, it's clear, it's in my brain, it's clear what I want to share with you,
+
+499
+01:05:57,720 --> 01:06:05,800
+ but HI is different for, not I, here's the different views, but that H is going to change
+
+500
+01:06:05,800 --> 01:06:12,200
+ at each instance, so there's an intact representation, which is complete, not damaged,
+
+501
+01:06:12,200 --> 01:06:17,960
+ but the views are only partial representation of that, that's the first intuition, so the
+
+502
+01:06:17,960 --> 01:06:24,280
+ auto-encoder of a two-encoder, auto-encoder in a two-encoder, is you have an auto-encoder,
+
+503
+01:06:24,280 --> 01:06:32,840
+ that's the typical auto-encoder, so it goes ahead and encode your data and decode it,
+
+504
+01:06:32,840 --> 01:06:41,480
+ but, and then I have this intact, like this intent, and I have it intent, and for each,
+
+505
+01:06:41,480 --> 01:06:49,240
+ for each instance in my training, it may be different, that's another part of the intuition,
+
+506
+01:06:49,240 --> 01:06:58,040
+ and so the idea is for each, for each instance, I will take this, this intact thing that is
+
+507
+01:06:58,040 --> 01:07:07,320
+ joined, joined for both of them, and I will, I will degrade it, to degrade it for the text,
+
+508
+01:07:07,320 --> 01:07:21,320
+ and degrade it for the, for the language, for the image, in such a way that the degraded representation
+
+509
+01:07:21,320 --> 01:07:28,920
+ of what I really wanted to say to you, that degraded representation has the nice, it should be as
+
+510
+01:07:28,920 --> 01:07:38,360
+ close as possible to that representation here, and, and then I also at the same time, one minus,
+
+511
+01:07:38,360 --> 01:07:47,080
+ so I have four losses, I have my two or two-encoder losses, but the beauty of here is that I, I'm,
+
+512
+01:07:47,080 --> 01:07:55,480
+ the way I'm coordinating it, is that, is that I will force it to be, always have something in
+
+513
+01:07:55,480 --> 01:08:03,560
+ comment that I can degrade and be close to each other, and, and the total loss has both of them,
+
+514
+01:08:03,560 --> 01:08:14,360
+ and, and the latent, there is also this latent variable age, and the, the minimization here
+
+515
+01:08:14,360 --> 01:08:23,160
+ is going to be challenging, because age will also, at test time, that would takes a little bit,
+
+516
+01:08:23,160 --> 01:08:32,280
+ but at test time, age will also need to be inferred, because it is, is not observed, age is not observed,
+
+517
+01:08:32,280 --> 01:08:39,000
+ and so at test time, and at training time, but at test time, usually age, you would like it to be
+
+518
+01:08:39,000 --> 01:08:48,040
+ a parameter, but at, in practice, age can be a test time also inferred, from that, and you may need
+
+519
+01:08:48,040 --> 01:08:54,360
+ some interactive way to do that, so, so that's the two-encoder, and so in the scheme of things,
+
+520
+01:08:54,360 --> 01:09:01,720
+ you can see how this one has a less of a clear match, I mean, these, I don't need to be matching
+
+521
+01:09:01,720 --> 01:09:07,640
+ or exactly, it's just that there's a degraded, maybe sometimes it's more degraded than others
+
+522
+01:09:07,640 --> 01:09:12,040
+ that goes with it, so thank you very much for your attention,
+

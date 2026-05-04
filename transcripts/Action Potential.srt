@@ -1,0 +1,404 @@
+1
+00:00:00,000 --> 00:00:05,760
+ Hey guys, it's Ryan and in this video we're going to look at the action potential, look
+
+2
+00:00:05,760 --> 00:00:11,040
+ at how an action potential propagates along an axon and look at what's going on with the
+
+3
+00:00:11,040 --> 00:00:13,960
+ ion channels as this is all happening.
+
+4
+00:00:13,960 --> 00:00:22,080
+ So here we have graphed an action potential and on the y-axis we have the millivolts,
+
+5
+00:00:22,080 --> 00:00:27,560
+ the voltage of an axon at a certain point in time.
+
+6
+00:00:27,560 --> 00:00:32,720
+ So this number is relative to the extracellular fluid.
+
+7
+00:00:32,720 --> 00:00:37,560
+ So negative 70 means that inside the cell there are a lot more negatively charged things,
+
+8
+00:00:37,560 --> 00:00:43,400
+ usually protein and ions that are stuck inside the membrane and can't exit.
+
+9
+00:00:43,400 --> 00:00:46,640
+ So it keeps the inside of the cell very negative.
+
+10
+00:00:46,640 --> 00:00:51,120
+ And so this is resting membrane potential when a neuron isn't excited by anything, isn't
+
+11
+00:00:51,120 --> 00:00:55,640
+ inhibited by anything, it's just chilling out and has no function.
+
+12
+00:00:55,640 --> 00:00:59,760
+ This is where it sits around negative 70 millivolts.
+
+13
+00:00:59,760 --> 00:01:06,840
+ Now if that neuron is stimulated by some sensation touching a hot oven stove or something stupid
+
+14
+00:01:06,840 --> 00:01:14,560
+ like that, you could stimulate mechanical gated channels and they'll open up and allow
+
+15
+00:01:14,560 --> 00:01:17,240
+ some influx of positive ions.
+
+16
+00:01:17,240 --> 00:01:24,080
+ Now if the inside of the membrane reaches negative 55 millivolts or a threshold, then
+
+17
+00:01:24,080 --> 00:01:28,040
+ it will have a whole chain of events occur and that's when the actual action potential
+
+18
+00:01:28,040 --> 00:01:30,200
+ takes place.
+
+19
+00:01:30,200 --> 00:01:40,560
+ So down here we have a mapping of sodium channels and potassium channels.
+
+20
+00:01:40,560 --> 00:01:45,720
+ Now these are the voltage gated channels and are really the main players in determining
+
+21
+00:01:45,720 --> 00:01:48,960
+ how an action potential works.
+
+22
+00:01:48,960 --> 00:01:54,880
+ But they're also leak channels that are always open and they're sort of like aqua porens
+
+23
+00:01:54,880 --> 00:01:56,720
+ for ions.
+
+24
+00:01:56,720 --> 00:02:02,720
+ They're always open, they require no energy, and they move things across the membrane
+
+25
+00:02:02,720 --> 00:02:06,800
+ from a high concentration to a low concentration.
+
+26
+00:02:06,800 --> 00:02:10,800
+ And what's important to know is that there are always more leak channels open for potassium
+
+27
+00:02:10,800 --> 00:02:12,000
+ ions.
+
+28
+00:02:12,000 --> 00:02:17,440
+ So that explains why the resting membrane potential is a lot closer to the equilibrium
+
+29
+00:02:17,440 --> 00:02:24,560
+ potential for potassium than for sodium.
+
+30
+00:02:24,560 --> 00:02:30,160
+ Now the membrane or inside the membrane will never reach either of these values because
+
+31
+00:02:30,160 --> 00:02:35,800
+ that would require all of their leak channels to be open and no other channels to be open.
+
+32
+00:02:35,800 --> 00:02:38,240
+ So these are sort of theoretical numbers.
+
+33
+00:02:38,240 --> 00:02:45,480
+ That's why all of the realistic numbers sit inside these two bounds.
+
+34
+00:02:45,480 --> 00:02:48,160
+ So let's talk about these voltage gated channels.
+
+35
+00:02:48,160 --> 00:02:52,880
+ At resting membrane potential, as we said, the leak channels are the only things open
+
+36
+00:02:52,880 --> 00:02:56,440
+ and they're more potassium for sodium than sodium.
+
+37
+00:02:56,440 --> 00:03:02,640
+ But these voltage gated channels are both closed as pictured here.
+
+38
+00:03:02,640 --> 00:03:11,200
+ But once we reach that -55 millivolts of threshold, then the voltage gated sodium channels are
+
+39
+00:03:11,200 --> 00:03:20,960
+ triggered and they open up, allowing an influx of sodium.
+
+40
+00:03:20,960 --> 00:03:25,800
+ And that's what brings this action potential to life.
+
+41
+00:03:25,800 --> 00:03:31,280
+ That's what increases the charge inside the membrane so drastically because there's a
+
+42
+00:03:31,280 --> 00:03:37,880
+ whole bunch of sodium ions that rush through into the cell and make it positive.
+
+43
+00:03:37,880 --> 00:03:45,640
+ While this is happening, the potassium channels are still not impressed and they stay closed.
+
+44
+00:03:45,640 --> 00:03:53,800
+ Now any time that this is happening, we can call this depolarization because the charge
+
+45
+00:03:53,800 --> 00:04:03,520
+ within the membrane is becoming more positive than the resting membrane potential.
+
+46
+00:04:03,520 --> 00:04:11,520
+ Now it actually overshoots a neutral charge and it goes not to +60, but it goes probably
+
+47
+00:04:11,520 --> 00:04:15,920
+ about to +30 millivolts and it reaches a peak.
+
+48
+00:04:15,920 --> 00:04:22,160
+ So this would be the depolarization peak up here.
+
+49
+00:04:22,160 --> 00:04:29,680
+ Now after some time, these sodium gated channels will inactivate and this little ball on a
+
+50
+00:04:29,680 --> 00:04:31,920
+ chain blocks the channel.
+
+51
+00:04:31,920 --> 00:04:37,160
+ So this happens within a few milliseconds of being open.
+
+52
+00:04:37,160 --> 00:04:43,040
+ And as this happens, the charge inside the membrane starts to decrease.
+
+53
+00:04:43,040 --> 00:04:50,560
+ And that's because once the charge gets about to this level, the potassium channels open.
+
+54
+00:04:50,560 --> 00:05:00,160
+ And this allows for the beginning of an efflux of potassium.
+
+55
+00:05:00,160 --> 00:05:06,720
+ And once potassium starts leaving the cell, then we're losing positive charge.
+
+56
+00:05:06,720 --> 00:05:14,320
+ And so the inside of the cell is becoming more and more negative.
+
+57
+00:05:14,320 --> 00:05:21,280
+ Now after some time, once the charge gets close to resting membrane potential, the sodium
+
+58
+00:05:21,280 --> 00:05:27,400
+ channels will go from an inactivated state to just the normal closed state.
+
+59
+00:05:27,400 --> 00:05:35,680
+ And then it can be returned back to its open state later on.
+
+60
+00:05:35,680 --> 00:05:39,800
+ Now the potassium channels should be closed now, but they take a lot longer to close than
+
+61
+00:05:39,800 --> 00:05:41,560
+ the sodium channels do.
+
+62
+00:05:41,560 --> 00:05:49,560
+ So they stay open and that's when this after hyperpolarization event takes place.
+
+63
+00:05:49,560 --> 00:05:54,960
+ It's not until a lot later that they end up fully closing and then the resting membrane
+
+64
+00:05:54,960 --> 00:06:02,640
+ potential can be reestablished mostly due to the action of sodium, potassium, ATPases,
+
+65
+00:06:02,640 --> 00:06:14,200
+ or pumps that can reestablish the high potassium inside the cell and the high sodium outside
+
+66
+00:06:14,200 --> 00:06:18,240
+ the cell.
+
+67
+00:06:18,240 --> 00:06:26,040
+ Now important to note with this inactivation is that the moment that these sodium channels
+
+68
+00:06:26,040 --> 00:06:34,520
+ open and also including the moments when they're inactivated, this is the absolute refractory
+
+69
+00:06:34,520 --> 00:06:35,520
+ period.
+
+70
+00:06:35,520 --> 00:06:40,600
+ And because when they're open or inactivated, it ensures that each action potential is its
+
+71
+00:06:40,600 --> 00:06:43,120
+ own unique all or nothing event.
+
+72
+00:06:43,120 --> 00:06:49,200
+ So either you reach threshold and you get an action potential or you won't reach threshold
+
+73
+00:06:49,200 --> 00:06:50,200
+ and you'll get nothing.
+
+74
+00:06:50,200 --> 00:06:55,720
+ And this absolute refractory period ensures that you won't get another action potential
+
+75
+00:06:55,720 --> 00:07:01,800
+ on top of this one or you won't get this action potential moving backwards.
+
+76
+00:07:01,800 --> 00:07:06,000
+ So that's the whole reason you have this inactivation thing going on.
+
+77
+00:07:06,000 --> 00:07:10,720
+ And then after this moment, it's called a relative refractory period.
+
+78
+00:07:10,720 --> 00:07:15,840
+ Sometimes because some of these sodium channels may still be inactivated, the potassium channels
+
+79
+00:07:15,840 --> 00:07:21,760
+ are still open so it's not the ideal state where everything's closed and ready to go.
+
+80
+00:07:21,760 --> 00:07:27,960
+ So it'll take a little bit more of an initial stimulus to get another action potential.
+
+81
+00:07:27,960 --> 00:07:32,320
+ This would be the relative refractory period.
+
+82
+00:07:32,320 --> 00:07:42,960
+ Okay, so now if we looked at the big picture, a lot of professors like to sort of do this
+
+83
+00:07:42,960 --> 00:07:49,160
+ and say that this is how an action potential propagates along an axon.
+
+84
+00:07:49,160 --> 00:07:53,640
+ And that's completely false, that's not how it works at all.
+
+85
+00:07:53,640 --> 00:07:59,840
+ In fact, it's better to think about it in terms of just little action potentials going
+
+86
+00:07:59,840 --> 00:08:02,160
+ like this along the cell.
+
+87
+00:08:02,160 --> 00:08:09,320
+ It's like triggering a trail of gunpowder and each bit sets off the next bit.
+
+88
+00:08:09,320 --> 00:08:16,360
+ And so when you have a depolarization peak, think about this is the thing that's moving
+
+89
+00:08:16,360 --> 00:08:19,120
+ across an axon.
+
+90
+00:08:19,120 --> 00:08:26,000
+ And so when we're at the axon hillock, that's where everything starts because there's the
+
+91
+00:08:26,000 --> 00:08:32,520
+ most sodium channels at this point, but in this example here our depolarization peak is
+
+92
+00:08:32,520 --> 00:08:35,120
+ somewhere in this region.
+
+93
+00:08:35,120 --> 00:08:39,840
+ And that's because we know that usually inside the cell is negative, outside is positive.
+
+94
+00:08:39,840 --> 00:08:45,520
+ But here we have an inverted relationship, we have positive within the axon, which would
+
+95
+00:08:45,520 --> 00:08:50,000
+ say this is where the depolarization must be happening.
+
+96
+00:08:50,000 --> 00:08:55,720
+ And so this is where the depolarization peak is at a certain point.
+
+97
+00:08:55,720 --> 00:09:03,940
+ And once these regions become positive, they'll set off the next adjacent region, which will
+
+98
+00:09:03,940 --> 00:09:08,760
+ trigger the next adjacent region with sodium channels and so on.
+
+99
+00:09:08,760 --> 00:09:14,640
+ And then when you have a myelinated region, there's no area for charge to escape.
+
+100
+00:09:14,640 --> 00:09:22,200
+ So it'll simply jump to the next non-myelinated region and continue along this way.
+
+101
+00:09:22,200 --> 00:09:25,640
+ So I hope you found this video helpful and I'll see you all next time.
+

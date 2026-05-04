@@ -1,0 +1,2724 @@
+1
+00:00:00,000 --> 00:00:06,840
+ Welcome to chapter three, Nutrients, Membrains and Transport.
+
+2
+00:00:06,840 --> 00:00:11,840
+ In this chapter, we're going to look at those concepts, but we're also going to be asking
+
+3
+00:00:11,840 --> 00:00:17,920
+ the question, "Is it possible to supplement your way to better performance and health?"
+
+4
+00:00:17,920 --> 00:00:23,480
+ We live in a world today where supplements and vitamins and other nutrients are readily
+
+5
+00:00:23,480 --> 00:00:30,400
+ available to buy separately from the foods that we eat, but do they really work?
+
+6
+00:00:30,400 --> 00:00:35,600
+ Do they make us healthier and do they make us perform better?
+
+7
+00:00:35,600 --> 00:00:43,800
+ Ginkgo to improve memory, Kava to reduce stress, ginseng to boost energy, and melatonin to
+
+8
+00:00:43,800 --> 00:00:45,720
+ help you sleep.
+
+9
+00:00:45,720 --> 00:00:48,920
+ Sounds like a recipe for success, doesn't it?
+
+10
+00:00:48,920 --> 00:00:54,520
+ For good measure, chase those supplements down with some coconut water to slow aging
+
+11
+00:00:54,520 --> 00:00:56,240
+ and prevent cancer.
+
+12
+00:00:56,240 --> 00:01:03,280
+ You might have heard claims like this before, vitamins, minerals, herbs, yeast, and even
+
+13
+00:01:03,280 --> 00:01:11,000
+ enzymes that are claiming to help you be healthier or to perform better in different tasks in
+
+14
+00:01:11,000 --> 00:01:12,700
+ your life.
+
+15
+00:01:12,700 --> 00:01:17,360
+ And another positive with these things is that they come in a bottle and they can stay
+
+16
+00:01:17,360 --> 00:01:23,160
+ on your shelf and stay good with a longer expiration date than the fresh foods that you
+
+17
+00:01:23,160 --> 00:01:27,240
+ might buy from a grocery store.
+
+18
+00:01:27,240 --> 00:01:31,600
+ Instead of going to a store every weekend and throwing away food that you never get
+
+19
+00:01:31,600 --> 00:01:37,080
+ around to eating, you could stock your pantry with things like energy drinks, vitamin enriched
+
+20
+00:01:37,080 --> 00:01:43,760
+ waters, protein powders, nutrition bars, and other bottles of vitamins and minerals.
+
+21
+00:01:43,760 --> 00:01:49,800
+ You could even buy them in bulk if you like because they won't rot like fruits and vegetables.
+
+22
+00:01:49,800 --> 00:01:57,880
+ But are they as good for you as you might think or as the advertisement might say?
+
+23
+00:01:57,880 --> 00:02:03,400
+ Is it possible to supplement your way to enhance academic performance and even better
+
+24
+00:02:03,400 --> 00:02:06,640
+ health and even physical performance?
+
+25
+00:02:06,640 --> 00:02:14,320
+ It seems most Americans think so because we spend around $6 billion a year in America
+
+26
+00:02:14,320 --> 00:02:22,080
+ on these items and more than 2/3 of us are taking at least one type of supplement.
+
+27
+00:02:22,080 --> 00:02:27,920
+ But let's investigate whether these products are really doing what we hope that they're
+
+28
+00:02:27,920 --> 00:02:35,080
+ doing and while we're asking that question, we'll learn about biological concepts like
+
+29
+00:02:35,080 --> 00:02:41,040
+ nutrients, cells, and membrane transport.
+
+30
+00:02:41,040 --> 00:02:42,740
+ Here's our learning outcomes.
+
+31
+00:02:42,740 --> 00:02:47,240
+ As stated in the textbook of this chapter, be sure to read through them and recognize
+
+32
+00:02:47,240 --> 00:02:54,400
+ them as you come across them in your notes in your reading.
+
+33
+00:02:54,400 --> 00:03:01,280
+ Do you use any of these types of supplements like ginkgo, cava, ginseng, melatonin, or
+
+34
+00:03:01,280 --> 00:03:08,000
+ coconut water, or do you use some other supplements that are not on this list?
+
+35
+00:03:08,000 --> 00:03:15,480
+ Well like we said, American spends about $6 billion per year on supplements and 2/3 of
+
+36
+00:03:15,480 --> 00:03:20,800
+ us are taking at least one.
+
+37
+00:03:20,800 --> 00:03:25,760
+ Well in order to figure out if these things are actually working and what the body needs
+
+38
+00:03:25,760 --> 00:03:31,840
+ to be healthy and to perform well, let's first look at nutrients.
+
+39
+00:03:31,840 --> 00:03:38,000
+ First of all macronutrients, mackerel again means big, so these are nutrients that come
+
+40
+00:03:38,000 --> 00:03:44,760
+ in a large form that your body would have to digest first in order to make use of them.
+
+41
+00:03:44,760 --> 00:03:48,560
+ Digest means to break them down into smaller particles.
+
+42
+00:03:48,560 --> 00:03:54,000
+ Nutrients are substances that come in the foods that we eat and after we break them down
+
+43
+00:03:54,000 --> 00:04:01,600
+ by digestion it provides a structural material for the body to build other things or it provides
+
+44
+00:04:01,600 --> 00:04:05,920
+ the body with energy to do work.
+
+45
+00:04:05,920 --> 00:04:12,680
+ Macronutrients are required in large amounts and they include water, carbohydrates, proteins,
+
+46
+00:04:12,680 --> 00:04:16,920
+ and fats.
+
+47
+00:04:16,920 --> 00:04:22,280
+ We studied water in our last chapter and we learned about properties of water.
+
+48
+00:04:22,280 --> 00:04:30,320
+ Water consists of one atom of oxygen and two atoms of hydrogen combined together by covalent
+
+49
+00:04:30,320 --> 00:04:37,280
+ bonds that are really strong, but also remember they are combined in a way in which oxygen
+
+50
+00:04:37,280 --> 00:04:42,240
+ gets to spend a little more time with those electrons that they're sharing with the hydrogens
+
+51
+00:04:42,240 --> 00:04:44,840
+ because oxygen is more electronegative.
+
+52
+00:04:44,840 --> 00:04:51,200
+ So it causes a polarity to the molecule where oxygen has a net negative charge and hydrogen
+
+53
+00:04:51,200 --> 00:04:53,960
+ has a net positive charge.
+
+54
+00:04:53,960 --> 00:05:00,100
+ So because of the polarity of a water molecule, charges on opposite ends, it sets up that
+
+55
+00:05:00,100 --> 00:05:07,280
+ molecule to have some properties that we discussed last chapter such as being a great solvent
+
+56
+00:05:07,280 --> 00:05:13,240
+ to dissolve ions and other molecules, it's the universal solvent, doesn't dissolve everything
+
+57
+00:05:13,240 --> 00:05:16,240
+ but it does dissolve a lot of things.
+
+58
+00:05:16,240 --> 00:05:23,000
+ So in the body we say it disperses nutrients really well and we're made up of a large percentage
+
+59
+00:05:23,000 --> 00:05:29,560
+ of water so all of those nutrients that we have are within that water, within our cells
+
+60
+00:05:29,560 --> 00:05:35,480
+ and also within the extracellular fluid as well.
+
+61
+00:05:35,480 --> 00:05:43,560
+ Water molecules also like to stick together, that's called cohesion when that happens.
+
+62
+00:05:43,560 --> 00:05:48,520
+ Even also remember because of the hydrogen bonds between water molecules, those bonds
+
+63
+00:05:48,520 --> 00:05:54,720
+ have to be broken first before water will change its speed and such when it's heating
+
+64
+00:05:54,720 --> 00:06:01,960
+ up or cooling down, so water resists temperatures, temperature changes, so it's a really good
+
+65
+00:06:01,960 --> 00:06:08,800
+ regulator for temperature for our body and for our environment and those are all good
+
+66
+00:06:08,800 --> 00:06:16,280
+ things about it, it dissolves and eliminates waste products as well.
+
+67
+00:06:16,280 --> 00:06:21,040
+ So how many liters of water are lost by an average human each day?
+
+68
+00:06:21,040 --> 00:06:28,840
+ Well the answer there is actually three liters.
+
+69
+00:06:28,840 --> 00:06:35,280
+ Through sweating, urinating and in feces, three liters are lost each day.
+
+70
+00:06:35,280 --> 00:06:40,240
+ One and a half liters will be replaced by the foods we eat and one and a half will need
+
+71
+00:06:40,240 --> 00:06:46,520
+ to be replaced from other sources.
+
+72
+00:06:46,520 --> 00:06:54,240
+ While we can survive without food for several weeks, survival without water is limited to
+
+73
+00:06:54,240 --> 00:06:57,360
+ just a few days.
+
+74
+00:06:57,360 --> 00:07:02,880
+ When you haven't had enough water, you get dehydrated.
+
+75
+00:07:02,880 --> 00:07:06,160
+ One is decreased water intake.
+
+76
+00:07:06,160 --> 00:07:10,160
+ You might even start feeling symptoms when you haven't had enough water.
+
+77
+00:07:10,160 --> 00:07:15,120
+ Minor symptoms include muscle cramps, fatigue, headache, dizziness, nausea, confusion and
+
+78
+00:07:15,120 --> 00:07:18,720
+ even an increased heart rate.
+
+79
+00:07:18,720 --> 00:07:23,840
+ That last one is due to a decreased blood volume when you're dehydrated so your heart
+
+80
+00:07:23,840 --> 00:07:31,600
+ tries to compensate for that effect by speeding up as it tries to maintain homeostasis.
+
+81
+00:07:31,600 --> 00:07:37,880
+ When you're severely dehydrated, things like hallucinations, heat stroke and even death
+
+82
+00:07:37,880 --> 00:07:42,320
+ can result.
+
+83
+00:07:42,320 --> 00:07:45,560
+ One of the major ways that you lose water is through sweating.
+
+84
+00:07:45,560 --> 00:07:51,360
+ It's the evaporation of water from the skin and it helps to cool the body down by releasing
+
+85
+00:07:51,360 --> 00:07:55,480
+ energy as the water molecules leave your skin.
+
+86
+00:07:55,480 --> 00:07:58,440
+ It helps you maintain your body temperature.
+
+87
+00:07:58,440 --> 00:08:04,560
+ When water is low and sweating decreases, body temperature can rise to a harmful level.
+
+88
+00:08:04,560 --> 00:08:13,840
+ Therefore, you need to replace what you lose.
+
+89
+00:08:13,840 --> 00:08:19,440
+ Although it works quite well to replace the water with tap water, many people drink bottled
+
+90
+00:08:19,440 --> 00:08:23,960
+ water, in part because of concerns about the quality of tap water.
+
+91
+00:08:23,960 --> 00:08:30,920
+ However, the U.S. Food and Drug Administration, the FDA, the government agency that sets standards
+
+92
+00:08:30,920 --> 00:08:37,000
+ for bottled water is responsible for ensuring food safety in general and uses the same standards
+
+93
+00:08:37,000 --> 00:08:44,400
+ applied by the Environmental Protection Agency or the EPA to ensure that tap water is helpful.
+
+94
+00:08:44,400 --> 00:08:48,560
+ In other words, water from both sources should be equally clean.
+
+95
+00:08:48,560 --> 00:08:59,940
+ In fact, nearly 40% of bottled water actually contains water just from municipal tap water.
+
+96
+00:08:59,940 --> 00:09:05,840
+ Many people might choose to rehydrate themselves with sports drinks.
+
+97
+00:09:05,840 --> 00:09:10,400
+ But studies have shown that hydrating with water is actually better for athletes than
+
+98
+00:09:10,400 --> 00:09:13,840
+ hydrating with costly sports drinks.
+
+99
+00:09:13,840 --> 00:09:21,240
+ So sports drinks can come with other additives, such as sugars that provide unneeded calories
+
+100
+00:09:21,240 --> 00:09:28,320
+ or additives that have unproven benefits, and it costs more than water.
+
+101
+00:09:28,320 --> 00:09:37,360
+ Yes, bottled water and other sports drinks come in bottles that are convenient and portable,
+
+102
+00:09:37,360 --> 00:09:40,200
+ but it does come at a cost to the environment.
+
+103
+00:09:40,200 --> 00:09:47,080
+ Those billions of bottles used each year require 1.5 million barrels of oil to produce.
+
+104
+00:09:47,080 --> 00:09:54,600
+ Although the bottles are recyclable, 86% of those bottles go to landfills each year.
+
+105
+00:09:54,600 --> 00:09:59,960
+ In addition, the energy required to transport water FAR exceeds the energy required to
+
+106
+00:09:59,960 --> 00:10:09,200
+ purify an equivalent amount of just plain old tap water.
+
+107
+00:10:09,200 --> 00:10:14,880
+ Besides obtaining a healthy dose of water each day, people need to consume foods that
+
+108
+00:10:14,880 --> 00:10:22,860
+ contain macronutrients like carbohydrates, proteins, and fats.
+
+109
+00:10:22,860 --> 00:10:29,160
+ In our last chapter, we discussed those in more detail and their structures.
+
+110
+00:10:29,160 --> 00:10:36,320
+ On of those, what molecules are the major source of energy for ourselves?
+
+111
+00:10:36,320 --> 00:10:42,160
+ The source of energy that allows us to create our very own energy molecules called ATP.
+
+112
+00:10:42,160 --> 00:10:50,040
+ Well, the answer to that is carbohydrates.
+
+113
+00:10:50,040 --> 00:10:54,920
+ Carbohydrates are a macronutrient and our main energy source.
+
+114
+00:10:54,920 --> 00:11:01,520
+ It's the main energy source that we use to quickly produce ATP, our own body's energy
+
+115
+00:11:01,520 --> 00:11:05,440
+ molecule.
+
+116
+00:11:05,440 --> 00:11:10,680
+ It's relatively easy to get the amount of carbohydrates that we need each day in our
+
+117
+00:11:10,680 --> 00:11:11,680
+ diet.
+
+118
+00:11:11,680 --> 00:11:17,960
+ They come in food sources that tend to be relatively easy to prepare and to obtain,
+
+119
+00:11:17,960 --> 00:11:26,880
+ such as bread, cereals, rice, pasta, fruits, and vegetables.
+
+120
+00:11:26,880 --> 00:11:31,520
+ Remember that carbohydrates are a macromolecule, they're very large, and they're made out
+
+121
+00:11:31,520 --> 00:11:37,800
+ of their monomer or repeating subunits called simple sugars.
+
+122
+00:11:37,800 --> 00:11:43,000
+ When it's just one simple sugar by itself, it's called a monosaccharide, and they can
+
+123
+00:11:43,000 --> 00:11:49,480
+ also be made out of long chains of these simple sugars, and when it's that case, it's called
+
+124
+00:11:49,480 --> 00:11:52,600
+ the polysaccharide.
+
+125
+00:11:52,600 --> 00:11:58,080
+ The single unit simple sugars are digested, and they enter the bloodstream quickly after
+
+126
+00:11:58,080 --> 00:11:59,800
+ you eat them.
+
+127
+00:11:59,800 --> 00:12:05,640
+ More sugars found in many of the foods we eat, milk, juice, honey, and most of the refined
+
+128
+00:12:05,640 --> 00:12:17,840
+ foods that we eat contain branching chains that are called complex carbohydrates.
+
+129
+00:12:17,840 --> 00:12:23,200
+ Complex carbohydrates are found in fruits, vegetables, breads, legumes, and in pasta as
+
+130
+00:12:23,200 --> 00:12:27,480
+ well.
+
+131
+00:12:27,480 --> 00:12:34,560
+ Small simple sugars, like glucose and fructose, are digested into the bloodstream very quickly.
+
+132
+00:12:34,560 --> 00:12:39,940
+ The body digests complex carbohydrates much more slowly than it does those simpler sugars
+
+133
+00:12:39,940 --> 00:12:45,280
+ because the complex carbohydrates have more chemical bonds, and then thus would need to
+
+134
+00:12:45,280 --> 00:12:49,600
+ have more digestion break them down.
+
+135
+00:12:49,600 --> 00:12:55,000
+ Endurance athletes often load up on complex carbohydrates for several days before a race
+
+136
+00:12:55,000 --> 00:13:00,120
+ to increase the amount of stored energy that will be available during their competition.
+
+137
+00:13:00,120 --> 00:13:08,120
+ Ideally, we would hope the carbohydrates would be from food rather than dietary supplements.
+
+138
+00:13:08,120 --> 00:13:12,760
+ Nutritionists agree that most of the carbohydrates in a helpful diet should be in the form of
+
+139
+00:13:12,760 --> 00:13:19,680
+ complex carbohydrates, and that it's best to consume only minimal amounts of processed
+
+140
+00:13:19,680 --> 00:13:21,840
+ sugars.
+
+141
+00:13:21,840 --> 00:13:28,200
+ It is a processed food, you might ask, well, it's refined foods that are stripped of their
+
+142
+00:13:28,200 --> 00:13:31,840
+ nutritional value.
+
+143
+00:13:31,840 --> 00:13:37,600
+ They've gone through a process of extensive refinement, and therefore, some are much of
+
+144
+00:13:37,600 --> 00:13:41,000
+ the nutrient value has been stripped as well.
+
+145
+00:13:41,000 --> 00:13:46,840
+ For example, unrefined raw brown sugar is made from the juice of a sugar cane plant, and
+
+146
+00:13:46,840 --> 00:13:52,280
+ it contains minerals and nutrients that are also found in the plant.
+
+147
+00:13:52,280 --> 00:13:58,520
+ Processing brown sugar produces refined brown sugar, like the kind most of us buy at a grocery
+
+148
+00:13:58,520 --> 00:14:08,200
+ store, and that results in the loss of those vitamins and minerals.
+
+149
+00:14:08,200 --> 00:14:16,440
+ Foods that haven't been stripped of their nutrition by processing are called whole foods.
+
+150
+00:14:16,440 --> 00:14:22,200
+ Whole grains, beans, and many fruits and vegetables are whole foods, and in addition to being nutritious,
+
+151
+00:14:22,200 --> 00:14:29,240
+ whole foods tend to be good sources of what you might call dietary fiber.
+
+152
+00:14:29,240 --> 00:14:32,800
+ Sometimes we also call fiber roughage.
+
+153
+00:14:32,800 --> 00:14:35,920
+ Fiber is an important part of a healthy diet.
+
+154
+00:14:35,920 --> 00:14:44,280
+ It's composed mainly of the complex carbohydrates that humans can't digest, such as plants have
+
+155
+00:14:44,280 --> 00:14:47,760
+ cell walls surrounding their cells.
+
+156
+00:14:47,760 --> 00:14:53,520
+ These cell walls are made out of a sugar called cellulose, and we don't have any enzymes to
+
+157
+00:14:53,520 --> 00:14:55,640
+ digest that cellulose.
+
+158
+00:14:55,640 --> 00:15:00,840
+ So you might ask, "Well, if we can't digest it, why do we eat this then?"
+
+159
+00:15:00,840 --> 00:15:09,720
+ Well, we call that cellulose fiber or roughage, and it stays in our digestive tract and passes
+
+160
+00:15:09,720 --> 00:15:16,440
+ into our large intestine, it also helps to draw water into the digestive system as it's
+
+161
+00:15:16,440 --> 00:15:21,120
+ passing.
+
+162
+00:15:21,120 --> 00:15:27,640
+ This fiber and roughage gives bulk to our feces.
+
+163
+00:15:27,640 --> 00:15:33,080
+ Fiber is not a nutrient because it's not absorbed by the body, but as you can see from the description
+
+164
+00:15:33,080 --> 00:15:39,040
+ I just gave you, it is part of a healthful diet and helps to keep an individual regular
+
+165
+00:15:39,040 --> 00:15:44,240
+ with their bowel movements, helps you also to maintain healthy cholesterol levels, and
+
+166
+00:15:44,240 --> 00:15:47,840
+ might even decrease your risk for certain cancers.
+
+167
+00:15:47,840 --> 00:15:54,560
+ Well, what if you don't like things like lettuce and green leafy vegetables, which contain
+
+168
+00:15:54,560 --> 00:15:56,040
+ a lot of fiber?
+
+169
+00:15:56,040 --> 00:15:57,960
+ How about fiber bars?
+
+170
+00:15:57,960 --> 00:16:01,360
+ We tend to see a lot of those on grocery store shelves.
+
+171
+00:16:01,360 --> 00:16:07,880
+ Yes, they may be rich in different types of fiber, but usually they're also rich in processed
+
+172
+00:16:07,880 --> 00:16:14,160
+ sugars and other additives that have a non-nutritive value, therefore it's best to get your fiber
+
+173
+00:16:14,160 --> 00:16:17,400
+ from whole foods.
+
+174
+00:16:17,400 --> 00:16:22,640
+ Our next macronutrient is proteins, another one of those macromolecules that you need
+
+175
+00:16:22,640 --> 00:16:28,880
+ daily to be healthy proteins, make up parts of cellular structures, and also they're so
+
+176
+00:16:28,880 --> 00:16:36,600
+ important they take part in most body processes, such as when they act like enzymes, to make
+
+177
+00:16:36,600 --> 00:16:39,680
+ certain reactions occur within the body.
+
+178
+00:16:39,680 --> 00:16:48,200
+ They're so important that our DNA codes for proteins, and then those proteins make you.
+
+179
+00:16:48,200 --> 00:16:53,280
+ Food sources where you can get them include beef, poultry, fish, beans, eggs, nuts, and
+
+180
+00:16:53,280 --> 00:17:01,160
+ dairy products like milk, yogurt, and cheeses.
+
+181
+00:17:01,160 --> 00:17:06,720
+ In our last chapter we discussed the structural composition of proteins.
+
+182
+00:17:06,720 --> 00:17:12,320
+ Remember the repeating subunit, or monomer unit, that proteins are made from are called
+
+183
+00:17:12,320 --> 00:17:18,040
+ amino acids, and that there's about 20 different amino acids that make up the proteins that
+
+184
+00:17:18,040 --> 00:17:21,520
+ are in our body.
+
+185
+00:17:21,520 --> 00:17:28,200
+ DNA codes for those amino acids to be chained in the right order, and then other cell components
+
+186
+00:17:28,200 --> 00:17:34,720
+ will fold those chains of amino acids into just the right shape so those proteins can
+
+187
+00:17:34,720 --> 00:17:39,200
+ do the job that they need to do.
+
+188
+00:17:39,200 --> 00:17:45,600
+ From what you eat, your body is actually able to synthesize or assemble many of the commonly
+
+189
+00:17:45,600 --> 00:17:50,320
+ occurring amino acids that our proteins are made out of.
+
+190
+00:17:50,320 --> 00:17:56,160
+ There are some, however, out of those 20 amino acids that our bodies cannot synthesize on
+
+191
+00:17:56,160 --> 00:17:57,720
+ their own.
+
+192
+00:17:57,720 --> 00:18:01,720
+ These are called essential amino acids.
+
+193
+00:18:01,720 --> 00:18:10,600
+ You must get these by eating the proper foods.
+
+194
+00:18:10,600 --> 00:18:17,120
+ Complete proteins contain all the essential amino acids that your body needs.
+
+195
+00:18:17,120 --> 00:18:23,700
+ Proteins obtained by eating meat are probably the most likely to be complete than those
+
+196
+00:18:23,700 --> 00:18:26,440
+ obtained by eating plants.
+
+197
+00:18:26,440 --> 00:18:32,220
+ Therefore, if you're vegetarian, it's good to eat a variety of different types of plants
+
+198
+00:18:32,220 --> 00:18:41,040
+ and beans so that you're sure to get those essential amino acids.
+
+199
+00:18:41,040 --> 00:18:46,680
+ True or false, adding protein powder to your post-workout snack is always a healthy way
+
+200
+00:18:46,680 --> 00:18:49,400
+ to add muscle.
+
+201
+00:18:49,400 --> 00:18:53,400
+ Actually that answer is false.
+
+202
+00:18:53,400 --> 00:18:58,560
+ People looking to gain muscle mass will sometimes supplement their diet with protein powders.
+
+203
+00:18:58,560 --> 00:19:04,160
+ That can be mixed with milk or water, and it supposedly helps them rebuild protein-rich
+
+204
+00:19:04,160 --> 00:19:06,840
+ muscle after a strenuous workout.
+
+205
+00:19:06,840 --> 00:19:11,560
+ However, extra protein does not always lead to extra muscle.
+
+206
+00:19:11,560 --> 00:19:19,280
+ Just like any other nutrient in the body, excess protein is stored as, you guessed it,
+
+207
+00:19:19,280 --> 00:19:20,280
+ fat.
+
+208
+00:19:20,280 --> 00:19:28,040
+ So, if you eat too much protein, you'll just stand up increasing your body fat content.
+
+209
+00:19:28,040 --> 00:19:33,400
+ In addition, diets that are too rich in protein can lead to health problems like bone loss
+
+210
+00:19:33,400 --> 00:19:35,040
+ and kidney damage.
+
+211
+00:19:35,040 --> 00:19:40,040
+ If you're looking to build muscle, the most sensible thing to do is to combine your workout
+
+212
+00:19:40,040 --> 00:19:42,600
+ regimen with a healthy diet.
+
+213
+00:19:42,600 --> 00:19:48,560
+ Even the most active people, like endurance athletes, can easily obtain enough protein
+
+214
+00:19:48,560 --> 00:20:04,900
+ by just having a healthy regular diet.
+
+215
+00:20:04,900 --> 00:20:09,280
+ Fats are our next macronutrient.
+
+216
+00:20:09,280 --> 00:20:11,480
+ Fat is stored, energy.
+
+217
+00:20:11,480 --> 00:20:16,680
+ In fact, gram-for-gram fat contains about two times the amount of energy as carbohydrates
+
+218
+00:20:16,680 --> 00:20:19,240
+ are protein-doped.
+
+219
+00:20:19,240 --> 00:20:25,920
+ Foods that are rich in fat include meat, milk, cheeses, vegetable oils, and nuts.
+
+220
+00:20:25,920 --> 00:20:32,720
+ Most mammals, including us humans, store fat just below the skin, which helps protect our
+
+221
+00:20:32,720 --> 00:20:39,120
+ vital organs and give us insulation from those cold Minnesota winters, and also a great place
+
+222
+00:20:39,120 --> 00:20:43,000
+ to store energy just in case famines should occur.
+
+223
+00:20:47,680 --> 00:20:56,880
+ In our last chapter we discussed the composition of fat in its most common form as triglycerides
+
+224
+00:20:56,880 --> 00:21:03,720
+ consists of a molecule of glycerol, which has three carbon atoms, attached to a number
+
+225
+00:21:03,720 --> 00:21:07,720
+ of between one, two, or three fatty acid tails.
+
+226
+00:21:07,720 --> 00:21:12,800
+ Those fatty acid tails consist of carbon and hydrogen bonded together and have a lot of
+
+227
+00:21:12,800 --> 00:21:18,800
+ potential energy for the body.
+
+228
+00:21:18,800 --> 00:21:23,400
+ Our body can synthesize most of the fatty acids that it requires.
+
+229
+00:21:23,400 --> 00:21:29,960
+ Those that can't be synthesized by itself are called essential fatty acids.
+
+230
+00:21:29,960 --> 00:21:36,000
+ Just like essential amino acids, essential fatty acids need to be obtained from the diet
+
+231
+00:21:36,000 --> 00:21:42,120
+ that you eat, so you need to eat foods that are rich in these essential fatty acids, as
+
+232
+00:21:42,120 --> 00:21:47,680
+ well as the essential amino acids we discussed previously.
+
+233
+00:21:47,680 --> 00:21:58,160
+ Omega-3 and Omega-6 fatty acids are essential fatty acids, and we can get these very easily
+
+234
+00:21:58,160 --> 00:22:01,360
+ by just eating fish.
+
+235
+00:22:01,360 --> 00:22:05,800
+ They're thought to help to protect against heart disease, and nutritionists recommend
+
+236
+00:22:05,800 --> 00:22:10,400
+ people eat about 12 ounces of fish every week.
+
+237
+00:22:10,400 --> 00:22:20,460
+ Some people who don't eat much fish supplement their diets with fish oil capsules, however,
+
+238
+00:22:20,460 --> 00:22:26,040
+ if you just obtain your fish oil with capsules, you're missing out on all those other vitamins
+
+239
+00:22:26,040 --> 00:22:34,360
+ and nutrients that actually eating fish gives you.
+
+240
+00:22:34,360 --> 00:22:41,880
+ A fatty acid tail contains carbon that's double bonded to another carbon, which fat has this
+
+241
+00:22:41,880 --> 00:22:42,880
+ structure?
+
+242
+00:22:42,880 --> 00:22:49,520
+ Well, it's called an unsaturated fat, and you've probably heard about these or read that name
+
+243
+00:22:49,520 --> 00:22:54,960
+ on nutrition labels for the foods that you buy.
+
+244
+00:22:54,960 --> 00:22:59,280
+ Here's some pictures to help you visualize that.
+
+245
+00:22:59,280 --> 00:23:04,000
+ And all the carbons are single bonded to the hydrogens near them.
+
+246
+00:23:04,000 --> 00:23:09,840
+ It creates a nice fatty acid chain that's just pretty linear.
+
+247
+00:23:09,840 --> 00:23:16,040
+ Because of this, these types of fats, called saturated fats, have the maximum amount of
+
+248
+00:23:16,040 --> 00:23:20,560
+ hydrogens possible, and they compact really easily.
+
+249
+00:23:20,560 --> 00:23:27,560
+ So it's said that these types of fats, saturated fats, contribute more to problems with the
+
+250
+00:23:27,560 --> 00:23:34,600
+ cardiovascular system, such as buildup of plaques in our arteries.
+
+251
+00:23:34,600 --> 00:23:41,600
+ These types of fats tend to be solid at room temperature like butter and come from animals.
+
+252
+00:23:41,600 --> 00:23:47,520
+ Types of fats, as you can see in the picture here, that have in the fatty acid chain some
+
+253
+00:23:47,520 --> 00:23:55,280
+ carbons that are double bonded to one another and therefore less hydrogens have kinks within
+
+254
+00:23:55,280 --> 00:23:57,520
+ the fatty acid chains.
+
+255
+00:23:57,520 --> 00:24:04,440
+ Therefore, you see they don't sit as linear and as flat as the saturated fats do.
+
+256
+00:24:04,440 --> 00:24:11,040
+ Therefore, these are called unsaturated fats because they don't sit so flat they tend to
+
+257
+00:24:11,040 --> 00:24:19,080
+ be liquid at room temperature, tend to come from vegetables, like vegetable oil and from
+
+258
+00:24:19,080 --> 00:24:28,680
+ fish, and they say that these do not contribute as much to cardiovascular problems as the saturated
+
+259
+00:24:28,680 --> 00:24:29,680
+ fats do.
+
+260
+00:24:29,680 --> 00:24:39,640
+ However, you still want to utilize moderation when eating fats.
+
+261
+00:24:39,640 --> 00:24:41,840
+ Here's a chart to summarize that.
+
+262
+00:24:41,840 --> 00:24:48,280
+ Saturated fats, once again, have carbons with single bonds to as many hydrogens as possible.
+
+263
+00:24:48,280 --> 00:24:53,080
+ That's why they're called saturated, they're saturated with as many hydrogens as possible.
+
+264
+00:24:53,080 --> 00:24:59,080
+ They lack double bonds, they're solid at room temperature, and they come from animals.
+
+265
+00:24:59,080 --> 00:25:04,680
+ Unsaturated fats, because of those double bonds, between the carbons contain fewer hydrogens
+
+266
+00:25:04,680 --> 00:25:09,480
+ and those double bonds cause kinks in the fatty acid chains.
+
+267
+00:25:09,480 --> 00:25:16,120
+ This makes them not sit as flat and compacted together, therefore they tend to be liquid
+
+268
+00:25:16,120 --> 00:25:28,420
+ at room temperature and come from plants and vegetables.
+
+269
+00:25:28,420 --> 00:25:33,000
+ The more double bonds that there are in the fatty acid chains, the higher the degree of
+
+270
+00:25:33,000 --> 00:25:42,200
+ unsaturation, and when fat contains many unsaturated carbons, the fat is referred to as polyunsaturated.
+
+271
+00:25:42,200 --> 00:25:53,680
+ A good source of polyunsaturated fats is cooking oil, like corn oil or vegetable oil.
+
+272
+00:25:53,680 --> 00:26:00,600
+ Commercial food manufacturers sometimes add hydrogen atoms to unsaturated fats by combining
+
+273
+00:26:00,600 --> 00:26:05,360
+ hydrogen gas with vegetable oils under pressure.
+
+274
+00:26:05,360 --> 00:26:08,400
+ That process is called hydrogenation.
+
+275
+00:26:08,400 --> 00:26:15,040
+ It increases the level of saturation of the fat, or basically it adds more hydrogens and
+
+276
+00:26:15,040 --> 00:26:21,460
+ breaks up some of those carbon double bonds and replaces them with hydrogen instead in
+
+277
+00:26:21,460 --> 00:26:26,880
+ the fatty acid tails of the fat molecule.
+
+278
+00:26:26,880 --> 00:26:34,240
+ They do that process to make the liquid actually a little more solidified and extends its shelf
+
+279
+00:26:34,240 --> 00:26:41,520
+ life a bit, so margarine is a vegetable oil that has undergone hydrogenation.
+
+280
+00:26:41,520 --> 00:26:49,440
+ Unfortunately, this process creates something called trans fats.
+
+281
+00:26:49,440 --> 00:26:54,360
+ They're produced by incomplete hydrogenation, which also changes the structure of the fatty
+
+282
+00:26:54,360 --> 00:27:00,360
+ acid tails in the fat so that even though there's mostly carbon-carbon double bonds, the fatty
+
+283
+00:27:00,360 --> 00:27:03,600
+ acids are flat and not kinked.
+
+284
+00:27:03,600 --> 00:27:08,560
+ For our bodies, these fats are not required, nor are they beneficial.
+
+285
+00:27:08,560 --> 00:27:12,480
+ In fact, research has indicated they're very unhealthy.
+
+286
+00:27:12,480 --> 00:27:17,800
+ If you choose to eat energy bars, protein bars, fiber bars, and other nutrition bars,
+
+287
+00:27:17,800 --> 00:27:25,240
+ it's best to look for those that do not contain trans fats.
+
+288
+00:27:25,240 --> 00:27:30,520
+ There's health risks of consuming those foods that have trans fats in them.
+
+289
+00:27:30,520 --> 00:27:37,680
+ They include clogged arteries, heart disease, and increased risk of diabetes.
+
+290
+00:27:37,680 --> 00:27:44,080
+ A final note on fats because they contain more stored energy program than carbs or proteins.
+
+291
+00:27:44,080 --> 00:27:50,360
+ Excess fat intake is associated with several diseases, like the ones listed above, so overall
+
+292
+00:27:50,360 --> 00:27:59,320
+ in your diet, try to limit fat intake and try to choose the healthier fats as well.
+
+293
+00:27:59,320 --> 00:28:04,100
+ So on to micronutrients, vitamins are micronutrients.
+
+294
+00:28:04,100 --> 00:28:08,520
+ Which vitamin can be synthesized by the human body?
+
+295
+00:28:08,520 --> 00:28:17,320
+ The answer to that is vitamin D. Micronutrients are required in smaller quantities than macronutrients,
+
+296
+00:28:17,320 --> 00:28:21,960
+ hence the prefix micro means small.
+
+297
+00:28:21,960 --> 00:28:24,760
+ Micronutrients include vitamins and minerals.
+
+298
+00:28:24,760 --> 00:28:30,920
+ These are not broken down by the body, they already come as a small structure.
+
+299
+00:28:30,920 --> 00:28:36,580
+ They can go through cell membranes and then are readily used by cells.
+
+300
+00:28:36,580 --> 00:28:43,480
+ They're also not burned for energy.
+
+301
+00:28:43,480 --> 00:28:48,600
+ Vitamins, our first type of micronutrient, are organic substances, most of which the body
+
+302
+00:28:48,600 --> 00:28:52,320
+ cannot synthesize on its own.
+
+303
+00:28:52,320 --> 00:28:57,760
+ Vitamins in the body, most vitamins function as what's called a coenzyme.
+
+304
+00:28:57,760 --> 00:29:05,520
+ A coenzyme is a molecule that helps enzymes and thus helps to speed up that enzymes work
+
+305
+00:29:05,520 --> 00:29:09,680
+ in completing a body's chemical reaction.
+
+306
+00:29:09,680 --> 00:29:15,240
+ Vitamin deficiencies can affect every cell in the body because many different enzymes,
+
+307
+00:29:15,240 --> 00:29:20,760
+ all requiring the same vitamin, are involved in numerous bodily functions.
+
+308
+00:29:20,760 --> 00:29:25,280
+ Vitamins can even help protect the body against cancer and heart disease and even slows the
+
+309
+00:29:25,280 --> 00:29:30,200
+ aging process.
+
+310
+00:29:30,200 --> 00:29:35,360
+ Vitamin D, which is also called calcitriol, is the only vitamin that our cells and our
+
+311
+00:29:35,360 --> 00:29:37,840
+ body can synthesize on their own.
+
+312
+00:29:37,840 --> 00:29:45,120
+ But, there's a catch, sunlight is required for that process, so people living in climates
+
+313
+00:29:45,120 --> 00:29:52,160
+ with little sunlight can more easily develop a deficiency of vitamin D in those areas
+
+314
+00:29:52,160 --> 00:29:56,760
+ than those that live in places where there's plentiful sunlight.
+
+315
+00:29:56,760 --> 00:30:02,800
+ Healthcare providers may recommend vitamin D supplements to these people.
+
+316
+00:30:02,800 --> 00:30:10,080
+ You might also see that milk often comes supplemented with vitamin D.
+
+317
+00:30:10,080 --> 00:30:21,400
+ All other vitamins then must be supplied by the foods that we eat.
+
+318
+00:30:21,400 --> 00:30:33,800
+ Here's a list of some food sources and what vitamins they contain.
+
+319
+00:30:33,800 --> 00:30:37,800
+ Vitamin B12 is found in chicken, fish, red meat, and dairy.
+
+320
+00:30:37,800 --> 00:30:44,200
+ Vitamin C in many fruits and vegetables and meats, vitamin D in milk, egg yolk, and soy.
+
+321
+00:30:44,200 --> 00:30:48,040
+ But remember, we need sunlight to complete that process.
+
+322
+00:30:48,040 --> 00:30:55,280
+ Vitamin E in almonds, oils, mangoes, broccoli, and nuts, and folic acid, which is in dark
+
+323
+00:30:55,280 --> 00:31:04,760
+ green vegetables, nuts, legumes, and in whole grains.
+
+324
+00:31:04,760 --> 00:31:09,920
+ Water soluble vitamins are the ones that are not stored by the body.
+
+325
+00:31:09,920 --> 00:31:17,840
+ So, a lack of water soluble vitamins is more likely the cause of dietary deficiencies than
+
+326
+00:31:17,840 --> 00:31:23,280
+ the lack of fat soluble vitamins.
+
+327
+00:31:23,280 --> 00:31:26,120
+ Vitamins B and C are water soluble.
+
+328
+00:31:26,120 --> 00:31:31,920
+ They can be leached out by boiling, therefore, if you eat canned vegetables, you're probably
+
+329
+00:31:31,920 --> 00:31:38,880
+ not getting a good source of B and C vitamins because the canning process requires boiling.
+
+330
+00:31:38,880 --> 00:31:43,560
+ So, fresh vegetables are a better source of these.
+
+331
+00:31:43,560 --> 00:31:49,380
+ Vitamins A, D, E, and K are fat soluble and build up and stored fat.
+
+332
+00:31:49,380 --> 00:31:57,760
+ In excess of those vitamins accumulated in the body, though, can be toxic.
+
+333
+00:31:57,760 --> 00:32:03,280
+ For those people who take megadosis through supplementation of these fat soluble vitamins,
+
+334
+00:32:03,280 --> 00:32:08,320
+ they can increase the risk of contracting certain cancers, health disease, and it can
+
+335
+00:32:08,320 --> 00:32:13,400
+ even lead to heart disease and death.
+
+336
+00:32:13,400 --> 00:32:16,640
+ Our next micronutrients is minerals.
+
+337
+00:32:16,640 --> 00:32:22,720
+ These are inorganic substances, meaning they do not contain carbon, but they're still essential
+
+338
+00:32:22,720 --> 00:32:25,000
+ for many cell functions.
+
+339
+00:32:25,000 --> 00:32:30,960
+ Because they lack carbon, minerals are said to be the inorganic kind.
+
+340
+00:32:30,960 --> 00:32:35,920
+ They are important for proper fluid balance in muscle contraction and in conduction of
+
+341
+00:32:35,920 --> 00:32:38,640
+ nerve impulses.
+
+342
+00:32:38,640 --> 00:32:45,440
+ They also help us build bones and teeth.
+
+343
+00:32:45,440 --> 00:32:50,080
+ Here's a list of some of the foods where you can find some essential micronutrients like
+
+344
+00:32:50,080 --> 00:32:57,680
+ calcium and milk, cheese, dark green vegetables and legumes, magnesium and spinach, fish,
+
+345
+00:32:57,680 --> 00:33:04,320
+ nuts, seeds, beans, and brown rice, and potassium found in potatoes, tomatoes, bananas, avocados,
+
+346
+00:33:04,320 --> 00:33:12,560
+ and other fresh and dried fruits, dairy, whole grains, and meats.
+
+347
+00:33:12,560 --> 00:33:17,880
+ Like most vitamins, minerals are not synthesized in the body and must be supplied through our
+
+348
+00:33:17,880 --> 00:33:21,880
+ diets.
+
+349
+00:33:21,880 --> 00:33:25,000
+ Calcium is a commonly supplemented mineral.
+
+350
+00:33:25,000 --> 00:33:33,000
+ You can get it through different pills or chewables or even in certain health drinks.
+
+351
+00:33:33,000 --> 00:33:34,920
+ Bodies need calcium.
+
+352
+00:33:34,920 --> 00:33:36,360
+ It helps our blood clot.
+
+353
+00:33:36,360 --> 00:33:38,280
+ It helps muscles contract.
+
+354
+00:33:38,280 --> 00:33:43,600
+ It helps nerves, fire, and bones to grow and stay healthy.
+
+355
+00:33:43,600 --> 00:33:49,840
+ When your dietary calcium is low, your body has to get it from somewhere, so it takes
+
+356
+00:33:49,840 --> 00:33:56,880
+ it from our bones and therefore it weakens bones if we don't have enough calcium in our
+
+357
+00:33:56,880 --> 00:34:00,360
+ blood and in our diet.
+
+358
+00:34:00,360 --> 00:34:05,320
+ If you're not getting enough calcium in your diet, which is around a thousand milligrams
+
+359
+00:34:05,320 --> 00:34:10,800
+ per day, many health care providers will recommend supplements.
+
+360
+00:34:10,800 --> 00:34:16,560
+ Three ounces of yogurt, one and a half ounces of cheese, and one glass of milk together
+
+361
+00:34:16,560 --> 00:34:25,760
+ contain around 1,000 milligrams of calcium.
+
+362
+00:34:25,760 --> 00:34:32,880
+ In addition to vitamins and minerals, antioxidants are also a micronutrient.
+
+363
+00:34:32,880 --> 00:34:37,160
+ Many whole foods contain molecules called these antioxidants.
+
+364
+00:34:37,160 --> 00:34:42,000
+ They help to prevent cells from damage caused by molecules that are generated by normal
+
+365
+00:34:42,000 --> 00:34:43,480
+ cell processes.
+
+366
+00:34:43,480 --> 00:34:49,520
+ These normal molecules are called free radicals and they're highly reactive molecules.
+
+367
+00:34:49,520 --> 00:34:57,080
+ They usually have an incomplete outer electron shell, which makes them more chemically reactive
+
+368
+00:34:57,080 --> 00:35:00,680
+ than other molecules with complete electron shells.
+
+369
+00:35:00,680 --> 00:35:05,600
+ Free radicals can then go and damage cell membranes, the lining of arteries, and even
+
+370
+00:35:05,600 --> 00:35:08,480
+ our DNA.
+
+371
+00:35:08,480 --> 00:35:12,880
+ Antioxidants can inhibit chemical reactions that involve free radicals and decrease the
+
+372
+00:35:12,880 --> 00:35:16,960
+ damage that they do in our cells.
+
+373
+00:35:16,960 --> 00:35:25,360
+ Antioxidants are abundant in fruits, vegetables, nuts, grains, and other meats.
+
+374
+00:35:25,360 --> 00:35:31,840
+ Here's a chart showing some foods that have high levels of antioxidants.
+
+375
+00:35:31,840 --> 00:35:37,340
+ Kinds are beta-carotene, flavanol, and lycopene.
+
+376
+00:35:37,340 --> 00:35:44,160
+ I like the middle one there with flavanol found in cocoa and dark chocolate.
+
+377
+00:35:44,160 --> 00:35:52,320
+ All in all, it seems that the best benefit of antioxidants comes from eating whole foods
+
+378
+00:35:52,320 --> 00:35:54,840
+ and not supplements.
+
+379
+00:35:54,840 --> 00:36:01,440
+ This is mostly likely due to the fact that there needs to be a balance of both antioxidants
+
+380
+00:36:01,440 --> 00:36:07,640
+ and free radicals within our bodies to maintain homeostasis and optimal health.
+
+381
+00:36:07,640 --> 00:36:13,320
+ It is found that some free radicals in our body are needed to be able to kill cancer
+
+382
+00:36:13,320 --> 00:36:16,400
+ cells, bacteria, and invaders.
+
+383
+00:36:16,400 --> 00:36:22,680
+ So there is that balance between having the right amount of antioxidants and free radicals
+
+384
+00:36:22,680 --> 00:36:25,320
+ that keeps us healthy.
+
+385
+00:36:25,320 --> 00:36:29,560
+ Next, let's talk about cells.
+
+386
+00:36:29,560 --> 00:36:34,680
+ Some supplements are composed of extracts produced by grinding and breaking open plant
+
+387
+00:36:34,680 --> 00:36:40,640
+ cells, while there are other supplements that are made to affect a particular subcellular
+
+388
+00:36:40,640 --> 00:36:44,160
+ structure within human cells.
+
+389
+00:36:44,160 --> 00:36:49,240
+ As we learned in our last chapter, cells of the basic unit of life and plant and animal
+
+390
+00:36:49,240 --> 00:36:55,760
+ cells evolved from a common ancestor, therefore they share many characteristics in common,
+
+391
+00:36:55,760 --> 00:37:02,840
+ including their cell structures like ribosomes and organelles like mitochondria.
+
+392
+00:37:02,840 --> 00:37:08,120
+ So first we'll take a look at cells and their structures, their organelles, and then we'll
+
+393
+00:37:08,120 --> 00:37:14,080
+ examine some supplements made from plant cells and some supplements that inhibit organelle
+
+394
+00:37:14,080 --> 00:37:18,200
+ function.
+
+395
+00:37:18,200 --> 00:37:24,560
+ Cells, the basic unit of life, contain cytoplasm.
+
+396
+00:37:24,560 --> 00:37:29,880
+ Cytoplasm includes two parts, cytosol, which is the liquid, and then the organelles, which
+
+397
+00:37:29,880 --> 00:37:34,440
+ are the structures that are in that liquid.
+
+398
+00:37:34,440 --> 00:37:36,360
+ Organelles literally means little organ.
+
+399
+00:37:36,360 --> 00:37:41,960
+ They perform specific jobs that are required by the cells.
+
+400
+00:37:41,960 --> 00:37:45,600
+ They also work with other organelles.
+
+401
+00:37:45,600 --> 00:37:52,080
+ Cytazol is the watery matrix, and it has many different things dissolved within it, like
+
+402
+00:37:52,080 --> 00:38:00,720
+ salts and enzymes, the cytosol houses the organelles.
+
+403
+00:38:00,720 --> 00:38:08,600
+ All cells, no matter if you're a plant, animal, bacteria, fungus or protists, all cells contain
+
+404
+00:38:08,600 --> 00:38:12,160
+ a cell membrane, also called the plasma membrane.
+
+405
+00:38:12,160 --> 00:38:18,280
+ It encloses the cell and defines the outer boundary of the cell from the internal environment
+
+406
+00:38:18,280 --> 00:38:22,720
+ of the cell.
+
+407
+00:38:22,720 --> 00:38:28,480
+ Cell membrane's job is very important, besides being the boundary from the external and internal
+
+408
+00:38:28,480 --> 00:38:30,040
+ environment of the cell.
+
+409
+00:38:30,040 --> 00:38:35,760
+ It determines what materials will be allowed in or out of the cell.
+
+410
+00:38:35,760 --> 00:38:43,720
+ It's semi-permeable, meaning some molecules are able to cross, and those that can't are
+
+411
+00:38:43,720 --> 00:38:49,840
+ prevented from crossing.
+
+412
+00:38:49,840 --> 00:38:54,680
+ As we learned in our last chapter, cell membranes are made out of a type of lipid called the
+
+413
+00:38:54,680 --> 00:38:55,840
+ phospholipid.
+
+414
+00:38:55,840 --> 00:39:03,080
+ That's a type of lipid that has a glycerol and a phosphate head, and then two fatty acid
+
+415
+00:39:03,080 --> 00:39:04,640
+ tails.
+
+416
+00:39:04,640 --> 00:39:09,640
+ One of them is saturated, and the other one is unsaturated, and you can tell that in
+
+417
+00:39:09,640 --> 00:39:13,360
+ the fact that it's kinked.
+
+418
+00:39:13,360 --> 00:39:21,440
+ The end of the head with the phosphate group has a charge, which makes it hydrophilic.
+
+419
+00:39:21,440 --> 00:39:28,020
+ This end does not care that it's sticking into the water of the cytoplasm, the cytosol,
+
+420
+00:39:28,020 --> 00:39:30,320
+ or in the extracellular fluid.
+
+421
+00:39:30,320 --> 00:39:32,960
+ It does not repel that water.
+
+422
+00:39:32,960 --> 00:39:35,440
+ Hydrophilic means water-loving.
+
+423
+00:39:35,440 --> 00:39:43,200
+ The tail ends with the fatty acid chains are not polar or not charged, therefore they stick
+
+424
+00:39:43,200 --> 00:39:48,120
+ inward into two layers, which is called the phospholipid bilayer.
+
+425
+00:39:48,120 --> 00:39:53,400
+ As you can see in this picture here, there's two layers of these phospholipids, but the
+
+426
+00:39:53,400 --> 00:40:01,040
+ tail end is hydrophobic, because it does not have a charge, which most lipids do not,
+
+427
+00:40:01,040 --> 00:40:06,400
+ and therefore they don't want to be touching that water that's within the cytosol or in
+
+428
+00:40:06,400 --> 00:40:14,280
+ the extracellular fluid, so they stick inward.
+
+429
+00:40:14,280 --> 00:40:20,200
+ The cell membrane is said to have fluid properties, which allows these lipids to kind of slide
+
+430
+00:40:20,200 --> 00:40:22,800
+ laterally and change places.
+
+431
+00:40:22,800 --> 00:40:28,640
+ There's also proteins and such that are embedded in the cell membrane as well.
+
+432
+00:40:28,640 --> 00:40:34,280
+ As you can see in the picture here, these proteins have very special jobs.
+
+433
+00:40:34,280 --> 00:40:38,960
+ They often carry out enzymatic functions or certain chemical reactions.
+
+434
+00:40:38,960 --> 00:40:45,840
+ They might serve as a receptor to receive different molecules, like a hormone.
+
+435
+00:40:45,840 --> 00:40:53,160
+ They may also help transport things like substances across the cell membrane, things that can't
+
+436
+00:40:53,160 --> 00:40:58,960
+ dissolve through the phospholipid bilayer, generally then would go through one of these
+
+437
+00:40:58,960 --> 00:41:02,960
+ proteins.
+
+438
+00:41:02,960 --> 00:41:10,360
+ In this picture on this slide, we see a comparison of animal cells versus plant cells.
+
+439
+00:41:10,360 --> 00:41:15,080
+ While they do look very different, they do share many things in common, such as being
+
+440
+00:41:15,080 --> 00:41:16,880
+ eukaryotic.
+
+441
+00:41:16,880 --> 00:41:21,520
+ They have a nucleus with DNA inside.
+
+442
+00:41:21,520 --> 00:41:26,440
+ They have a nucleolus where ribosomes are made.
+
+443
+00:41:26,440 --> 00:41:31,600
+ They have endoplasmic reticulum, which are like transport tubes within the cell.
+
+444
+00:41:31,600 --> 00:41:37,920
+ These little folded membranes here, they contain ribosomes, which are these little dots.
+
+445
+00:41:37,920 --> 00:41:40,760
+ That's where proteins are synthesized.
+
+446
+00:41:40,760 --> 00:41:46,240
+ These little kidney-beam-shaped things are called mitochondria, where we take glucose
+
+447
+00:41:46,240 --> 00:41:52,520
+ and make it into our energy molecule called ATP.
+
+448
+00:41:52,520 --> 00:41:58,160
+ And then one of the big differences you can probably see right away is the plant cell.
+
+449
+00:41:58,160 --> 00:42:02,120
+ It has this big, huge central vacuole.
+
+450
+00:42:02,120 --> 00:42:10,080
+ They also have these green things called chloroplasts, which contain chlorophyll that absorb sunlight
+
+451
+00:42:10,080 --> 00:42:15,160
+ and allow the process of photosynthesis to occur to be able to make glucose.
+
+452
+00:42:15,160 --> 00:42:21,800
+ And then that glucose can be chained together into polysaccharides called starch and then
+
+453
+00:42:21,800 --> 00:42:25,440
+ stored in the central vacuole of the plant cell.
+
+454
+00:42:25,440 --> 00:42:32,880
+ So literally the cell of a plant has its own glucose stores that it can use in the mitochondria
+
+455
+00:42:32,880 --> 00:42:36,720
+ then to make its own ATP.
+
+456
+00:42:36,720 --> 00:42:42,920
+ Plant cells also have this extra structure out here around the membrane called the cell
+
+457
+00:42:42,920 --> 00:42:43,920
+ wall.
+
+458
+00:42:43,920 --> 00:42:49,320
+ Cell walls are generally made out of a sugar called cellulose that I told you about earlier
+
+459
+00:42:49,320 --> 00:42:55,560
+ that we call fiber because we can't digest that cellulose.
+
+460
+00:42:55,560 --> 00:43:02,120
+ You'll see those structures like the cell wall and the central vacuole and the chloroplasts
+
+461
+00:43:02,120 --> 00:43:08,480
+ are not found in animal cells.
+
+462
+00:43:08,480 --> 00:43:12,840
+ So you should be able to answer this question here, which organellists found only in plant
+
+463
+00:43:12,840 --> 00:43:18,040
+ cells, but the answer is chloroplasts.
+
+464
+00:43:18,040 --> 00:43:23,600
+ How about a bonus question, what process occurs in chloroplasts?
+
+465
+00:43:23,600 --> 00:43:30,760
+ The answer to that is photosynthesis.
+
+466
+00:43:30,760 --> 00:43:34,040
+ So let's talk about some of these subcellular structures.
+
+467
+00:43:34,040 --> 00:43:36,480
+ We've mentioned the cell wall.
+
+468
+00:43:36,480 --> 00:43:40,600
+ That's the extra protection outside the plasma membrane.
+
+469
+00:43:40,600 --> 00:43:47,900
+ That's fungi and bacteria and most protists have cell walls, but no animal cells have a
+
+470
+00:43:47,900 --> 00:43:49,640
+ cell wall.
+
+471
+00:43:49,640 --> 00:43:53,760
+ We just have cell membranes around our cells.
+
+472
+00:43:53,760 --> 00:43:59,840
+ The nucleus in eukaryotic cells holds DNA.
+
+473
+00:43:59,840 --> 00:44:05,440
+ Those DNA also consist of proteins that they wrap around to become chromosomes.
+
+474
+00:44:05,440 --> 00:44:10,560
+ So together the DNA and the proteins are called chromatin.
+
+475
+00:44:10,560 --> 00:44:14,720
+ This is then surrounded by the nuclear envelope.
+
+476
+00:44:14,720 --> 00:44:23,480
+ The nucleolus is within the nucleus and this is the place where ribosomes are synthesized.
+
+477
+00:44:23,480 --> 00:44:31,680
+ Then they're sent out of the nucleus later on, where their job will be to make proteins.
+
+478
+00:44:31,680 --> 00:44:39,600
+ The mitochondria are an organelle that use glucose to make ATP, our own energy molecules,
+
+479
+00:44:39,600 --> 00:44:43,280
+ adenosine triphosphate.
+
+480
+00:44:43,280 --> 00:44:52,000
+ The process of using glucose to make ATP is called cell respiration.
+
+481
+00:44:52,000 --> 00:44:58,840
+ Chloroplasts are within plant cells and also photosynthetic bacteria and protists as well,
+
+482
+00:44:58,840 --> 00:45:00,680
+ like algae.
+
+483
+00:45:00,680 --> 00:45:08,600
+ Chloroplasts can absorb sunlight and then use that energy and other things like carbon dioxide
+
+484
+00:45:08,600 --> 00:45:18,960
+ to make sugar in the form of glucose and then they can store that later to make ATP.
+
+485
+00:45:18,960 --> 00:45:27,320
+ That process of absorbing sunlight and using carbon dioxide to make sugar is called photosynthesis.
+
+486
+00:45:27,320 --> 00:45:36,000
+ Only organisms that have chloroplasts with the pigment chlorophyll are able to do this.
+
+487
+00:45:36,000 --> 00:45:42,520
+ A lysosome, shown here, is just basically a little bubble or a vesicle that contains digestive
+
+488
+00:45:42,520 --> 00:45:44,200
+ enzymes.
+
+489
+00:45:44,200 --> 00:45:53,240
+ The cell uses these lysosomes as kind of like housekeepers or janitors to engulf and digest
+
+490
+00:45:53,240 --> 00:46:03,800
+ enzymes to help recycle molecules and they'll also engulf and digest old cell parts as well.
+
+491
+00:46:03,800 --> 00:46:10,760
+ Photosomes are really tiny, again they're made in the nucleolus, then sent out and usually
+
+492
+00:46:10,760 --> 00:46:18,360
+ attached to the ER though some are free-floating in the cytosol and they make proteins.
+
+493
+00:46:18,360 --> 00:46:25,360
+ Their job is to string amino acids together in the right order according to DNA's code
+
+494
+00:46:25,360 --> 00:46:30,040
+ so that we can make proteins correctly.
+
+495
+00:46:30,040 --> 00:46:37,240
+ There's two types of endoplasmic reticulum or ER for short, rough and smooth.
+
+496
+00:46:37,240 --> 00:46:44,640
+ The rough ER is usually found more near the nucleus in a cell and usually again has ribosomes
+
+497
+00:46:44,640 --> 00:46:48,160
+ attached to it.
+
+498
+00:46:48,160 --> 00:46:52,680
+ The smooth ER is usually found a little further out than the rough ER.
+
+499
+00:46:52,680 --> 00:46:58,600
+ They do not contain ribosomes hence they look smoother.
+
+500
+00:46:58,600 --> 00:47:04,080
+ They're involved in lipid synthesis and also detoxification and both of them are basically
+
+501
+00:47:04,080 --> 00:47:09,720
+ membranes that are kind of folded into little tubes and act as kind of a transport network
+
+502
+00:47:09,720 --> 00:47:12,040
+ within the cell.
+
+503
+00:47:12,040 --> 00:47:20,240
+ The Golgi looks a lot like the ER in the fact that their little membranes folded into tubes
+
+504
+00:47:20,240 --> 00:47:26,760
+ but they're usually further out from the nucleus, further out than the ER and closer to the
+
+505
+00:47:26,760 --> 00:47:28,280
+ cell membrane.
+
+506
+00:47:28,280 --> 00:47:34,200
+ They're kind of like the FedEx or the packing and shipping of the cell.
+
+507
+00:47:34,200 --> 00:47:40,960
+ Their job is to finish off proteins to modify them, the final modification and then package
+
+508
+00:47:40,960 --> 00:47:48,720
+ them into a vesicle by bubbling off a piece of itself as you see in the picture here and
+
+509
+00:47:48,720 --> 00:47:54,840
+ then shipping that protein to where it needs to go.
+
+510
+00:47:54,840 --> 00:47:58,280
+ The cereals are kind of neat looking little structures.
+
+511
+00:47:58,280 --> 00:48:04,280
+ They're made out of protein microtubules that have an interesting shape to them.
+
+512
+00:48:04,280 --> 00:48:10,000
+ We start off in the cell with a pair of them but that soon duplicates and when a cell is
+
+513
+00:48:10,000 --> 00:48:15,600
+ ready to divide then we'll have a couple pair that migrate to opposite ends of the cell and
+
+514
+00:48:15,600 --> 00:48:22,960
+ help the cell go through a process called mitosis or cell division.
+
+515
+00:48:22,960 --> 00:48:27,600
+ There's also other cytoskeleton elements.
+
+516
+00:48:27,600 --> 00:48:33,120
+ These are structural supports for the cell and they also help in mobility of the cell
+
+517
+00:48:33,120 --> 00:48:34,120
+ as well.
+
+518
+00:48:34,120 --> 00:48:40,680
+ There's different sized protein filaments here from microfilaments to intermediate filaments
+
+519
+00:48:40,680 --> 00:48:44,240
+ and microtubules.
+
+520
+00:48:44,240 --> 00:48:57,760
+ The central vacuole which is found in a plant cell stores both water and sugars and pigments.
+
+521
+00:48:57,760 --> 00:49:06,760
+ That's a very quick rundown of the different cell components and organelles.
+
+522
+00:49:06,760 --> 00:49:15,280
+ Speaking of plant cells, chlorophyll supplements are marketed as being able to energize detoxify
+
+523
+00:49:15,280 --> 00:49:18,560
+ and help people heal wounds.
+
+524
+00:49:18,560 --> 00:49:22,920
+ There is no evidence to suggest that any of these claims are true.
+
+525
+00:49:22,920 --> 00:49:28,560
+ In fact because human cells do not contain chlorophyll, taking chlorophyll is actually
+
+526
+00:49:28,560 --> 00:49:36,560
+ not supplementing anything.
+
+527
+00:49:36,560 --> 00:49:43,260
+ Some athletes use creatine to increase muscle mass or allow for more powerful bursts of
+
+528
+00:49:43,260 --> 00:49:45,160
+ energy.
+
+529
+00:49:45,160 --> 00:49:51,160
+ Creatin is used during protein synthesis on ribosomes and by mitochondria in the making
+
+530
+00:49:51,160 --> 00:49:52,960
+ of ATP.
+
+531
+00:49:52,960 --> 00:49:57,920
+ Although creatine is normally found in the body, the effects of supplementing have not
+
+532
+00:49:57,920 --> 00:50:00,000
+ been well studied yet.
+
+533
+00:50:00,000 --> 00:50:05,320
+ With side effects like kidney failure, it's safest probably not to supplement creatine
+
+534
+00:50:05,320 --> 00:50:11,120
+ at this time, above what you would normally obtain in your regular diet.
+
+535
+00:50:11,120 --> 00:50:17,200
+ It's also common for athletes to drink protein supplements while exercising to enhance performance
+
+536
+00:50:17,200 --> 00:50:26,600
+ and decrease recovery time.
+
+537
+00:50:26,600 --> 00:50:34,320
+ This figure here shows data from one controlled study testing the effects of protein supplementation
+
+538
+00:50:34,320 --> 00:50:40,520
+ during exercise in elite cyclists.
+
+539
+00:50:40,520 --> 00:50:48,880
+ Elite cyclists ingested liquid supplements during a one week training camp.
+
+540
+00:50:48,880 --> 00:50:54,680
+ One group of cyclists were given only carbohydrate supplements and the other group was given
+
+541
+00:50:54,680 --> 00:50:58,320
+ carbohydrate with protein supplement.
+
+542
+00:50:58,320 --> 00:51:04,760
+ The data shows the average power output during a test, a 5 minute all out cycling on day
+
+543
+00:51:04,760 --> 00:51:09,560
+ one and then again on day six of training.
+
+544
+00:51:09,560 --> 00:51:18,240
+ Power is a measure of energy used over time and is measured in watts.
+
+545
+00:51:18,240 --> 00:51:26,760
+ So what does this data tell us about their average power usage on day one and day six?
+
+546
+00:51:26,760 --> 00:51:32,800
+ While it appears that there's a slightly lower power usage by cyclists who receive protein
+
+547
+00:51:32,800 --> 00:51:38,260
+ in their supplements compared with those that did not.
+
+548
+00:51:38,260 --> 00:51:46,400
+ Scientists use the asterisks to show that a difference is statistically significant.
+
+549
+00:51:46,400 --> 00:51:53,440
+ While weather ingested in food or supplemented in pills, one substances reach cells to be
+
+550
+00:51:53,440 --> 00:51:59,200
+ used they must go across the cell membrane.
+
+551
+00:51:59,200 --> 00:52:03,880
+ Molecules must cross that plasma membrane to gain access to the inside of the cell where
+
+552
+00:52:03,880 --> 00:52:09,840
+ they can be used by those cell structures and organelles to synthesize cell components
+
+553
+00:52:09,840 --> 00:52:15,720
+ or to be metabolized to provide energy for the cell in the form of ATP.
+
+554
+00:52:15,720 --> 00:52:22,120
+ The chemistry of the membrane helps to facilitate the transport of some substances but then it
+
+555
+00:52:22,120 --> 00:52:27,580
+ prevents the transport of others.
+
+556
+00:52:27,580 --> 00:52:33,280
+ Substances that are able to cross reach what's called an equilibrium meaning they're equal
+
+557
+00:52:33,280 --> 00:52:40,480
+ concentrations on both sides of the cell membrane.
+
+558
+00:52:40,480 --> 00:52:47,800
+ Remember the plasma membrane consists of the phospholipid bilayer is differential permeable
+
+559
+00:52:47,800 --> 00:52:53,080
+ meaning it will allow some things across but not all.
+
+560
+00:52:53,080 --> 00:52:58,920
+ Hydrophobic substances which have characteristics more like fat meaning they're non-polar pass
+
+561
+00:52:58,920 --> 00:53:10,520
+ through more easily especially through that hydrophobic interior than those that are hydrophilic.
+
+562
+00:53:10,520 --> 00:53:17,960
+ Diseases like carbon dioxide, water and oxygen move freely across the membrane.
+
+563
+00:53:17,960 --> 00:53:25,080
+ Larger molecules and charged molecules and ions cannot cross the lipid bilayer on their
+
+564
+00:53:25,080 --> 00:53:26,560
+ own.
+
+565
+00:53:26,560 --> 00:53:31,000
+ If these substances are to be moved across the membrane they usually need to go through
+
+566
+00:53:31,000 --> 00:53:37,320
+ a protein which is embedded in the membrane so we would say that protein serves as a channel
+
+567
+00:53:37,320 --> 00:53:43,680
+ or a carrier to allow those molecules to cross until again their concentration is equal on
+
+568
+00:53:43,680 --> 00:53:48,280
+ both sides or they've reached equilibrium.
+
+569
+00:53:48,280 --> 00:53:54,280
+ In cases where substances go across the cell membrane against their concentration gradient
+
+570
+00:53:54,280 --> 00:54:03,680
+ proteins can serve as pumps to drive molecules away from equilibrium.
+
+571
+00:54:03,680 --> 00:54:09,760
+ In passive transport molecules move down their concentration gradient without the use of
+
+572
+00:54:09,760 --> 00:54:16,960
+ any extra energy meaning no energy molecules in the form of ATP or dentezing triphosphate
+
+573
+00:54:16,960 --> 00:54:21,160
+ are needed for this process to happen.
+
+574
+00:54:21,160 --> 00:54:26,960
+ Simple diffusion is one of these processes that's how carbon dioxide moves from where
+
+575
+00:54:26,960 --> 00:54:34,520
+ it's more concentrated to where it's less concentrated across a cell membrane.
+
+576
+00:54:34,520 --> 00:54:39,320
+ Here we see a closer look at that.
+
+577
+00:54:39,320 --> 00:54:44,840
+ Carbon dioxide are very small hydrophobic molecules and therefore they go across that
+
+578
+00:54:44,840 --> 00:54:48,440
+ membrane relatively easily.
+
+579
+00:54:48,440 --> 00:54:53,320
+ See how there's more carbon dioxide and more oxygen on this side of the membrane.
+
+580
+00:54:53,320 --> 00:55:03,000
+ They're moving from high concentration down their concentration gradient to low concentration.
+
+581
+00:55:03,000 --> 00:55:11,920
+ Facilitated diffusion is another way that substances get across the cell membrane.
+
+582
+00:55:11,920 --> 00:55:19,000
+ So a facilitator is somebody that helps a process occur and so proteins are the facilitator
+
+583
+00:55:19,000 --> 00:55:26,620
+ in this process proteins facilitate the movement of certain substances down their concentration
+
+584
+00:55:26,620 --> 00:55:30,640
+ gradient across the cell membrane.
+
+585
+00:55:30,640 --> 00:55:36,120
+ Though things are going through a protein which acts as a channel or a carrier there's
+
+586
+00:55:36,120 --> 00:55:42,760
+ no extra energy that's needed for this process because things are still moving down the concentration
+
+587
+00:55:42,760 --> 00:55:51,160
+ gradient from where they're more highly concentrated to where they're lowly concentrated.
+
+588
+00:55:51,160 --> 00:55:57,040
+ This might help with hydrophilic substances that would not go through the cell membrane
+
+589
+00:55:57,040 --> 00:56:03,640
+ by themselves because of their properties so they go through the protein instead.
+
+590
+00:56:03,640 --> 00:56:09,640
+ Again no extra energy is needed it's just the fact that they have to go through a protein
+
+591
+00:56:09,640 --> 00:56:17,360
+ because the lipid bilayer won't let them through.
+
+592
+00:56:17,360 --> 00:56:23,760
+ Osmosis is a special type of passive transport very similar to simple diffusion but it refers
+
+593
+00:56:23,760 --> 00:56:30,480
+ specifically to the movement of water across the cell membrane.
+
+594
+00:56:30,480 --> 00:56:37,240
+ So osmosis is the diffusion of water across the cell membrane from high to low concentration.
+
+595
+00:56:37,240 --> 00:56:45,200
+ I like to say it's going from high water concentration to low water concentration.
+
+596
+00:56:45,200 --> 00:56:51,440
+ Water likes to move from where there's a lot of water to where there's less water.
+
+597
+00:56:51,440 --> 00:56:59,160
+ This can be a problem for some cells for instance how about an amoeba which is a type of protest
+
+598
+00:56:59,160 --> 00:57:05,880
+ that lives in a fresh water pond an amoeba within its cytoplasm and cytosol would have
+
+599
+00:57:05,880 --> 00:57:11,880
+ a lot of nutrients and substances and ions within itself.
+
+600
+00:57:11,880 --> 00:57:18,800
+ And then there would be less of these things outside in the fresh water beyond so water
+
+601
+00:57:18,800 --> 00:57:27,480
+ from the pond tends to move into an amoeba cell from where there's high water concentration
+
+602
+00:57:27,480 --> 00:57:32,840
+ out here in the pond to where there's a lower water concentration in the cytoplasm of the
+
+603
+00:57:32,840 --> 00:57:33,840
+ amoeba cell.
+
+604
+00:57:33,840 --> 00:57:40,320
+ Now if that kept happening that amoeba could take on too much water and then burst luckily
+
+605
+00:57:40,320 --> 00:57:51,520
+ the amoeba makes little packages that grab onto that excess water and then dump it out.
+
+606
+00:57:51,520 --> 00:58:03,680
+ So once again the three types of passive transport diffusion facilitated diffusion and osmosis.
+
+607
+00:58:03,680 --> 00:58:09,920
+ Where none of these take any extra energy in the form of ATP and all three of them the
+
+608
+00:58:09,920 --> 00:58:16,840
+ substances move from higher to lower concentration.
+
+609
+00:58:16,840 --> 00:58:22,120
+ Here's some questions which process uses transport proteins to move hydrophilic molecules through
+
+610
+00:58:22,120 --> 00:58:24,120
+ the plasma membrane.
+
+611
+00:58:24,120 --> 00:58:31,440
+ So the answer to that is facilitated diffusion.
+
+612
+00:58:31,440 --> 00:58:36,360
+ How does water move if a cell is placed in salt water?
+
+613
+00:58:36,360 --> 00:58:45,220
+ Well this can be a concern especially if organisms live in salt water or when we use IV fluids
+
+614
+00:58:45,220 --> 00:58:49,080
+ in the medical industry.
+
+615
+00:58:49,080 --> 00:58:55,800
+ Osmosis can cause water to move out of a cell if you place that cell in salt water because
+
+616
+00:58:55,800 --> 00:59:02,000
+ there's more water in the cell and less water in the salt water.
+
+617
+00:59:02,000 --> 00:59:07,800
+ Water will want to move out of the cell into that salt water down its water concentration
+
+618
+00:59:07,800 --> 00:59:11,600
+ gradient.
+
+619
+00:59:11,600 --> 00:59:19,200
+ Because of this when we use IVs in the medical industry we have to make sure that the IV fluids
+
+620
+00:59:19,200 --> 00:59:25,280
+ have the same concentration of solutes as our fluids in our body.
+
+621
+00:59:25,280 --> 00:59:38,920
+ That way we don't get cells taking on excess water or losing water.
+
+622
+00:59:38,920 --> 00:59:46,680
+ A type of transport across membranes that does take energy is called active transport.
+
+623
+00:59:46,680 --> 00:59:55,760
+ In order to power this process ATP or adenosine triphosphate is needed.
+
+624
+00:59:55,760 --> 01:00:05,920
+ ATP activates the proteins that then act as a pump to pump molecules or substances against
+
+625
+01:00:05,920 --> 01:00:09,000
+ their concentration gradient.
+
+626
+01:00:09,000 --> 01:00:14,600
+ So in the picture here you see a potassium ion being pumped by this protein in a cell
+
+627
+01:00:14,600 --> 01:00:21,480
+ membrane using ATP of course from where it's slowly concentrated to where it's more highly
+
+628
+01:00:21,480 --> 01:00:22,800
+ concentrated.
+
+629
+01:00:22,800 --> 01:00:29,840
+ So it's going against its concentration gradient that's going to take energy and yes that has
+
+630
+01:00:29,840 --> 01:00:41,800
+ to happen often in our cells so cells do have to use energy to move things in and out.
+
+631
+01:00:41,800 --> 01:00:45,900
+ So which one here describes active transport?
+
+632
+01:00:45,900 --> 01:00:54,880
+ It's letter B. Potassium will move from low concentration to high concentration using ATP.
+
+633
+01:00:54,880 --> 01:01:01,360
+ A common process using quite a bit of energy daily in our bodies doing just this is called
+
+634
+01:01:01,360 --> 01:01:04,840
+ the sodium potassium pump.
+
+635
+01:01:04,840 --> 01:01:12,680
+ These proteins constantly have to move sodium and potassium to their proper place on their
+
+636
+01:01:12,680 --> 01:01:21,920
+ proper sides of the cells to maintain the charge on the inside and outside of cells.
+
+637
+01:01:21,920 --> 01:01:28,120
+ This uses quite a bit of ATP each day just for this sodium potassium pump alone which
+
+638
+01:01:28,120 --> 01:01:35,220
+ is a form of active transport.
+
+639
+01:01:35,220 --> 01:01:40,640
+ Sometimes things are bigger than just little molecules moving in and out of cells.
+
+640
+01:01:40,640 --> 01:01:49,640
+ Sometimes we have to get big things into or out of a cell therefore we need other processes.
+
+641
+01:01:49,640 --> 01:01:52,400
+ One of those is called exocytosis.
+
+642
+01:01:52,400 --> 01:01:59,760
+ Like ex or exit, these things are exiting the cell or leaving the cell.
+
+643
+01:01:59,760 --> 01:02:05,960
+ So things are packaged into a little vesicle, a vesicle that contains phospholipids.
+
+644
+01:02:05,960 --> 01:02:13,160
+ Those phospholipids will fuse with the membrane and then expel whatever it was inside that
+
+645
+01:02:13,160 --> 01:02:19,440
+ vesicle.
+
+646
+01:02:19,440 --> 01:02:27,320
+ Exocytosis is just the opposite of exocytosis so think EN for enter, these substances are
+
+647
+01:02:27,320 --> 01:02:30,280
+ entering the cell.
+
+648
+01:02:30,280 --> 01:02:36,640
+ In fact this is also how single cell organisms like protists called amoeba or our white blood
+
+649
+01:02:36,640 --> 01:02:42,000
+ cells within our blood eat things by engulfing them.
+
+650
+01:02:42,000 --> 01:02:44,760
+ They use endocytosis.
+
+651
+01:02:44,760 --> 01:02:49,400
+ They send their phospholipids around the food particle.
+
+652
+01:02:49,400 --> 01:03:02,000
+ And they engulf it and bring it in as a vesicle packaged.
+
+653
+01:03:02,000 --> 01:03:07,360
+ Here's a video that you can watch if it doesn't run in the PowerPoint itself.
+
+654
+01:03:07,360 --> 01:03:12,640
+ You can click on the YouTube link and watch that and it will show you animations of all
+
+655
+01:03:12,640 --> 01:03:20,680
+ the different types of cell transports.
+
+656
+01:03:20,680 --> 01:03:27,360
+ In closing, how do you actually know if supplements are getting transported into cells as many
+
+657
+01:03:27,360 --> 01:03:33,280
+ of those supplements come in a large form and are they doing something that's actually
+
+658
+01:03:33,280 --> 01:03:39,040
+ worthwhile for your health after all you're spending money on these things?
+
+659
+01:03:39,040 --> 01:03:48,680
+ Well, the FDA or Food and Drug Administration does require scientific testing to prove the
+
+660
+01:03:48,680 --> 01:03:55,720
+ safety and effectiveness of prescription and non-prescription drugs before they're released
+
+661
+01:03:55,720 --> 01:03:57,200
+ to the public.
+
+662
+01:03:57,200 --> 01:04:03,480
+ However, things that are labeled as dietary supplements don't have to be approved by
+
+663
+01:04:03,480 --> 01:04:08,480
+ the FDA so it's not true for dietary supplements.
+
+664
+01:04:08,480 --> 01:04:14,640
+ Even though people are using these things as medicines and sometimes taking them in massive
+
+665
+01:04:14,640 --> 01:04:22,640
+ amounts, the claims that they make on the bottles are not necessarily tested or proven
+
+666
+01:04:22,640 --> 01:04:25,480
+ through good scientific methods.
+
+667
+01:04:25,480 --> 01:04:32,600
+ So look for these notices on some of the bottles like statements are not evaluated by the FDA
+
+668
+01:04:32,600 --> 01:04:38,800
+ or this product is not intended to diagnose, treat, cure, or prevent any disease.
+
+669
+01:04:38,800 --> 01:04:44,440
+ These types of statements should send up some red flags.
+
+670
+01:04:44,440 --> 01:04:46,200
+ So what can you do?
+
+671
+01:04:46,200 --> 01:04:53,240
+ Well your best bet is to evaluate the claims before you decide to use or ingest any type
+
+672
+01:04:53,240 --> 01:04:55,920
+ of supplement.
+
+673
+01:04:55,920 --> 01:05:02,400
+ Consult your physician or a trustworthy source such as a website and also you can check the
+
+674
+01:05:02,400 --> 01:05:03,800
+ FDA website.
+
+675
+01:05:03,800 --> 01:05:10,320
+ It keeps a record of supplements that are under review for causing adverse effects.
+
+676
+01:05:10,320 --> 01:05:17,440
+ All in all it makes more sense to eat a healthy diet than to use high doses of expensive pills,
+
+677
+01:05:17,440 --> 01:05:25,000
+ powders, and potions that haven't been evaluated for effectiveness or for even safety for that
+
+678
+01:05:25,000 --> 01:05:31,520
+ matter and have not undergone rigorous scientific testing to see if they're actually making
+
+679
+01:05:31,520 --> 01:05:36,160
+ a difference at all.
+
+680
+01:05:36,160 --> 01:05:42,000
+ Then as we close be sure to review our learning outcomes for this chapter and go back through
+
+681
+01:05:42,000 --> 01:05:46,240
+ and make sure that you can do each of these tasks as listed.
+

@@ -1,0 +1,1672 @@
+1
+00:00:00,000 --> 00:00:06,200
+ Hey everybody, Ryan here and welcome back to our oral surgery series.
+
+2
+00:00:06,200 --> 00:00:11,000
+ This video will be about implants and implant surgery.
+
+3
+00:00:11,000 --> 00:00:17,360
+ And this is a vast topic that could involve an enormous series just by itself.
+
+4
+00:00:17,360 --> 00:00:24,000
+ So this will just be a cursory look at implants and implant surgery, focusing again on the
+
+5
+00:00:24,000 --> 00:00:30,900
+ high yield topics for the board exam, and also for your own edification.
+
+6
+00:00:30,900 --> 00:00:36,200
+ So why do we place implants, of course, to replace a missing tooth?
+
+7
+00:00:36,200 --> 00:00:42,600
+ Here is a really nice schematic showing an implant being placed into bone, and here is
+
+8
+00:00:42,600 --> 00:00:49,720
+ a radiograph of the finished result with a restored implant crown.
+
+9
+00:00:49,720 --> 00:00:55,120
+ Here are indications for placing an implant, we have a list here, uncontrolled diabetes
+
+10
+00:00:55,120 --> 00:00:57,940
+ and immunocompromised patients.
+
+11
+00:00:57,940 --> 00:01:01,600
+ These are both at higher risk of infection.
+
+12
+00:01:01,600 --> 00:01:07,400
+ The volume and height of bone needs to be sufficient in order to support an implant.
+
+13
+00:01:07,400 --> 00:01:13,780
+ Bizphosphinate therapy, that patient will be at risk of Bizphosphinate related osteonacrosis
+
+14
+00:01:13,780 --> 00:01:16,000
+ of the jaws or branch.
+
+15
+00:01:16,000 --> 00:01:22,200
+ And you may be noticing that a lot of these are contraindications for tooth extraction
+
+16
+00:01:22,200 --> 00:01:27,240
+ as well, and there's quite a bit of overlap between these two lists.
+
+17
+00:01:27,240 --> 00:01:33,840
+ Bruxism, a patient who is constantly clenching and grinding their teeth, may not be the best
+
+18
+00:01:33,840 --> 00:01:36,360
+ fit for an implant.
+
+19
+00:01:36,360 --> 00:01:41,520
+ Smoking is a relative contraindication, again all of these are relative contraindications.
+
+20
+00:01:41,520 --> 00:01:48,440
+ A history of head and neck radiation, another familiar site from the tooth extraction, contraindication
+
+21
+00:01:48,440 --> 00:01:53,680
+ list, a patient with cleft palate, and adolescents.
+
+22
+00:01:53,680 --> 00:01:58,440
+ Adolescents are not done growing, so if we place an implant in one part of the bone,
+
+23
+00:01:58,440 --> 00:02:02,520
+ as they continue to grow and their jaws continue to grow, that implant may not be in the place
+
+24
+00:02:02,520 --> 00:02:04,680
+ that we want it to be.
+
+25
+00:02:04,680 --> 00:02:10,520
+ So we need to wait until 2022-24, until that bone is completely done growing and we don't
+
+26
+00:02:10,520 --> 00:02:14,280
+ have to worry about that implant moving around.
+
+27
+00:02:14,280 --> 00:02:22,220
+ Now along with age, old age is not a contraindication for placing an implant.
+
+28
+00:02:22,220 --> 00:02:26,480
+ Just because you're older doesn't mean you can't have an implant and can't have a really
+
+29
+00:02:26,480 --> 00:02:29,120
+ nice result with an implant.
+
+30
+00:02:29,120 --> 00:02:35,400
+ So you may get a board's question that poses the scenario where you have an older patient,
+
+31
+00:02:35,400 --> 00:02:39,160
+ and that alone is not a contraindication for receiving an implant.
+
+32
+00:02:39,160 --> 00:02:44,840
+ All of these are relative contraindications.
+
+33
+00:02:44,840 --> 00:02:49,000
+ So we have three main categories of implants.
+
+34
+00:02:49,000 --> 00:02:52,320
+ These are big picture categories.
+
+35
+00:02:52,320 --> 00:03:00,040
+ Sub-periosteal, and if we unpack this name, that means under the periosteum, and it literally
+
+36
+00:03:00,040 --> 00:03:04,720
+ rests under the periosteum layer.
+
+37
+00:03:04,720 --> 00:03:10,400
+ And so it's not screwed into the bone at all, it's laying underneath the periosteum just
+
+38
+00:03:10,400 --> 00:03:12,320
+ like a blanket.
+
+39
+00:03:12,320 --> 00:03:18,680
+ And this metal framework has extensions that poke through the oral mucosa shown in pink
+
+40
+00:03:18,680 --> 00:03:23,960
+ here for retention of a prosthesis.
+
+41
+00:03:23,960 --> 00:03:29,080
+ So there's no true osteointegration with this implant, and we'll talk about osteointegration
+
+42
+00:03:29,080 --> 00:03:35,680
+ later in the video, and therefore has a very poor prognosis.
+
+43
+00:03:35,680 --> 00:03:41,840
+ So it's rare to see these around at all today, and that's because most of them, if they were
+
+44
+00:03:41,840 --> 00:03:49,920
+ placed a while ago, have since failed, and they're not a great option for implant therapy.
+
+45
+00:03:49,920 --> 00:03:53,520
+ Next we have trans-austeal, or trans-austeous.
+
+46
+00:03:53,520 --> 00:04:01,440
+ Either way you write it, that can be, that can refer to trans-meaning through and osteo-meaning
+
+47
+00:04:01,440 --> 00:04:02,440
+ the bone.
+
+48
+00:04:02,440 --> 00:04:05,800
+ So these implants are placed through the bone.
+
+49
+00:04:05,800 --> 00:04:13,280
+ Now these are exclusive to the mandibular anterior region because it requires an extra-oral approach.
+
+50
+00:04:13,280 --> 00:04:20,440
+ You drill this one through the inferior border of the mandible and into the oral mucosa.
+
+51
+00:04:20,440 --> 00:04:28,440
+ Usually they involve two to four trans-mandibular implants in order to support a larger framework.
+
+52
+00:04:28,440 --> 00:04:36,280
+ Again, these are very rare, it's a very involved surgery, and do not have great success either.
+
+53
+00:04:36,280 --> 00:04:40,920
+ So that leaves us with the third category, endosteal or endosseous.
+
+54
+00:04:40,920 --> 00:04:45,720
+ We unpack this word, it means "into" or "in" the bone.
+
+55
+00:04:45,720 --> 00:04:49,280
+ And so the endosteal implants are placed into the bone.
+
+56
+00:04:49,280 --> 00:04:56,320
+ Now these are available in many different forms, there's a blade shape, a rainness frame,
+
+57
+00:04:56,320 --> 00:05:00,960
+ and the ones that are depicted here that we see by far most often.
+
+58
+00:05:00,960 --> 00:05:06,000
+ And what we'll talk about throughout this video is the root form implant.
+
+59
+00:05:06,000 --> 00:05:11,200
+ It's generally cylindrical, and it's called a root form implant because it's shaped like
+
+60
+00:05:11,200 --> 00:05:13,040
+ a tooth root.
+
+61
+00:05:13,040 --> 00:05:17,480
+ And so let's talk about the endosteal implant.
+
+62
+00:05:17,480 --> 00:05:23,680
+ So an endosteal implant has four primary components, if we boil it down.
+
+63
+00:05:23,680 --> 00:05:31,320
+ And from bottom to top in the schematic, we have the implant body, the abutment, the abutment
+
+64
+00:05:31,320 --> 00:05:34,840
+ screw, and the implant crown.
+
+65
+00:05:34,840 --> 00:05:40,640
+ So now in the next couple slides, let's unpack each of these components.
+
+66
+00:05:40,640 --> 00:05:47,680
+ So the implant body, also called just the implant or the implant fixture, is shown here in
+
+67
+00:05:47,680 --> 00:05:49,240
+ the top right.
+
+68
+00:05:49,240 --> 00:05:55,320
+ It's usually axis symmetric, which means if I were to draw a long axis down the center
+
+69
+00:05:55,320 --> 00:06:01,600
+ of this implant, it would be symmetric around that long axis.
+
+70
+00:06:01,600 --> 00:06:10,040
+ The basic procedure for placing an implant such as this one is to drill a hole into the
+
+71
+00:06:10,040 --> 00:06:11,040
+ bone.
+
+72
+00:06:11,040 --> 00:06:17,720
+ And we sequentially enlarge that osteotomy, which is a fancy name for the bone hole.
+
+73
+00:06:17,720 --> 00:06:22,760
+ So we start with a smaller drill, much smaller than the diameter of this implant, then we
+
+74
+00:06:22,760 --> 00:06:28,200
+ go to a larger one, a larger one, and finally one that's large enough to create a hole that
+
+75
+00:06:28,200 --> 00:06:33,520
+ will support this implant being drilled into it.
+
+76
+00:06:33,520 --> 00:06:38,860
+ So the reason why we sequentially enlarge the osteotomy is to, number one, reduce the
+
+77
+00:06:38,860 --> 00:06:41,120
+ amount of heat generated.
+
+78
+00:06:41,120 --> 00:06:47,160
+ And this helps to keep the bone cells alive, which we desperately want, and having a sharp
+
+79
+00:06:47,160 --> 00:06:53,880
+ drill, and also using copious irrigation, helps with reducing heat generated as well.
+
+80
+00:06:53,880 --> 00:06:59,800
+ Secondly, it helps to maintain the axis with freehand surgery.
+
+81
+00:06:59,800 --> 00:07:01,560
+ So what the heck does that mean?
+
+82
+00:07:01,560 --> 00:07:09,240
+ Well when we're doing an implant placement, we can be using a stent or a template of sorts,
+
+83
+00:07:09,240 --> 00:07:14,880
+ and we'll talk about that a little bit later, or you can be placing the implant freehanded.
+
+84
+00:07:14,880 --> 00:07:21,400
+ Now of course you have radiographs, or better yet, a cone beam CT image, basically a three
+
+85
+00:07:21,400 --> 00:07:27,160
+ dimensional x-ray, so you know how wide the bone is, how deep the bone is, and you know
+
+86
+00:07:27,160 --> 00:07:35,080
+ what angulation a place that implant at, but being able to check the hole at each step,
+
+87
+00:07:35,080 --> 00:07:38,520
+ you can check how you're doing with your angulation.
+
+88
+00:07:38,520 --> 00:07:44,520
+ So you start with a really small hole, you put in a little indicator, and you can say,
+
+89
+00:07:44,520 --> 00:07:50,720
+ well, my hole's a little bit too angled distally, so next time when I go up to the next bigger
+
+90
+00:07:50,720 --> 00:07:53,960
+ drill, I can correct that angulation.
+
+91
+00:07:53,960 --> 00:08:01,520
+ So it gives you some opportunities to correct and maintain a proper axis.
+
+92
+00:08:01,520 --> 00:08:08,640
+ The implant body is usually inserted into tapped holes, and a tapped hole in carpentry,
+
+93
+00:08:08,640 --> 00:08:14,600
+ or any trade for that matter, is a hole drilled prior to a screw being inserted.
+
+94
+00:08:14,600 --> 00:08:20,920
+ It's similar to a pilot hole, except that it has the threads cut into the inside surface
+
+95
+00:08:20,920 --> 00:08:22,360
+ of the hole.
+
+96
+00:08:22,360 --> 00:08:31,480
+ However, some of these implants are self-tapping, and you can see that by these little gouges
+
+97
+00:08:31,480 --> 00:08:38,080
+ that are made in the apical part of the implant, and so they essentially cut and create their
+
+98
+00:08:38,080 --> 00:08:45,200
+ own threads as they're drilled into the bone hole, and thus do not require this step.
+
+99
+00:08:45,200 --> 00:08:50,280
+ So that's some big picture information about the implant body.
+
+100
+00:08:50,280 --> 00:08:52,680
+ Now let's talk about the abutment.
+
+101
+00:08:52,680 --> 00:09:01,000
+ So the abutment is the part of the implant schematic here that is placed onto you and
+
+102
+00:09:01,000 --> 00:09:03,760
+ into the implant body.
+
+103
+00:09:03,760 --> 00:09:09,440
+ So the abutment can be broken down into two big categories, one piece abutments and two
+
+104
+00:09:09,440 --> 00:09:10,440
+ piece abutments.
+
+105
+00:09:10,440 --> 00:09:17,640
+ So let's spend some time digging into the differences between these two categories.
+
+106
+00:09:17,640 --> 00:09:25,880
+ So the one piece abutment combines the abutment and the abutment screw into one component.
+
+107
+00:09:25,880 --> 00:09:30,800
+ So if we go back to the schematic, that's combining the abutment and the abutment screw
+
+108
+00:09:30,800 --> 00:09:33,320
+ into one big piece.
+
+109
+00:09:33,320 --> 00:09:41,360
+ So the screw is actually a part of the abutment, and so the whole thing screws into the inside
+
+110
+00:09:41,360 --> 00:09:49,560
+ of the implant body, and this beautiful cross section image here shows that abutment adapting
+
+111
+00:09:49,560 --> 00:09:54,800
+ to the inside of the implant body, and then that screw holding it in place.
+
+112
+00:09:54,800 --> 00:10:02,360
+ So here is the implant body, the abutment screw, which is part of the larger abutment.
+
+113
+00:10:02,360 --> 00:10:09,440
+ It has no anti-rotation component, which we'll talk about in a later slide.
+
+114
+00:10:09,440 --> 00:10:17,480
+ Notice it has a smooth conical shape, which is called a conus, C-O-N-U-S, that wedges into
+
+115
+00:10:17,480 --> 00:10:24,840
+ the top of the implant to ensure proper seating.
+
+116
+00:10:24,840 --> 00:10:31,880
+ Now more commonly used is the two piece abutment, and so the abutment is held to the implant
+
+117
+00:10:31,880 --> 00:10:38,920
+ body via a screw that goes down the center of both.
+
+118
+00:10:38,920 --> 00:10:45,080
+ So in the two piece abutment, the abutment screw and the abutment are separate components.
+
+119
+00:10:45,080 --> 00:10:52,240
+ And so in the cross section image here, you can see the outside of the abutment, which
+
+120
+00:10:52,240 --> 00:11:01,000
+ is here and here, interfaces with the implant body, which is this part here, and this part
+
+121
+00:11:01,000 --> 00:11:11,080
+ here, and the screw, the abutment screw, that drills down the center of both the abutment
+
+122
+00:11:11,080 --> 00:11:14,040
+ and the implant body.
+
+123
+00:11:14,040 --> 00:11:21,000
+ And this is a bit difficult to comprehend, but if we break it down into the four major
+
+124
+00:11:21,000 --> 00:11:26,200
+ components of an implant, hopefully that can make it a little bit easier.
+
+125
+00:11:26,200 --> 00:11:33,920
+ So this abutment does have an anti-rotation component, because you can seat it and lock
+
+126
+00:11:33,920 --> 00:11:40,200
+ it in place, and then place the abutment screw through that whole assembly.
+
+127
+00:11:40,200 --> 00:11:45,320
+ And again, we'll talk more about the anti-rotation component a little bit later, and why that
+
+128
+00:11:45,320 --> 00:11:53,080
+ makes the two piece abutment a little bit more desirable than the one piece in most cases.
+
+129
+00:11:53,080 --> 00:11:57,040
+ And finally, let's talk about the implant crown.
+
+130
+00:11:57,040 --> 00:12:01,800
+ So the implant crown itself can be broken down into two categories, the screw-retained
+
+131
+00:12:01,800 --> 00:12:06,080
+ crown, and a cement-retained crown.
+
+132
+00:12:06,080 --> 00:12:13,600
+ So for the screw-retained crown, we would place a screw through the crown into the implant,
+
+133
+00:12:13,600 --> 00:12:20,840
+ and in general, the abutment and crown of this type are fabricated as one component.
+
+134
+00:12:20,840 --> 00:12:26,720
+ And then the abutment screw is placed through the entire piece into the implant.
+
+135
+00:12:26,720 --> 00:12:33,840
+ So this is technically a, now we're combining the crown and the abutment components, and
+
+136
+00:12:33,840 --> 00:12:38,360
+ then the abutment screw shown in gold here is drilled through both of them.
+
+137
+00:12:38,360 --> 00:12:43,160
+ So this is technically would be an example of a two piece abutment, where the screw and
+
+138
+00:12:43,160 --> 00:12:45,480
+ abutment are separate.
+
+139
+00:12:45,480 --> 00:12:51,720
+ Now the cons of this type are that we have a screw access hole, and so the screw access
+
+140
+00:12:51,720 --> 00:12:57,520
+ hole is typically placed in the central fossa, in the posterior teeth, or in the singular
+
+141
+00:12:57,520 --> 00:13:00,800
+ area of the anterior teeth.
+
+142
+00:13:00,800 --> 00:13:09,280
+ Now the screw and the access hole is very apparent, and could create an aesthetic problem.
+
+143
+00:13:09,280 --> 00:13:16,640
+ And what we typically would do is place some Teflon tape into the hole, and then place
+
+144
+00:13:16,640 --> 00:13:20,200
+ a composite plug to fill in the rest of the hole.
+
+145
+00:13:20,200 --> 00:13:26,280
+ So you need to position the access hole in a non-aesthetic area to avoid, even though
+
+146
+00:13:26,280 --> 00:13:31,720
+ you can match the color somewhat with composite, you usually want to leave it a little bit,
+
+147
+00:13:31,720 --> 00:13:37,600
+ a little bit distinguishable from the implant crown in case you had to go back and access
+
+148
+00:13:37,600 --> 00:13:40,200
+ that screw at a later time.
+
+149
+00:13:40,200 --> 00:13:47,960
+ Obviously, this screw access hole can't be coming through the facial surface of an incisor.
+
+150
+00:13:47,960 --> 00:13:53,560
+ So this is why the implant has to be planned thoroughly ahead of time to ensure proper
+
+151
+00:13:53,560 --> 00:14:00,320
+ placement and angulation of the implant, so that the crown and this screw access hole
+
+152
+00:14:00,320 --> 00:14:06,720
+ can be angled in a proper direction.
+
+153
+00:14:06,720 --> 00:14:11,880
+ So now the pros of this screw retain crown, one of them I already mentioned, is that it
+
+154
+00:14:11,880 --> 00:14:14,160
+ can be removed at a later time.
+
+155
+00:14:14,160 --> 00:14:18,960
+ All you have to do is take out the composite plug, take out the Teflon tape, and then you
+
+156
+00:14:18,960 --> 00:14:24,640
+ can take the screw out, remove the screw, and take the crown off, clean the components,
+
+157
+00:14:24,640 --> 00:14:28,360
+ and do other things that are beneficial.
+
+158
+00:14:28,360 --> 00:14:33,200
+ You have no cement to worry about with this screw retain crown, which is a benefit.
+
+159
+00:14:33,200 --> 00:14:36,240
+ We'll talk more about that in just a little bit.
+
+160
+00:14:36,240 --> 00:14:42,740
+ And the big one is that it takes up less vertical restorative space than the cement retained,
+
+161
+00:14:42,740 --> 00:14:49,040
+ so it's better for restricted restorative space areas.
+
+162
+00:14:49,040 --> 00:14:56,240
+ Now the cement retained crown is where the abutment is attached as a separate component
+
+163
+00:14:56,240 --> 00:15:03,000
+ from the crown, so these two are now separate, and you can have either the one piece abutment
+
+164
+00:15:03,000 --> 00:15:09,560
+ with its own screw, or the two piece abutment with a separate screw.
+
+165
+00:15:09,560 --> 00:15:14,680
+ So like I say here, the abutment is attached separately to the implant.
+
+166
+00:15:14,680 --> 00:15:19,920
+ The pros for this one are that there's no screw access hole, so it's typically better
+
+167
+00:15:19,920 --> 00:15:26,680
+ for anterior teeth and incisors, because now we don't have to worry about having a screw
+
+168
+00:15:26,680 --> 00:15:33,000
+ access hole in an aesthetic area that could compromise our final result.
+
+169
+00:15:33,000 --> 00:15:36,520
+ The big con is, well I guess there are two of them.
+
+170
+00:15:36,520 --> 00:15:42,760
+ Once it's cemented, it can't be removed unless it's physically cut off, and the one I have
+
+171
+00:15:42,760 --> 00:15:50,400
+ listed here, which is probably most frequently tested, is that cement may be trapped subgingivally.
+
+172
+00:15:50,400 --> 00:15:56,240
+ And so if it's trapped under the gingiva, it can cause peri implantitis.
+
+173
+00:15:56,240 --> 00:16:02,080
+ To remember that's essentially peridontal disease around an implant instead of around
+
+174
+00:16:02,080 --> 00:16:03,080
+ a tooth.
+
+175
+00:16:03,080 --> 00:16:04,080
+ So you have the same symptoms.
+
+176
+00:16:04,080 --> 00:16:10,000
+ You have gingiva inflammation and bone loss, and this is a big, big problem.
+
+177
+00:16:10,000 --> 00:16:15,400
+ And cement, a lot of research shows that cement can be a big cause of this.
+
+178
+00:16:15,400 --> 00:16:22,100
+ So that's a big negative, and typically why it's considered standard of care after placing
+
+179
+00:16:22,100 --> 00:16:28,480
+ a any implant, but particularly for cement retained implants, to take a periapical radiograph
+
+180
+00:16:28,480 --> 00:16:34,120
+ or a bite wing and so you can see if there's cement that was left over and not cleaned
+
+181
+00:16:34,120 --> 00:16:36,080
+ out after placement.
+
+182
+00:16:36,080 --> 00:16:41,080
+ All right, so those were the four components of implants.
+
+183
+00:16:41,080 --> 00:16:46,160
+ Now let's talk about one piece versus two piece implants.
+
+184
+00:16:46,160 --> 00:16:51,680
+ So the one piece implant, this is not to be confused with the one and two piece abutments,
+
+185
+00:16:51,680 --> 00:16:59,080
+ the one piece implant is where the implant body and the abutment are physically attached
+
+186
+00:16:59,080 --> 00:17:00,400
+ together.
+
+187
+00:17:00,400 --> 00:17:05,520
+ And so this whole component, now we don't even have an abutment screw, we just have the
+
+188
+00:17:05,520 --> 00:17:13,840
+ abutment and the implant combined together and they're drilled into bone as one unit.
+
+189
+00:17:13,840 --> 00:17:20,960
+ One way to, one helpful way to view the abutment component is as the quote unquote crown prep
+
+190
+00:17:20,960 --> 00:17:24,160
+ of this metal tooth.
+
+191
+00:17:24,160 --> 00:17:32,440
+ And it's like the metal crown prep that the implant crown will sit onto.
+
+192
+00:17:32,440 --> 00:17:37,200
+ And the problem with a one piece implant is that you cannot correct the angle between
+
+193
+00:17:37,200 --> 00:17:43,280
+ the two components because they're attached as one piece, whereas once an implant's placed
+
+194
+00:17:43,280 --> 00:17:50,520
+ and maybe you want to correct for an angulation error, you can purchase an abutment that has
+
+195
+00:17:50,520 --> 00:17:58,520
+ a certain angle built into it and so you can correct that post implant surgery.
+
+196
+00:17:58,520 --> 00:18:06,320
+ The two piece implant is much more common and the implant and the final abutment are
+
+197
+00:18:06,320 --> 00:18:08,840
+ a separate components.
+
+198
+00:18:08,840 --> 00:18:15,600
+ And so the final abutment and the crown are typically placed at the same appointment.
+
+199
+00:18:15,600 --> 00:18:21,180
+ Probably several weeks after the implant has been placed to allow the bone to heal and
+
+200
+00:18:21,180 --> 00:18:25,040
+ osteointegrate, which again we'll talk about a little bit later.
+
+201
+00:18:25,040 --> 00:18:30,760
+ And so once the abutment is in place, the crown can either be cemented on top, which
+
+202
+00:18:30,760 --> 00:18:36,720
+ is the cement retained or the crown, which includes the abutment are screwed together
+
+203
+00:18:36,720 --> 00:18:40,520
+ into the implant, which is the screw retained crown.
+
+204
+00:18:40,520 --> 00:18:47,200
+ All right, let's talk about that anti-rotation component that I mentioned before.
+
+205
+00:18:47,200 --> 00:18:51,920
+ And so the anti-rotation component can take several different forms.
+
+206
+00:18:51,920 --> 00:18:58,720
+ Here we see an internal hex, which is this is the top of the implant body and it has
+
+207
+00:18:58,720 --> 00:19:04,760
+ this index that's built into the inside of the implant so that when you place an abutment,
+
+208
+00:19:04,760 --> 00:19:11,560
+ it can only go in a certain amount of ways, it locks in like a lock and key so that once
+
+209
+00:19:11,560 --> 00:19:18,080
+ the abutment is fully seated, it can't spin around and rotate and rock back and forth.
+
+210
+00:19:18,080 --> 00:19:26,420
+ Here's an external hex, which shows a similar index, but this time this hexagon is going
+
+211
+00:19:26,420 --> 00:19:32,440
+ to lock into the abutment in this direction, this way the abutment is going to lock down
+
+212
+00:19:32,440 --> 00:19:34,280
+ into the implant body.
+
+213
+00:19:34,280 --> 00:19:42,240
+ So both of these are providing the same objective to prevent rotation of the abutment and to
+
+214
+00:19:42,240 --> 00:19:45,480
+ provide stabilization of the abutment.
+
+215
+00:19:45,480 --> 00:19:53,560
+ So essentially it's preventing spinning and preventing rocking back and forth of the abutment
+
+216
+00:19:53,560 --> 00:19:58,320
+ and spinning and rocking are very undesirable outcomes.
+
+217
+00:19:58,320 --> 00:20:05,400
+ So having this index to lock the various components together helps tremendously.
+
+218
+00:20:05,400 --> 00:20:13,720
+ And again, just to recapitulate this, the anti-rotation component can only be involved
+
+219
+00:20:13,720 --> 00:20:20,800
+ with the two piece abutments because the one piece abutment has to screw down as a conical,
+
+220
+00:20:20,800 --> 00:20:29,140
+ a uniformly conical shape, so it can afford to have this kind of locking hex mechanism.
+
+221
+00:20:29,140 --> 00:20:34,320
+ Alright this is another thing that I mentioned before and it's another great topic to talk
+
+222
+00:20:34,320 --> 00:20:37,880
+ about and this is the topic of integration.
+
+223
+00:20:37,880 --> 00:20:45,720
+ So osteo integration is a very desirable feature of titanium implants.
+
+224
+00:20:45,720 --> 00:20:53,360
+ The great thing about titanium and a bit more recently zirconium is its biocompatibility
+
+225
+00:20:53,360 --> 00:20:57,240
+ and the ability to osteo integrate with bone.
+
+226
+00:20:57,240 --> 00:21:05,680
+ So osteo integration refers to a direct structural and functional connection between ordered
+
+227
+00:21:05,680 --> 00:21:13,840
+ living bone and the surface of a load bearing artificial implant.
+
+228
+00:21:13,840 --> 00:21:21,040
+ So you usually want to check osteo integration before you place the final abutment and certainly
+
+229
+00:21:21,040 --> 00:21:27,840
+ the final crown so that no mobility would be an issue.
+
+230
+00:21:27,840 --> 00:21:33,480
+ Once an implant has properly osteo integrated it should not be mobile at all because it's
+
+231
+00:21:33,480 --> 00:21:40,480
+ directly structurally and functionally connected to that bone so it's not going to move around.
+
+232
+00:21:40,480 --> 00:21:46,920
+ On the opposite side of the coin fibrous integration means that we have a presence of fibrous tissue
+
+233
+00:21:46,920 --> 00:21:52,280
+ between the implant and the bone so there's going to be some mobility and this is a failure
+
+234
+00:21:52,280 --> 00:21:59,080
+ of osteo integration and therefore a failure of implant placement.
+
+235
+00:21:59,080 --> 00:22:06,440
+ So along with this concept of placing the implant we have primary and secondary stability.
+
+236
+00:22:06,440 --> 00:22:11,840
+ Secondary stability is when you first place the implant how well the screw threads lock
+
+237
+00:22:11,840 --> 00:22:15,640
+ into the bone that is already there.
+
+238
+00:22:15,640 --> 00:22:21,400
+ Secondary stability refers to osteo integration so after osteo integration occurs within a
+
+239
+00:22:21,400 --> 00:22:28,680
+ few weeks new bone is formed that locks into that titanium alloy.
+
+240
+00:22:28,680 --> 00:22:36,720
+ So in this helpful graph we start out here's the Y axis is stability from 0 to 100% and
+
+241
+00:22:36,720 --> 00:22:41,600
+ the X axis is showing weeks 1, 2, 3, 4 and so on.
+
+242
+00:22:41,600 --> 00:22:45,880
+ So we start out when we place the implant with very good primary stability we're just
+
+243
+00:22:45,880 --> 00:22:52,480
+ screwing like a screw into a block of wood we're screwing in that implant into bone so
+
+244
+00:22:52,480 --> 00:22:57,600
+ we start with really great primary stability then there's some resorption occurring and
+
+245
+00:22:57,600 --> 00:23:02,400
+ we have a stability dip before the secondary stability takes effect.
+
+246
+00:23:02,400 --> 00:23:07,360
+ So once we hit to around the four week mark then we start getting osteo integration so
+
+247
+00:23:07,360 --> 00:23:13,600
+ new bone is forming healing and is locking into that titanium alloy.
+
+248
+00:23:13,600 --> 00:23:21,160
+ So eventually that secondary stability with the new bone takes over from primary stability
+
+249
+00:23:21,160 --> 00:23:24,480
+ and creates a successful outcome.
+
+250
+00:23:24,480 --> 00:23:29,040
+ Now you can imagine if we don't have osteo integration we have fibrous integration that
+
+251
+00:23:29,040 --> 00:23:36,440
+ blue line never happens and then we just get more and more mobility and that implant will
+
+252
+00:23:36,440 --> 00:23:42,760
+ be spinning and rocking about and it would be a failure.
+
+253
+00:23:42,760 --> 00:23:49,720
+ So we have to talk about bone quality because not all bone is created equal and so in this
+
+254
+00:23:49,720 --> 00:23:54,120
+ list implant success rate goes from high to low.
+
+255
+00:23:54,120 --> 00:24:01,280
+ So from the type one bone is pictured here on the left this is dense cortical bone it
+
+256
+00:24:01,280 --> 00:24:07,720
+ provides the best primary stability but it does have some poor secondary stability due
+
+257
+00:24:07,720 --> 00:24:14,840
+ to poor blood supply but that initial bone is so nice and dense and provides a great amount
+
+258
+00:24:14,840 --> 00:24:17,240
+ of primary stability to work with.
+
+259
+00:24:17,240 --> 00:24:21,640
+ This is found in the anterior mandible region.
+
+260
+00:24:21,640 --> 00:24:26,360
+ And then we go to type two which is found in the posterior mandible.
+
+261
+00:24:26,360 --> 00:24:33,200
+ Type three is found in the anterior maxilla and type four bone is found in the posterior
+
+262
+00:24:33,200 --> 00:24:34,200
+ maxilla.
+
+263
+00:24:34,200 --> 00:24:42,840
+ So type four is soft, medullary bone has very poor primary stability and so if you get very
+
+264
+00:24:42,840 --> 00:24:48,480
+ poor primary stability right off the bat you're not going to have opportunity to create great
+
+265
+00:24:48,480 --> 00:24:53,060
+ secondary stability even though you might have a good blood supply.
+
+266
+00:24:53,060 --> 00:24:57,000
+ Now depending on what sources you look at some people might say well type two and type
+
+267
+00:24:57,000 --> 00:25:01,720
+ three are actually the best for implant success because you get a good balance of primary
+
+268
+00:25:01,720 --> 00:25:08,280
+ and secondary stability but I will say for the board exam know that type one is the best
+
+269
+00:25:08,280 --> 00:25:09,880
+ type four is the worst.
+
+270
+00:25:09,880 --> 00:25:14,800
+ In other words anterior mandible is the best place to place an implant posterior maxilla
+
+271
+00:25:14,800 --> 00:25:16,160
+ is the worst place.
+
+272
+00:25:16,160 --> 00:25:22,400
+ I've definitely seen these questions on the board exam absolutely so definitely know
+
+273
+00:25:22,400 --> 00:25:26,280
+ type one through type four and what regions are associated with.
+
+274
+00:25:26,280 --> 00:25:33,280
+ Oh here's another great slide I would put red text on this entire slide if I could because
+
+275
+00:25:33,280 --> 00:25:40,880
+ this is probably the most valuable information in this whole video for the board exam where
+
+276
+00:25:40,880 --> 00:25:48,380
+ to place an implant and what numbers to remember for staying away from certain structures and
+
+277
+00:25:48,380 --> 00:25:51,960
+ being careful where to place them.
+
+278
+00:25:51,960 --> 00:25:59,160
+ So when we place an implant we want to be at least or at minimum one millimeter away
+
+279
+00:25:59,160 --> 00:26:05,600
+ from the buckle plate, the lingual plate, the inferior border of the mandible, the maxilla
+
+280
+00:26:05,600 --> 00:26:13,200
+ berry sinus and the nasal cavity so when you place an implant let's say it's four millimeters
+
+281
+00:26:13,200 --> 00:26:19,480
+ wide we need to make sure there's at least one millimeter of bone buckle to that and one
+
+282
+00:26:19,480 --> 00:26:22,140
+ millimeter of bone lingual to that.
+
+283
+00:26:22,140 --> 00:26:26,640
+ So in other words for a five millimeter implant which is a little bit wider than what it should
+
+284
+00:26:26,640 --> 00:26:33,860
+ be that means with one millimeter buckle one millimeter lingual we would need a total buckle
+
+285
+00:26:33,860 --> 00:26:39,480
+ lingual dimension a buckle lingual width of seven millimeters.
+
+286
+00:26:39,480 --> 00:26:44,020
+ So they could ask that if you have an implant diameter of three millimeters how much buckle
+
+287
+00:26:44,020 --> 00:26:49,320
+ lingual width would you need and you need to know that you need five millimeters and that's
+
+288
+00:26:49,320 --> 00:26:52,520
+ coming just from knowing this number.
+
+289
+00:26:52,520 --> 00:26:59,200
+ From adjacent natural teeth another great question you need at least 1.5 millimeters of space
+
+290
+00:26:59,200 --> 00:27:05,760
+ between the implant and the adjacent tooth so this is another great question if you were
+
+291
+00:27:05,760 --> 00:27:12,920
+ placing an implant in number 30 and you had 29 and 31 to either side let's say the implant
+
+292
+00:27:12,920 --> 00:27:18,840
+ is three millimeters in diameter how much space mesiodistally would you need and so you'd
+
+293
+00:27:18,840 --> 00:27:25,040
+ need to know well I need 1.5 on the distal side 1.5 on the mesial side the implant takes
+
+294
+00:27:25,040 --> 00:27:30,280
+ up three millimeters so I would need six millimeters total things like that very simple
+
+295
+00:27:30,280 --> 00:27:35,740
+ math problems that all you need to do is recall these numbers here.
+
+296
+00:27:35,740 --> 00:27:41,160
+ We need to be two millimeters away from the inferior albial or nerve so we need at least
+
+297
+00:27:41,160 --> 00:27:46,800
+ two millimeters of space right here that's called the safety zone we need three millimeters
+
+298
+00:27:46,800 --> 00:27:54,280
+ of space between adjacent implants so for away from natural teeth this is one at least
+
+299
+00:27:54,280 --> 00:27:59,360
+ one point five millimeters of distance between two implants this needs to be at least three
+
+300
+00:27:59,360 --> 00:28:04,720
+ millimeters of distance might be a little bit close in this image and this one we definitely
+
+301
+00:28:04,720 --> 00:28:09,520
+ have at least three millimeters of space between those two implants which is good although
+
+302
+00:28:09,520 --> 00:28:13,840
+ you can see that it's right up against the inferior albial nerve which is not good we
+
+303
+00:28:13,840 --> 00:28:20,680
+ need at least two millimeters of space there and lastly we should be at least five millimeters
+
+304
+00:28:20,680 --> 00:28:29,200
+ away from the mental nerve or the mental frame and that's due to the anterior loop this nerve
+
+305
+00:28:29,200 --> 00:28:36,360
+ loops around before it enters the mental frame and so it can be deceiving because you
+
+306
+00:28:36,360 --> 00:28:41,160
+ might place the implant just anterior to the mental frame and but you still hit the nerve
+
+307
+00:28:41,160 --> 00:28:45,400
+ because it loops around anteriorly so we have to be at least five millimeters away from
+
+308
+00:28:45,400 --> 00:28:52,520
+ that structure so these are all really really important numbers to memorize absolutely I
+
+309
+00:28:52,520 --> 00:28:58,600
+ can't stress enough how important this slide is to memorize alright now that we're we're
+
+310
+00:28:58,600 --> 00:29:05,360
+ deep into the subject of surgery let's talk about one verse two stage surgeries so one
+
+311
+00:29:05,360 --> 00:29:13,960
+ stage surgery involves placing the implant and a healing abutment in one visit so the
+
+312
+00:29:13,960 --> 00:29:20,280
+ healing abutment or the cap is the healing cap is shown here and it sticks out of the
+
+313
+00:29:20,280 --> 00:29:27,480
+ gums essentially like an earring and an ear is the best way I can describe it and so that
+
+314
+00:29:27,480 --> 00:29:36,160
+ helps to sculpt and mold the soft tissues around the this implant healing abutment in
+
+315
+00:29:36,160 --> 00:29:41,040
+ order to frame the restoration appropriately so when it's time for the patient to come
+
+316
+00:29:41,040 --> 00:29:46,720
+ back you remove this temporary healing abutment and you put in the final abutment that soft
+
+317
+00:29:46,720 --> 00:29:54,440
+ tissue has a really nice collar and provides a great emergence profile for the implant
+
+318
+00:29:54,440 --> 00:30:02,040
+ the two stage surgery means that we place the implant with a cover screw which is a fin
+
+319
+00:30:02,040 --> 00:30:08,120
+ little disc that you you screw into the implant it's another temporary measure but this time
+
+320
+00:30:08,120 --> 00:30:13,480
+ we're covering it up with gums so the healing abutment sticks out of the gums this one is
+
+321
+00:30:13,480 --> 00:30:21,800
+ completely covered with a primary closure and it's a two stage surgery because the next
+
+322
+00:30:21,800 --> 00:30:26,960
+ time they come in we have to then open the gums and then place the abutment at the next
+
+323
+00:30:26,960 --> 00:30:32,440
+ visit and this could be either the temporary healing abutment shown here or that final
+
+324
+00:30:32,440 --> 00:30:40,040
+ abutment that we saw in the previous slides so why would we do two stage surgery because
+
+325
+00:30:40,040 --> 00:30:45,760
+ most patients would want to just have one surgery and be done with it well two stage
+
+326
+00:30:45,760 --> 00:30:52,720
+ can be beneficial for three main reasons I can think of if you have poor primary stability
+
+327
+00:30:52,720 --> 00:30:58,880
+ so say we're working in the posterior maxilla and we want to keep all occlusion off of it
+
+328
+00:30:58,880 --> 00:31:03,000
+ so we replace this cover screw and so we make sure that there are going to be no biting
+
+329
+00:31:03,000 --> 00:31:12,200
+ forces on the implant while it's healing and secondary stability is taking over the second
+
+330
+00:31:12,200 --> 00:31:17,860
+ reason would be if we need to place a graft so we'd want to close up the gums that the
+
+331
+00:31:17,860 --> 00:31:22,840
+ bone heals properly the third reason is that if we have a medically compromised patient
+
+332
+00:31:22,840 --> 00:31:29,320
+ so that immunocompromised or unstable diabetes from that contraindication slide so this technique
+
+333
+00:31:29,320 --> 00:31:34,760
+ would allow primary closure of the over the implant site which poses a less infection
+
+334
+00:31:34,760 --> 00:31:43,840
+ risk all right how about the impression so once healing is complete a final impression
+
+335
+00:31:43,840 --> 00:31:50,360
+ is made so that the crown and the abutment are properly oriented so we use what's called
+
+336
+00:31:50,360 --> 00:31:56,040
+ an impression coping which is used to transfer the location and angulation of the implant
+
+337
+00:31:56,040 --> 00:32:02,920
+ to a master cast here is the impression coping so you can imagine the implant has been screwed
+
+338
+00:32:02,920 --> 00:32:08,360
+ in maybe we did a one stage surgery we took out the healing abutment and now we're ready
+
+339
+00:32:08,360 --> 00:32:14,600
+ to take our impression or maybe we did a cover screw first now we opened that area up and
+
+340
+00:32:14,600 --> 00:32:22,360
+ we're ready to take an impression so the coping attaches into the implant in the mouth and
+
+341
+00:32:22,360 --> 00:32:29,080
+ allows you to record the angulation of the implant which without a set of 2D x-rays or
+
+342
+00:32:29,080 --> 00:32:35,200
+ a 3D x-ray we can't see the implant angulation once it's screwed in because well as you can
+
+343
+00:32:35,200 --> 00:32:40,080
+ see here it's surrounded by gums and bones so we can't see anything so we screw in this
+
+344
+00:32:40,080 --> 00:32:46,960
+ impression coping which allows us to see and which allows us to imagine where that implant
+
+345
+00:32:46,960 --> 00:32:54,800
+ is without any second guessing so this slide is totally beyond the scope of the board exam
+
+346
+00:32:54,800 --> 00:32:59,200
+ but I just wanted to include this information number one because I'm so excited about it
+
+347
+00:32:59,200 --> 00:33:05,320
+ but number two because I know a lot of you are really curious about implants so the open
+
+348
+00:33:05,320 --> 00:33:13,000
+ tray impression is when you physically drill a hole in the plastic impression tray so that
+
+349
+00:33:13,000 --> 00:33:20,880
+ you can once the impression is seated you can access the coping once the material sets
+
+350
+00:33:20,880 --> 00:33:25,840
+ so there's a hole in the impression tray we might put a little piece of cotton in this
+
+351
+00:33:25,840 --> 00:33:30,920
+ little tiny screw hole here so that we can access it without plugging in the impression
+
+352
+00:33:30,920 --> 00:33:37,040
+ material that polyvinyl siloxane getting set into that screw hole so we can go back and
+
+353
+00:33:37,040 --> 00:33:43,200
+ later once the material sets unscrew this coping from the implant and then there's
+
+354
+00:33:43,200 --> 00:33:51,560
+ a record of where that impression coping was so you can later seat it in that spot.
+
+355
+00:33:51,560 --> 00:33:59,440
+ The closed tray impression is when you take the impression like normal and then you remove
+
+356
+00:33:59,440 --> 00:34:07,440
+ the impression and then there's a little space in the impression material where that impression
+
+357
+00:34:07,440 --> 00:34:13,080
+ coping was so then you later would unscrew that impression coping and then seat it in
+
+358
+00:34:13,080 --> 00:34:19,400
+ the spot where it was on the impression so each technique has pros and cons and utilizes
+
+359
+00:34:19,400 --> 00:34:26,160
+ a different looking impression coping this is an open tray impression coping so once you
+
+360
+00:34:26,160 --> 00:34:31,160
+ have that impression you put a little pink stuff around the coping to block it out and
+
+361
+00:34:31,160 --> 00:34:36,640
+ represent the gingiva called the gingival melage then you screw this thing in which
+
+362
+00:34:36,640 --> 00:34:42,680
+ is called the analog into the coping you pour it up like any old impression and you get
+
+363
+00:34:42,680 --> 00:34:49,720
+ a master cast where the analog will essentially be in the exact same position embedded in
+
+364
+00:34:49,720 --> 00:34:56,760
+ that stone of the cast as the implant is in the mouth so the analog provides your precise
+
+365
+00:34:56,760 --> 00:35:04,880
+ replication of the implant positioned in the mouth so that's a very very cursory overlook
+
+366
+00:35:04,880 --> 00:35:11,680
+ at implant impressions just to introduce some of these concepts and terms.
+
+367
+00:35:11,680 --> 00:35:17,320
+ So socket preservation is something that we see in the oral surgery world and this is
+
+368
+00:35:17,320 --> 00:35:24,840
+ to maintain the height and width of the alveolar ridge after a tooth extraction.
+
+369
+00:35:24,840 --> 00:35:32,440
+ So the most important part about socket preservation is to have an atramatic extraction so we're
+
+370
+00:35:32,440 --> 00:35:40,960
+ shooting for potentially a simple extraction or a non-surgical extraction we're not breaking
+
+371
+00:35:40,960 --> 00:35:49,800
+ off the buckle plate of the extracted tooth we're limiting any sort of trauma to the area
+
+372
+00:35:49,800 --> 00:35:54,960
+ and then we do a lot of the same things we do following an extraction we irrigate that
+
+373
+00:35:54,960 --> 00:36:00,560
+ extraction site very thoroughly we remove granulation tissue with the curette but then
+
+374
+00:36:00,560 --> 00:36:07,640
+ we also place bone graft material and we like to cover that with a resorbable collagen membrane
+
+375
+00:36:07,640 --> 00:36:13,720
+ if you remember from the periodontic series that's some of the things that we talked about
+
+376
+00:36:13,720 --> 00:36:20,320
+ with a guided tissue regeneration is a similar process we want to regenerate the bone in that
+
+377
+00:36:20,320 --> 00:36:29,920
+ area to help fill in that socket but also to limit any bone loss in a buckle lingual
+
+378
+00:36:29,920 --> 00:36:39,720
+ or occlusal direction primary closure with this procedure is actually unnecessary.
+
+379
+00:36:39,720 --> 00:36:45,040
+ Biologic width this is something we I have a entire video just dedicated to the feral
+
+380
+00:36:45,040 --> 00:36:51,240
+ effect in biologic width but here it's a little bit different we're talking about the implant
+
+381
+00:36:51,240 --> 00:36:57,520
+ being placed into bone this surface that's contacting bone is roughened to help with osteo
+
+382
+00:36:57,520 --> 00:37:04,720
+ integration the smooth surface is contacting the soft tissue here the soft tissue collar
+
+383
+00:37:04,720 --> 00:37:11,240
+ and so the gingival fibers orient next to that implant in a parallel direction so it's
+
+384
+00:37:11,240 --> 00:37:19,080
+ parallel with the implant cuff and that's the area notated with the A here and so gingival
+
+385
+00:37:19,080 --> 00:37:25,400
+ fibers orient next to the implant parallel with the cuff and this could be asked on the
+
+386
+00:37:25,400 --> 00:37:31,560
+ board exam how the gingival fibers are oriented next to an implant the other important thing
+
+387
+00:37:31,560 --> 00:37:38,880
+ to note here is that the tooth has a periodontal ligament an implant does not have a periodontal
+
+388
+00:37:38,880 --> 00:37:45,080
+ ligament because it's directly contacting the alveolar bone so without periodontal ligament
+
+389
+00:37:45,080 --> 00:37:53,840
+ there's technically no peridontium so the implant is unique in that matter as well
+
+390
+00:37:53,840 --> 00:37:59,520
+ the surgical stent I also mentioned this earlier in the video this is referring to guided surgery
+
+391
+00:37:59,520 --> 00:38:06,880
+ so we have a stent made we place in the patient's mouth and this metal sleeve helps to guide
+
+392
+00:38:06,880 --> 00:38:12,600
+ the implant drill as we're drilling the hole and delivering the implant so the surgical
+
+393
+00:38:12,600 --> 00:38:20,040
+ stent can provide LAD for location, angulation and depth of placement to make sure any and
+
+394
+00:38:20,040 --> 00:38:26,720
+ all implants being placed are aligned properly with the surgical stent so it can help in that
+
+395
+00:38:26,720 --> 00:38:36,240
+ matter and finally we're going to talk about implant success and implant failure and the
+
+396
+00:38:36,240 --> 00:38:42,720
+ features that go along with each of those so the four main characteristics of implant
+
+397
+00:38:42,720 --> 00:38:49,360
+ success are that it's immobile and we talked about the fibrous integration having that fibrous
+
+398
+00:38:49,360 --> 00:38:54,720
+ layer in between the implant and bone and how that's not desirable because we want that
+
+399
+00:38:54,720 --> 00:39:02,880
+ bone to be fully osteo integrated and immobile there should be no peri implant radio lucency
+
+400
+00:39:02,880 --> 00:39:10,320
+ there should be or there will be rather some peri implant bone loss and particularly there's
+
+401
+00:39:10,320 --> 00:39:17,400
+ some initial bone loss that's to be expected but virtually no bone loss afterwards so less
+
+402
+00:39:17,400 --> 00:39:26,480
+ than 0.2 millimeters per year after the first year and then absence of symptoms namely pain
+
+403
+00:39:26,480 --> 00:39:35,240
+ infection, parastasia, those sorts of things so we should have no movement, no radio lucency,
+
+404
+00:39:35,240 --> 00:39:45,680
+ virtually no bone loss and no symptoms so therefore mobility, pain, radio lucency and peri implant
+
+405
+00:39:45,680 --> 00:39:52,960
+ bone loss would be all signs of implant failure, gram negative, anaerobic rods and filaments
+
+406
+00:39:52,960 --> 00:39:58,640
+ are often associated with implant failure, peri implant, tightus, those sorts of things
+
+407
+00:39:58,640 --> 00:40:05,360
+ and one more, I'm sorry, one more important number for the board exam, 47 degrees Celsius
+
+408
+00:40:05,360 --> 00:40:11,960
+ for one minute or 40 degrees Celsius for seven minutes is enough to compromise osteo integration
+
+409
+00:40:11,960 --> 00:40:18,000
+ so again, this goes back to one of those first slides I had to reduce the amount of heat generated
+
+410
+00:40:18,000 --> 00:40:24,280
+ with a sharp drill, copious irrigation and sequentially enlarging the osteotomy is so
+
+411
+00:40:24,280 --> 00:40:30,840
+ important because we don't want to compromise osteo integration before even the implant is
+
+412
+00:40:30,840 --> 00:40:38,840
+ placed alright so that's it for this very long video, thank you so much for watching everyone
+
+413
+00:40:38,840 --> 00:40:43,960
+ I really hope you enjoyed learning a little bit about the fascinating world of dental
+
+414
+00:40:43,960 --> 00:40:48,400
+ implants if you're interested in supporting the channel please check out my patreon
+
+415
+00:40:48,400 --> 00:40:53,680
+ page a huge thank you to michael raja and all of my patrons for their support you can
+
+416
+00:40:53,680 --> 00:41:00,360
+ unlock extras like access to these video slides to take notes on and additional practice questions
+
+417
+00:41:00,360 --> 00:41:05,080
+ for the board exam so go check that out the link will be in the description below thanks
+
+418
+00:41:05,080 --> 00:41:07,780
+ Thanks again for watching, I'll see you all in the next video.
+

@@ -1,0 +1,4372 @@
+1
+00:00:00,000 --> 00:00:05,960
+ Hi, class. Dr. Jim here. We're finally to the last chapter, chapter 25, in which we're
+
+2
+00:00:05,960 --> 00:00:10,360
+ going to look at the RNA viruses. And at the very end, talk a little bit about prions
+
+3
+00:00:10,360 --> 00:00:15,760
+ again and just bring those back up. But the last chapter, chapter 24, we discussed the
+
+4
+00:00:15,760 --> 00:00:20,960
+ DNA viruses and looked at a number of different viruses in that category. Today, what we're
+
+5
+00:00:20,960 --> 00:00:26,240
+ going to be studying is looking at the RNA viruses. And again, that's the main way of
+
+6
+00:00:26,240 --> 00:00:31,520
+ separation of the viruses, the DNA, versus the RNA. Structurally, they're very similar.
+
+7
+00:00:31,520 --> 00:00:36,040
+ Again, some have the envelope, the membrane around it. Some just have the capsid, which
+
+8
+00:00:36,040 --> 00:00:40,360
+ is the protein, okay, or all of them have the capsid, but again, some only have just
+
+9
+00:00:40,360 --> 00:00:45,620
+ the capsid and not the envelope. And again, the RNA is divided, the families are divided
+
+10
+00:00:45,620 --> 00:00:52,960
+ on how the RNA looks. Most of them are single-stranded. Some of them are going to be segmented single-stranded
+
+11
+00:00:52,960 --> 00:00:58,520
+ RNA. Some of them are just one piece of RNA, and some are even double-stranded RNA. And
+
+12
+00:00:58,520 --> 00:01:04,400
+ that's in the rheoviruses. Not a lot, but there are a couple that we will discuss today.
+
+13
+00:01:04,400 --> 00:01:07,880
+ In this chapter, we're going to be looking at things such as influenza. We're going to
+
+14
+00:01:07,880 --> 00:01:11,840
+ spend some time looking at HIV. And some of the other ones that you've probably been
+
+15
+00:01:11,840 --> 00:01:18,040
+ vaccinated for like measles, mumps, rubella, those are all different types of RNA viruses.
+
+16
+00:01:18,040 --> 00:01:23,200
+ We'll talk about the common cold, which is the rhino viruses. And then again, spend a
+
+17
+00:01:23,200 --> 00:01:26,720
+ little bit of time talking about prions and what they do. And those are different than
+
+18
+00:01:26,720 --> 00:01:32,320
+ viruses in looking at infectious protein particles. And so we'll look at that as well.
+
+19
+00:01:32,320 --> 00:01:36,960
+ So let's begin. We got a lot to discuss today. Get it over with. This will be the last chapter.
+
+20
+00:01:36,960 --> 00:01:41,280
+ And then we're done. So let's take a look. So again, we're going to be studying what
+
+21
+00:01:41,280 --> 00:01:45,320
+ are the RNA viruses of medical importance. And again, most of the viruses we're going
+
+22
+00:01:45,320 --> 00:01:49,400
+ to be looking at today are going to be the single-stranded variety. And again, we separate
+
+23
+00:01:49,400 --> 00:01:54,600
+ them based on if they're enveloped, non-enveloped, segmented, non-segmented kind of different
+
+24
+00:01:54,600 --> 00:01:57,840
+ things and look at these different types of things. The first one that we're going to
+
+25
+00:01:57,840 --> 00:02:03,520
+ look at is influenza. And that is an envelope segmented virus, meaning that the RNA is found
+
+26
+00:02:03,520 --> 00:02:08,960
+ in segments, different segments of division. The second group we're going to look at is
+
+27
+00:02:08,960 --> 00:02:13,640
+ the envelope, non-segmented RNA viruses. And again, now this case is one long strand
+
+28
+00:02:13,640 --> 00:02:18,640
+ of RNA with multiple genes on it. And it still has an envelope on the outside. And this includes
+
+29
+00:02:18,640 --> 00:02:24,160
+ things like measles, mumps, rubella. I think we also talk about RSV a little bit in here
+
+30
+00:02:24,160 --> 00:02:30,560
+ and a couple other diseases that we'll discuss. And then we'll get into the Abro viruses. The
+
+31
+00:02:30,560 --> 00:02:36,160
+ Abro viruses are ones that are transmitted by mosquitoes. And that includes things like
+
+32
+00:02:36,160 --> 00:02:41,400
+ West Nile. I don't have Zika virus in here, but that would be included in those yellow
+
+33
+00:02:41,400 --> 00:02:46,960
+ fevers, another one, some of the hemorrhagic ones, like then gave fever and things like
+
+34
+00:02:46,960 --> 00:02:51,720
+ that. So those are some of the Abro viruses that we were, or arboroviruses that we worry
+
+35
+00:02:51,720 --> 00:02:56,880
+ about. The next group are going to be the retroviruses. And the retroviruses are a separate
+
+36
+00:02:56,880 --> 00:03:02,440
+ family. And this includes HIV. So we're going to spend a little bit of time discussing HIV
+
+37
+00:03:02,440 --> 00:03:08,720
+ looking at the epidemiology, the effects, and some of the treatments for that. And then
+
+38
+00:03:08,720 --> 00:03:13,960
+ we'll spend a little bit of time looking at the non-enveloped viruses, RNA viruses, including
+
+39
+00:03:13,960 --> 00:03:19,600
+ the polio, hepatitis A, and the rhinoviruses, which are the common colds. And then finally,
+
+40
+00:03:19,600 --> 00:03:24,320
+ the very last virus, RNA virus we'll look at is the double-stranded RNA. And that includes
+
+41
+00:03:24,320 --> 00:03:31,000
+ the rheovirus and the rhodoviruses. And those are typically seen in viral diarrhea and that.
+
+42
+00:03:31,000 --> 00:03:35,720
+ So again, big problems, especially in other countries. Sometimes you hear about these
+
+43
+00:03:35,720 --> 00:03:40,520
+ viruses infecting cruise ships and then everyone on the cruise ship. You hear about these massive
+
+44
+00:03:40,520 --> 00:03:45,320
+ cases of diarrhea and that stuff. This is what we talk about these rhoda and rheoviruses
+
+45
+00:03:45,320 --> 00:03:51,960
+ that spread very easily through hand-to-hand contact or very easily from one person to another.
+
+46
+00:03:51,960 --> 00:03:56,000
+ The finally, to finish up today, we're going to be looking at are some of the infectious
+
+47
+00:03:56,000 --> 00:03:59,600
+ protein particles. We've already talked a little bit about that in the virus chapter
+
+48
+00:03:59,600 --> 00:04:04,280
+ and that's the pre-ons. I'll discuss a little bit more of how these things happen, how it
+
+49
+00:04:04,280 --> 00:04:09,440
+ occurs in nature and what happens when the protein gets inside of you and what changes
+
+50
+00:04:09,440 --> 00:04:14,840
+ and what causes this infection to occur. So we'll look at that as well. Okay, so we've
+
+51
+00:04:14,840 --> 00:04:19,600
+ got a lot on our plate today. So let's start with the influenza virus.
+
+52
+00:04:19,600 --> 00:04:25,200
+ All right, so again, the RNA viruses are a very diverse group of microbes and they're
+
+53
+00:04:25,200 --> 00:04:29,960
+ a sign of 1 to 12 families based on the envelope, the capsid, and the nature of the RNA. And
+
+54
+00:04:29,960 --> 00:04:34,200
+ we've already discussed some of those. Again, we're not going to cover all the RNA viruses,
+
+55
+00:04:34,200 --> 00:04:39,440
+ but there are some that I think are more important than others, again, based on infection rates
+
+56
+00:04:39,440 --> 00:04:45,080
+ and again, what you guys need to see, especially those going on to into medicine and looking
+
+57
+00:04:45,080 --> 00:04:49,920
+ at this with nurses and that stuff. And then, again, you're going to see that there's a
+
+58
+00:04:49,920 --> 00:04:56,280
+ lot more RNA viruses than DNA. DNA was primarily herpes. We talked about hepatitis B and we
+
+59
+00:04:56,280 --> 00:05:02,160
+ also looked at some of these other ones like the warts, the human papillomavirus.
+
+60
+00:05:02,160 --> 00:05:08,000
+ RNA viruses, more diverse, many more families, quite a few on there now. In my class, I don't
+
+61
+00:05:08,000 --> 00:05:12,320
+ want to expect them to know the difference between a negative sense and a positive sense.
+
+62
+00:05:12,320 --> 00:05:18,120
+ It all associates, do you have to make a copy of the RNA first? And can it be transcribed
+
+63
+00:05:18,120 --> 00:05:22,920
+ right away or translated right away? So that's the difference between a positive and negative
+
+64
+00:05:22,920 --> 00:05:27,280
+ and that. And I don't really get into that. Some of you that are taking this at another
+
+65
+00:05:27,280 --> 00:05:31,160
+ place or listening to me and taking another place, your instructor might expect you know
+
+66
+00:05:31,160 --> 00:05:35,360
+ the difference between a positive and negative strand. And again, a lot of that has to do
+
+67
+00:05:35,360 --> 00:05:40,800
+ with which one is red. So sense means which RNA is red, which one isn't red, positive
+
+68
+00:05:40,800 --> 00:05:45,640
+ is red, minus is not red and you have to go through a procedure to synthesize a new RNA
+
+69
+00:05:45,640 --> 00:05:51,920
+ to get to a positive strand. But again, that's the extent that I would ask anything on my
+
+70
+00:05:51,920 --> 00:05:57,760
+ type of test. This down here just shows you the typical way of going through the infection.
+
+71
+00:05:57,760 --> 00:06:03,520
+ Again, the virus has to get in so it uses the spikes to get into the cell. Once it gets
+
+72
+00:06:03,520 --> 00:06:07,760
+ into the cell, you have the encoding where the RNA is released and depending if you're
+
+73
+00:06:07,760 --> 00:06:12,920
+ positive or negative, that's where you either have to make a new strand or non new strand.
+
+74
+00:06:12,920 --> 00:06:18,640
+ RNA typically stays outside in the cytoplasm because it's already RNA and you have the
+
+75
+00:06:18,640 --> 00:06:22,680
+ ribosomes already there. So there's no need to go into the DNA. The only time that you
+
+76
+00:06:22,680 --> 00:06:26,960
+ do see it going into the nucleus again is if it's a positive negative strand. So if you're
+
+77
+00:06:26,960 --> 00:06:33,000
+ a positive sense, you are ready to go. If you're negative, you can just stay, you can
+
+78
+00:06:33,000 --> 00:06:37,920
+ stay in the nucleus. And so it kind of goes through and looking in there and figuring
+
+79
+00:06:37,920 --> 00:06:42,640
+ out and then again, building the proteins, the proteins get made. It takes off the cells
+
+80
+00:06:42,640 --> 00:06:51,360
+ and finally leaves the cells. So that's how the whole process goes. So let's take a look
+
+81
+00:06:51,360 --> 00:06:57,120
+ first at the influenza. These are called the ortho manixoviruses. So a big name for what
+
+82
+00:06:57,120 --> 00:07:01,520
+ we call influenza. And this is different than most of the other RNA viruses because it has
+
+83
+00:07:01,520 --> 00:07:07,000
+ segmented RNA, has an envelope on the outside and has a number of unique features to it.
+
+84
+00:07:07,000 --> 00:07:11,720
+ But the primarily what we're going to be talking about is influenza A type. Okay? And
+
+85
+00:07:11,720 --> 00:07:17,120
+ so we'll look at that. So again, there are three distinct influenza virus types, A, B,
+
+86
+00:07:17,120 --> 00:07:22,280
+ and C. And type A is the one that causes mostly infections. Here in this chart, you can see
+
+87
+00:07:22,280 --> 00:07:27,160
+ a list of the different types of strains or subtypes that we worry about. And you see
+
+88
+00:07:27,160 --> 00:07:33,680
+ the wonderful H and N. And H and N, stand, and we're going to talk about this is hemoglobin
+
+89
+00:07:33,680 --> 00:07:38,800
+ and neuroramidase. And those are the spikes that are on the virus. And again, those signal
+
+90
+00:07:38,800 --> 00:07:43,280
+ what type of strain or subtype it is. And so probably the last main one that a lot of
+
+91
+00:07:43,280 --> 00:07:49,440
+ people remember is H1N1. And that was the one the swine flu just recently in the last,
+
+92
+00:07:49,440 --> 00:07:54,520
+ I believe three or four years now. And so that was the last major pandemic that we had
+
+93
+00:07:54,520 --> 00:08:03,360
+ of a flu strain. And so again, the H1N1 stands for the type of hemoglobin and neuroramidase
+
+94
+00:08:03,360 --> 00:08:06,240
+ that's on there. And I'll talk about that here in a minute. But that's how we describe
+
+95
+00:08:06,240 --> 00:08:10,600
+ these different strains. And you can see here, here the spikes and it has two different spikes
+
+96
+00:08:10,600 --> 00:08:17,840
+ that interact with the cell receptors on the cell. Okay, again, how does the infection
+
+97
+00:08:17,840 --> 00:08:22,560
+ occur? The virus attaches to and multiplies in the cells of the respiratory track. And
+
+98
+00:08:22,560 --> 00:08:27,280
+ again, the segments of RNA enter into the nucleus and the finished viruses are assembled
+
+99
+00:08:27,280 --> 00:08:30,960
+ and bought off the cell. And it's basically the picture I just showed you not too long
+
+100
+00:08:30,960 --> 00:08:36,400
+ ago, how it comes in basically makes the new RNA and then leaves the cell. And while
+
+101
+00:08:36,400 --> 00:08:41,120
+ once you leave the cell, you now can go and infect more cells. And so typically the infection
+
+102
+00:08:41,120 --> 00:08:46,960
+ stays respiratory, not only the upper respiratory, but the lower respiratory can be affected.
+
+103
+00:08:46,960 --> 00:08:51,400
+ And what it does is it damages your normal cilia movement and that cilia movement makes
+
+104
+00:08:51,400 --> 00:08:55,680
+ it tougher to get things out. So a lot of times what you see with the flu are secondary
+
+105
+00:08:55,680 --> 00:09:00,040
+ infections that are caused by some of the bacteria that we harbor in our throats. And
+
+106
+00:09:00,040 --> 00:09:04,680
+ so that's the problem with flu. Flu itself doesn't necessarily kill people, even though
+
+107
+00:09:04,680 --> 00:09:09,600
+ you feel awful during it. It's a lot of times the secondary pneumonia that develops along
+
+108
+00:09:09,600 --> 00:09:14,600
+ with the flu that really knocks people out. And so that's what we're going to be talking
+
+109
+00:09:14,600 --> 00:09:19,600
+ a little bit about here in just a minute. Okay, so again, the two glycoproteins that
+
+110
+00:09:19,600 --> 00:09:26,680
+ are on the outside envelope of the flu virus or include hemaglutin, which is the H. And
+
+111
+00:09:26,680 --> 00:09:31,440
+ again, they're 15 different subtypes. And then the neuroramidase is the N and there's
+
+112
+00:09:31,440 --> 00:09:36,680
+ N and so what we always describe flu as as a combination of the H and N. And so you can
+
+113
+00:09:36,680 --> 00:09:42,480
+ have an H1 and 15 or N9 type of thing in any of those combinations. And that shows you
+
+114
+00:09:42,480 --> 00:09:47,320
+ how many different types of flu there really are out there and why you have to get vaccinated
+
+115
+00:09:47,320 --> 00:09:52,400
+ every year because these things can change very easily. Okay, both glycoproteins frequently
+
+116
+00:09:52,400 --> 00:09:57,720
+ undergo genetic changes, decreasing the effectiveness of immune response. And so one of the things
+
+117
+00:09:57,720 --> 00:10:04,720
+ that makes flu really tough to vaccinate and look out for is that it changes very quickly.
+
+118
+00:10:04,720 --> 00:10:11,240
+ It is a fast mutation has a very fast mutation rate can change very quickly. And so when a
+
+119
+00:10:11,240 --> 00:10:15,800
+ person gets infected with one flu, it may mutate inside of them and when they pass the
+
+120
+00:10:15,800 --> 00:10:20,680
+ flu on to someone else, it may be a completely different subtype in that in that sense. And
+
+121
+00:10:20,680 --> 00:10:25,280
+ that's kind of the scary thing about flu and why sometimes the vaccine works really,
+
+122
+00:10:25,280 --> 00:10:29,920
+ really well because typically it works well and it kills all the flu or you know, it prevents
+
+123
+00:10:29,920 --> 00:10:36,680
+ you from getting the flu. Other times it works very poorly. Now back in 2015, the flu vaccine
+
+124
+00:10:36,680 --> 00:10:41,040
+ did not work very well. I think it was only effective in about 23% of the population and
+
+125
+00:10:41,040 --> 00:10:44,800
+ that's because they have to kind of figure out what are going to be the strains are going
+
+126
+00:10:44,800 --> 00:10:49,520
+ to be effective. Well, that's six months in advance. Flu can go through a number of changes
+
+127
+00:10:49,520 --> 00:10:53,240
+ and then by the time that the flu hits the United States and they figure out, oh, we've
+
+128
+00:10:53,240 --> 00:10:57,280
+ been vaccinating these people with this these strains, it could be a completely different
+
+129
+00:10:57,280 --> 00:11:02,840
+ strain and that the flu vaccine ends up being ineffective. Sometimes like this year with
+
+130
+00:11:02,840 --> 00:11:09,280
+ 2015, 2016, the flu vaccine worked really, really well and they actually got got the right
+
+131
+00:11:09,280 --> 00:11:13,920
+ combinations. And so you didn't see a lot of talk about flu this year in the United States.
+
+132
+00:11:13,920 --> 00:11:18,440
+ Now, in other countries, I'm not sure what the numbers were or anything else like that.
+
+133
+00:11:18,440 --> 00:11:23,400
+ But in the United States, the flu rates were down quite a bit this year and that was due
+
+134
+00:11:23,400 --> 00:11:28,940
+ to the high success rate or the high protection rate of the vaccine. And again, because flu
+
+135
+00:11:28,940 --> 00:11:34,680
+ changes so quickly and new takes so quickly, it doesn't give your body enough to keep going
+
+136
+00:11:34,680 --> 00:11:40,040
+ and using the same flu vaccine. That's why every year you have to get a new vaccine because
+
+137
+00:11:40,040 --> 00:11:45,240
+ it does change so much. And so that's one of the problems with flu. So, and again, sometimes
+
+138
+00:11:45,240 --> 00:11:50,680
+ it's a guessing game and how well it's going to work. All right. Now, again, I talked about
+
+139
+00:11:50,680 --> 00:11:56,000
+ mutation and again, flu has a very fast mutation and we've talked about this constant mutation
+
+140
+00:11:56,000 --> 00:12:00,600
+ as known as antigenic drift, meaning that it changes very quickly that the antigens that
+
+141
+00:12:00,600 --> 00:12:05,680
+ are on the outside of the flu, the receptors, the HNN can change very, very quickly and mutate
+
+142
+00:12:05,680 --> 00:12:10,920
+ and change and then it can go on to another person and be a completely different subtype.
+
+143
+00:12:10,920 --> 00:12:17,200
+ That change or gradual change in the flu is called antigenic drift. Okay. So the change
+
+144
+00:12:17,200 --> 00:12:22,880
+ over time. The antigenic shift is when now you have two or more flu viruses that mix
+
+145
+00:12:22,880 --> 00:12:28,760
+ together into one. And the example of this is the H1N1. Now, the H1N1 was a unique type
+
+146
+00:12:28,760 --> 00:12:34,240
+ of strain because what happened was, is that originally was in pigs. It was a swine flu
+
+147
+00:12:34,240 --> 00:12:39,160
+ that was then passed in humans. And so, flu can go from one organism to another and change
+
+148
+00:12:39,160 --> 00:12:44,640
+ and sometimes they mix together. So human flu strains can mix together with bird flu
+
+149
+00:12:44,640 --> 00:12:50,440
+ or, or pig flu or some of these other flu varieties out there and now really makes a
+
+150
+00:12:50,440 --> 00:12:55,440
+ dangerous combination. And when that happens, we call that an antigenic shift. And so again,
+
+151
+00:12:55,440 --> 00:13:02,760
+ it can change very quickly. It takes RNA from another strain strand of flu and so it really
+
+152
+00:13:02,760 --> 00:13:06,720
+ can cause serious problems. And that's why we're so worried about bird flu. When you
+
+153
+00:13:06,720 --> 00:13:10,560
+ hear about all they had to kill millions of chickens like they did last year and here
+
+154
+00:13:10,560 --> 00:13:15,240
+ in Wisconsin and other parts of the Midwest. It's because a lot of the birds got this bird
+
+155
+00:13:15,240 --> 00:13:18,840
+ flu. And what they're worried about was that this would jump to people. And if it jumped
+
+156
+00:13:18,840 --> 00:13:23,600
+ to people, this could be really scary. It could wipe out a lot of people very quickly. And
+
+157
+00:13:23,600 --> 00:13:27,920
+ that because one, we don't have the protection that we do with the human flu, a lot of people
+
+158
+00:13:27,920 --> 00:13:32,360
+ would get really, really sick and probably die from it. And so that's the scary thing.
+
+159
+00:13:32,360 --> 00:13:36,640
+ And that's why we have to watch out for those things when they do our found in other animals
+
+160
+00:13:36,640 --> 00:13:41,560
+ and hear about these different strains that it can jump to other other things and jump
+
+161
+00:13:41,560 --> 00:13:45,560
+ into humans. And that's the scary thing. Now one that's going around right now, I know
+
+162
+00:13:45,560 --> 00:13:50,280
+ in the Chicago area is the dog flu. And you might be hearing a little bit about that where
+
+163
+00:13:50,280 --> 00:13:55,000
+ a lot of these dogs are getting sick with the flu and that stuff. Now this one tends
+
+164
+00:13:55,000 --> 00:13:59,320
+ not to jump to humans. So we don't worry so much about that. But obviously it can be
+
+165
+00:13:59,320 --> 00:14:04,640
+ a very serious consequence to dogs. And so if your dog does experience any flu-like symptoms
+
+166
+00:14:04,640 --> 00:14:09,040
+ and again, it's a lot like what humans see, you know, you get the coughing, the sneezing,
+
+167
+00:14:09,040 --> 00:14:12,960
+ high temperature, those things associated with it and you want to take your dog into
+
+168
+00:14:12,960 --> 00:14:17,360
+ the vet very quickly because this could turn out to be very serious. And so there is a
+
+169
+00:14:17,360 --> 00:14:22,600
+ vaccine for dogs as well out there. So if you are worried, I'll talk to your vet and
+
+170
+00:14:22,600 --> 00:14:27,040
+ you may be vaccinated, especially if you take your dogs to dog parks and other places where
+
+171
+00:14:27,040 --> 00:14:31,960
+ you get a mixing of dogs together, flu moves very easily through people, through contact,
+
+172
+00:14:31,960 --> 00:14:37,560
+ same thing with dogs. So again, just something to just be aware of. Okay. So that's a lot
+
+173
+00:14:37,560 --> 00:14:41,580
+ about the flu and the difference between antigenic drift and the shift. The shift is
+
+174
+00:14:41,580 --> 00:14:47,320
+ to be basically when you mix two different, totally different viruses together and create
+
+175
+00:14:47,320 --> 00:14:54,000
+ a new strand of virus. All right. So obviously influenza A, this is the one we're going to
+
+176
+00:14:54,000 --> 00:14:58,160
+ be talking about most. It's acute, highly contagious respiratory illness. And as soon
+
+177
+00:14:58,160 --> 00:15:03,080
+ as one person gets it, it seems to spread to about five other people right away spreads
+
+178
+00:15:03,080 --> 00:15:09,220
+ very easily through water droplets in the air. It has seasonal pandemics. Again, very
+
+179
+00:15:09,220 --> 00:15:13,360
+ easily, you can see the numbers go up in the winter time and then go down. And the reason
+
+180
+00:15:13,360 --> 00:15:17,680
+ for that is obviously people are closer together in the winter. And that's why you see these
+
+181
+00:15:17,680 --> 00:15:22,720
+ more often when people are closer together in close quarters, breathing in the same air.
+
+182
+00:15:22,720 --> 00:15:27,920
+ Okay. It is a top 10 killer in the United States. And again, it's typically seen in
+
+183
+00:15:27,920 --> 00:15:32,040
+ the elderly and small children. And that's again, the immune effects. And I would say
+
+184
+00:15:32,040 --> 00:15:37,880
+ that along with the flu, it is the respiratory problems, the bacterial pneumonia that developed
+
+185
+00:15:37,880 --> 00:15:42,560
+ that is the secondary consequence. And the secondary infection that leads to most of
+
+186
+00:15:42,560 --> 00:15:46,760
+ the deaths is not flu itself, but other things that lead to it in the pneumonia and other
+
+187
+00:15:46,760 --> 00:15:52,240
+ things that can develop. What it does is advise the affiliated cells of the respiratory mucosa
+
+188
+00:15:52,240 --> 00:15:56,760
+ causes a rapid shedding of cells stripping the silio away from the respiratory. And so
+
+189
+00:15:56,760 --> 00:16:02,280
+ again, you get severe inflammation of the respiratory system, making it tougher to breathe. Feeling
+
+190
+00:16:02,280 --> 00:16:06,480
+ like you're constricting right away. And again, allows for these other things that are already
+
+191
+00:16:06,480 --> 00:16:11,440
+ living in us to go down and cause infection, because now our immune systems are weakened.
+
+192
+00:16:11,440 --> 00:16:14,360
+ Part of the difference between colds and flu is, and we're going to look at this later
+
+193
+00:16:14,360 --> 00:16:20,520
+ on when we talk about colds, is that you get a high fever with flu, headache, Malaysia,
+
+194
+00:16:20,520 --> 00:16:27,240
+ which is just an overall tiredness, fear and geo pain, shortness of breath and coughing
+
+195
+00:16:27,240 --> 00:16:30,520
+ and all associated. And really, you know, when you have the flu, it's different than
+
+196
+00:16:30,520 --> 00:16:34,480
+ a cold because you just feel like you're at death's end, that you're just kind of wiped
+
+197
+00:16:34,480 --> 00:16:40,000
+ out. And you just, you heard all over. It's just not one of those things. A cold is typically
+
+198
+00:16:40,000 --> 00:16:45,240
+ up in your head. A lot of times, you know, the sneezing, the coughing and that not a lot
+
+199
+00:16:45,240 --> 00:16:51,920
+ of fever associated with flu is just the whole body aches, fever, you know, coughing, sneezing,
+
+200
+00:16:51,920 --> 00:16:56,720
+ sometimes associated with this, tightness in the chest, maybe a secondary pneumonia develops
+
+201
+00:16:56,720 --> 00:17:02,120
+ types of those. And again, we can host defenses, then sets patients up for the secondary infections,
+
+202
+00:17:02,120 --> 00:17:06,480
+ especially pneumonia. So a lot of times you see someone really gets hit by the flu, they'll
+
+203
+00:17:06,480 --> 00:17:11,560
+ develop a secondary infection. This is why in children and elderly patients, this can
+
+204
+00:17:11,560 --> 00:17:16,640
+ be very deadly in that, if it's sped, especially if it gets into like a nursing home situation,
+
+205
+00:17:16,640 --> 00:17:21,080
+ where you have lots of close contact, people are already sick with other things. And now
+
+206
+00:17:21,080 --> 00:17:26,760
+ that thing can spread and really take a bite out of the nursing home population. So that's,
+
+207
+00:17:26,760 --> 00:17:32,360
+ that's a scary thing to think about when flu comes around. Okay, diagnosis treatment and
+
+208
+00:17:32,360 --> 00:17:37,720
+ prevention. Again, there are some rapid immunofluorescence tests to detect the antigens and the type
+
+209
+00:17:37,720 --> 00:17:43,520
+ of virus that you have. To control it, there are some antiviral drugs out there, including
+
+210
+00:17:43,520 --> 00:17:49,000
+ Relenza and Tamiflu. However, the, the period of when you can take those is short. So you
+
+211
+00:17:49,000 --> 00:17:53,160
+ have to know you got infected with the flu and you have to just start feeling the symptoms.
+
+212
+00:17:53,160 --> 00:17:56,880
+ When you first start feeling the symptoms, that's when you have to take it. It does
+
+213
+00:17:56,880 --> 00:18:01,080
+ you know good if you take it out. Let's say you'd say your neighbor has the flu and you
+
+214
+00:18:01,080 --> 00:18:04,600
+ just say, I'm going to take some Tamiflu so I don't get it. I'm not going to help you
+
+215
+00:18:04,600 --> 00:18:09,720
+ anymore. And then the other thing is, is that once you get it and maybe you got severe,
+
+216
+00:18:09,720 --> 00:18:14,360
+ you know, severe symptoms, again, it's really not going to do any good. It might lessen
+
+217
+00:18:14,360 --> 00:18:18,480
+ the symptoms maybe for a day or two, but it really doesn't do you much good once you
+
+218
+00:18:18,480 --> 00:18:24,240
+ have a full blown infection going on at that time. Again, flu virus has developed a high
+
+219
+00:18:24,240 --> 00:18:29,800
+ rate of resistance to some of these different drugs, including the endomatidine and the
+
+220
+00:18:29,800 --> 00:18:34,520
+ endomatidine and that stuff. So again, sometimes those aren't effective. And again, typically
+
+221
+00:18:34,520 --> 00:18:38,760
+ what you see is an annual trivalent vaccine. And if you're going into the medical field,
+
+222
+00:18:38,760 --> 00:18:43,360
+ a lot of times the hospitals and the doctors you work for will require you to take it.
+
+223
+00:18:43,360 --> 00:18:47,680
+ So it's part of your job description that you have to take it. Now, why is it a trivalent?
+
+224
+00:18:47,680 --> 00:18:52,000
+ A lot of times what they do is they throw in at least three different subtypes of virus
+
+225
+00:18:52,000 --> 00:18:57,160
+ in there because again of the mutation, the antigenic drift that goes on. And so a lot
+
+226
+00:18:57,160 --> 00:19:02,680
+ of times they won't just speculate and say one, one virus, but say three viruses. Sometimes
+
+227
+00:19:02,680 --> 00:19:06,840
+ it can be up to five in those things and depending on it. And I know the last couple of years
+
+228
+00:19:06,840 --> 00:19:12,840
+ they've also included the H1N1 as just a precaution because that has gone around and spread to
+
+229
+00:19:12,840 --> 00:19:18,280
+ a lot of people. And so that that one is there. I will say that I highly recommend doing this.
+
+230
+00:19:18,280 --> 00:19:23,200
+ I myself, even though I'm not in the medical field, I do teach classes, but I know a lot
+
+231
+00:19:23,200 --> 00:19:27,680
+ of you guys coming into my classes do have little kids. They get the flu. You guys could
+
+232
+00:19:27,680 --> 00:19:31,960
+ spread it and I can't be out for weeks and weeks and weeks obviously. So I try and keep
+
+233
+00:19:31,960 --> 00:19:36,720
+ myself healthy and that and I do get the vaccine. I think it's perfectly safe. There are some
+
+234
+00:19:36,720 --> 00:19:42,640
+ people that do suffer from some immune or flu-like symptoms. And again, that is because your immune
+
+235
+00:19:42,640 --> 00:19:48,280
+ system is recognizing the virus and then going through the process of that primary response.
+
+236
+00:19:48,280 --> 00:19:52,120
+ And sometimes that primary response will give you some symptoms that feel like you have
+
+237
+00:19:52,120 --> 00:19:56,920
+ the flu and that's part of the natural cause. Most of the time though, most people have
+
+238
+00:19:56,920 --> 00:20:00,880
+ just soreness in the arm, maybe in the armpit because of the flu draining into the lymph
+
+239
+00:20:00,880 --> 00:20:05,760
+ nodes and that. But otherwise, it's only a couple days and then you get over it. One
+
+240
+00:20:05,760 --> 00:20:11,120
+ nice thing, even if it isn't as effective like it was last year, it does help lessen
+
+241
+00:20:11,120 --> 00:20:15,960
+ the symptoms. And so you might still get the flu, but your overall health and that stuff
+
+242
+00:20:15,960 --> 00:20:20,480
+ might be better improved and the symptoms might not be as bad because you did have the
+
+243
+00:20:20,480 --> 00:20:27,360
+ vaccine because your body can kind of respond to it already very early. And so again, typically
+
+244
+00:20:27,360 --> 00:20:32,200
+ what you can do when you get the flu is ease the flu symptoms. And again, the good hygiene
+
+245
+00:20:32,200 --> 00:20:37,280
+ and good practice and that stuff, that's the best way to avoid a wash in your hands, especially
+
+246
+00:20:37,280 --> 00:20:42,120
+ when you come in contact with things and that stuff. But that's the biggest thing is, again,
+
+247
+00:20:42,120 --> 00:20:46,000
+ remember, flu can be spread everywhere and just keeping yourself healthy, that's the
+
+248
+00:20:46,000 --> 00:20:53,060
+ biggest thing. Okay, so again, which of these happen in case of the antigenic shift of influenza
+
+249
+00:20:53,060 --> 00:20:58,640
+ A? Single mutations in the hemoglutinin, recombination of RNA segments between bird
+
+250
+00:20:58,640 --> 00:21:04,520
+ and human strains, a change from influenza A to B, or both and B. What happens when we
+
+251
+00:21:04,520 --> 00:21:10,680
+ talk about antigenic shift? Okay, now the shift remember is when two strains come together.
+
+252
+00:21:10,680 --> 00:21:16,280
+ And so the idea is the recombination of RNA segments between bird and human strains. And
+
+253
+00:21:16,280 --> 00:21:20,240
+ so that's the one we really worry about is when you get a whole new strain, when you
+
+254
+00:21:20,240 --> 00:21:23,920
+ get a combination of two, that's why we worry about the bird flu and things like this is
+
+255
+00:21:23,920 --> 00:21:29,000
+ those things can come together and form a new deadly strain of human flu. So the single
+
+256
+00:21:29,000 --> 00:21:34,280
+ mutations in the hemoglutinin is a drift, okay, that's that slow change over a period
+
+257
+00:21:34,280 --> 00:21:40,040
+ of time, whereas the recombination of two strains, that's the shift. Okay, good job if you got
+
+258
+00:21:40,040 --> 00:21:45,440
+ it right. All right, so let's move on to the envelope non segment, single stranded RNA
+
+259
+00:21:45,440 --> 00:21:49,680
+ viruses, and there's quite a few in this group. A lot of them that you probably have heard
+
+260
+00:21:49,680 --> 00:21:56,000
+ of is measles, rubella, you may have heard about rabies, obviously, and then hepatitis
+
+261
+00:21:56,000 --> 00:21:59,560
+ C. But there's a number of different ones that are out there. These are the names of
+
+262
+00:21:59,560 --> 00:22:05,520
+ the viruses or the family of viruses and include the paramexoviruses, the rabbit oviruses, the
+
+263
+00:22:05,520 --> 00:22:10,880
+ corona viruses, the toga viruses, and the flaviviruses. And so all these different viruses
+
+264
+00:22:10,880 --> 00:22:15,480
+ out there can cause disease. Again, we talk about these different things. Hepatitis C
+
+265
+00:22:15,480 --> 00:22:21,240
+ is very scary because it can lead to, again, severe liver problems and then we talked about
+
+266
+00:22:21,240 --> 00:22:27,200
+ hepatitis B already, but C is even worse than the B in that case in causing symptoms and
+
+267
+00:22:27,200 --> 00:22:34,080
+ that measles, mumps, and rubella, which are part of the MMR vaccine. If you have it, you're
+
+268
+00:22:34,080 --> 00:22:38,400
+ protected. But again, we've seen increases of these things going, especially in those
+
+269
+00:22:38,400 --> 00:22:44,040
+ that haven't been vaccinated. Rabies is associated with wild animals. We'll talk a little bit
+
+270
+00:22:44,040 --> 00:22:48,800
+ about that. And SARS is one of those that came out about 15 years ago. We haven't heard
+
+271
+00:22:48,800 --> 00:22:52,800
+ much since. There have been a few outbreaks here and there, but it hasn't been one that
+
+272
+00:22:52,800 --> 00:22:59,440
+ has been this major outbreak or pandemic. We were really worried back in 2002, 2003, when
+
+273
+00:22:59,440 --> 00:23:04,440
+ the spread through a lot of different countries, but it really died off quickly once we isolated
+
+274
+00:23:04,440 --> 00:23:08,440
+ people. And we didn't really see much. But again, we'll talk about all these things.
+
+275
+00:23:08,440 --> 00:23:13,360
+ Now, all of them have an envelope and they all have a single stranded RNA on the inside.
+
+276
+00:23:13,360 --> 00:23:18,200
+ That's non-segmented. Okay. So again, the paramix of viruses includes the mumps, the
+
+277
+00:23:18,200 --> 00:23:24,040
+ measles, and the RSV or respiratory syncytia virus, which can be pretty nasty, especially
+
+278
+00:23:24,040 --> 00:23:28,840
+ to very, very young kids. These are all spread through respiratory transmission. They have
+
+279
+00:23:28,840 --> 00:23:33,880
+ an envelope, has a glycoprotein, and F spikes that initiate cell-to-cell fusion. So you
+
+280
+00:23:33,880 --> 00:23:38,800
+ end up getting these, what are called these giant cells. And then the easiest, easiest
+
+281
+00:23:38,800 --> 00:23:43,800
+ is spread from one cell to another because these giant cells form with these viruses.
+
+282
+00:23:43,800 --> 00:23:48,200
+ And so again, fusion with the neighboring cells caused the multinucleate giant cells
+
+283
+00:23:48,200 --> 00:23:53,880
+ to form. And that's one of the signs to look for when you see these types of infections
+
+284
+00:23:53,880 --> 00:23:58,600
+ going on. Now, mumps will be the first one that we talk about. Again, humans are the only
+
+285
+00:23:58,600 --> 00:24:04,760
+ reservoir, and about 40% of the infections are subclinical and lead to a lifelong immunity
+
+286
+00:24:04,760 --> 00:24:10,040
+ or long-term immunity. There's roughly 300 cases in the United States, but most of us
+
+287
+00:24:10,040 --> 00:24:14,200
+ are vaccinated. And if you're vaccinated for it, you are protected. Most of the time we
+
+288
+00:24:14,200 --> 00:24:19,200
+ hear this is someone that hasn't been vaccinated, or they weren't vaccinated correctly. And
+
+289
+00:24:19,200 --> 00:24:24,440
+ so that leads them to the process of getting this infection. Incubation Committee, we're
+
+290
+00:24:24,440 --> 00:24:29,520
+ from two to three weeks. It includes fever, muscle pain, malaise, classic swelling, or
+
+291
+00:24:29,520 --> 00:24:34,640
+ one of both cheeks. And so that's the clear sign of mumps, is that you get the swelling
+
+292
+00:24:34,640 --> 00:24:41,520
+ of the prada glands in the cheeks. And so that causes that swelling to occur. It's those
+
+293
+00:24:41,520 --> 00:24:46,560
+ glands in the celebratory glands and that stuff in there. And so that's what you see
+
+294
+00:24:46,560 --> 00:24:52,280
+ in those cases. And that's why mumps is very distinctive. Again, it's usually uncomplicated
+
+295
+00:24:52,280 --> 00:24:58,680
+ invasion of other organs. In 23rd or 30% of infected adult males, the epidemic's intestines
+
+296
+00:24:58,680 --> 00:25:03,000
+ can be infected and it can cause swelling. It could lead to sterility, but that is in
+
+297
+00:25:03,000 --> 00:25:09,960
+ a rare case. And again, symptomatic treatment, meaning that again, treating of the symptoms,
+
+298
+00:25:09,960 --> 00:25:14,860
+ and then there is the live attenuated vaccine. And so again, associated with mumps is the
+
+299
+00:25:14,860 --> 00:25:19,560
+ painful swelling of the prada salivary glands. Okay, so you get the swelling of the cheeks,
+
+300
+00:25:19,560 --> 00:25:24,480
+ kind of the chipmunk cheeks, associated with the mumps. Okay, measles is another one. And
+
+301
+00:25:24,480 --> 00:25:29,760
+ this is the morbidia virus. And it's also known as the red measles rubola. It's different
+
+302
+00:25:29,760 --> 00:25:34,600
+ than the rubella. So we're going to look at that in a minute with the German measles.
+
+303
+00:25:34,600 --> 00:25:39,280
+ It's very contagious and it's transmitted by respiratory aerosols. Humans are the only
+
+304
+00:25:39,280 --> 00:25:45,400
+ reservoir in there, typically only less than 100 cases a year in the United States. However,
+
+305
+00:25:45,400 --> 00:25:49,840
+ people wide outside the United States where vaccinations haven't taken place, you see
+
+306
+00:25:49,840 --> 00:25:54,920
+ a lot more deaths associated with this. Down here is the two forms and measles. You have
+
+307
+00:25:54,920 --> 00:25:58,760
+ the rubola and the rubella. And again, these are the two different types. We're going
+
+308
+00:25:58,760 --> 00:26:04,200
+ to be talking about these things and what can happen. Okay, the last major outbreak
+
+309
+00:26:04,200 --> 00:26:09,200
+ that we had in the United States was 2015. And this was the cases that started in Disneyland.
+
+310
+00:26:09,200 --> 00:26:15,480
+ So this is right around Christmas time last year. And what happened was is that a family
+
+311
+00:26:15,480 --> 00:26:21,120
+ had a child that was sick. They went to Disneyland and that spread to other children who left
+
+312
+00:26:21,120 --> 00:26:25,240
+ Disneyland and went across the country and it spread to form a number of cases throughout
+
+313
+00:26:25,240 --> 00:26:31,480
+ the United States. Approximately had about 130 cases, which is abnormal. And again, the
+
+314
+00:26:31,480 --> 00:26:38,040
+ real reason for this was because those kids that were infected were those that were non-immunized.
+
+315
+00:26:38,040 --> 00:26:43,560
+ And so again, the ones that were immunized were perfectly safe. No one that was immunized
+
+316
+00:26:43,560 --> 00:26:49,480
+ to it got sick. It was those that their families chose them not to be immunized or they couldn't
+
+317
+00:26:49,480 --> 00:26:53,280
+ be immunized. Now, there is that situation where some children are just so sick to begin
+
+318
+00:26:53,280 --> 00:26:57,920
+ with they can't be immunized or they have some other issues that they can't be immunized.
+
+319
+00:26:57,920 --> 00:27:02,120
+ And that puts them at risk. So if we talk about that herd mentality and that protecting
+
+320
+00:27:02,120 --> 00:27:06,520
+ those that can't be immunized, that's the reason why we want to immunize as many people
+
+321
+00:27:06,520 --> 00:27:10,600
+ as possible to protect those that can't be immunized. And so that's where this problem
+
+322
+00:27:10,600 --> 00:27:16,240
+ started is that it's spread through people that chose not to be immunized and that spread
+
+323
+00:27:16,240 --> 00:27:21,160
+ it to ones that couldn't be immunized. And so that's the scary thing. And so again, we'll
+
+324
+00:27:21,160 --> 00:27:25,360
+ look at the other types of measles here in just a moment, but this is just one of those
+
+325
+00:27:25,360 --> 00:27:31,960
+ things. Here is the Robola. So you get the very typical spotted rash that's associated
+
+326
+00:27:31,960 --> 00:27:37,640
+ with this and again, very contagious spreading throughout. Now, another thing that you see
+
+327
+00:27:37,640 --> 00:27:43,000
+ with the, with the measles is that you get the sore throat, dry cough, and you get these
+
+328
+00:27:43,000 --> 00:27:48,200
+ white spots or oral lesions called coplic spots and they're typically found the mouth,
+
+329
+00:27:48,200 --> 00:27:53,280
+ the tongue, and the back of the throat. And so that's an identification of the measles
+
+330
+00:27:53,280 --> 00:27:58,560
+ along with that red rash. And so you see that red spotted rash along with the coplic spots.
+
+331
+00:27:58,560 --> 00:28:04,360
+ That's a sure cell, cell, sign that you have measles in that case. Those are the two things
+
+332
+00:28:04,360 --> 00:28:09,360
+ I look for. And again, typically in people that haven't been vaccinated with the MMR
+
+333
+00:28:09,360 --> 00:28:15,520
+ are the ones at risk for this disease. Okay. And again, there is a complication with measles
+
+334
+00:28:15,520 --> 00:28:21,360
+ and it's the most serious complication. Again, in very few cases does this actually happen,
+
+335
+00:28:21,360 --> 00:28:26,160
+ but the measles can go to the brain and it causes a progressive neurological degeneration
+
+336
+00:28:26,160 --> 00:28:31,320
+ of the cerebral cortex. And I think this was a case that was on house. If you ever watched
+
+337
+00:28:31,320 --> 00:28:35,240
+ that show house and the, you know, only had all these crazy theories and that stuff. And
+
+338
+00:28:35,240 --> 00:28:39,680
+ I think one of the cases they talked about was the kid getting measles and actually caused
+
+339
+00:28:39,680 --> 00:28:44,680
+ the subacute scourosing of the brain. And so essentially what happened is the virus was
+
+340
+00:28:44,680 --> 00:28:49,440
+ eating away at the brain. Again, it's very, very rare in the cases of measles. It's in
+
+341
+00:28:49,440 --> 00:28:53,960
+ one case in a million infections of measles and you consider the number of infections
+
+342
+00:28:53,960 --> 00:28:59,280
+ per year is very, very small. And again, it involves a very defective virus that spreads
+
+343
+00:28:59,280 --> 00:29:04,920
+ to the brain. And by cell fusion and it destroys the cells, it can lead to a coma and death
+
+344
+00:29:04,920 --> 00:29:11,060
+ in anywhere from months to years. And again, vaccination is a way to prevent this. So if
+
+345
+00:29:11,060 --> 00:29:15,800
+ you don't want your kids to get sick from these things, vaccinate. Okay. And I'd say,
+
+346
+00:29:15,800 --> 00:29:21,240
+ you know, people worry about all these different things and that with vaccines, I would rather
+
+347
+00:29:21,240 --> 00:29:25,180
+ have my child be vaccinated and protected from some of these diseases that they shouldn't
+
+348
+00:29:25,180 --> 00:29:29,360
+ have to get rather than worrying about some of the side effects that they might get from
+
+349
+00:29:29,360 --> 00:29:33,320
+ these things. And that's my personal opinion. Other people have their own. And you have
+
+350
+00:29:33,320 --> 00:29:38,080
+ to make that decision for yourself. But I think there is a worthwhile idea of why we
+
+351
+00:29:38,080 --> 00:29:44,960
+ vaccinate and what what the importance is for doing that. Okay. All right. Another one
+
+352
+00:29:44,960 --> 00:29:51,200
+ is the RSV. And this is the respiratory syncytial virus or RSV. It's also known as the pneumovirus
+
+353
+00:29:51,200 --> 00:29:56,320
+ and essentially this affects very young kids where we see it is that it affects the upper
+
+354
+00:29:56,320 --> 00:30:01,560
+ respiratory track and produces these giant multi nucleate cells. It is a prevalent cause
+
+355
+00:30:01,560 --> 00:30:06,960
+ of respiratory infection in children six months or younger. And it obviously the most susceptible
+
+356
+00:30:06,960 --> 00:30:12,720
+ to this serious disease. And again, weak immune systems haven't been developed yet. Essentially,
+
+357
+00:30:12,720 --> 00:30:16,920
+ they breathe these viruses in or through the eyes it replicates in the nasal pharynx, it
+
+358
+00:30:16,920 --> 00:30:22,680
+ causes fever, rhinitis, pharyngitis, oitis, and crew. That's a sign of it. And that again,
+
+359
+00:30:22,680 --> 00:30:29,280
+ a respiratory very small kids very tough to fight off again. There is a monoclonal antibody
+
+360
+00:30:29,280 --> 00:30:34,680
+ that blocks attachment, but you have to get it early because again, the longer you wait,
+
+361
+00:30:34,680 --> 00:30:38,040
+ the less effective it's going to be because you're more infection. And a lot of times
+
+362
+00:30:38,040 --> 00:30:42,840
+ it's a hurry. And it's kind of like a, you know, very cautious period of time when the
+
+363
+00:30:42,840 --> 00:30:47,280
+ child is fighting through this because they're very small, they have trouble breathing, you
+
+364
+00:30:47,280 --> 00:30:51,800
+ know, and that with this. And so it can be very, very sleepless nights for parents that
+
+365
+00:30:51,800 --> 00:30:58,280
+ have this virus. And it can be, it could lead to mortality if left untreated or again, if
+
+366
+00:30:58,280 --> 00:31:04,880
+ it progresses to a very, very long state type of thing. And again, getting treatment for
+
+367
+00:31:04,880 --> 00:31:10,160
+ that and knowing and getting the doctor's involvement is very important in these situations. Okay,
+
+368
+00:31:10,160 --> 00:31:15,720
+ much worse than just a regular cold in these cases. Okay, another virus and we'll spend
+
+369
+00:31:15,720 --> 00:31:20,200
+ a little bit of time is rabies. And this is the raptovirus and it's in the loss of virus.
+
+370
+00:31:20,200 --> 00:31:24,120
+ And again, it's an interesting virus because it's different than a lot of the viruses that
+
+371
+00:31:24,120 --> 00:31:29,120
+ you see. Most of the time we think of the Acosylhedral virus wrapped in an envelope.
+
+372
+00:31:29,120 --> 00:31:33,280
+ Well, these guys are kind of the helical viruses and they're kind of a bullet shaped virus.
+
+373
+00:31:33,280 --> 00:31:37,200
+ And so you can kind of see it here in the electron micrograph. And here's what it looks
+
+374
+00:31:37,200 --> 00:31:42,560
+ like in the cartoon form. It's a slow progressive zoonotic disease and typically it's found
+
+375
+00:31:42,560 --> 00:31:47,440
+ in wild animals. Okay, and wild mammals and that that are outside your house and that
+
+376
+00:31:47,440 --> 00:31:51,960
+ stuff. We vaccinate our dogs and cats, especially if they go outside so that they don't get
+
+377
+00:31:51,960 --> 00:31:56,640
+ bit by an animal, they don't get rabies and that stuff. We don't vaccinate humans and
+
+378
+00:31:56,640 --> 00:32:00,880
+ that stuff. But again, it can be spread to both wild and domestic mammals through bites,
+
+379
+00:32:00,880 --> 00:32:07,080
+ scratches and inhalation of droplets. Okay. Now, this shows you the populations that
+
+380
+00:32:07,080 --> 00:32:11,120
+ actually carry the rabies in the different parts of the country, the United States. So
+
+381
+00:32:11,120 --> 00:32:15,680
+ you can kind of see where you live and where rabies are. However, another one I would throw
+
+382
+00:32:15,680 --> 00:32:21,680
+ up there is bats as well. Bats are considered a lot of times having rabies and that stuff
+
+383
+00:32:21,680 --> 00:32:27,080
+ in Milwaukee last summer or the summer before there was actually a rabies warning out there.
+
+384
+00:32:27,080 --> 00:32:32,280
+ So don't come in contact with bats because they did find a number of bats were infected
+
+385
+00:32:32,280 --> 00:32:37,080
+ with rabies at the time. And a lot of times the rabies don't do a whole lot to these animals
+
+386
+00:32:37,080 --> 00:32:41,280
+ that actually carry it. It's the ones that they spread it to. So if it spreads to another
+
+387
+00:32:41,280 --> 00:32:46,900
+ animal, you get these infections or to a human where you can have dire consequences with
+
+388
+00:32:46,900 --> 00:32:53,320
+ these infections. Okay. With the rabies, typically the virus enters through the bite, grows at
+
+389
+00:32:53,320 --> 00:32:57,960
+ the trauma site for a week and then multiplies and then enters the nerve endings and advances
+
+390
+00:32:57,960 --> 00:33:05,280
+ to the brain. So what happens is a wild or a rabid dog or wild animal will bite the person.
+
+391
+00:33:05,280 --> 00:33:11,280
+ The virus gets in, multiplies at the site for a while. It's a long term type of infection.
+
+392
+00:33:11,280 --> 00:33:15,360
+ Then it gets into the nerves and then it travels up the nerves through the spinal cord to the
+
+393
+00:33:15,360 --> 00:33:20,040
+ brain. And so you get these different types of things. Then eventually what happens is
+
+394
+00:33:20,040 --> 00:33:24,720
+ that when the virus has made it to the brain, it will then move to the salivary glands so
+
+395
+00:33:24,720 --> 00:33:30,040
+ that you can then go bite other people or bite other animals and spread the disease.
+
+396
+00:33:30,040 --> 00:33:34,160
+ Okay. And so that's the progression of the disease. Now there are clinical phases of
+
+397
+00:33:34,160 --> 00:33:38,480
+ the rabies. It's called the pro-dormal phase where you have fever, nausea, vomiting, headache,
+
+398
+00:33:38,480 --> 00:33:43,400
+ fatigue and some experienced pain, burning, tickling at the site of the wound. Okay. And
+
+399
+00:33:43,400 --> 00:33:47,320
+ so that would be at about the first couple stages, you know, very early on when you get
+
+400
+00:33:47,320 --> 00:33:51,760
+ bit with the thing. Then you have the furious phase. This is when the virus actually gets
+
+401
+00:33:51,760 --> 00:33:57,280
+ into the brain, you get agitation, disorientation, seizures, twitching and hydrophobia. So you
+
+402
+00:33:57,280 --> 00:34:01,560
+ get afraid of the water type of thing. And this is one of those things. Then you get
+
+403
+00:34:01,560 --> 00:34:07,240
+ into the, what is called the dumb phase, which is where you get paralysis, disoriented and
+
+404
+00:34:07,240 --> 00:34:11,360
+ stuporous where basically your brain is not functioning, you're leading into coma, which
+
+405
+00:34:11,360 --> 00:34:16,920
+ then gets into the coma phase and then results into death. Again, early treatment is what
+
+406
+00:34:16,920 --> 00:34:21,640
+ you want to do. So if you get bit by an animal and you don't know if that animal has been
+
+407
+00:34:21,640 --> 00:34:27,100
+ vaccinated for rabies, you always have to bring either the animal in or just take the precautions
+
+408
+00:34:27,100 --> 00:34:32,800
+ and go through the rabies procedure going through the shots and everything else. Because you
+
+409
+00:34:32,800 --> 00:34:37,320
+ don't want to take a chance in that that animal having rabies and then letting it go and then
+
+410
+00:34:37,320 --> 00:34:42,200
+ letting this progress to a further stage. The farther you wait, the less likely you are
+
+411
+00:34:42,200 --> 00:34:49,320
+ going to survive from this disease. And so that's the scary thing with this. Okay. So
+
+412
+00:34:49,320 --> 00:34:55,080
+ let's move on. And then again, after autopsies, so this is after you died. Okay. What they'll
+
+413
+00:34:55,080 --> 00:34:59,040
+ do is they'll do an autopsy and look for these negative bodies that forms in the nervous
+
+414
+00:34:59,040 --> 00:35:03,360
+ tissue. And you can see these are the negative bodies in the nervous tissue where basically
+
+415
+00:35:03,360 --> 00:35:08,520
+ these things are voices filled in the brain. They're again, the bite from the wild or stray
+
+416
+00:35:08,520 --> 00:35:13,640
+ animals, the demands assessment of the animal, animal meticulous wound care and specific
+
+417
+00:35:13,640 --> 00:35:17,800
+ treatment. So again, if you get bit by an animal, they want the animal because they want
+
+418
+00:35:17,800 --> 00:35:21,920
+ to test it for rabies. Unfortunately, they'll have to put the animal down if they have no
+
+419
+00:35:21,920 --> 00:35:26,400
+ records of vaccination because they want to look to make sure that the animal itself doesn't
+
+420
+00:35:26,400 --> 00:35:31,280
+ have rabies. And so they look at the brain and other things like that. So again, if the
+
+421
+00:35:31,280 --> 00:35:38,040
+ dog hasn't been vaccinated for rabies that could put that potential dog down for that
+
+422
+00:35:38,040 --> 00:35:44,040
+ reason alone. Okay. Again, preventative therapies initiated if signs of rabies do appear. And
+
+423
+00:35:44,040 --> 00:35:48,880
+ again, treatment includes passive and active post exposure immunization. Again, it used
+
+424
+00:35:48,880 --> 00:35:53,680
+ to be a number of different shots. I think they used to say 20 shots to the abdomen or
+
+425
+00:35:53,680 --> 00:35:58,480
+ 25 shots. Now it's down to I think about 12, but it's still quite a few shots. And so
+
+426
+00:35:58,480 --> 00:36:02,160
+ it's not something that you really want to go, Hey, I want to go get rabies so I can
+
+427
+00:36:02,160 --> 00:36:06,040
+ get all these shots. And so it's one of those things that can happen. You know, if you're
+
+428
+00:36:06,040 --> 00:36:10,160
+ especially an outdoors person, you get bit by an animal or come in contact scratch by
+
+429
+00:36:10,160 --> 00:36:15,200
+ an animal can happen. Now there is something what is called the Milwaukee protocol. And
+
+430
+00:36:15,200 --> 00:36:19,320
+ so some of you may have heard of this. And some of you especially here in Wisconsin know
+
+431
+00:36:19,320 --> 00:36:24,200
+ this, this, this girl who actually got bit by a bat about, I think it was now almost 10
+
+432
+00:36:24,200 --> 00:36:29,920
+ years ago up in Fondilac, she was bit by a bat. She didn't realize that she had rabies
+
+433
+00:36:29,920 --> 00:36:34,080
+ or the bat had rabies and that stuff. She went on her own way, dressed the wound. Everything
+
+434
+00:36:34,080 --> 00:36:38,760
+ was fine. And then started developing the symptoms of rabies weeks after, after she
+
+435
+00:36:38,760 --> 00:36:43,400
+ got bit. Well, by that time, it was too late to go through the normal protocol. So what
+
+436
+00:36:43,400 --> 00:36:47,720
+ happens is essentially what the doctors did at Children's Hospital has done this special
+
+437
+00:36:47,720 --> 00:36:53,600
+ technique where they put her in a medically induced coma, gave her antivirals and she miraculously
+
+438
+00:36:53,600 --> 00:36:58,280
+ survived. Now she had to go through a long period of recovery. She had to relearn how
+
+439
+00:36:58,280 --> 00:37:02,920
+ to walk, talk and a number of other things, but she did survive. They've tried this treatment
+
+440
+00:37:02,920 --> 00:37:06,920
+ in a number of other patients. And unfortunately, it's only had about a success rate of five
+
+441
+00:37:06,920 --> 00:37:11,160
+ out of 35. So it's not the best thing in the world. It's not going to save you all the
+
+442
+00:37:11,160 --> 00:37:15,640
+ time from rabies, but it's better than not saying, well, you got no hope in this case.
+
+443
+00:37:15,640 --> 00:37:20,600
+ So in this situation, it does work, but not at all. And we don't know why certain ones
+
+444
+00:37:20,600 --> 00:37:24,720
+ do. And again, a lot of it has to do probably with age and, you know, how well your immune
+
+445
+00:37:24,720 --> 00:37:29,800
+ system's working and everything else and how healthy you are as a person to begin with.
+
+446
+00:37:29,800 --> 00:37:34,760
+ Okay. Again, control of rabies is through vaccination of domestic animals. So you bring
+
+447
+00:37:34,760 --> 00:37:41,160
+ your dogs and cats in to get a rabies shot once a year or twice a year in order, once
+
+448
+00:37:41,160 --> 00:37:47,120
+ or one or two or three years, you type the thing and again, elimination of strays and
+
+449
+00:37:47,120 --> 00:37:51,600
+ strict quarantine practices. And again, there is a live oral vaccine incorporated and debate
+
+450
+00:37:51,600 --> 00:37:56,760
+ for wild animals and that stuff. So that again, to control the spread of rabies through populations.
+
+451
+00:37:56,760 --> 00:38:01,800
+ And again, over here shows you how it happens. You get the bite enters into the spinal cord
+
+452
+00:38:01,800 --> 00:38:07,560
+ goes to the brain. And again, all these different animals can carry it and pass it on to humans.
+
+453
+00:38:07,560 --> 00:38:12,080
+ And again, you see all these different things that can occur and that. And so that's these
+
+454
+00:38:12,080 --> 00:38:17,600
+ are the things that can happen. Here's the hydrophobia. Again, the foaming at the mouth
+
+455
+00:38:17,600 --> 00:38:22,000
+ after drinking water produces spasms in the throat and you start to foam and other things
+
+456
+00:38:22,000 --> 00:38:27,400
+ like that. And so that's kind of that hydrophobia part that's associated with it. Now, an interesting
+
+457
+00:38:27,400 --> 00:38:32,440
+ thing is you guys that are out there that like the walking dead and all these other things
+
+458
+00:38:32,440 --> 00:38:36,640
+ may have heard some stories and some of these like I am legend and that stuff and how they
+
+459
+00:38:36,640 --> 00:38:41,280
+ create zombies and rabies. And I like how to do this and that stuff. And so I just kind
+
+460
+00:38:41,280 --> 00:38:44,840
+ of threw this in here because this is kind of what they always think about how these
+
+461
+00:38:44,840 --> 00:38:50,160
+ zombies come about and that stuff and the zombie apocalypse is basically a form of rabies
+
+462
+00:38:50,160 --> 00:38:54,360
+ that spreads the humans that become undead and basically affects the brain and they just
+
+463
+00:38:54,360 --> 00:38:58,400
+ want to eat things. And so that's the idea. And so you think of these different types
+
+464
+00:38:58,400 --> 00:39:02,660
+ of movies and that stuff. A lot of them are based on these types of things. And again,
+
+465
+00:39:02,660 --> 00:39:07,440
+ you kind of look at the difference between rabies and zombies and you can see some similarities
+
+466
+00:39:07,440 --> 00:39:12,960
+ where again, you get muscle spasm, convulsion, anxiety, restlessness, hyper-celevation and
+
+467
+00:39:12,960 --> 00:39:16,960
+ zombies. They just want to eat and that stuff and you might be missing body parts and that
+
+468
+00:39:16,960 --> 00:39:21,840
+ stuff obviously undead. I just throw that in some comic relief. But again, you might see
+
+469
+00:39:21,840 --> 00:39:25,840
+ this a lot of times in movies and that's kind of what they think. You know, the zombie would
+
+470
+00:39:25,840 --> 00:39:30,360
+ come kind of the rabies and you kind of become this stuporist walking around wanting to eat
+
+471
+00:39:30,360 --> 00:39:34,120
+ brains and other things like that kind of biting people and that stuff. And that's the
+
+472
+00:39:34,120 --> 00:39:38,760
+ idea with the rabies. The connection between rabies and zombies and that. So I think it's
+
+473
+00:39:38,760 --> 00:39:44,720
+ kind of funny. All right. So for which of these diseases are active and passive immunization
+
+474
+00:39:44,720 --> 00:39:50,800
+ given simultaneously? Is it influenza, yellow fever, measles or rabies? So which one do you
+
+475
+00:39:50,800 --> 00:39:56,320
+ get both active and passive? So passive is the antibodies and that active is giving you
+
+476
+00:39:56,320 --> 00:40:01,240
+ to make memory and that stuff. So which one of these do we talk about active and passive?
+
+477
+00:40:01,240 --> 00:40:05,680
+ If you heard anything I talked about about the vaccination, it would be rabies. And rabies
+
+478
+00:40:05,680 --> 00:40:11,400
+ again is the one where you get multiple shots. You get both active doses to stimulate the
+
+479
+00:40:11,400 --> 00:40:17,160
+ immune system as well as some antibodies to block the toxicity of the rabies virus itself
+
+480
+00:40:17,160 --> 00:40:21,760
+ and neutralize the rabies virus. Okay. So if you got rabies, you did a good job there.
+
+481
+00:40:21,760 --> 00:40:27,320
+ Well, I don't want rabies, but you know what I mean. Okay. Another virus that's out there
+
+482
+00:40:27,320 --> 00:40:32,320
+ that's enveloped is the coronavirus and this is a relatively large RNA virus with distinctively
+
+483
+00:40:32,320 --> 00:40:36,800
+ spaced spikes on their envelopes. It's common in domesticated animals and there are three
+
+484
+00:40:36,800 --> 00:40:42,040
+ types of human coronaviruses that have been characterized. There's an HCV, which causes
+
+485
+00:40:42,040 --> 00:40:47,120
+ a cold. There's an intervirus that causes diarrhea and then the one that we worry most
+
+486
+00:40:47,120 --> 00:40:53,040
+ about is this severe acute respiratory syndrome or SARS and this is an airborne transmission
+
+487
+00:40:53,040 --> 00:40:57,600
+ and about 9% of those who get infected with it will die. And again, the major outbreak
+
+488
+00:40:57,600 --> 00:41:02,560
+ was in China. It did spread to Canada. We did have a couple cases here in the United
+
+489
+00:41:02,560 --> 00:41:07,560
+ States, but primarily through good isolation and keeping those people away and recognizing
+
+490
+00:41:07,560 --> 00:41:15,040
+ the virus when it did happen, controlled the outbreak pretty quickly in those situations.
+
+491
+00:41:15,040 --> 00:41:20,120
+ Now again, this was a newly emerging disease in 2002. It's transmitted through droplet
+
+492
+00:41:20,120 --> 00:41:25,680
+ or direct contact. And again, the symptoms are fever, body aches and malaise may or may
+
+493
+00:41:25,680 --> 00:41:30,640
+ not experience respiratory systems with breathing problems and the most severe cases can result
+
+494
+00:41:30,640 --> 00:41:36,320
+ in respiratory distress and death. The diagnosis relies on the exclusion of other likely agents
+
+495
+00:41:36,320 --> 00:41:41,200
+ like flu and other things like that. And again, there's not a vaccine for this. So it's more
+
+496
+00:41:41,200 --> 00:41:46,960
+ of a supported treatment. And again, where we saw the major outbreaks was in China and
+
+497
+00:41:46,960 --> 00:41:51,160
+ in Canada where the number of cases in the United States, we do have a few cases here
+
+498
+00:41:51,160 --> 00:41:55,760
+ and also in Europe and Brazil, but again, not nearly as many as they did experience
+
+499
+00:41:55,760 --> 00:42:00,320
+ in China and Canada. And again, that was due to travelers going from China over to Canada
+
+500
+00:42:00,320 --> 00:42:05,480
+ and that stuff. And when you spread these things, it can be very quickly through the use of
+
+501
+00:42:05,480 --> 00:42:09,760
+ airplane travel. And so that's where we see these kind of infection spreading.
+
+502
+00:42:09,760 --> 00:42:18,080
+ Okay, another one is the rubella. And again, this is part of the MMR, the mumps, measles
+
+503
+00:42:18,080 --> 00:42:23,440
+ and rubella. And again, measles, mumps and rubella and rubella is the virus that causes
+
+504
+00:42:23,440 --> 00:42:28,360
+ the German measles. And again, it's in a sort of single strand RNA with a loose envelope.
+
+505
+00:42:28,360 --> 00:42:32,720
+ It's endemic disease. There are places around the world that carry it. And again, most cases
+
+506
+00:42:32,720 --> 00:42:37,040
+ are reported in adolescence and young adults and they're transmitted through contact with
+
+507
+00:42:37,040 --> 00:42:43,120
+ respiratory secretions. And again, it's based on diagnosis based on serological testing.
+
+508
+00:42:43,120 --> 00:42:48,960
+ There's no specific treatment available. However, vaccination is the key part. What can cause
+
+509
+00:42:48,960 --> 00:42:54,960
+ or what causes here is again, you don't get that full overall body rash that you see with
+
+510
+00:42:54,960 --> 00:42:59,760
+ the measles, the red measles in that case. This is the German measles and you get splotches
+
+511
+00:42:59,760 --> 00:43:05,560
+ around the body. So that's one thing. It can lead to heart disease. It can lead to microencephalate
+
+512
+00:43:05,560 --> 00:43:11,280
+ and cephalate in the brain, so shrinking of the brain. And it could lead to eye abnormalities
+
+513
+00:43:11,280 --> 00:43:15,520
+ as well, including cataracts, glaucoma and some of these other things that can infect
+
+514
+00:43:15,520 --> 00:43:21,680
+ vision as well. Again, early vaccination prevents you from ever having to worry about this disease.
+
+515
+00:43:21,680 --> 00:43:26,960
+ There are places in the world that this is endemic. But again, use of vaccination really
+
+516
+00:43:26,960 --> 00:43:33,520
+ helps prevent the spread of this disease. Okay. Again, there are two clinical forms. The post-natal
+
+517
+00:43:33,520 --> 00:43:39,680
+ rubella includes malaise, fever, sore throat, and lendapathy. There is a rash, generally mild,
+
+518
+00:43:39,680 --> 00:43:43,840
+ lasting about three days. And again, here is a more severe case, but typically you get more
+
+519
+00:43:43,840 --> 00:43:48,400
+ of these splotches, not like the red measles words all over the body. In this case, it really
+
+520
+00:43:48,400 --> 00:43:52,720
+ shows all over the body. And then there's the other one, which is the congenital rubella,
+
+521
+00:43:52,720 --> 00:43:57,600
+ where the infection is during the first trimester when the baby is developing. And it's most likely
+
+522
+00:43:57,600 --> 00:44:03,040
+ induced miscarriages or multiple defects in cardiac abnormalities, ocular lesions,
+
+523
+00:44:03,040 --> 00:44:08,320
+ deafness, mental and physical retardation can occur. And so this poor baby got exposed
+
+524
+00:44:08,320 --> 00:44:13,280
+ during the first, during the development. And so for you, though, for you guys out there that
+
+525
+00:44:13,280 --> 00:44:18,000
+ haven't had a biology class or development class, human development, the first 12 weeks
+
+526
+00:44:18,000 --> 00:44:22,320
+ are the most important part. This is where all the systems come together. This is where all the
+
+527
+00:44:22,320 --> 00:44:27,040
+ systems are formed. And then the last two trimesters are where all the growth takes place. And so
+
+528
+00:44:27,040 --> 00:44:31,920
+ really everything is developed within those first three months. And so if any infection occurs in
+
+529
+00:44:31,920 --> 00:44:36,480
+ those three first three months, that can affect the development of those organs and other things.
+
+530
+00:44:36,480 --> 00:44:41,120
+ And so that's where the problems can arise. And so obviously being vaccinated yourself will
+
+531
+00:44:41,120 --> 00:44:46,160
+ prevent the spread to your unborn child. And so that's the key in those situations.
+
+532
+00:44:47,920 --> 00:44:53,520
+ Okay, now another virus that's out there is the Flavavirus. This is the Hepatitis C or HCV. And
+
+533
+00:44:53,520 --> 00:44:58,880
+ again, we talked about Hepatitis D already. And we'll talk about A in a little while. And these are
+
+534
+00:44:58,880 --> 00:45:04,400
+ acquired through blood contact, blood transfusions, needle sharing by drug abusers and that. And so
+
+535
+00:45:04,400 --> 00:45:13,120
+ again, fluid contact. Now again, with these infections, the varying characteristics 75 to 80 percent of
+
+536
+00:45:13,120 --> 00:45:19,600
+ people that do get infected with HCV will remain infected indefinitely and can have possible severe
+
+537
+00:45:19,600 --> 00:45:25,120
+ symptoms without permanent liver damage. Now again, some of the symptoms will occur. Will you get
+
+538
+00:45:25,120 --> 00:45:32,160
+ jaundice? You get pain? And other things associated what we talked about before, sometimes fever,
+
+539
+00:45:32,160 --> 00:45:38,640
+ malaise, other things. More commonly, you can have chronic liver disease or without overt
+
+540
+00:45:38,640 --> 00:45:42,880
+ symptoms and that stuff. Sometimes you find yourself where you get cured of it all the way.
+
+541
+00:45:42,880 --> 00:45:48,960
+ And this kind of just shows you the course of illness. And you get acute affection, about 60 percent.
+
+542
+00:45:48,960 --> 00:45:53,520
+ I think that's 60. Maybe it's 80 percent. I think it's 80 percent. Actually, we go on to chronic
+
+543
+00:45:53,520 --> 00:45:58,080
+ inflammation of liver. This is when you'd have the symptoms of jaundice and that. So 20 percent
+
+544
+00:45:58,080 --> 00:46:04,560
+ will be cured from those things. And then the rest leads to fibrosis, you can get cancers, cirrhosis
+
+545
+00:46:04,560 --> 00:46:09,520
+ and other issues with the liver. And again, treatment with Interferon and Revampin, less
+
+546
+00:46:09,520 --> 00:46:13,760
+ than liver damage. There is no cure. However, there are a few drugs out there now that we're
+
+547
+00:46:13,760 --> 00:46:20,000
+ finding that our potential cures for this disease are very, very expensive. But it seems that they're
+
+548
+00:46:20,000 --> 00:46:26,240
+ now effective at curing disease. And hopefully over time, the amount of money it is for these
+
+549
+00:46:26,240 --> 00:46:31,520
+ cures will go down and make it available for everyone. But for now, unless you have lots of money,
+
+550
+00:46:31,520 --> 00:46:38,320
+ it's going to be very tough to survive or to get a cure from this disease. There is no vaccine for
+
+551
+00:46:38,320 --> 00:46:45,280
+ HCV. So that's the difference between HBV and HCV is that there's no cure. And again, HCV,
+
+552
+00:46:45,280 --> 00:46:52,000
+ even though you're less likely to show any symptoms, you're more likely to get liver, cancer, cirrhosis
+
+553
+00:46:52,000 --> 00:46:56,240
+ and other things. So I would say HCV is one of those things where you're really going to,
+
+554
+00:46:56,240 --> 00:47:02,800
+ that if you get it, you can have really direct consequences in the future with liver problems,
+
+555
+00:47:02,800 --> 00:47:08,320
+ liver cancer, cirrhosis and some other things that go on in those situations. So HCV is not
+
+556
+00:47:08,320 --> 00:47:12,000
+ something you want to mess around with. So again, if you're working with blood or blood products,
+
+557
+00:47:12,000 --> 00:47:16,640
+ you want to be very, very careful handling those things and get tested. If you need to,
+
+558
+00:47:16,640 --> 00:47:21,040
+ if you get a needle prick or something else, because it is one of those things that you have to worry
+
+559
+00:47:21,040 --> 00:47:27,600
+ about in those situations. Now, the next group of viruses, again, there are a number of different
+
+560
+00:47:27,600 --> 00:47:32,240
+ families, but the reason why I call these abroviruses is because they're spread by
+
+561
+00:47:32,240 --> 00:47:41,040
+ arthropods. So it's the arthropod-borne viruses or abroviruses and the abroviruses are spread through
+
+562
+00:47:41,040 --> 00:47:46,240
+ mosquitoes, ticks and other things. And we're going to primarily focus on the mosquitoes today
+
+563
+00:47:46,240 --> 00:47:50,880
+ in that West Nile and some of the other ones, but there are other ones that do carry other
+
+564
+00:47:50,880 --> 00:47:56,720
+ insects, insects and arachnids that do carry some of these viruses that are out there. So again,
+
+565
+00:47:56,720 --> 00:48:00,240
+ just be aware of that. But today, we're going to focus primarily on the mosquitoes.
+
+566
+00:48:00,240 --> 00:48:05,920
+ Now again, viruses sped by the arthropod vectors. This includes mosquitoes, ticks,
+
+567
+00:48:05,920 --> 00:48:10,240
+ flies and gnats. There are about 400 viruses that are on there and they include the different
+
+568
+00:48:10,240 --> 00:48:16,000
+ families of toga viruses, flaviviruses, some bonya viruses and rheoviruses. And again,
+
+569
+00:48:16,000 --> 00:48:22,160
+ most illnesses are caused by these viruses are mild fevers. Some do cause severe encephalitis
+
+570
+00:48:22,160 --> 00:48:26,560
+ and some can also lead to life-threatening hemorrhagic fever, which again, hemorrhagic
+
+571
+00:48:26,560 --> 00:48:31,920
+ means you start to bleed from all the orifices and that and essentially that would be like Ebola
+
+572
+00:48:31,920 --> 00:48:36,240
+ and some of these other ones that you really worry about the hemorrhagic fever that's associated.
+
+573
+00:48:36,240 --> 00:48:40,960
+ Again, typically with these things are spread through a vector and the ones that we're going to be
+
+574
+00:48:40,960 --> 00:48:45,680
+ talking about today are primarily mosquitoes. The one that I don't have on here because it's so
+
+575
+00:48:45,680 --> 00:48:53,200
+ new is the Zika virus. So I don't have anything today about the Zika virus, but that is one that
+
+576
+00:48:53,200 --> 00:48:57,760
+ is spread through mosquitoes. So again, this summer is going to be real interesting to see how far
+
+577
+00:48:57,760 --> 00:49:02,720
+ those mosquitoes do travel up. They're now saying those mosquitoes could get into the United States
+
+578
+00:49:02,720 --> 00:49:08,240
+ and travel up. So we might see more incidents of Zika virus, especially here in the United States
+
+579
+00:49:08,240 --> 00:49:12,720
+ when summer comes and mosquitoes do come out. So that's going to be something really interesting
+
+580
+00:49:12,720 --> 00:49:18,480
+ to keep an eye on. But again, I don't have anything on the Zika virus per se in this lecture today.
+
+581
+00:49:18,480 --> 00:49:23,680
+ Okay, the influence of the vector, again, the vectors and viruses tend to be clustered in the
+
+582
+00:49:23,680 --> 00:49:29,680
+ tropics and again, where do you have your mosquitoes and that stuff. Again, the abrovirus's life cycles
+
+583
+00:49:29,680 --> 00:49:35,200
+ are closely tied to the ecology of the vectors. So again, in the northern hemisphere and again,
+
+584
+00:49:35,200 --> 00:49:41,440
+ in Europe, we have seasons and that stuff. So again, with the seasons, you have more than mosquitoes
+
+585
+00:49:41,440 --> 00:49:45,840
+ are prevalent and when they're not prevalent. And so you see the swings in those types of things.
+
+586
+00:49:45,840 --> 00:49:50,800
+ And again, infections show peak incidents when the arthropod is actively feeding and reproducing.
+
+587
+00:49:50,800 --> 00:49:56,000
+ Again, humans can serve as the dead end accidental host or can be a maintenance reservoir, depending
+
+588
+00:49:56,000 --> 00:50:01,280
+ on how many people get infected. And then again, mosquitoes bite and spread the disease. And again,
+
+589
+00:50:01,280 --> 00:50:06,240
+ controlling the vector controls the disease. Anytime you can eliminate the mosquitoes and flies and use
+
+590
+00:50:06,800 --> 00:50:12,000
+ precaution, that's going to be the way to protect yourself. Now another one that's out there is
+
+591
+00:50:12,000 --> 00:50:20,800
+ denieg denieg or denieg fever. And then this chikagunya, which is a virus that's spread through
+
+592
+00:50:20,800 --> 00:50:26,640
+ mosquitoes. And again, if you're going to areas like Jamaica and the Caribbean, those are where
+
+593
+00:50:26,640 --> 00:50:30,960
+ you see these types of diseases. And again, you can prevent it by preventing yourself from getting
+
+594
+00:50:30,960 --> 00:50:35,760
+ mosquito bites. So making sure you wear long sleeves, bug spray and things, especially when
+
+595
+00:50:35,760 --> 00:50:40,640
+ you're going into the jungle areas and that stuff, where you find high prevalence of mosquitoes.
+
+596
+00:50:40,640 --> 00:50:48,160
+ Okay, now again, typically with the abroviruses, most of these are undifferentiated from a mild
+
+597
+00:50:48,160 --> 00:50:54,000
+ fever or rash. There's no long term effects. Problem symptoms are fever, headache, melasia,
+
+598
+00:50:54,000 --> 00:50:59,680
+ joint stiffness and rash. And so again, typically that would be in the more severe cases. You can
+
+599
+00:50:59,680 --> 00:51:04,880
+ go into the environmental encephalitis where it does go to the brain and can cause a swelling of
+
+600
+00:51:04,880 --> 00:51:09,920
+ the brain. And so the brain, meninges and spinal cord are involved and get convulsions, tremor,
+
+601
+00:51:09,920 --> 00:51:17,440
+ paralysis, loss of coordination, memory deficits, changes in speech, personality, coma, survivors
+
+602
+00:51:17,440 --> 00:51:22,320
+ may experience permanent brain damage associated. And here you can see someone with a scan where
+
+603
+00:51:22,320 --> 00:51:26,800
+ you can see where the orange color is where you have the encephalitis where the brain is actually
+
+604
+00:51:26,800 --> 00:51:32,480
+ swelling in those patients. And again, that's due to the virus getting into the bloodstream
+
+605
+00:51:32,480 --> 00:51:35,840
+ and then traveling and crossing the blood brain barrier and affecting that.
+
+606
+00:51:35,840 --> 00:51:41,520
+ Now, one that we do deal with in the United States that we do know every year that happens is the
+
+607
+00:51:41,520 --> 00:51:49,360
+ West Nile virus. And luckily, most people have very few or asymptomatic comparing this disease.
+
+608
+00:51:49,360 --> 00:51:53,440
+ Again, birds are the reservoirs. And so again, that's why they always look for dead birds
+
+609
+00:51:53,440 --> 00:51:59,040
+ here and anywhere in the Midwest or really anywhere in the country. When they find dead birds,
+
+610
+00:51:59,040 --> 00:52:03,600
+ they do test them for West Nile. And they say, oh, West Nile has been reported. It means that
+
+611
+00:52:03,600 --> 00:52:09,520
+ it probably is in the mosquitoes. Now again, it's a newly emerging disease. And about 20% of us that
+
+612
+00:52:09,520 --> 00:52:15,920
+ do get bit and get infected and actually show symptoms only 20%, 80% of us don't show any symptoms
+
+613
+00:52:15,920 --> 00:52:20,480
+ whatsoever, not even a fever rash or anything. So probably a lot of us have been infected and
+
+614
+00:52:20,480 --> 00:52:26,240
+ don't even know it. Now you can get a rash that develops along with the fever and that and encephalitis
+
+615
+00:52:26,240 --> 00:52:32,960
+ and out of those 20% that do get show symptoms, only 1% of those actually show disease. So the
+
+616
+00:52:32,960 --> 00:52:39,760
+ mild symptoms appearing in about in some people, about 20% include fever, headache, nausea, vomiting,
+
+617
+00:52:39,760 --> 00:52:43,840
+ body aches and swollen lymph nodes. So if this is the summertime and you know, you got bit by
+
+618
+00:52:43,840 --> 00:52:50,000
+ mosquitoes and you feel any of those things, you probably have a low grade case of West Nile. Now,
+
+619
+00:52:50,000 --> 00:52:54,480
+ I'm not saying that you do if that's some of the symptoms, but that could be potential symptoms
+
+620
+00:52:54,480 --> 00:52:59,760
+ that you have. Now, some serious symptoms now if you're in that 1% group or less than 1%,
+
+621
+00:52:59,760 --> 00:53:06,080
+ you could have again, high fever, headache, neck stiffness, stupor disorientation, coma,
+
+622
+00:53:06,080 --> 00:53:11,680
+ tremors, convulsions, muscle weakness, vision loss, numbness and paralysis. And again, that's
+
+623
+00:53:11,680 --> 00:53:17,360
+ associated when you have the severe form of this disease. And again, typically you hear maybe one
+
+624
+00:53:17,360 --> 00:53:22,480
+ or two cases out of the whole country that actually experienced it. And again, in the last couple
+
+625
+00:53:22,480 --> 00:53:28,960
+ years, I think the number of West Nile virus cases is very limited, maybe 100 cases altogether.
+
+626
+00:53:28,960 --> 00:53:34,480
+ And out of that, only a few have the severe cases. And a lot of times the 100 cases are the mild
+
+627
+00:53:34,480 --> 00:53:38,960
+ symptoms. There are some other ones that are out there that can cause encephalitis and that,
+
+628
+00:53:38,960 --> 00:53:44,880
+ and again, have very low numbers. And this includes the Colorado tick fever, western equine, encephalitis,
+
+629
+00:53:44,880 --> 00:53:49,760
+ eastern equine, and California encephalitis. So all these things, again, can be spread by
+
+630
+00:53:49,760 --> 00:53:54,000
+ mosquitoes and ticks and other animals. And so if you like to be outdoors in the summer,
+
+631
+00:53:54,000 --> 00:53:58,720
+ always be aware that there's always the potential to get a disease from one of these
+
+632
+00:53:58,720 --> 00:54:03,440
+ vectors getting bit. And most people just kind of, oh, I got a mosquito bite, no big deal,
+
+633
+00:54:03,440 --> 00:54:09,120
+ but it could lead to severe complications if something develops. And again, it's rare,
+
+634
+00:54:09,120 --> 00:54:13,760
+ but it could happen. And now with the Zika virus, it might be even scarier about that.
+
+635
+00:54:14,720 --> 00:54:20,240
+ Okay. So some of these hemorrhagic fevers that are out there include yellow fever. Now this has
+
+636
+00:54:20,240 --> 00:54:25,200
+ been eliminated in the United States. However, in other areas of the world, there are areas that
+
+637
+00:54:25,200 --> 00:54:30,160
+ are endemic. And if you do plan to travel to those areas, they will vaccinate you for that.
+
+638
+00:54:30,160 --> 00:54:35,600
+ And again, it's a short term vaccination in that. Again, there are two patterns of transmission.
+
+639
+00:54:35,600 --> 00:54:40,160
+ There's the urban cycle, which is humans in mosquitoes. And then there's the Silvan cycle,
+
+640
+00:54:40,160 --> 00:54:45,120
+ which is the forest monkeys in mosquitoes in South America. And again, associated with that is a
+
+641
+00:54:45,120 --> 00:54:50,880
+ cute fever, headache, muscle pain, made progress to oral hemorrhage, nosebleed, vomiting, jaundice,
+
+642
+00:54:50,880 --> 00:54:56,400
+ liver, and kidney damage. And it has a significant, significant mortality rate if you're not vaccinated
+
+643
+00:54:56,400 --> 00:55:00,240
+ for it. So if you're going to some of these areas, and you don't get vaccinated for it,
+
+644
+00:55:00,240 --> 00:55:06,160
+ you're taking a risk and potentially getting this disease. Now the other one is dengue fever,
+
+645
+00:55:06,160 --> 00:55:11,040
+ which again is a flava virus and it's carried by the needy's mosquito. It's not in the US,
+
+646
+00:55:11,040 --> 00:55:16,400
+ but it's usually a mild infection. But you can get dengue hemorrhagic shock syndrome,
+
+647
+00:55:16,400 --> 00:55:22,320
+ and you can get break bone fever, extreme muscle and joint pain could be fatal if you do get in.
+
+648
+00:55:22,320 --> 00:55:27,840
+ Here's some of these different phases that you see again. Severe could have some bleeding
+
+649
+00:55:27,840 --> 00:55:32,480
+ associated with this, bloody vomiting, other things, nose and mouth bleeding, headache,
+
+650
+00:55:33,440 --> 00:55:37,760
+ severe, severe cases. And again, and that stuff, and it just kind of shows you some of the things
+
+651
+00:55:37,760 --> 00:55:42,320
+ that can occur with dengue fever. So again, you got to be very careful. And again,
+
+652
+00:55:42,320 --> 00:55:49,040
+ typically we see dengue in Africa. Sometimes in South America, but typically it's more localized
+
+653
+00:55:49,040 --> 00:55:54,320
+ to Central Africa and that in the areas, the tropical forest areas, but it's not in common
+
+654
+00:55:54,320 --> 00:56:00,080
+ that a couple people do get this a couple times a year going to different places. And
+
+655
+00:56:00,080 --> 00:56:04,480
+ you know, and getting this disease getting bit by mosquitoes. So just be aware of those hemorrhagic
+
+656
+00:56:04,480 --> 00:56:09,360
+ fevers. Now it's similar to Ebola. Ebola is transmitted in a different way. That's through skin,
+
+657
+00:56:09,360 --> 00:56:14,400
+ you know, fluid contact and everything else. It's not a vector through mosquitoes. So Ebola is
+
+658
+00:56:14,400 --> 00:56:19,120
+ a completely different type of thing, but it does cause symptoms that are very similar to what you
+
+659
+00:56:19,120 --> 00:56:25,120
+ see with the yellow fever and then dengue fever. Okay. All right. And so that's, this is some of
+
+660
+00:56:25,120 --> 00:56:32,000
+ these abroviruses that are spread by arthropods or mosquitoes in particular. Now we're going
+
+661
+00:56:32,000 --> 00:56:36,720
+ to spend a little bit of time talking about the retroviruses. Now retroviruses were found in the
+
+662
+00:56:36,720 --> 00:56:41,440
+ 80s. And so that's, you know, I always have that little joke. It's not named retrovirus because
+
+663
+00:56:41,440 --> 00:56:48,240
+ it's from the 80s, but it's a retrovirus because it goes from RNA to DNA and that uses the reverse
+
+664
+00:56:48,240 --> 00:56:53,280
+ transcriptase. And so that's where it gets the name retrovirus. And again, the most common one
+
+665
+00:56:53,280 --> 00:56:59,200
+ we hear about is the human immunodeficiency virus or HIV. And so that's what we'll look at today.
+
+666
+00:56:59,200 --> 00:57:06,080
+ All right. So HIV's and infections and AIDS. And again, it's a human immunodeficiency virus.
+
+667
+00:57:06,080 --> 00:57:11,760
+ And the disease that it causes is the acquired immunodeficiency syndrome or AIDS first emerged
+
+668
+00:57:11,760 --> 00:57:18,560
+ in the early 1980s. And again, HIV one may have originated from the chimpanzee virus in Africa.
+
+669
+00:57:18,560 --> 00:57:24,800
+ So one of the possible ideas was that it spread from the jungles in Africa and made it to the
+
+670
+00:57:24,800 --> 00:57:30,800
+ capital cities when men were actually going through the jungles and coming in close contact
+
+671
+00:57:30,800 --> 00:57:35,760
+ with chimpanzees and butchering them and getting the blood and mixing mixing with humans. Now they
+
+672
+00:57:35,760 --> 00:57:42,560
+ think the first documented case of AIDS was actually in 1959. And that, and that it was a slowly
+
+673
+00:57:42,560 --> 00:57:47,520
+ progressive. And then we finally start to see it is when it got into the population in the United
+
+674
+00:57:47,520 --> 00:57:52,240
+ States, and we started seeing this. Now part of the problem was is that it was affecting the
+
+675
+00:57:52,240 --> 00:57:58,960
+ homosexual or gay man population in the early 80s. And that was a bad thing because a lot of people
+
+676
+00:57:58,960 --> 00:58:03,920
+ at that time in the 1980s, this is the era of Reagan and everything else, they kind of turned
+
+677
+00:58:03,920 --> 00:58:08,960
+ their face away from it thinking, well, that's their problem. It's a gay man's disease too bad,
+
+678
+00:58:08,960 --> 00:58:13,440
+ you know, type of thing and saying that's that's God's way of punishing him. And unfortunately,
+
+679
+00:58:13,440 --> 00:58:18,000
+ if we would have done something more at that time, we may have been able to control the spread of
+
+680
+00:58:18,000 --> 00:58:24,480
+ AIDS and or HIV in the population much quicker if people would have actually put some funding and
+
+681
+00:58:24,480 --> 00:58:29,680
+ research. Once it did get into the heterosexual population, that's when people started taking
+
+682
+00:58:29,680 --> 00:58:34,640
+ notice and a lot of people dying from it. And so it took famous people to get it and die from it.
+
+683
+00:58:34,640 --> 00:58:39,520
+ That's when people started to notice and saying, Hey, maybe we need to do something about that.
+
+684
+00:58:39,520 --> 00:58:45,120
+ Unfortunately, that was about five years where things were not done in those situations and
+
+685
+00:58:45,120 --> 00:58:50,880
+ people were dying from the disease. And so a good movie to watch is and the band played on if you
+
+686
+00:58:50,880 --> 00:58:56,240
+ ever want to learn about the early history of AIDS and HIV and the transmission and that stuff
+
+687
+00:58:56,240 --> 00:59:01,120
+ and what was and what wasn't done at that time. I think that's a really good movie. It's an HBO
+
+688
+00:59:01,120 --> 00:59:05,760
+ movie. And so I highly recommend watching that. If you have a chance to do that, you kind of get
+
+689
+00:59:05,760 --> 00:59:10,480
+ a little bit more of the history behind what was going on during that time. And so again,
+
+690
+00:59:10,480 --> 00:59:16,640
+ the spread into the heterosexual population, obviously the fears of blood transmission using
+
+691
+00:59:16,640 --> 00:59:23,920
+ blood from different people and that that was a scary thing. Again, unprotected sex, a lot of
+
+692
+00:59:23,920 --> 00:59:30,320
+ other things spread through contact. And that's how HIV is spread. Okay. And so again, looking at
+
+693
+00:59:30,320 --> 00:59:34,000
+ these different things, we'll talk a little bit about the epidemiology and what it does here in
+
+694
+00:59:34,000 --> 00:59:39,040
+ just a minute, but that just kind of gives you an idea of some of the reasons why perceptions
+
+695
+00:59:39,040 --> 00:59:46,160
+ changed over time because of what was happening. Now the HIV virus is a retrovirus in the genus
+
+696
+00:59:46,160 --> 00:59:51,360
+ lentivirus and it encodes the protein reverse transcriptase, which is an enzyme that makes
+
+697
+00:59:51,360 --> 00:59:56,320
+ double-stranded DNA from RNA. And so it's an important protein that these viruses carry with
+
+698
+00:59:56,320 --> 01:00:02,480
+ them that allows them to convert their RNA into double-stranded DNA in the cell once it infects.
+
+699
+01:00:02,480 --> 01:00:07,200
+ The viral genes permanently integrate into the host DNA and then they can turn on and turn off
+
+700
+01:00:07,200 --> 01:00:13,120
+ the virus when need be. And again, where to tax are your immune cells. It wouldn't be such a big
+
+701
+01:00:13,120 --> 01:00:17,840
+ deal if it had just affected certain cells of the body, but the cells that they infect are a primary
+
+702
+01:00:17,840 --> 01:00:23,760
+ cell in the immune system. And without that cell, you lose the ability to respond to certain infections.
+
+703
+01:00:23,760 --> 01:00:30,320
+ And so it's not so much the HIV kills you by wiping out those cells. It eliminates those cells so
+
+704
+01:00:30,320 --> 01:00:36,160
+ that other infections can come in and now cause severe harm to you. So you now die of opportunistic
+
+705
+01:00:36,160 --> 01:00:43,120
+ infections of all different types due to this infection. And so again, there are two different
+
+706
+01:00:43,120 --> 01:00:50,400
+ types, HIV-1 and HIV-2. HIV-1 is the more common type. The T cell lymphotrophic viruses 1 and 2
+
+707
+01:00:50,400 --> 01:00:57,280
+ and can cause leukemia and lymphoma. And HIV can only infect host cells that have the required CD4
+
+708
+01:00:57,280 --> 01:01:04,640
+ marker plus a core receptor. So again, it's these glycoproteins, the glycoprotein 120 and the glycoprotein
+
+709
+01:01:04,640 --> 01:01:11,440
+ 41, which bind to these receptors now on the white cells. It's the CD4 and then the co-receptors
+
+710
+01:01:11,440 --> 01:01:16,080
+ on the white blood cells as well. And you need both of those in order for those things to work.
+
+711
+01:01:16,080 --> 01:01:21,280
+ And again, what happens to the HIV binds to that, gets in and causes the infection. And we know what
+
+712
+01:01:21,280 --> 01:01:26,960
+ cells had the CD4. The immune primary ones are the T helper cells. And if you remember back to chapter
+
+713
+01:01:26,960 --> 01:01:32,880
+ 15, the T helper cells are the main cells to activate not only the B cells, but also all the
+
+714
+01:01:32,880 --> 01:01:37,760
+ cytotoxic T cells. So if you eliminate those T cells, those helper cells, you really are in
+
+715
+01:01:37,760 --> 01:01:42,960
+ a world of hurt because the B cells can still activate through antibody in that, but not as
+
+716
+01:01:42,960 --> 01:01:49,600
+ well as they normally can. And there's no chance for the T cell, CD4 cytotoxic cells really to
+
+717
+01:01:49,600 --> 01:01:54,400
+ activate very well without the T helper cells. So if you eliminate those T helper cells, you're
+
+718
+01:01:54,400 --> 01:02:00,080
+ really diminishing the role of the immune system of what it can do. And so that's why people then
+
+719
+01:02:00,080 --> 01:02:04,160
+ start developing these secondary infections and dying from those secondary infections.
+
+720
+01:02:04,160 --> 01:02:09,920
+ Okay. So here's a nice little video to show you how this virus actually works and replicates
+
+721
+01:02:09,920 --> 01:02:14,240
+ inside cells and kind of give you an idea of what's going on. Okay. So let's take a look.
+
+722
+01:02:14,240 --> 01:02:22,080
+ AIDS is caused by the human immunodeficiency virus, HIV. This is an enveloped virus.
+
+723
+01:02:22,720 --> 01:02:28,080
+ The envelope is derived from the host cell membrane with viral glycoproteins such as
+
+724
+01:02:28,080 --> 01:02:35,760
+ GP120 and GP41 inserted into the membrane as the virus leaves the cell. The core is composed
+
+725
+01:02:35,760 --> 01:02:41,680
+ of P24 capsid protein and the P17 matrix protein helps maintain viral structure.
+
+726
+01:02:41,680 --> 01:02:49,280
+ Inside the core are two identical copies of single-stranded RNA viral genome and three enzymes,
+
+727
+01:02:49,280 --> 01:02:59,040
+ reverse transcriptase, RT, protease, PR, and integrase, IN. To establish infection, HIV must first
+
+728
+01:02:59,040 --> 01:03:05,840
+ attach to its host cell. Attachment occurs by interaction between GP120 on the surface of the
+
+729
+01:03:05,840 --> 01:03:13,920
+ virus and the CD4 antigen receptor on the surface of the host cell. In addition to the CD4 receptor,
+
+730
+01:03:13,920 --> 01:03:20,320
+ there must also be a co-receptor on the host cell. The co-receptor differs for different host cell
+
+731
+01:03:20,320 --> 01:03:28,720
+ types. In T lymphocytes, the co-receptor is called CXCR4, whereas on macrophages, the co-receptor is
+
+732
+01:03:28,720 --> 01:03:36,240
+ called CCR5. After attachment, the viral envelope and host cell membrane fuse resulting in entry
+
+733
+01:03:36,240 --> 01:03:42,480
+ of the virus into the cell. Once the RNA is released into the cytoplasm of the host cell,
+
+734
+01:03:42,480 --> 01:03:49,280
+ reverse transcriptase makes a DNA copy of the viral RNA genome. As the DNA is being formed,
+
+735
+01:03:49,280 --> 01:03:55,600
+ reverse transcriptase degrades the RNA strand. A complementary DNA strand is then added by the
+
+736
+01:03:55,600 --> 01:04:02,400
+ reverse transcriptase and the ends of the resulting double-stranded DNA segment are joined non-covalently.
+
+737
+01:04:02,400 --> 01:04:07,680
+ Treatment with nucleoside analogs or reverse transcriptase inhibitors interferes with these
+
+738
+01:04:07,680 --> 01:04:13,840
+ steps. The resulting circular DNA is then moved to the nucleus and inserted into the host cell
+
+739
+01:04:13,840 --> 01:04:21,120
+ chromosome by the viral integrase IN enzyme. The integrated viral DNA is now referred to as
+
+740
+01:04:21,120 --> 01:04:29,120
+ pro-viral DNA. Following integration, the pro-viral DNA may remain dormant or with host cell activation,
+
+741
+01:04:29,120 --> 01:04:35,280
+ RNA may be synthesized from the DNA, yielding messenger RNA and viral genome RNA.
+
+742
+01:04:38,160 --> 01:04:43,600
+ Viral messenger RNA is translated, yielding viral enzymes and structural proteins.
+
+743
+01:04:43,600 --> 01:04:50,400
+ Some of the functional proteins are formed by cleavage of a long polyprotein by the enzyme protease.
+
+744
+01:04:50,400 --> 01:04:58,880
+ Protease inhibitors interfere with this step. GP41 and GP120 are inserted into the host cell
+
+745
+01:04:58,880 --> 01:05:05,040
+ membrane and the structural proteins surround the viral RNA to form the core. Finally, the
+
+746
+01:05:05,040 --> 01:05:15,280
+ virion is released by budding. Okay, so this shows you a nice way of replication. And again,
+
+747
+01:05:15,280 --> 01:05:20,400
+ it takes you through a lot of steps and that stuff. But again, the key that I wanted to show you here
+
+748
+01:05:20,400 --> 01:05:26,480
+ was that again, the DNA gets integrated into the into the host genome. And so that sometimes allows
+
+749
+01:05:26,480 --> 01:05:31,520
+ for HIV to hide for a little while. And so a lot of times what will happen is people will have
+
+750
+01:05:31,520 --> 01:05:36,880
+ a response to HIV very early on when they initially get infected. And then that response goes away
+
+751
+01:05:36,880 --> 01:05:41,680
+ and then you have this kind of lull for anywhere from two to 10 years, maybe even longer depending
+
+752
+01:05:41,680 --> 01:05:47,440
+ on how long that stays integrated. And then you see the HIV come out again, it starts replicating
+
+753
+01:05:47,440 --> 01:05:51,760
+ and it starts attacking and then lowering the cell counts. And so that's what can happen during
+
+754
+01:05:51,760 --> 01:06:01,040
+ these different stages of HIV replication and integration into the DNA. Okay, so again,
+
+755
+01:06:01,040 --> 01:06:06,560
+ the epidemiology of HIV infections transmission occurs through direct and specific routes,
+
+756
+01:06:06,560 --> 01:06:11,600
+ mainly through sexual intercourse and transfer of blood blood products. And babies can be infected
+
+757
+01:06:11,600 --> 01:06:17,440
+ before birth or through breastfeeding. So again, bodily fluids can transmit the disease. And again,
+
+758
+01:06:17,440 --> 01:06:22,160
+ this shows you the virus getting in through the cells, getting into the cells and then spreading
+
+759
+01:06:22,160 --> 01:06:28,240
+ into the different types of cell types. HIV does not survive long outside the body. It's only about
+
+760
+01:06:28,240 --> 01:06:33,280
+ 30, 20 to 30 minutes outside on surfaces. So if you do have a blood spill on a surface,
+
+761
+01:06:33,280 --> 01:06:38,320
+ that virus will die within 20 to 30 minutes, but always use universal precautions when dealing
+
+762
+01:06:38,320 --> 01:06:45,440
+ with blood and blood products. Other things might be in there like HPV. Okay, now the epidemiology
+
+763
+01:06:45,440 --> 01:06:52,000
+ of the HIV infection again at first was nationally notifiable in 1984. However, the first cases were
+
+764
+01:06:52,000 --> 01:06:59,200
+ in the late 1970s. It's a six month common cause of death among the age of 25 to 44 years in the
+
+765
+01:06:59,200 --> 01:07:05,040
+ United States and men account for 75% of the new infections. And this can be through IV drug
+
+766
+01:07:05,040 --> 01:07:10,800
+ abusers that can be HIV carriers. And again, a significant factor is spread in the heterosexual
+
+767
+01:07:10,800 --> 01:07:16,400
+ population as well. Not only that, but also transplants and other things before they new and
+
+768
+01:07:16,400 --> 01:07:22,240
+ screaming the blood and everything else. In 2009, the number and infected and visuals worldwide was
+
+769
+01:07:22,240 --> 01:07:28,240
+ estimated to be 35 million people with about 1.2 million in the United States. And again,
+
+770
+01:07:28,240 --> 01:07:32,960
+ the United States doesn't have the most cases, but you're thinking, you know, a million people
+
+771
+01:07:32,960 --> 01:07:38,320
+ have the disease and a million point two people have the disease and will have it the rest of their
+
+772
+01:07:38,320 --> 01:07:43,760
+ lives. Okay, and this just shows you again age groups of which ones have the disease. And again,
+
+773
+01:07:43,760 --> 01:07:53,360
+ the largest is the ages anywhere between 35 and 49, and then 20 to 30, 20 to 34, the two largest
+
+774
+01:07:53,360 --> 01:08:01,520
+ ages. Again, then you can look at what percentage of people, again, ethnicity, black has 54%, where
+
+775
+01:08:01,520 --> 01:08:09,120
+ Hispanics 19, white is 26. Again, the number of men versus women. And then how is it spread? You can
+
+776
+01:08:09,120 --> 01:08:21,600
+ look at heterosexual. It's 33%. IDI, inner drug use, and that is 25%. And men, male to male,
+
+777
+01:08:21,600 --> 01:08:28,160
+ sexual contact is 42%. And so those are how these things spread. And again, different populations
+
+778
+01:08:28,160 --> 01:08:32,960
+ and that stuff, but this still is a problem. I think what has happened is that in the late 80s
+
+779
+01:08:32,960 --> 01:08:38,640
+ and early 90s, there was that fear of HIV, and then that kind of went away. And then people started
+
+780
+01:08:38,640 --> 01:08:43,280
+ not practicing safe steps again. And now we're seeing this increase in HIV again and that stuff,
+
+781
+01:08:43,280 --> 01:08:47,840
+ because you hear about the treatments and other things and that people tend to live longer now
+
+782
+01:08:47,840 --> 01:08:52,800
+ with HIV. But it's still something that you get and you have the rest of your life in will probably
+
+783
+01:08:52,800 --> 01:08:58,720
+ be a significant factor and plays a role in your life span. And so that's one of those things
+
+784
+01:08:58,720 --> 01:09:04,080
+ that's very scary. So you have to be very, very careful again, not along with the STDs and everything
+
+785
+01:09:04,080 --> 01:09:07,840
+ else. But HIV, this is something that's going to stay with you the rest of your life and can
+
+786
+01:09:07,840 --> 01:09:13,680
+ affect a lot of different things in your life as you go along. Now, the primary effects of HIV
+
+787
+01:09:13,680 --> 01:09:19,040
+ infection include extreme leukopenia. So again, your white blood cells go down,
+
+788
+01:09:19,040 --> 01:09:23,920
+ you get the formation of these giant T cells and other syncytia that allow the virus to spread
+
+789
+01:09:23,920 --> 01:09:28,800
+ directly from cell to cell. You get infected macrophages that release the virus into the
+
+790
+01:09:28,800 --> 01:09:34,400
+ central nervous system can have a toxic effect on the brain and spinal cord and can lead to
+
+791
+01:09:34,400 --> 01:09:40,480
+ inflammation. And then the secondary effects of HIV is the destruction of those CD4 lymphocytes,
+
+792
+01:09:40,480 --> 01:09:45,440
+ the T helper cells, and leading you to get the opportunistic infections and malignancies. So
+
+793
+01:09:45,440 --> 01:09:50,960
+ HIV itself is not that deadly, but eliminates the cells that you need for your immune system.
+
+794
+01:09:50,960 --> 01:09:55,840
+ The problem is that you eliminate those cells. Now you're set up going to get all these opportunistic
+
+795
+01:09:55,840 --> 01:10:00,000
+ infections that I've been talking about that only if your immune system is weak and only if
+
+796
+01:10:00,000 --> 01:10:04,640
+ this happens, only if this happens. Now you're subjected to all those different things out there
+
+797
+01:10:04,640 --> 01:10:09,520
+ that normally healthy person wouldn't be affected by. And that's a scary thing. You almost become
+
+798
+01:10:09,520 --> 01:10:13,520
+ one of those people that have to live in a bubble because everything out there has the potential
+
+799
+01:10:13,520 --> 01:10:20,400
+ to infect you. Okay, and that's the scary thing with HIV. Now, diagnosis of AIDS. So HIV and AIDS
+
+800
+01:10:20,400 --> 01:10:25,920
+ are two different things. HIV is the virus. AIDS is the syndrome that occurs once you've reached
+
+801
+01:10:25,920 --> 01:10:31,920
+ the stage of the HIV infection. Again, to be considered to have AIDS, you have to be positive
+
+802
+01:10:31,920 --> 01:10:39,280
+ for the virus. So HIV positive, and then fulfill one of the criteria. The most common criteria
+
+803
+01:10:39,280 --> 01:10:46,240
+ that's fulfilled is the CD4 count of fewer than 200 cells per mil of blood, or their CD4 cells
+
+804
+01:10:46,240 --> 01:10:53,040
+ account for fewer than 14% of all their lymphocytes, and that they experience one or more of the CDC
+
+805
+01:10:53,040 --> 01:10:58,560
+ provided list of AIDS-defining diseases. And again, we're going to talk about all the different
+
+806
+01:10:58,560 --> 01:11:03,840
+ diseases here in just a minute. But any of these criteria along with being HIV positive will then
+
+807
+01:11:03,840 --> 01:11:10,880
+ put you in that category of someone that has acquired immune deficiency disease, or AIDS.
+
+808
+01:11:10,880 --> 01:11:15,840
+ Okay, and so that's what we're going to look at next. Here's a list of the diseases. So again,
+
+809
+01:11:15,840 --> 01:11:22,000
+ can affect all the different systems out there. And again, you basically weaken the immune system
+
+810
+01:11:22,000 --> 01:11:27,520
+ enough now that you are more likely and subjected to a lot of opportunistic infections. And that's
+
+811
+01:11:27,520 --> 01:11:33,360
+ where this comes from. So things like skin and mucous membranes, nervous system, cardiovascular
+
+812
+01:11:33,360 --> 01:11:40,000
+ and lymphatic system, respiratory tract, gastrointestinal tract, and the genital urinary tract are all
+
+813
+01:11:40,000 --> 01:11:45,200
+ likely to get some type of infection. And again, it's just the bombardment of these opportunistic
+
+814
+01:11:45,200 --> 01:11:51,360
+ infections and the inability to fight those off that really causes the person that has AIDS to succumb
+
+815
+01:11:51,360 --> 01:11:57,120
+ to death in these cases. And so that's, that's the serious consequences that eventually all these
+
+816
+01:11:57,120 --> 01:12:02,320
+ people at HIV positive will eventually get to this level depending on how well their treatments work
+
+817
+01:12:02,320 --> 01:12:07,280
+ and how long these treatments work. And then you may suffer from one or more of these diseases.
+
+818
+01:12:07,280 --> 01:12:15,920
+ Okay. So again, preventing and treating HIV, there's no vaccine available. This disease has been around
+
+819
+01:12:15,920 --> 01:12:21,920
+ for at least 30 years. And again, we haven't gotten any closer to coming to a vaccine. Again,
+
+820
+01:12:21,920 --> 01:12:26,640
+ the idea is using universal precautions when you're handling blood products, when auguminous
+
+821
+01:12:26,640 --> 01:12:32,720
+ sexual relationships, wearing condoms, practicing safe sex, all those things. There is no cure for
+
+822
+01:12:32,720 --> 01:12:37,360
+ the disease. Once you have it, so if you're HIV positive, but it shouldn't mean that you are going
+
+823
+01:12:37,360 --> 01:12:42,080
+ to have a death sentence that you're going to die next next week or anything like that. There are a
+
+824
+01:12:42,080 --> 01:12:48,320
+ number of effective ways to slow down the progress of the disease and diminish the symptoms. And it
+
+825
+01:12:48,320 --> 01:12:52,640
+ includes a combination of these things. So a lot of times what they'll give is these protease
+
+826
+01:12:52,640 --> 01:12:58,480
+ inhibitors, reverse transcriptase inhibitors, integrase inhibitors, inhibit diffusion of the
+
+827
+01:12:58,480 --> 01:13:05,600
+ virus getting to cells, the antroviral therapy, we talked about the AZT, which prevents transcription
+
+828
+01:13:05,600 --> 01:13:11,520
+ of the virus. So a combination of these things have actually worked very well in keeping people alive,
+
+829
+01:13:11,520 --> 01:13:17,840
+ much longer than without any treatment whatsoever. And so I don't want you if you are HIV positive,
+
+830
+01:13:17,840 --> 01:13:22,640
+ or you acquire this sometime in the future, that it doesn't mean that you're going to die
+
+831
+01:13:22,640 --> 01:13:28,240
+ tomorrow. There are a lot of helpful treatments out there now. There is no cure yet. But hopefully
+
+832
+01:13:28,240 --> 01:13:32,320
+ down the line that they make enough progress that there's a cure and a vaccine, so we don't
+
+833
+01:13:32,320 --> 01:13:37,360
+ have to worry about it. But this is still a disease that's out there. And it still infects a lot of
+
+834
+01:13:37,360 --> 01:13:42,160
+ people. Just think of this, a million people in the United States alone are infected with about 35
+
+835
+01:13:42,160 --> 01:13:48,080
+ million worldwide. So always be aware of that type of infection, and it's not going away.
+
+836
+01:13:48,080 --> 01:13:52,560
+ Okay, so these people are going to have it the rest of their lives. So that's the thing you need to
+
+837
+01:13:52,560 --> 01:13:59,920
+ think about. Okay, so which of the following cells target the HIV infection? Is it the digidridic cells,
+
+838
+01:13:59,920 --> 01:14:06,560
+ the monocytes, the helper T cells, or all these can support infections? So probably most of you
+
+839
+01:14:06,560 --> 01:14:10,160
+ guys are going to jump out in there and say, see, it's helper T cells, because that's what I'm talking
+
+840
+01:14:10,160 --> 01:14:15,440
+ about. And that would be correct. But it's actually all of these that can support the HIV. It can
+
+841
+01:14:15,440 --> 01:14:21,440
+ get into dendritic cells into monocytes because they do carry the CD4 receptor along with the T
+
+842
+01:14:21,440 --> 01:14:26,400
+ helper cells. Now, by far the T helper cells are the ones that get most effective and actually get
+
+843
+01:14:26,400 --> 01:14:31,200
+ destroyed. But the dendritic and monocytes can harbor the infection for a long period of time
+
+844
+01:14:31,200 --> 01:14:35,440
+ and actually spread the disease to the other parts of the body. So all these cells actually
+
+845
+01:14:35,440 --> 01:14:41,120
+ can support. So if you said d, you got it, right? You're paying some close attention to the lecture
+
+846
+01:14:41,120 --> 01:14:47,200
+ and the notes. All right, so let's finish up with some non-enveloped single-stranded viruses. We got
+
+847
+01:14:47,200 --> 01:14:53,520
+ a couple more left and we'll talk a little bit about these viruses and then move on to the prions
+
+848
+01:14:53,520 --> 01:14:59,840
+ at the very end. But again, in these non-enveloped single-stranded viruses include things like polio,
+
+849
+01:14:59,840 --> 01:15:05,040
+ hepatitis A, and the good old rhinovirus, which is the good old common cold. So we'll talk a little
+
+850
+01:15:05,040 --> 01:15:10,880
+ bit about that as well and why there is no vaccine for the good old common cold. So again, the first
+
+851
+01:15:10,880 --> 01:15:17,440
+ one is the polio virus causes polio malitis. And again, this is an acute intra-viral infection that
+
+852
+01:15:17,440 --> 01:15:24,240
+ infects the spinal cord and causes neuromuscular paralysis. The polio virus is a naked capsid
+
+853
+01:15:24,240 --> 01:15:29,120
+ resistant to acid, bile, and detergents and can survive stomach acids when ingested.
+
+854
+01:15:29,120 --> 01:15:33,440
+ Again, worldwide vaccinations programs have reduced the number of occasions and eventually
+
+855
+01:15:33,440 --> 01:15:39,920
+ eradication will occur. Here's an old box of the polio malitis vaccine, the salt vaccine,
+
+856
+01:15:39,920 --> 01:15:44,720
+ and that again, this was introduced in the 1950s. And again, the virus is spread through
+
+857
+01:15:44,720 --> 01:15:50,320
+ fecal oral routes with contaminated water with fecal material spreads the virus to other people.
+
+858
+01:15:50,320 --> 01:15:54,800
+ And so it enters in through the intestine and then spreads out to the nerves when you get this
+
+859
+01:15:54,800 --> 01:16:00,240
+ infection. So again, it's transmitted fecal oral. The polio virus adheres to the mucosal cells in
+
+860
+01:16:00,240 --> 01:16:06,720
+ the oral pharynx and intestine, multiply and shed in the throat and feces, some leak into blood.
+
+861
+01:16:06,720 --> 01:16:12,000
+ And again, most infections are short-term and mild virinium getting into the blood.
+
+862
+01:16:12,000 --> 01:16:16,400
+ However, these can escape and get into the spinal cord and into the brain. And if that happens,
+
+863
+01:16:16,400 --> 01:16:24,240
+ that's when you start to see the more significant effects of polio in this case. Some develop mild,
+
+864
+01:16:24,240 --> 01:16:29,040
+ non-specific symptoms, including fever, headache, nausea, sore throat, and malayasia. And again,
+
+865
+01:16:29,040 --> 01:16:34,640
+ if erymia persists, the virus spreads the spinal cord in brain. And if the nervous tissue is infected
+
+866
+01:16:34,640 --> 01:16:40,320
+ but not destroyed, it can cause muscle pain and spasm. It can also lead to meningial inflammation
+
+867
+01:16:40,320 --> 01:16:47,760
+ and vague hypersensitivity in those situations. Now, once it gets into the motor neurons, it can
+
+868
+01:16:47,760 --> 01:16:53,920
+ cause flaccid paralysis. So what it does is it blocks again the signaling from the motor neurons
+
+869
+01:16:53,920 --> 01:17:00,080
+ to the muscles. And so you develop this post-polio syndrome, which is a progressive muscle deterioration
+
+870
+01:17:00,080 --> 01:17:06,080
+ and occurs in about 25 to 50% of the patients that are infected with the polio virus in childhood.
+
+871
+01:17:06,080 --> 01:17:10,800
+ So it's a virus that stays around for the for your life. If again, you don't get treated.
+
+872
+01:17:10,800 --> 01:17:17,600
+ Again, about 80 to 85% are asymptomatic. Some get aseptic meningitis. If you get some minor
+
+873
+01:17:17,600 --> 01:17:23,360
+ CNS illnesses and then the paralytic is a very small amount. But again, this is one of those
+
+874
+01:17:23,360 --> 01:17:31,840
+ progressive diseases that we've blocked by vaccination. Now, probably the most common or most what most
+
+875
+01:17:31,840 --> 01:17:37,760
+ of you guys are familiar with is the person or the most famous person that actually had polio as a child
+
+876
+01:17:37,760 --> 01:17:44,880
+ was is the or not Theodore Roosevelt. Franklin Delano Roosevelt, in this case FDR, and he actually
+
+877
+01:17:44,880 --> 01:17:49,840
+ had the disease and he had the crippling disease where basically had muscle weakness in his legs
+
+878
+01:17:49,840 --> 01:17:54,320
+ and started getting to his arms and that stuff. And so during the time with the United States,
+
+879
+01:17:54,320 --> 01:17:58,400
+ they didn't want to show a weekend president during the war. And so they always showed him
+
+880
+01:17:58,400 --> 01:18:03,040
+ covered sitting in a chair, but he was actually, you know, and then he would have braces and other
+
+881
+01:18:03,040 --> 01:18:07,440
+ things to make him stand, allow him to stand up and that stuff. But you never see any pictures of
+
+882
+01:18:07,440 --> 01:18:13,840
+ him in a wheelchair or anything else because they always wanted to proceed make the perception of,
+
+883
+01:18:13,840 --> 01:18:18,560
+ you know, he was a strong president and he could lead the country, especially in the time of war
+
+884
+01:18:18,560 --> 01:18:23,200
+ and that stuff. And so that would, that would have changed things. So in the day today and the social
+
+885
+01:18:23,200 --> 01:18:28,320
+ meeting and everything else, that would never happen. But back in the 1930s and 40s when he was
+
+886
+01:18:28,320 --> 01:18:32,400
+ president, you know, he could get away with it because a lot of people didn't know they only saw
+
+887
+01:18:32,400 --> 01:18:36,400
+ the pictures of him in the newspaper. He looked strong. He would make these strong comments on the
+
+888
+01:18:36,400 --> 01:18:41,680
+ radio and you didn't see it. There wasn't even TV back then. So you wouldn't know about these things.
+
+889
+01:18:41,680 --> 01:18:47,040
+ Now again, prevention is through vaccination. And again, it's an activated polio vaccine,
+
+890
+01:18:47,040 --> 01:18:52,480
+ the salt vaccine. And there is a oral polio vaccine called the saving vaccine. Again,
+
+891
+01:18:52,480 --> 01:18:57,280
+ it's no longer recommended in the United States because we pretty much eliminated polio in this
+
+892
+01:18:57,280 --> 01:19:01,680
+ country. However, there's been some situations in the last couple of years where there have been
+
+893
+01:19:01,680 --> 01:19:08,480
+ these polio like viruses that people have been coming in contact. So we might see a reintroduction
+
+894
+01:19:08,480 --> 01:19:13,680
+ of these vaccines in the next, next couple of years in case in case these numbers continue to
+
+895
+01:19:13,680 --> 01:19:19,120
+ grow and that stuff. And so it'll be interesting to see what happens here in the future. But for now,
+
+896
+01:19:19,120 --> 01:19:25,520
+ most people do not get vaccinated for polio anymore. Okay, worldwide eradication is being
+
+897
+01:19:25,520 --> 01:19:29,760
+ attempted to try and eliminate it from the world, just like smallpox. And again,
+
+898
+01:19:29,760 --> 01:19:35,120
+ the biggest thing is when someone does have this disease is that again, it's progressive
+
+899
+01:19:35,120 --> 01:19:41,600
+ over life and may require ventilation and physical therapy to help strengthen the muscles. But again,
+
+900
+01:19:41,600 --> 01:19:47,920
+ over time, you get paralysis and weakness and eventually death with this disease. Okay, another
+
+901
+01:19:47,920 --> 01:19:53,040
+ one is hepatitis A. And this is an infectious hepatitis that's spread through food. And again,
+
+902
+01:19:53,040 --> 01:19:58,960
+ this is a pecoronavirus that's relatively resistant to heat and acid. It's not carried chronically.
+
+903
+01:19:58,960 --> 01:20:03,360
+ Principal rest of wars are asymptomatic short term carriers and people with clinical disease.
+
+904
+01:20:03,360 --> 01:20:08,640
+ Again, it's passed through the fecal oral route and multiplies in the small intestine and enters
+
+905
+01:20:08,640 --> 01:20:13,520
+ into the blood and is carried to the liver. Now in this case, typically what happens is that people
+
+906
+01:20:13,520 --> 01:20:18,560
+ eat food that's been contaminated with fecal material. A lot of times this comes in your fruits
+
+907
+01:20:18,560 --> 01:20:22,400
+ and vegetables that come from other countries. And it may have been spread. That's why you should
+
+908
+01:20:22,400 --> 01:20:27,440
+ always wash your fruits and vegetables when you get home and that. And then again, the virus can
+
+909
+01:20:27,440 --> 01:20:33,200
+ get in, get into the digestive system. And again, most people cover completely without any problems.
+
+910
+01:20:33,760 --> 01:20:38,960
+ The most common cause is nausea and vomiting that you get. And again, spread through direct
+
+911
+01:20:38,960 --> 01:20:45,360
+ contact with beverages and cups and other things. Again, it does can cause some flu like symptoms
+
+912
+01:20:45,360 --> 01:20:50,480
+ for your cure. John does is very seldom doesn't do a lot of damage to the liver and it's easily
+
+913
+01:20:50,480 --> 01:20:55,840
+ to get over. And so once you do have it, you do develop immunity to it and you won't get it again.
+
+914
+01:20:55,840 --> 01:21:01,120
+ There is a vaccine for it for people. So if they do know of an outbreak, especially in fruits and
+
+915
+01:21:01,120 --> 01:21:05,920
+ that stuff, sometimes you might hear a cafeteria food that was contaminated with it that they may
+
+916
+01:21:05,920 --> 01:21:11,600
+ vaccinate all the kids in that in that school to prevent them from getting the hepatitis A.
+
+917
+01:21:11,600 --> 01:21:17,360
+ Again, there's no specific treatment once the symptoms begin. There isn't an activated viral
+
+918
+01:21:17,360 --> 01:21:22,960
+ vaccine and an attenuated viral vaccine that's given when there's outbreaks reported. And again,
+
+919
+01:21:22,960 --> 01:21:28,720
+ for those that are entering into endemic areas where the words found a lot, you can take a temporary
+
+920
+01:21:28,720 --> 01:21:33,280
+ vaccine to protect yourself from getting in. And again, that's through the immune surveillance,
+
+921
+01:21:33,280 --> 01:21:39,040
+ immune serum globulin. So that would be a passive vaccination again to protect you
+
+922
+01:21:39,040 --> 01:21:46,240
+ if you're going to areas where this virus is seen. Okay, so polio myelitis is generally
+
+923
+01:21:46,240 --> 01:21:51,600
+ acquired through what sexual contact, insect factor, ingestion, or inhalation. How do you get polio?
+
+924
+01:21:52,400 --> 01:21:59,200
+ Remember, it's the fecal oral route. So it would be ingestion. Good job if you got it right. Okay,
+
+925
+01:21:59,200 --> 01:22:04,400
+ so the next one is the human rhinovirus or HRB. And again, there's more than 110
+
+926
+01:22:04,400 --> 01:22:09,840
+ serotypes associated with the common cold. This is a unique molecular surface that makes development
+
+927
+01:22:09,840 --> 01:22:15,040
+ of a vaccine unlikely. And so since there are so many different particles that are out there
+
+928
+01:22:15,040 --> 01:22:21,040
+ and they can change very easily, and there are so many strains going and circulating at a time that
+
+929
+01:22:21,040 --> 01:22:25,520
+ really a vaccine for the common cold is probably going to be unlikely because there are so many
+
+930
+01:22:25,520 --> 01:22:31,920
+ strains out there, so many types, serotypes that in the unique structure of it that making a vaccine
+
+931
+01:22:31,920 --> 01:22:36,640
+ towards the common cold will probably be unlikely. And that's unfortunate because we all suffer from
+
+932
+01:22:36,640 --> 01:22:42,000
+ it. Again, many strains circulate in the population at one time and are acquired from contaminated
+
+933
+01:22:42,000 --> 01:22:47,360
+ hands and surfaces. So these viruses stay around for you to touch, touch your mouth and bring it in,
+
+934
+01:22:47,360 --> 01:22:52,480
+ and that's how you get it or again, respiratory droplets breathing those in, but typically from
+
+935
+01:22:52,480 --> 01:22:59,360
+ the contaminated surfaces. Now, again, the human rhinovirus is sensitive to acid environments.
+
+936
+01:22:59,360 --> 01:23:04,800
+ The optimum temperature is 33 degrees C, so below our temperature. It does cause headache,
+
+937
+01:23:04,800 --> 01:23:12,880
+ chills, fatigue, sore throat, cough, and nasal drainage. Again, treat the symptoms in these
+
+938
+01:23:12,880 --> 01:23:18,560
+ cases and hand washing and care and handling nasal secretions are always a big thing.
+
+939
+01:23:18,560 --> 01:23:23,840
+ Here I have a list just comparing the cold or flu. Do you have a cold or do you have the flu?
+
+940
+01:23:23,840 --> 01:23:29,600
+ And typically the biggest difference is fever. Fever is associated with the flu where you get
+
+941
+01:23:29,600 --> 01:23:34,160
+ an usually high fever, where with the cold it's pretty rare that you ever get a fever. You might
+
+942
+01:23:34,160 --> 01:23:38,800
+ get a low grade fever about maybe 100 degrees, but most of the time you don't get a fever associated
+
+943
+01:23:38,800 --> 01:23:44,080
+ with flu. It's very likely you're going to have a fever at least 100, 103, maybe even 104.
+
+944
+01:23:44,080 --> 01:23:49,760
+ The general aches and pains throughout your body with a cold is primarily limited to the upper
+
+945
+01:23:49,760 --> 01:23:55,120
+ respiratory system and that so you may have a headache in that, but with the flu it's all over.
+
+946
+01:23:55,120 --> 01:24:01,120
+ You know the difference between that. And again, a lot of times you see that with the cold,
+
+947
+01:24:01,120 --> 01:24:07,120
+ definitely a stuffy nose, sneezing, sore throat, and again with flu that only occurs sometimes.
+
+948
+01:24:07,120 --> 01:24:12,160
+ Chest discomfort, again the cough, and again lots of different treatments over the counters
+
+949
+01:24:12,160 --> 01:24:17,520
+ and that stuff. Proventions are pretty much the same except the banal vaccination with the flu.
+
+950
+01:24:17,520 --> 01:24:22,640
+ And again complications may include sinus congestion, malaria, infection, where these can be life
+
+951
+01:24:22,640 --> 01:24:28,640
+ threatening. And so again a cold is much much less likely to cause severe disease. Again it's more
+
+952
+01:24:28,640 --> 01:24:34,160
+ of an inconvenience or a nuisance that we suffer, get over it, and move on and that stuff and it
+
+953
+01:24:34,160 --> 01:24:38,880
+ spreads very easily. Whereas the flu, this is something different, this is going to be much more
+
+954
+01:24:38,880 --> 01:24:43,600
+ overall body, just basically wipes you out and you're out for a couple of days, you know,
+
+955
+01:24:43,600 --> 01:24:47,920
+ where you know that you're really really sick and there is a potential for life threatening
+
+956
+01:24:47,920 --> 01:24:52,320
+ complications with the cold, not so much. And again it's primarily going to stick to the
+
+957
+01:24:52,320 --> 01:24:57,760
+ the head and neck region with that sore throat, coughing, sneezing, and that and then more of a
+
+958
+01:24:57,760 --> 01:25:04,560
+ nuisance like I said, you get over it and time goes on. Okay. Now the last group of viruses
+
+959
+01:25:04,560 --> 01:25:08,880
+ that we're going to talk about are the double stranded RNA viruses and associated with this
+
+960
+01:25:08,880 --> 01:25:13,440
+ are the diarrhea, vomiting, and fever. And so these are a lot of times what we see with infantile
+
+961
+01:25:13,440 --> 01:25:19,520
+ diarrhea and those that spread from many people at one time. And so you hear about these things
+
+962
+01:25:19,520 --> 01:25:25,200
+ like on cruise ships and other places where these spread pretty quickly. Okay so the two are the
+
+963
+01:25:25,200 --> 01:25:31,040
+ rheovirus and the rhodovirus and again it's a cold like upper respiratory infection and can cause
+
+964
+01:25:31,040 --> 01:25:36,880
+ enterteditis. So this is a lot of times what people think is a 24 hour flu or something similar to that.
+
+965
+01:25:36,880 --> 01:25:42,640
+ The rhodovirus is an oral fecal transmission, the primary viral cause of morbidity and mortality
+
+966
+01:25:42,640 --> 01:25:47,760
+ and children resulting in diarrhea and infants and children. Again this is severe case associated
+
+967
+01:25:47,760 --> 01:25:54,000
+ with this is dehydration, severe diarrhea, cramping, vomiting, and other things like that. And again
+
+968
+01:25:54,000 --> 01:25:58,560
+ typically where healthcare is pretty poor and clean water is really difficult that's where you're
+
+969
+01:25:58,560 --> 01:26:03,440
+ going to see most of the deaths. Most of the time most people recover pretty easily to get
+
+970
+01:26:03,440 --> 01:26:11,200
+ rehydration, electrolytes, and you know the typical stimulants to help you get over the diarrhea in
+
+971
+01:26:11,200 --> 01:26:17,440
+ the situation. Okay. The last group that we're going to talk about today is the infectious
+
+972
+01:26:17,440 --> 01:26:22,080
+ protein particles and again these are the prions. And so I just wanted to show you some of the
+
+973
+01:26:22,080 --> 01:26:27,920
+ differences between prions and the different types of diseases out there. And again typically
+
+974
+01:26:27,920 --> 01:26:33,360
+ what occurs is that it gets into the neural tissue. These proteins start to grow in the nervous system,
+
+975
+01:26:33,360 --> 01:26:38,560
+ nervous tissue, and starts eating away at the brain. And so that's what happens. You start to see
+
+976
+01:26:38,560 --> 01:26:43,440
+ these holes in the brain. So that's what you're seeing. You get shrinkage in the brain and
+
+977
+01:26:43,440 --> 01:26:48,800
+ de deterioration that it causes. And again the differences is in this protein. Here's the normal
+
+978
+01:26:48,800 --> 01:26:53,920
+ prion protein. It's called PRP that we have in our brain. What happens is that it gets mutated
+
+979
+01:26:53,920 --> 01:26:59,040
+ by this abnormal protein and our normal proteins start to look like this. The problem with this
+
+980
+01:26:59,040 --> 01:27:03,680
+ is that it doesn't degrade. And so it just builds up, builds up, builds up. And what you can see
+
+981
+01:27:03,680 --> 01:27:10,560
+ is it starts putting holes in the brain. And that's the scary thing. Okay. Now the prions in the
+
+982
+01:27:10,560 --> 01:27:15,920
+ spongiform encephalopathies, the prions are protonaceous infectious particles highly resistant to
+
+983
+01:27:15,920 --> 01:27:21,440
+ chemicals, radiation. And again here's the normal protein. Here's the abnormal protein. And what it
+
+984
+01:27:21,440 --> 01:27:27,840
+ causes is this transmittable spongiform encephalopathies in both humans and animals. And it's a neurodegenerative
+
+985
+01:27:27,840 --> 01:27:33,120
+ disease with long incubation periods. Here's short term. Here's long term. You can see these
+
+986
+01:27:33,120 --> 01:27:38,160
+ areas where the tissue is just being degraded. You see these large areas where it's just cleared
+
+987
+01:27:38,160 --> 01:27:42,320
+ out. And basically what's there is filled of protein. And so that protein just continues to
+
+988
+01:27:42,320 --> 01:27:47,120
+ build, build, build. There's no degradation. This protein has to go somewhere. And so it starts
+
+989
+01:27:47,120 --> 01:27:53,920
+ destroying cells around it because it has to fill the space with this protein. Okay. Now again,
+
+990
+01:27:53,920 --> 01:27:59,520
+ some of the characteristics is very resistant to chemicals and radiation and heat. It does not
+
+991
+01:27:59,520 --> 01:28:05,840
+ present virus morphology and electron, more microscopy of infected brain tissue. It's integrated into
+
+992
+01:28:05,840 --> 01:28:10,960
+ nucleic acid and infected host cell are not integrated. I'm sorry, unlike the viruses. It's
+
+993
+01:28:10,960 --> 01:28:18,320
+ protein in nature. No DNA or RNA. Does not elicit inflammatory reaction or reaction or psychopathic
+
+994
+01:28:18,320 --> 01:28:22,960
+ effects in the host. Does not elicit antibody formation in the host. And it's responsible for
+
+995
+01:28:22,960 --> 01:28:28,320
+ vacuoles and abnormal fibers forming in the brain of the host. And it's transmitted only by close
+
+996
+01:28:28,320 --> 01:28:33,040
+ direct contact with infected tissues and secretions. So again, you have to come in contact with these
+
+997
+01:28:33,040 --> 01:28:38,720
+ things and physically almost eat the stuff to get it inside you so that you get these infections.
+
+998
+01:28:39,520 --> 01:28:46,240
+ Now, the one that causes the human encephalopathy is called crusphylgecope disease or CJD. It's an
+
+999
+01:28:46,240 --> 01:28:50,560
+ alteration in the structure of the normal PRP protein and it's found in the brain. So we have
+
+1000
+01:28:50,560 --> 01:28:57,200
+ the normal PRP and then it gets mutated into the abnormal. Now there is a slight, slight
+
+1001
+01:28:57,200 --> 01:29:03,920
+ possibility probably less than 0.1 percent. The chance that a normal protein could mutate into
+
+1002
+01:29:03,920 --> 01:29:08,640
+ this abnormal one and it builds this way. More likely where people get this as they get it from
+
+1003
+01:29:08,640 --> 01:29:14,560
+ an infected source that has this abnormal protein, either another person or another animal that
+
+1004
+01:29:14,560 --> 01:29:20,160
+ has this and then they get it into their nervous system. The abnormal PRP results in nerve cell
+
+1005
+01:29:20,160 --> 01:29:25,920
+ deaths, spongiform damage, and severe loss of brain function. Again, transmission is through
+
+1006
+01:29:25,920 --> 01:29:31,120
+ direct or indirect contact with an infected brain tissue or cerebral spinal fluid. Now,
+
+1007
+01:29:31,120 --> 01:29:35,920
+ what's interesting is that one of my former students just sent me an article saying about
+
+1008
+01:29:35,920 --> 01:29:40,480
+ I think it was the hospital down in Raleigh, North Carolina is dealing with this issue
+
+1009
+01:29:40,480 --> 01:29:45,120
+ primarily where basically they had to shut down all the surgeries that were going on because
+
+1010
+01:29:45,120 --> 01:29:50,560
+ their instruments were contaminated with this CJD. And again, it was because they were working on
+
+1011
+01:29:50,560 --> 01:29:55,520
+ someone that they didn't know at the time had it, but it turns out she had it. Now everything is
+
+1012
+01:29:55,520 --> 01:30:00,480
+ contaminated with this and so now they have to go in and sterilize. So before they can perform
+
+1013
+01:30:00,480 --> 01:30:06,240
+ any other surgeries, they have to sterilize everything and the sterilization techniques are
+
+1014
+01:30:06,240 --> 01:30:10,800
+ a lot different than the normal sterilization that we use in our equipment. And so you have to do
+
+1015
+01:30:10,800 --> 01:30:15,680
+ special things in order to clean things up. And so this can shut down a hospital for many days to
+
+1016
+01:30:15,680 --> 01:30:22,080
+ many weeks, depending on how severe this outbreak was or how many instruments or whatever she was
+
+1017
+01:30:22,080 --> 01:30:27,280
+ in came in contact with and that they have to change now because of it. And so this can be a
+
+1018
+01:30:27,280 --> 01:30:34,000
+ severe situation in that. And again, this is found not only in humans, but also in other mammals,
+
+1019
+01:30:34,000 --> 01:30:40,800
+ including cows, which is the mad cow disease found in sheep, which is called scrappy, and then in
+
+1020
+01:30:40,800 --> 01:30:47,360
+ the deer and elk population called chronic wasting disease. And again, they test for this when people
+
+1021
+01:30:47,360 --> 01:30:52,880
+ go hunting, the DNR will test the animals. So when you bring the animal to the DNR after you
+
+1022
+01:30:52,880 --> 01:30:57,760
+ to tag in everything, they will test. And if it comes out positive, you are not allowed to
+
+1023
+01:30:57,760 --> 01:31:02,160
+ handle that animal anymore, they will confiscate it and take our way from you. So that's the
+
+1024
+01:31:02,160 --> 01:31:07,840
+ unfortunate thing. And so, but it's for your safety as well as the safety of others so that you don't
+
+1025
+01:31:07,840 --> 01:31:12,400
+ get the disease. You don't want this disease. There's no cure. There's no way to get rid of this
+
+1026
+01:31:12,400 --> 01:31:19,440
+ protein once it's inside of you. And that's the scary thing. Okay. With the human encephalopathy,
+
+1027
+01:31:19,440 --> 01:31:24,400
+ the variant CJD became apparent in the late 1990s after eating meat from cattle,
+
+1028
+01:31:24,400 --> 01:31:29,120
+ affected with the bovine smungiform encephalopathy. It's difficult to diagnose and
+
+1029
+01:31:29,120 --> 01:31:33,280
+ records examination of the biopsy brain or nervous tissue. And again, you can see the
+
+1030
+01:31:33,280 --> 01:31:38,560
+ difference. Here's a normal brain. Here's one with CJD. And again, you see the shrinking of the brain
+
+1031
+01:31:38,560 --> 01:31:43,840
+ in areas or pockets where the brain is being, the spongy form brain is being eaten away.
+
+1032
+01:31:43,840 --> 01:31:48,960
+ Prevention relies on avoidance of contaminated tissues. And again, treatments focuses on easing
+
+1033
+01:31:48,960 --> 01:31:53,920
+ the symptoms. There is no cure. Once you get this, this is your, this is going to be your life.
+
+1034
+01:31:53,920 --> 01:31:58,720
+ And again, it's a slow progressive death where again, you start to lose motor function. You slip
+
+1035
+01:31:58,720 --> 01:32:03,120
+ into a coma and you eventually die from this disease. There's not much you can do once you get this
+
+1036
+01:32:03,120 --> 01:32:10,320
+ protein in your brain, unfortunately. Okay. And so, this is a nice little video to show you how
+
+1037
+01:32:10,320 --> 01:32:15,040
+ the prions arise. I like showing this just to give you an idea of where this protein comes from
+
+1038
+01:32:15,040 --> 01:32:18,480
+ and how, how it spreads throughout the body. So let's take a look at this.
+
+1039
+01:32:18,480 --> 01:32:24,640
+ There is evidence that the infectious agent associated with certain brain diseases,
+
+1040
+01:32:24,640 --> 01:32:30,480
+ such as Creutzfeld-Yachob disease in humans and mad cow disease in animals, may be caused by a
+
+1041
+01:32:30,480 --> 01:32:37,120
+ protein. The infectious agent has been called a prion for protonaceous infectious particle.
+
+1042
+01:32:40,000 --> 01:32:47,040
+ The normal prion protein, PRPC, is bound to the surfaces of neurons and the gene for PRP
+
+1043
+01:32:47,040 --> 01:32:54,560
+ is present in normal vertebrates and invertebrates. Presumably, the normal prion protein, PRPC,
+
+1044
+01:32:54,560 --> 01:33:01,600
+ can be altered and the altered prion protein, PRPSC, SC meaning "scrapey associated",
+
+1045
+01:33:01,600 --> 01:33:07,680
+ becomes misfolded and takes on a different conformation. Many researchers believe that the
+
+1046
+01:33:07,680 --> 01:33:15,600
+ infective agent is this alternative protein conformation. It is believed that when PRPSC
+
+1047
+01:33:15,600 --> 01:33:23,120
+ enters a normal brain, it binds to the normal cellular PRP, PRPC, and induces it to fold into
+
+1048
+01:33:23,120 --> 01:33:35,360
+ the abnormal conformation. The newly produced PRPSC molecule may then convert more normal PRPC
+
+1049
+01:33:35,360 --> 01:33:43,200
+ proteins into the abnormal PRPSC form. An alternative hypothesis is that PRPSC
+
+1050
+01:33:43,200 --> 01:33:47,920
+ could activate enzymes that modify the PRPC structure, not shown.
+
+1051
+01:33:47,920 --> 01:33:54,640
+ So I like this video because it shows you exactly what happens during the progression of the disease.
+
+1052
+01:33:54,640 --> 01:33:59,680
+ So not only do you get infected with this protein, but the protein can then go and change the normal
+
+1053
+01:33:59,680 --> 01:34:05,760
+ protein you have into this scrappy protein or this SC protein. And so that's the scary thing,
+
+1054
+01:34:05,760 --> 01:34:10,000
+ is that it's a progressive disease. Not only do you get this protein and it keeps replicating
+
+1055
+01:34:10,000 --> 01:34:15,840
+ on its own, but it changes your normal protein into the prion protein that you don't want.
+
+1056
+01:34:15,840 --> 01:34:18,960
+ Okay, and that kind of shows you how this disease progresses.
+
+1057
+01:34:18,960 --> 01:34:25,200
+ All right, so we made it to the end. This is the last video. You made it. Congratulations.
+
+1058
+01:34:25,200 --> 01:34:30,480
+ Let's finish up with the summary, and we'll call it good for today. To summarize, we saw
+
+1059
+01:34:30,480 --> 01:34:35,360
+ numerous types of RNA viruses. And again, they're based on not only the type of RNA that they have
+
+1060
+01:34:35,360 --> 01:34:40,160
+ in the inside, but if they're enveloped or non-enveloped in that. And again, we talked a lot about
+
+1061
+01:34:40,160 --> 01:34:46,880
+ some different ones. The envelope segment in RNA includes influenza. The HNN proteins are the
+
+1062
+01:34:46,880 --> 01:34:52,240
+ important thing, you know, or the not proteins, but the glycoproteins, yeah, glycoproteins on
+
+1063
+01:34:52,240 --> 01:34:57,600
+ there that are important. I talked about antigenic shift versus drift, and that, and knowing the
+
+1064
+01:34:57,600 --> 01:35:02,800
+ difference between those, we talked about the envelope, non-segment, RNA, measles, mumps,
+
+1065
+01:35:02,800 --> 01:35:08,400
+ rabies, hepatitis C, a lot of those viruses, again, are protection through vaccination,
+
+1066
+01:35:08,400 --> 01:35:14,880
+ but again, can cause some disease in those that haven't been vaccinated. The arbroviruses are the
+
+1067
+01:35:14,880 --> 01:35:19,840
+ arthropod-borne, and that includes the West Nile, yellow fever, Zika virus that also be included in
+
+1068
+01:35:19,840 --> 01:35:25,840
+ here. The retroviruses are the HIV. We did a lot about HIV. I like to ask a lot of questions about
+
+1069
+01:35:25,840 --> 01:35:31,360
+ HIV on the test. And again, it's not so much the lot of the general things that we saw. And again,
+
+1070
+01:35:31,360 --> 01:35:37,360
+ what cells do they infect? Why? What happens during the process? What causes death in a lot of these
+
+1071
+01:35:37,360 --> 01:35:42,320
+ people in that? And so, you know, just knowing the basics, I think you're going to be fine,
+
+1072
+01:35:42,320 --> 01:35:48,240
+ looking at that, that don't spend too much time in that. We talked briefly about the non-enveloped
+
+1073
+01:35:48,240 --> 01:35:54,720
+ RNA viruses, including polio, hepatitis A, and the cold viruses, the rhinoviruses. And then finally,
+
+1074
+01:35:54,720 --> 01:35:59,920
+ we finished up with the double-stranded RNA. And that was the Rio and the rhodoviruses. And again,
+
+1075
+01:35:59,920 --> 01:36:06,960
+ these cause the infantile diarrhea. Again, proper hydration and electrolyte therapy is what you do
+
+1076
+01:36:06,960 --> 01:36:11,840
+ in these situations. However, in areas where you don't see that, that's where it can lead to death.
+
+1077
+01:36:11,840 --> 01:36:16,480
+ And then finally, we finished up with the infectious protein particles. We looked at prions,
+
+1078
+01:36:16,480 --> 01:36:21,920
+ which are the indestructible protein particles. It's completely proteinaceous. There's no DNA
+
+1079
+01:36:21,920 --> 01:36:28,000
+ involved or RNA in these situations. It gets passed by protein. And again, you have to come in contact
+
+1080
+01:36:28,000 --> 01:36:33,840
+ with those proteins in order to get infected. And so, we talked about the human form, which is the
+
+1081
+01:36:33,840 --> 01:36:40,080
+ CJD or Kreitzfeld, Jacob disease. And again, that is the human spongiform encephalopathy. And again,
+
+1082
+01:36:40,080 --> 01:36:45,920
+ it gets into the brain, changes those normal PRP proteins to the abnormal ones. They don't get
+
+1083
+01:36:45,920 --> 01:36:50,960
+ broken down. They build up in the brain and then lead to destructive features into the brain and
+
+1084
+01:36:50,960 --> 01:36:56,320
+ leading to death and those that are infected. Okay? So, we made it to the end. If you have any
+
+1085
+01:36:56,320 --> 01:37:00,800
+ questions, please feel free to email me, send me comments and do all those wonderful things.
+
+1086
+01:37:00,800 --> 01:37:05,040
+ Stop me in my office, ask me in the lab. I'd be happy to talk to you about these things. I find
+
+1087
+01:37:05,040 --> 01:37:10,480
+ it very interesting. Hopefully, this wasn't too overwhelming in that and those things. And, you know,
+
+1088
+01:37:10,480 --> 01:37:14,880
+ if there was a way to get this cut down shorter, I would. But I like to talk and give you a little
+
+1089
+01:37:14,880 --> 01:37:19,040
+ information about that at the same time and that stuff. And like I said, if you do have any questions,
+
+1090
+01:37:19,040 --> 01:37:24,960
+ let me know. Thanks for being in great class, everything else, and watching these videos and
+
+1091
+01:37:24,960 --> 01:37:29,760
+ taking the time and watching those. Like I said, if you do have any questions, please ask. You made
+
+1092
+01:37:29,760 --> 01:37:35,920
+ it to the end. Last one. And good luck to you in the future and all that you do. Okay? Thanks for
+
+1093
+01:37:35,920 --> 01:37:38,560
+ watching. And I won't see you next time.
+

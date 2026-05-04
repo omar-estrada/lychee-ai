@@ -1,0 +1,2024 @@
+1
+00:00:00,000 --> 00:00:06,040
+ Hey, everybody, Ryan here and welcome back to our Patient Management series.
+
+2
+00:00:06,040 --> 00:00:09,600
+ We're going to cover a lot of material in this video, and we're going to be talking
+
+3
+00:00:09,600 --> 00:00:12,380
+ about the evaluation of dental literature.
+
+4
+00:00:12,380 --> 00:00:15,780
+ It's really easy to get bogged down by this topic.
+
+5
+00:00:15,780 --> 00:00:19,760
+ Evidence-based dentistry can be really dry, but I'm going to hit the highlights for you.
+
+6
+00:00:19,760 --> 00:00:24,400
+ No nonsense, high-yield facts, let's go.
+
+7
+00:00:24,400 --> 00:00:30,760
+ So medicine and dentistry in particular in the 1990s underwent a paradigm shift.
+
+8
+00:00:30,760 --> 00:00:37,480
+ We used to value the opinions of experts like GV Black above all else, but now we value
+
+9
+00:00:37,480 --> 00:00:40,600
+ approaches based on evidence.
+
+10
+00:00:40,600 --> 00:00:48,400
+ Is there proof that certain materials and certain techniques actually work in a majority of patients?
+
+11
+00:00:48,400 --> 00:00:55,720
+ The quality of evidence is rated from best to worst in a so-called hierarchy of evidence.
+
+12
+00:00:55,720 --> 00:01:01,080
+ At the top of the pyramid is the meta-analysis and systematic reviews.
+
+13
+00:01:01,080 --> 00:01:06,960
+ And then going from best to worst, we have randomized clinical trials, cohort studies,
+
+14
+00:01:06,960 --> 00:01:13,040
+ case control studies, cross-sectional studies or surveys, case reports, which are reports
+
+15
+00:01:13,040 --> 00:01:19,840
+ of unique patients or findings, then we have our expert opinions like GV Black, and finally,
+
+16
+00:01:19,840 --> 00:01:27,080
+ at the bottom, animal studies and test tube lab bench in vitro studies.
+
+17
+00:01:27,080 --> 00:01:33,040
+ And these two are not nearly as clinically relevant as the other, since why they're italicized,
+
+18
+00:01:33,040 --> 00:01:35,760
+ because you're not using a human model.
+
+19
+00:01:35,760 --> 00:01:38,200
+ So they're at the bottom of the hierarchy.
+
+20
+00:01:38,200 --> 00:01:45,760
+ Now we're going to cover a lot, or most of these in the next couple slides.
+
+21
+00:01:45,760 --> 00:01:53,440
+ So our first big category of dental literature are the descriptive or epidemiological studies.
+
+22
+00:01:53,440 --> 00:01:58,800
+ So epidemiology is the study of the distribution and determinants of disease.
+
+23
+00:01:58,800 --> 00:02:04,640
+ And we had a whole video dedicated to this topic, so you're already experts on this.
+
+24
+00:02:04,640 --> 00:02:10,520
+ And so these studies are large-scale community-based studies to quantify the disease status in
+
+25
+00:02:10,520 --> 00:02:11,960
+ a community.
+
+26
+00:02:11,960 --> 00:02:17,160
+ How many people in this population have caries, have gum disease, et cetera?
+
+27
+00:02:17,160 --> 00:02:22,240
+ And so we're using these measuring tools that we talked about in the epidemiology video,
+
+28
+00:02:22,240 --> 00:02:25,520
+ like DMFT, gingival index.
+
+29
+00:02:25,520 --> 00:02:32,000
+ Think of easy measuring tools that clinicians can employ to gather lots of data on a huge
+
+30
+00:02:32,000 --> 00:02:37,960
+ entire communities, and then from that determine the prevalence of, again, tooth decay, gum
+
+31
+00:02:37,960 --> 00:02:43,440
+ disease, which is the proportion of a given population that's affected by that condition
+
+32
+00:02:43,440 --> 00:02:47,760
+ at a given time.
+
+33
+00:02:47,760 --> 00:02:55,160
+ Our next big picture group of dental literature are the analytical or observational studies.
+
+34
+00:02:55,160 --> 00:02:58,480
+ This is really the meat and potatoes of this video.
+
+35
+00:02:58,480 --> 00:03:06,000
+ And so these studies are designed to determine the etiology or cause of a disease.
+
+36
+00:03:06,000 --> 00:03:12,920
+ And note that all of these four study designs here determine association, not causation.
+
+37
+00:03:12,920 --> 00:03:20,640
+ So they may or may not represent causal relationships between a factor or risk factor in a condition,
+
+38
+00:03:20,640 --> 00:03:21,800
+ et cetera.
+
+39
+00:03:21,800 --> 00:03:26,040
+ So the first one we're going to talk about here is the cross-sectional study.
+
+40
+00:03:26,040 --> 00:03:32,200
+ And this one's very similar to what we just talked about, but on a smaller scale than
+
+41
+00:03:32,200 --> 00:03:35,560
+ the community-based epidemiologic studies.
+
+42
+00:03:35,560 --> 00:03:41,440
+ So cross-sectional studies involve a survey or measurements that are taken to represent
+
+43
+00:03:41,440 --> 00:03:43,960
+ a snapshot in time.
+
+44
+00:03:43,960 --> 00:03:47,080
+ And so this is going to measure prevalence.
+
+45
+00:03:47,080 --> 00:03:53,800
+ For example, we could examine a group of people who drink alcohol and see how many of those
+
+46
+00:03:53,800 --> 00:03:57,240
+ people have oral cancer and how many do not.
+
+47
+00:03:57,240 --> 00:04:02,840
+ So literally, you could just sample a classroom or patients at a clinic, and this all can
+
+48
+00:04:02,840 --> 00:04:04,520
+ be done in the same day.
+
+49
+00:04:04,520 --> 00:04:10,320
+ There's no need for any follow-up after you gather your data.
+
+50
+00:04:10,320 --> 00:04:18,800
+ Now everything beyond the cross-sectional study in this slide is what's called a longitudinal
+
+51
+00:04:18,800 --> 00:04:19,800
+ study.
+
+52
+00:04:19,800 --> 00:04:25,520
+ So these three are longitudinal because it requires you to follow people over a certain
+
+53
+00:04:25,520 --> 00:04:27,120
+ period of time.
+
+54
+00:04:27,120 --> 00:04:33,440
+ Cross-sectional like the descriptive epidemiologic studies can be done at one point in time, just
+
+55
+00:04:33,440 --> 00:04:36,800
+ gathering whatever present data we have at that day.
+
+56
+00:04:36,800 --> 00:04:42,120
+ But these three we have to follow patients or have to have data from patients over at
+
+57
+00:04:42,120 --> 00:04:44,560
+ least a couple years.
+
+58
+00:04:44,560 --> 00:04:51,680
+ So the case control study involves people with a condition, which are called the cases,
+
+59
+00:04:51,680 --> 00:04:55,880
+ and they're compared to people without that condition, which are called the controls,
+
+60
+00:04:55,880 --> 00:04:59,560
+ hence the name case control.
+
+61
+00:04:59,560 --> 00:05:02,720
+ Now this is done in the past.
+
+62
+00:05:02,720 --> 00:05:08,760
+ So this is a retrospective study design where the follow-up period I just talked about has
+
+63
+00:05:08,760 --> 00:05:11,600
+ actually already been completed.
+
+64
+00:05:11,600 --> 00:05:18,640
+ So for example, you'd have separate groups of people and those with oral cancer and
+
+65
+00:05:18,640 --> 00:05:23,840
+ those without it, and then you'd search through their past medical records to look for the
+
+66
+00:05:23,840 --> 00:05:27,520
+ presence or absence of alcohol drinking.
+
+67
+00:05:27,520 --> 00:05:30,320
+ That's our risk factor for these examples.
+
+68
+00:05:30,320 --> 00:05:34,800
+ And you do this in order to determine the odds ratio.
+
+69
+00:05:34,800 --> 00:05:40,240
+ How likely is it that alcohol is associated with oral cancer?
+
+70
+00:05:40,240 --> 00:05:46,320
+ So this is a retrospective study because we're looking in the past, but it did involve some
+
+71
+00:05:46,320 --> 00:05:48,760
+ period where the patients had to be followed.
+
+72
+00:05:48,760 --> 00:05:54,800
+ So it's still, in this case, it's still a longitudinal study design.
+
+73
+00:05:54,800 --> 00:05:58,040
+ Next we have the prospective cohort study.
+
+74
+00:05:58,040 --> 00:06:01,880
+ So these next two are both cohort studies.
+
+75
+00:06:01,880 --> 00:06:10,520
+ So cohort is a group of subjects followed for a long time to see if they develop some condition.
+
+76
+00:06:10,520 --> 00:06:16,520
+ So prospective cohort study means that the cohort was followed through time to see who
+
+77
+00:06:16,520 --> 00:06:20,040
+ develops a certain disease.
+
+78
+00:06:20,040 --> 00:06:25,760
+ So let's say we track a group of people for five years to see how many of them develop
+
+79
+00:06:25,760 --> 00:06:27,400
+ oral cancer.
+
+80
+00:06:27,400 --> 00:06:33,480
+ And then we would compare the incidence of oral cancer in people who drink alcohol and
+
+81
+00:06:33,480 --> 00:06:35,640
+ those who do not.
+
+82
+00:06:35,640 --> 00:06:40,800
+ And incidence is the number of new cases that appear over time.
+
+83
+00:06:40,800 --> 00:06:46,200
+ And then from that information you could determine the relative risk, which is probability of
+
+84
+00:06:46,200 --> 00:06:52,320
+ drinkers getting oral cancer versus non-drinkers getting oral cancer.
+
+85
+00:06:52,320 --> 00:06:58,520
+ And lastly we have the retrospective cohort study where we would look back after following
+
+86
+00:06:58,520 --> 00:07:04,560
+ this cohort and decide, well, you know what, maybe we want to see who developed carries.
+
+87
+00:07:04,560 --> 00:07:10,200
+ And so then we could compare the incidence of carries between the drinkers and the non-drinkers.
+
+88
+00:07:10,200 --> 00:07:15,040
+ So it's retrospective because patients were already followed over time and the data is
+
+89
+00:07:15,040 --> 00:07:16,320
+ already there.
+
+90
+00:07:16,320 --> 00:07:21,120
+ Now we just need to compile and analyze that data.
+
+91
+00:07:21,120 --> 00:07:27,540
+ So some people ask, well, what's the difference between retrospective cohort study and case
+
+92
+00:07:27,540 --> 00:07:29,080
+ control study?
+
+93
+00:07:29,080 --> 00:07:32,920
+ Because they're both retrospective, they're both looking in the past.
+
+94
+00:07:32,920 --> 00:07:37,040
+ And I don't really understand what's the difference between the two.
+
+95
+00:07:37,040 --> 00:07:43,640
+ So the retrospective cohort study tries to determine the risk of developing a disease
+
+96
+00:07:43,640 --> 00:07:46,320
+ with already known exposure factors.
+
+97
+00:07:46,320 --> 00:07:51,600
+ So say we already know that alcohol contributes to oral cancer, that smoking is linked to
+
+98
+00:07:51,600 --> 00:07:53,600
+ peridontal disease.
+
+99
+00:07:53,600 --> 00:07:59,480
+ Whereas the case control study will try to determine the possible exposure factors after
+
+100
+00:07:59,480 --> 00:08:02,160
+ a known disease incidence.
+
+101
+00:08:02,160 --> 00:08:07,800
+ So they're essentially flip-flops from one another, one's trying to gather information
+
+102
+00:08:07,800 --> 00:08:12,560
+ about risk of developing a disease and we already know the exposure factors.
+
+103
+00:08:12,560 --> 00:08:17,520
+ The other one's trying to figure out what possible exposure factors there are.
+
+104
+00:08:17,520 --> 00:08:20,200
+ So it's a really important distinction to make.
+
+105
+00:08:20,200 --> 00:08:26,040
+ And hopefully that can help simplify those four seemingly complex, but when you break
+
+106
+00:08:26,040 --> 00:08:30,480
+ it down, not too bad, analytical study designs.
+
+107
+00:08:30,480 --> 00:08:35,400
+ And for the board exam, I bolded prevalence, odds ratio, and then incidence and relative
+
+108
+00:08:35,400 --> 00:08:38,000
+ risk because they like to ask about that.
+
+109
+00:08:38,000 --> 00:08:43,880
+ So if you can simply remember which of the study designs are trying to gather which data
+
+110
+00:08:43,880 --> 00:08:48,440
+ that's really helpful for the exam.
+
+111
+00:08:48,440 --> 00:08:51,520
+ And lastly we have the experimental studies.
+
+112
+00:08:51,520 --> 00:08:57,200
+ And these ones try to determine the effectiveness of a given therapy.
+
+113
+00:08:57,200 --> 00:09:00,600
+ So think a medication or drug, et cetera.
+
+114
+00:09:00,600 --> 00:09:07,440
+ So the randomized clinical trial aims to isolate one factor, say a new drug, and examine its
+
+115
+00:09:07,440 --> 00:09:15,120
+ contribution to a patient's health by holding all other factors as constant as possible.
+
+116
+00:09:15,120 --> 00:09:16,960
+ And that's really hard to do.
+
+117
+00:09:16,960 --> 00:09:20,360
+ But the best tool is randomization.
+
+118
+00:09:20,360 --> 00:09:28,400
+ So you would get a probability sample where you randomly select people from a list or database
+
+119
+00:09:28,400 --> 00:09:35,240
+ and then randomly allocate them, randomly allocate those individuals into different treatment
+
+120
+00:09:35,240 --> 00:09:40,560
+ groups using a random number generator or some equivalent.
+
+121
+00:09:40,560 --> 00:09:45,480
+ And so randomization, both of the selection of the people you're using in your study and
+
+122
+00:09:45,480 --> 00:09:51,040
+ then how they're allocated into different like placebo and experimental treatment groups,
+
+123
+00:09:51,040 --> 00:09:58,400
+ randomization minimizes selection bias and is the best control for confounding variables,
+
+124
+00:09:58,400 --> 00:10:02,040
+ which we'll talk about a little bit later in the video.
+
+125
+00:10:02,040 --> 00:10:09,200
+ And blinding is another great method for creating an ideal clinical trial.
+
+126
+00:10:09,200 --> 00:10:17,040
+ Blinding means concealing allocation information to minimize the biased assessment of outcomes.
+
+127
+00:10:17,040 --> 00:10:23,680
+ So a single blind study means that the participants or the subjects are blind to what group they
+
+128
+00:10:23,680 --> 00:10:24,680
+ they're in.
+
+129
+00:10:24,680 --> 00:10:27,000
+ They don't know if they're taking a placebo or they don't know if they're taking this
+
+130
+00:10:27,000 --> 00:10:28,640
+ new drug.
+
+131
+00:10:28,640 --> 00:10:34,360
+ Multiple blind studies are even better because both the participants and the experimenters
+
+132
+00:10:34,360 --> 00:10:39,920
+ or the investigators are blind and they don't know what they don't know the subjects don't
+
+133
+00:10:39,920 --> 00:10:45,280
+ know what drug they're taking and the investigators don't know what data they're collecting for
+
+134
+00:10:45,280 --> 00:10:46,280
+ which group.
+
+135
+00:10:46,280 --> 00:10:52,160
+ So that's the best way to blind a study.
+
+136
+00:10:52,160 --> 00:10:57,440
+ Alright so let's get into more of the nitty-gritty with the biostatistics.
+
+137
+00:10:57,440 --> 00:11:01,000
+ And so some of this stuff is definitely tested on the board exam and I'm going to try to
+
+138
+00:11:01,000 --> 00:11:07,040
+ hit the highlights so we don't get to, again, to bog down into the nitty-gritty details.
+
+139
+00:11:07,040 --> 00:11:11,840
+ So frequency distributions refer to these curves down here.
+
+140
+00:11:11,840 --> 00:11:18,080
+ We have a normal distribution in the middle, which is this classic bell-shaped curve.
+
+141
+00:11:18,080 --> 00:11:21,040
+ In the middle is the mean, median, and mode.
+
+142
+00:11:21,040 --> 00:11:25,760
+ We'll talk about the measures of central tendency in the next slide.
+
+143
+00:11:25,760 --> 00:11:31,440
+ But if you have any extra room for memorization, you can remember that within one standard
+
+144
+00:11:31,440 --> 00:11:36,960
+ deviation from the center of this curve, you have 68% of subjects.
+
+145
+00:11:36,960 --> 00:11:41,640
+ If we go two standard deviations away, we have 95%.
+
+146
+00:11:41,640 --> 00:11:47,360
+ If we go three standard deviations away, we have 99.7% of the subjects.
+
+147
+00:11:47,360 --> 00:11:52,360
+ And so we don't have to, I don't think you necessarily have to memorize these numbers
+
+148
+00:11:52,360 --> 00:11:56,560
+ again, and if you don't understand standard deviation right now, don't worry about it,
+
+149
+00:11:56,560 --> 00:11:59,520
+ we're going to be talking about it in just a little bit.
+
+150
+00:11:59,520 --> 00:12:04,560
+ We can also have a skewed distribution, which is what these two are showing, positively
+
+151
+00:12:04,560 --> 00:12:10,680
+ skewed if the tail, so this part is the tail goes to the right, negatively skewed if the
+
+152
+00:12:10,680 --> 00:12:13,800
+ tail goes off to the left.
+
+153
+00:12:13,800 --> 00:12:20,040
+ Bi-modal distribution just means instead of one peak, you have two peaks in your data
+
+154
+00:12:20,040 --> 00:12:23,760
+ collection.
+
+155
+00:12:23,760 --> 00:12:25,760
+ Alright measures of central tendency.
+
+156
+00:12:25,760 --> 00:12:28,280
+ This I have seen tested on quite a bit.
+
+157
+00:12:28,280 --> 00:12:34,040
+ Central tendency means how to, it allows you to characterize a data set by some central
+
+158
+00:12:34,040 --> 00:12:35,440
+ numbers.
+
+159
+00:12:35,440 --> 00:12:39,320
+ So I'm sure you've all heard of these things at some point in math class.
+
+160
+00:12:39,320 --> 00:12:43,600
+ We have mean, which is the average value of a data set.
+
+161
+00:12:43,600 --> 00:12:48,680
+ So for the mean, you would add up, let's say, let's just have this example data set.
+
+162
+00:12:48,680 --> 00:12:55,200
+ You'd add up all of these values, and then divide by the number or the amount of values
+
+163
+00:12:55,200 --> 00:12:57,160
+ in the data set.
+
+164
+00:12:57,160 --> 00:13:03,200
+ So for example, the sum of all these numbers is 95, and there are 11 of them.
+
+165
+00:13:03,200 --> 00:13:08,840
+ So we would take 95, divide it by 11, and we get 8.63.
+
+166
+00:13:08,840 --> 00:13:12,360
+ And so that would be the mean for this data set.
+
+167
+00:13:12,360 --> 00:13:15,680
+ The median is the middle value.
+
+168
+00:13:15,680 --> 00:13:24,960
+ So for this one, we simply cross out the outside numbers until we get to the middle number of
+
+169
+00:13:24,960 --> 00:13:28,280
+ the data set.
+
+170
+00:13:28,280 --> 00:13:29,280
+ So we're almost there.
+
+171
+00:13:29,280 --> 00:13:35,680
+ We go 5 from either side, and 6 would be our median for this data set.
+
+172
+00:13:35,680 --> 00:13:40,080
+ Now there's an even number of values, you'd have two numbers at the middle, and you simply
+
+173
+00:13:40,080 --> 00:13:45,320
+ would take an average or mean of those two values.
+
+174
+00:13:45,320 --> 00:13:49,680
+ And lastly, the mode is the most frequent measurement in a set of data.
+
+175
+00:13:49,680 --> 00:13:53,840
+ So for these numbers, unfortunately I've crossed them all out, but you can see that
+
+176
+00:13:53,840 --> 00:13:57,240
+ 4 is the one that occurs most frequently.
+
+177
+00:13:57,240 --> 00:14:00,560
+ So 4 would be the mode of this data set.
+
+178
+00:14:00,560 --> 00:14:05,080
+ And believe it or not, these are things I would definitely know how to do on a data set for
+
+179
+00:14:05,080 --> 00:14:06,080
+ the board exam.
+
+180
+00:14:06,080 --> 00:14:13,120
+ You could get like test scores or some epidemiologic measure and have to figure out the mean, median
+
+181
+00:14:13,120 --> 00:14:14,840
+ or mode of those numbers.
+
+182
+00:14:14,840 --> 00:14:19,880
+ So luckily, it's nice and easy once you know how to do it.
+
+183
+00:14:19,880 --> 00:14:22,960
+ And then we also have measures of dispersion.
+
+184
+00:14:22,960 --> 00:14:29,760
+ So dispersion, referring to how spread out the values are from each other.
+
+185
+00:14:29,760 --> 00:14:34,960
+ So the range is the maximum value minus the minimum value.
+
+186
+00:14:34,960 --> 00:14:40,720
+ So for our same data set, we would take the max, which is 21, and subtract 2.
+
+187
+00:14:40,720 --> 00:14:45,640
+ And so the range for this data set would be 19.
+
+188
+00:14:45,640 --> 00:14:52,000
+ Variance is how spread out the individual values are from the mean.
+
+189
+00:14:52,000 --> 00:14:54,840
+ So this one's actually a bit tricky to calculate.
+
+190
+00:14:54,840 --> 00:14:57,880
+ You never would have to do this for the board exam.
+
+191
+00:14:57,880 --> 00:15:05,360
+ But what you would do is figure out the mean, which we got as 8.63, and then for each number,
+
+192
+00:15:05,360 --> 00:15:12,040
+ so each of these 11 numbers, you would subtract the mean from that number, and then square
+
+193
+00:15:12,040 --> 00:15:13,840
+ the result.
+
+194
+00:15:13,840 --> 00:15:16,320
+ So this would give you the squared difference.
+
+195
+00:15:16,320 --> 00:15:20,720
+ And then you'd calculate the average of those squared differences.
+
+196
+00:15:20,720 --> 00:15:22,840
+ So don't worry about that calculation.
+
+197
+00:15:22,840 --> 00:15:29,640
+ But for this data set, if you're curious, the variance is 42.049.
+
+198
+00:15:29,640 --> 00:15:35,520
+ Standard deviation is just the square root of that, so it would be 6.48.
+
+199
+00:15:35,520 --> 00:15:42,080
+ So the larger, and the important part here is the larger that this number is, the more
+
+200
+00:15:42,080 --> 00:15:46,720
+ spread out the values are from one another.
+
+201
+00:15:46,720 --> 00:15:51,720
+ So if we had a standard deviation of 1, all these numbers would be a lot closer.
+
+202
+00:15:51,720 --> 00:15:56,640
+ Since we're a little bit higher at 6.48, that's explaining how we have 2, and then we have
+
+203
+00:15:56,640 --> 00:15:58,000
+ all the way up to 21.
+
+204
+00:15:58,000 --> 00:16:02,640
+ There's a bit more of a spread between these numbers.
+
+205
+00:16:02,640 --> 00:16:08,960
+ So where this all becomes especially important is considering outliers.
+
+206
+00:16:08,960 --> 00:16:15,280
+ So this is a histogram, which is used to represent variance, and in this case, it's a representation
+
+207
+00:16:15,280 --> 00:16:21,840
+ of that bell curve that we looked at with a bit of a positively skewed bell curve.
+
+208
+00:16:21,840 --> 00:16:27,960
+ And it's essentially in vertical bar format, which is how histograms are made.
+
+209
+00:16:27,960 --> 00:16:33,840
+ You'll notice that these values follow a somewhat normal distribution, but we have one outlier
+
+210
+00:16:33,840 --> 00:16:36,480
+ way over here.
+
+211
+00:16:36,480 --> 00:16:42,240
+ And so think for a second, is an outlier like this going to have more impact on central
+
+212
+00:16:42,240 --> 00:16:49,800
+ tendency or the measures of dispersion.
+
+213
+00:16:49,800 --> 00:16:56,000
+ So will this outlier have a greater impact on central tendency or dispersion?
+
+214
+00:16:56,000 --> 00:17:00,120
+ So it's going to affect dispersion a lot more.
+
+215
+00:17:00,120 --> 00:17:06,560
+ The range, variance, and standard deviation are all way more impacted by this value, which
+
+216
+00:17:06,560 --> 00:17:10,080
+ is going to increase all of those values significantly.
+
+217
+00:17:10,080 --> 00:17:16,800
+ It's going to have almost no effect on mode or median, and maybe some nominal effect on
+
+218
+00:17:16,800 --> 00:17:22,420
+ the mean, but not a whole lot because there are a bunch of other data points here.
+
+219
+00:17:22,420 --> 00:17:26,920
+ But you can imagine that the range, whatever these numbers aren't listed, but whatever
+
+220
+00:17:26,920 --> 00:17:31,920
+ this, subtracted by this, is going to be a lot different than this number subtracted
+
+221
+00:17:31,920 --> 00:17:33,560
+ from this number.
+
+222
+00:17:33,560 --> 00:17:40,800
+ All right, now we can talk about quality of a diagnostic test.
+
+223
+00:17:40,800 --> 00:17:44,920
+ So we have reliability and validity.
+
+224
+00:17:44,920 --> 00:17:51,360
+ So reliability is all about, are you getting consistent results from that test?
+
+225
+00:17:51,360 --> 00:17:56,720
+ You have multiple operators using it, using this diagnostic tool, multiple studies that
+
+226
+00:17:56,720 --> 00:17:57,980
+ have looked at it.
+
+227
+00:17:57,980 --> 00:18:01,320
+ How much do they all agree with each other?
+
+228
+00:18:01,320 --> 00:18:03,240
+ And I love this analogy right here.
+
+229
+00:18:03,240 --> 00:18:06,040
+ It's like shooting arrows at a target.
+
+230
+00:18:06,040 --> 00:18:13,000
+ And reliability means that your methods are reliably producing precise results that are
+
+231
+00:18:13,000 --> 00:18:15,760
+ all close to one another.
+
+232
+00:18:15,760 --> 00:18:21,920
+ So it doesn't necessarily mean like they're accurate, they're close to the bullseye, but
+
+233
+00:18:21,920 --> 00:18:25,160
+ all these arrows are grouped together quite nicely.
+
+234
+00:18:25,160 --> 00:18:27,800
+ So that's an example of reliability.
+
+235
+00:18:27,800 --> 00:18:32,160
+ Whereas validity is looking at are they accurate results?
+
+236
+00:18:32,160 --> 00:18:37,560
+ How close to the truth or to the bullseye are those results?
+
+237
+00:18:37,560 --> 00:18:44,920
+ So say for a new diagnostic tool, like diagneton came out a few years ago, which produces fluorescence
+
+238
+00:18:44,920 --> 00:18:52,360
+ for cavity detection, how accurate is it to distinguish between actual carries and no
+
+239
+00:18:52,360 --> 00:18:53,360
+ carries?
+
+240
+00:18:53,360 --> 00:19:01,520
+ Of course, we'd ideally want a test that is both reliable or precise and valid or accurate.
+
+241
+00:19:01,520 --> 00:19:08,240
+ So we'd want a close grouping of arrows right around the bullseye.
+
+242
+00:19:08,240 --> 00:19:13,560
+ Other things to consider are sensitivity and specificity.
+
+243
+00:19:13,560 --> 00:19:18,640
+ Sensitivity means that you're correctly or the test is correctly identifying people who
+
+244
+00:19:18,640 --> 00:19:20,840
+ have disease.
+
+245
+00:19:20,840 --> 00:19:25,360
+ Specificity means that the diagnostic test is correctly identifying people who do not
+
+246
+00:19:25,360 --> 00:19:28,800
+ have the disease or are healthy.
+
+247
+00:19:28,800 --> 00:19:35,880
+ So how I remember this is that the S and the E are next to each other in both sensitivity
+
+248
+00:19:35,880 --> 00:19:39,080
+ and disease, twice in fact.
+
+249
+00:19:39,080 --> 00:19:44,080
+ So that's a great way to remember between sensitivity and specificity, which otherwise
+
+250
+00:19:44,080 --> 00:19:46,640
+ sound very similar.
+
+251
+00:19:46,640 --> 00:19:50,720
+ So this table down here is incredibly important to understand.
+
+252
+00:19:50,720 --> 00:19:57,000
+ So let's take a moment to go through what all these acronyms mean.
+
+253
+00:19:57,000 --> 00:20:05,920
+ The top row is what they actually have as determined by some gold standard measurement.
+
+254
+00:20:05,920 --> 00:20:12,720
+ So let's say for hypothetical purposes, this is a crystal ball that tells us the absolute
+
+255
+00:20:12,720 --> 00:20:19,720
+ truth for a subject, for a patient, if they have carries or if they don't have carries.
+
+256
+00:20:19,720 --> 00:20:25,240
+ The left column is what our experimental method says they have.
+
+257
+00:20:25,240 --> 00:20:31,840
+ So say we're looking at diagonal then, how valid, how reliable is it, and we're going
+
+258
+00:20:31,840 --> 00:20:39,280
+ to look at the sensitivity and specificity of this new experimental method.
+
+259
+00:20:39,280 --> 00:20:43,800
+ So first we have TP, this is true positive.
+
+260
+00:20:43,800 --> 00:20:50,440
+ So this means that the patient actually has carries and our diagnostic tool or test says
+
+261
+00:20:50,440 --> 00:20:51,600
+ they have carries.
+
+262
+00:20:51,600 --> 00:20:57,160
+ So this is a success, it was correct and diagnosing.
+
+263
+00:20:57,160 --> 00:21:01,320
+ Down here, FN stands for false negative.
+
+264
+00:21:01,320 --> 00:21:06,840
+ So our test says they don't have carries when they actually do.
+
+265
+00:21:06,840 --> 00:21:11,520
+ So we're erroneously excluding them from the carries group.
+
+266
+00:21:11,520 --> 00:21:15,160
+ So false negative would be a failure of the test.
+
+267
+00:21:15,160 --> 00:21:17,520
+ Now let's move over to this column.
+
+268
+00:21:17,520 --> 00:21:23,440
+ CTN stands for true negative, so this means that the patient doesn't have carries and
+
+269
+00:21:23,440 --> 00:21:28,400
+ our diagnostic tool successfully diagnose them as not having carries.
+
+270
+00:21:28,400 --> 00:21:31,480
+ So that's another means of success.
+
+271
+00:21:31,480 --> 00:21:35,880
+ And lastly we have FP, which you can guess is false positive.
+
+272
+00:21:35,880 --> 00:21:40,320
+ And this is where our test says they have carries when they actually don't.
+
+273
+00:21:40,320 --> 00:21:45,080
+ So we erroneously assign them to the carries group.
+
+274
+00:21:45,080 --> 00:21:53,760
+ So again our test succeeds when we have TP or TN and it fails when we have FN or FP.
+
+275
+00:21:53,760 --> 00:22:05,440
+ So a high amount of true positive relative to false negative is when we have high sensitivity.
+
+276
+00:22:05,440 --> 00:22:14,560
+ And a high amount of true negative relative to false positive is when we have high specificity.
+
+277
+00:22:14,560 --> 00:22:22,360
+ And so a perfect sensitivity and specificity would be 1.0 for each of them.
+
+278
+00:22:22,360 --> 00:22:28,800
+ That would be having a perfect only true positive and only true negatives and we didn't get
+
+279
+00:22:28,800 --> 00:22:32,720
+ any false negatives or false positives at all.
+
+280
+00:22:32,720 --> 00:22:38,400
+ But if we, let's say we got 0.5 for each of these, that's about as low as we could get
+
+281
+00:22:38,400 --> 00:22:43,480
+ because then essentially we're just flipping a coin to see if they have carries or not.
+
+282
+00:22:43,480 --> 00:22:47,480
+ So again, if we're looking at this column, we're in the carries column.
+
+283
+00:22:47,480 --> 00:22:55,080
+ So this is sensitivity and then this column, no carries, we're looking for the accuracy
+
+284
+00:22:55,080 --> 00:22:57,960
+ of detecting health.
+
+285
+00:22:57,960 --> 00:23:03,960
+ And so this is a great tool if you can just remember how to draw out this chart and write
+
+286
+00:23:03,960 --> 00:23:09,680
+ in these acronyms, it'll be really valuable for test day if you get any kinds of questions
+
+287
+00:23:09,680 --> 00:23:15,360
+ about sensitivity and specificity which I guarantee will come up to some degree.
+
+288
+00:23:15,360 --> 00:23:22,720
+ All right, next, let's go into inferential statistics.
+
+289
+00:23:22,720 --> 00:23:28,760
+ So statistical significance is represented by the P value, which I'm sure you've seen
+
+290
+00:23:28,760 --> 00:23:32,440
+ in most every journal article you've read.
+
+291
+00:23:32,440 --> 00:23:37,360
+ And so probability that two variables are unrelated.
+
+292
+00:23:37,360 --> 00:23:42,000
+ And we usually set this value, this P value as 0.05.
+
+293
+00:23:42,000 --> 00:23:49,080
+ And if P is less than 0.05, then we reject the null hypothesis, which I'll explain in
+
+294
+00:23:49,080 --> 00:23:51,320
+ the next slide.
+
+295
+00:23:51,320 --> 00:23:55,840
+ And say there's some connection between two variables.
+
+296
+00:23:55,840 --> 00:23:59,920
+ Again, let's go back to our previous example, alcohol and oral cancer.
+
+297
+00:23:59,920 --> 00:24:05,360
+ So for less than 0.05, we would accept that there's some connection between the two.
+
+298
+00:24:05,360 --> 00:24:10,040
+ But if P is greater than 0.05, we accept the null hypothesis.
+
+299
+00:24:10,040 --> 00:24:16,800
+ And any interesting connection between alcohol and oral cancer is just coincidental and due
+
+300
+00:24:16,800 --> 00:24:20,000
+ to chance.
+
+301
+00:24:20,000 --> 00:24:27,080
+ So the null hypothesis is a hypothesis which the researcher tries to disprove, reject,
+
+302
+00:24:27,080 --> 00:24:28,080
+ or nullify.
+
+303
+00:24:28,080 --> 00:24:35,240
+ Now an example, null hypothesis is there is no difference between carries prevalence in
+
+304
+00:24:35,240 --> 00:24:40,160
+ a fluoridated population and non-fluoridated population.
+
+305
+00:24:40,160 --> 00:24:44,920
+ And people have conducted research to disprove this exact statement.
+
+306
+00:24:44,920 --> 00:24:50,120
+ And in doing so, prove that fluoride helps prevent carries.
+
+307
+00:24:50,120 --> 00:24:56,120
+ So let's return to our table from before, because good news, it applies here too.
+
+308
+00:24:56,120 --> 00:25:00,700
+ The same as before, our top row is our crystal ball.
+
+309
+00:25:00,700 --> 00:25:07,240
+ So the first column means that our null hypothesis is actually false.
+
+310
+00:25:07,240 --> 00:25:10,480
+ So fluoride actually helps prevent carries.
+
+311
+00:25:10,480 --> 00:25:15,440
+ And the second column is if our null hypothesis turns out to be true.
+
+312
+00:25:15,440 --> 00:25:19,560
+ So it turns out fluoride doesn't help at all.
+
+313
+00:25:19,560 --> 00:25:24,960
+ And the left side of our table is once again, our research results.
+
+314
+00:25:24,960 --> 00:25:26,980
+ But our data shows.
+
+315
+00:25:26,980 --> 00:25:33,200
+ So does diagonal work to find carries, does fluoride work to prevent carries, etc.
+
+316
+00:25:33,200 --> 00:25:39,880
+ So let's start with the first column, where the null hypothesis is false.
+
+317
+00:25:39,880 --> 00:25:45,320
+ So after running our statistics, our p-value is less than 0.05.
+
+318
+00:25:45,320 --> 00:25:50,160
+ So our research tells us we have to reject the null hypothesis.
+
+319
+00:25:50,160 --> 00:25:52,280
+ So our research worked.
+
+320
+00:25:52,280 --> 00:25:56,640
+ Now let's say our p-value was greater than 0.05.
+
+321
+00:25:56,640 --> 00:26:01,220
+ And we would have to accept the null hypothesis.
+
+322
+00:26:01,220 --> 00:26:05,480
+ And for this first column, this would be incorrect.
+
+323
+00:26:05,480 --> 00:26:14,560
+ So this is known as type 2 or beta error, where we accepted a null hypothesis that should
+
+324
+00:26:14,560 --> 00:26:18,600
+ have been rejected.
+
+325
+00:26:18,600 --> 00:26:23,320
+ And it's because our study didn't have enough power.
+
+326
+00:26:23,320 --> 00:26:26,000
+ Now let's look at the second column.
+
+327
+00:26:26,000 --> 00:26:28,880
+ Say the null hypothesis is true.
+
+328
+00:26:28,880 --> 00:26:36,480
+ And that's what our study said, said to accept the null hypothesis.
+
+329
+00:26:36,480 --> 00:26:41,380
+ And so that would be a correct research result.
+
+330
+00:26:41,380 --> 00:26:46,880
+ Not necessarily a fulfilling one, but it would be correct nonetheless.
+
+331
+00:26:46,880 --> 00:26:53,120
+ But if our research told us to reject the null hypothesis, when it was actually true,
+
+332
+00:26:53,120 --> 00:26:57,600
+ that is known as type 1 or alpha error.
+
+333
+00:26:57,600 --> 00:27:01,840
+ We rejected a null hypothesis that should have been accepted.
+
+334
+00:27:01,840 --> 00:27:09,080
+ That's because our p-value was at fault.
+
+335
+00:27:09,080 --> 00:27:12,120
+ Alright next let's talk about correlation analysis.
+
+336
+00:27:12,120 --> 00:27:18,400
+ So correlation, the correlation coefficient, or r, is a statistical measure that represents
+
+337
+00:27:18,400 --> 00:27:25,080
+ the strength of the relationship between two quantitative variables.
+
+338
+00:27:25,080 --> 00:27:30,160
+ And we'll talk more about quantitative versus qualitative a bit later.
+
+339
+00:27:30,160 --> 00:27:36,200
+ So this r-value is always between negative 1 and positive 1.
+
+340
+00:27:36,200 --> 00:27:42,240
+ You can't have anything like positive 2 or positive anything above 1, anything below
+
+341
+00:27:42,240 --> 00:27:44,160
+ negative 1.
+
+342
+00:27:44,160 --> 00:27:50,640
+ Positive 1 means that all the values lie perfectly on a positively sloping line.
+
+343
+00:27:50,640 --> 00:27:55,600
+ It's very unlikely that you get all the results on a perfect, that you could graph them on
+
+344
+00:27:55,600 --> 00:28:01,480
+ a perfect line, but that's the one end of the spectrum.
+
+345
+00:28:01,480 --> 00:28:07,000
+ The other end of the spectrum, negative 1, means that they lie on a perfectly negative
+
+346
+00:28:07,000 --> 00:28:09,000
+ sloping line.
+
+347
+00:28:09,000 --> 00:28:14,640
+ Now it doesn't matter what the exact slope is, just how close the points are to that line
+
+348
+00:28:14,640 --> 00:28:17,200
+ of best fit.
+
+349
+00:28:17,200 --> 00:28:23,320
+ Now as you get closer to zero, we go from 1 to 0.7, they're a little bit more spread
+
+350
+00:28:23,320 --> 00:28:31,600
+ out, 0.3, they're really all over the place, but they still kind of match this line of best
+
+351
+00:28:31,600 --> 00:28:37,280
+ fit with a positive slope, and if you get to zero, the middle between negative 1 and
+
+352
+00:28:37,280 --> 00:28:43,040
+ point positive 1, that means there's no linear relationship whatsoever.
+
+353
+00:28:43,040 --> 00:28:47,320
+ So as you get closer to zero, the data points get more spread out from the line when you
+
+354
+00:28:47,320 --> 00:28:54,040
+ get to zero, that means there's no linear relationship between the data coordinates.
+
+355
+00:28:54,040 --> 00:28:59,800
+ You can also do a multiple regression, and the plot looks similar to these, and a multiple
+
+356
+00:28:59,800 --> 00:29:05,840
+ regression provides a mathematical model for predicting relationships between a dependent
+
+357
+00:29:05,840 --> 00:29:09,840
+ variable and one or more independent variables.
+
+358
+00:29:09,840 --> 00:29:16,080
+ So it's a more complex version of this, but don't worry too much about that.
+
+359
+00:29:16,080 --> 00:29:21,280
+ So more inferential statistics, these are all statistical analyses that are used for
+
+360
+00:29:21,280 --> 00:29:24,400
+ testing a hypothesis.
+
+361
+00:29:24,400 --> 00:29:30,600
+ The chi-square test, and this is the Greek letter chi, measures the association between
+
+362
+00:29:30,600 --> 00:29:34,120
+ two categorical values.
+
+363
+00:29:34,120 --> 00:29:39,740
+ So let's say we ask a group of people, what do you prefer, cats or dogs?
+
+364
+00:29:39,740 --> 00:29:43,120
+ And let's say the group consists of both men and women.
+
+365
+00:29:43,120 --> 00:29:50,480
+ So the chi-square test could tell you if gender and preference for cats or dogs are related
+
+366
+00:29:50,480 --> 00:29:51,840
+ to one another.
+
+367
+00:29:51,840 --> 00:29:57,440
+ So we would make a two by two table, men and women on the left and cats and dogs on the
+
+368
+00:29:57,440 --> 00:30:00,960
+ top, and then we would run a chi-square test.
+
+369
+00:30:00,960 --> 00:30:06,320
+ And this will, again, like most tests, give you a p-value.
+
+370
+00:30:06,320 --> 00:30:11,520
+ And so this is where things kind of work itself out, and there's a lot of overlap between
+
+371
+00:30:11,520 --> 00:30:17,860
+ these concepts, because if our p-value here is less than 0.05, we would reject the null
+
+372
+00:30:17,860 --> 00:30:24,560
+ hypothesis, and there would be a statistically significant difference between the gender and
+
+373
+00:30:24,560 --> 00:30:26,760
+ preference for cats or dogs.
+
+374
+00:30:26,760 --> 00:30:31,800
+ If p is greater than 0.05, we would accept the null hypothesis, and we could say that
+
+375
+00:30:31,800 --> 00:30:37,200
+ gender is not significant in determining preference for cats or dogs.
+
+376
+00:30:37,200 --> 00:30:42,480
+ So chi-squared comes down to comparing two groups and see how similar or different they
+
+377
+00:30:42,480 --> 00:30:44,280
+ are.
+
+378
+00:30:44,280 --> 00:30:50,720
+ The t-test is another really popular one, and this is used to compare whether the means
+
+379
+00:30:50,720 --> 00:30:54,360
+ of two groups are statistically different.
+
+380
+00:30:54,360 --> 00:30:59,440
+ So say we have a placebo group and an experimental drug group.
+
+381
+00:30:59,440 --> 00:31:04,000
+ The null hypothesis is that there's no difference between them.
+
+382
+00:31:04,000 --> 00:31:09,280
+ And we're hoping there is a difference, and it would mean that the new drug is efficacious.
+
+383
+00:31:09,280 --> 00:31:16,040
+ So t-test will help us prove if there is a statistically significant difference, if p
+
+384
+00:31:16,040 --> 00:31:21,440
+ is less than 0.05, or if the difference, if any, is just due to chance, p is greater
+
+385
+00:31:21,440 --> 00:31:23,200
+ than 0.05.
+
+386
+00:31:23,200 --> 00:31:27,940
+ So hopefully, you can appreciate that, again, a lot of these concepts overlap and flow into
+
+387
+00:31:27,940 --> 00:31:32,960
+ one another, which is great for us because it's less we have to memorize.
+
+388
+00:31:32,960 --> 00:31:38,920
+ The z-test serves the same purpose as the t-test, but it's used if there's a larger
+
+389
+00:31:38,920 --> 00:31:46,400
+ sample size, so n is greater than 30 is kind of a rough ballpark to use.
+
+390
+00:31:46,400 --> 00:31:51,640
+ And if the standard deviation and variance are known.
+
+391
+00:31:51,640 --> 00:31:53,800
+ So the z-test is a little bit better.
+
+392
+00:31:53,800 --> 00:31:58,560
+ There are a couple other things between these two, but for the board exam, this is plenty
+
+393
+00:31:58,560 --> 00:32:00,560
+ to know.
+
+394
+00:32:00,560 --> 00:32:06,320
+ And lastly, we have ANOVA, analysis of variance, that's what it stands for.
+
+395
+00:32:06,320 --> 00:32:14,640
+ And this is basically a t-test, but between two or more means.
+
+396
+00:32:14,640 --> 00:32:17,040
+ All right, operational variables.
+
+397
+00:32:17,040 --> 00:32:20,160
+ So these are important to define and know what they mean.
+
+398
+00:32:20,160 --> 00:32:25,640
+ And again, lucky for us, it's really not too complicated once we boil all this down.
+
+399
+00:32:25,640 --> 00:32:32,080
+ So qualitative means descriptive, these are qualities.
+
+400
+00:32:32,080 --> 00:32:41,080
+ If we talk about nominal qualitative variables, nominal means they're based on names or labels.
+
+401
+00:32:41,080 --> 00:32:48,760
+ So we could have binary variables like yes or no, right or left, or ternary variables,
+
+402
+00:32:48,760 --> 00:32:55,800
+ which have three different options, and examples of nominal variables used in dental literature
+
+403
+00:32:55,800 --> 00:33:03,560
+ could be genotype, blood type, hair color, eye color, eye color, et cetera.
+
+404
+00:33:03,560 --> 00:33:09,000
+ And so these are things that you would use or see in like a chi-square test, these qualitative
+
+405
+00:33:09,000 --> 00:33:12,240
+ descriptive variables.
+
+406
+00:33:12,240 --> 00:33:16,560
+ Ordinal variables involve a ranking of some sort.
+
+407
+00:33:16,560 --> 00:33:23,800
+ So examples of ordinal variables would include socioeconomic status, where you have low, middle,
+
+408
+00:33:23,800 --> 00:33:32,000
+ or high income, education level, where you could have high school, bachelors, DDS, DMD,
+
+409
+00:33:32,000 --> 00:33:37,560
+ or something, let's say, orthodontics related, like mild, moderate, or severe crowding.
+
+410
+00:33:37,560 --> 00:33:42,120
+ So there's a clear ranking involved with the variables being used.
+
+411
+00:33:42,120 --> 00:33:48,640
+ Now I put an asterisk here, because ordinal can also be quantitative.
+
+412
+00:33:48,640 --> 00:33:52,120
+ So quantitative variables are numbers.
+
+413
+00:33:52,120 --> 00:33:53,120
+ They're quantities.
+
+414
+00:33:53,120 --> 00:34:01,840
+ So an example of an ordinal quantitative variable are things like the Likert scale, which is
+
+415
+00:34:01,840 --> 00:34:09,800
+ you would ask on a survey in a cross-sectional study, rank this on a scale from one to seven,
+
+416
+00:34:09,800 --> 00:34:14,960
+ with one being not at all likely, and seven being extremely likely.
+
+417
+00:34:14,960 --> 00:34:22,000
+ Or a net promoter score, which you can see sometimes on surveys following the use of
+
+418
+00:34:22,000 --> 00:34:23,760
+ some kind of product.
+
+419
+00:34:23,760 --> 00:34:29,200
+ And so a net promoter score would rank from zero to ten, how likely you are to tell someone
+
+420
+00:34:29,200 --> 00:34:31,280
+ about this product.
+
+421
+00:34:31,280 --> 00:34:36,520
+ So these are rankings, but they're represented by numbers.
+
+422
+00:34:36,520 --> 00:34:42,240
+ So and that can be really useful for statistics to have a clear quantitative values that you're
+
+423
+00:34:42,240 --> 00:34:44,680
+ gathering.
+
+424
+00:34:44,680 --> 00:34:49,100
+ Interval variables are a range of values.
+
+425
+00:34:49,100 --> 00:34:57,800
+ So examples of interval variables include temperature, pH scale, SAT scores, et cetera.
+
+426
+00:34:57,800 --> 00:35:04,120
+ And lastly, we have ratio variables, which involve a range of values again, but with
+
+427
+00:35:04,120 --> 00:35:07,800
+ a clear definition of zero.
+
+428
+00:35:07,800 --> 00:35:15,680
+ So examples of ratio variables include reaction rate, pulse, weight, length, temperature in
+
+429
+00:35:15,680 --> 00:35:22,800
+ Kelvin, where we have an absolute zero, basically an interval variable, but with a clear zero
+
+430
+00:35:22,800 --> 00:35:25,000
+ point.
+
+431
+00:35:25,000 --> 00:35:30,360
+ So for qualitative variables, we're using the chi-square test.
+
+432
+00:35:30,360 --> 00:35:40,840
+ For quantitative variables, we would be using a t-test, z-test, ANOVA, et cetera.
+
+433
+00:35:40,840 --> 00:35:43,280
+ Some more definitions to know.
+
+434
+00:35:43,280 --> 00:35:45,960
+ Independent variable, I've already thrown this around a little bit.
+
+435
+00:35:45,960 --> 00:35:49,520
+ This is like our X, if we have an XY plot.
+
+436
+00:35:49,520 --> 00:35:58,000
+ And so the conditions or factors of an experiment that are manipulated or controlled by the investigator.
+
+437
+00:35:58,000 --> 00:36:04,160
+ So this would be like the type of treatment being compared, the placebo and the experimental
+
+438
+00:36:04,160 --> 00:36:06,920
+ drug, things like that.
+
+439
+00:36:06,920 --> 00:36:13,400
+ Whereas a dependent variable, or the Y, the Y axis, is the measure or outcome thought
+
+440
+00:36:13,400 --> 00:36:20,920
+ to change as a result of the presence, absence, or manipulation of the independent variable.
+
+441
+00:36:20,920 --> 00:36:28,320
+ So this would be like mortality, disease outcome, health status, cost, et cetera.
+
+442
+00:36:28,320 --> 00:36:32,840
+ And lastly, we have the confounding variables or covariates.
+
+443
+00:36:32,840 --> 00:36:41,240
+ So these, I mentioned before, can adversely affect the relationship between these two.
+
+444
+00:36:41,240 --> 00:36:46,280
+ It muddies the waters, so to speak, between X and Y. And this can cause the researcher
+
+445
+00:36:46,280 --> 00:36:52,280
+ to analyze the result incorrectly, the results may show a false correlation between X and
+
+446
+00:36:52,280 --> 00:36:58,000
+ Y lead to an incorrect rejection of the null hypothesis, et cetera, that cause a lot of
+
+447
+00:36:58,000 --> 00:36:59,440
+ different issues.
+
+448
+00:36:59,440 --> 00:37:06,280
+ And confounders could be gender, age, ethnicity, anything that maybe wasn't controlled for
+
+449
+00:37:06,280 --> 00:37:08,800
+ in the experiment.
+
+450
+00:37:08,800 --> 00:37:10,280
+ So what do we do about this?
+
+451
+00:37:10,280 --> 00:37:15,640
+ Well, we can minimize confounding variables by randomizing.
+
+452
+00:37:15,640 --> 00:37:22,440
+ Because if we have large sample sizes with randomly sampled and allocated groups, hopefully
+
+453
+00:37:22,440 --> 00:37:28,720
+ all of the confounding variables will be randomly and uniformly distributed among those different
+
+454
+00:37:28,720 --> 00:37:29,720
+ groups.
+
+455
+00:37:29,720 --> 00:37:34,360
+ So randomization is our best friend.
+
+456
+00:37:34,360 --> 00:37:39,560
+ And lastly, we have the components of a scientific paper.
+
+457
+00:37:39,560 --> 00:37:45,680
+ The PubMed is a common database used by medical and dental students, and medical and dental
+
+458
+00:37:45,680 --> 00:37:52,680
+ professionals that contains a whole host of electronic dental literature.
+
+459
+00:37:52,680 --> 00:37:58,880
+ So the board examiners like you to know the framework, the basic framework of a dental
+
+460
+00:37:58,880 --> 00:38:04,920
+ paper or any scientific paper for that matter.
+
+461
+00:38:04,920 --> 00:38:09,640
+ So the title is simply that, the title of the study which should indicate some central
+
+462
+00:38:09,640 --> 00:38:14,720
+ question or focus of that particular journal article.
+
+463
+00:38:14,720 --> 00:38:19,560
+ The abstract is essentially the SparkNotes version that appears at the beginning of the
+
+464
+00:38:19,560 --> 00:38:26,960
+ paper and provides a quick summary of the background, the population being tested, findings, and
+
+465
+00:38:26,960 --> 00:38:29,400
+ main conclusions.
+
+466
+00:38:29,400 --> 00:38:35,520
+ The introduction section provides a background on the topic, why it's important, why it's
+
+467
+00:38:35,520 --> 00:38:41,280
+ relevant, a literature review of what's currently available on the topic, and then clearly states
+
+468
+00:38:41,280 --> 00:38:46,400
+ the purpose and aims of the study and a hypothesis for the study.
+
+469
+00:38:46,400 --> 00:38:52,320
+ So you're no hypothesis while you're trying to disprove and ultimately what you're trying
+
+470
+00:38:52,320 --> 00:38:55,440
+ to prove with your research.
+
+471
+00:38:55,440 --> 00:39:02,920
+ The method section provides specific information about the population being tested, the independent
+
+472
+00:39:02,920 --> 00:39:09,360
+ and dependent variables, the sampling method, the experimental design, the statistical
+
+473
+00:39:09,360 --> 00:39:14,240
+ analyses performed, everything we've essentially covered in this video.
+
+474
+00:39:14,240 --> 00:39:20,080
+ And a good litmus test is that the method section has enough information that anyone
+
+475
+00:39:20,080 --> 00:39:25,240
+ would be able to replicate that study if they have the proper resources.
+
+476
+00:39:25,240 --> 00:39:31,400
+ So the method section allows the reader to assess the validity and the reliability, right,
+
+477
+00:39:31,400 --> 00:39:34,560
+ the quality of the diagnostic test being used.
+
+478
+00:39:34,560 --> 00:39:36,680
+ And I think it's often overlooked.
+
+479
+00:39:36,680 --> 00:39:42,160
+ This is probably arguably one of the most important sections of the paper.
+
+480
+00:39:42,160 --> 00:39:45,520
+ And unfortunately, if someone's short on time, this is typically the section that people
+
+481
+00:39:45,520 --> 00:39:47,120
+ will skim through.
+
+482
+00:39:47,120 --> 00:39:53,120
+ But again, the method section tells you a lot of information about the paper and the research
+
+483
+00:39:53,120 --> 00:39:55,680
+ that was conducted.
+
+484
+00:39:55,680 --> 00:40:00,500
+ The results section describes specific findings and outcomes from the study.
+
+485
+00:40:00,500 --> 00:40:05,600
+ The discussion section interprets and makes sense of those findings.
+
+486
+00:40:05,600 --> 00:40:11,960
+ And the conclusion provides a summary and attempts to draw connections between the findings
+
+487
+00:40:11,960 --> 00:40:18,320
+ and the original question and hypothesis that they introduced in the introduction section.
+
+488
+00:40:18,320 --> 00:40:21,440
+ Or at least, the paper should do that.
+
+489
+00:40:21,440 --> 00:40:26,640
+ And finally, the references at the end is a list of papers the authors used.
+
+490
+00:40:26,640 --> 00:40:31,600
+ So people could go find additional resources if they wanted to learn more about a certain
+
+491
+00:40:31,600 --> 00:40:34,760
+ aspect of the topic.
+
+492
+00:40:34,760 --> 00:40:38,480
+ All right, so that's it for this video.
+
+493
+00:40:38,480 --> 00:40:39,480
+ Thank you so much for watching.
+
+494
+00:40:39,480 --> 00:40:44,800
+ I know it's a lot of information, but this is some, I think, some really high yield stuff
+
+495
+00:40:44,800 --> 00:40:46,160
+ to know for the board exam.
+
+496
+00:40:46,160 --> 00:40:51,920
+ So definitely re-watch the video if you need to, because I definitely covered a lot on
+
+497
+00:40:51,920 --> 00:40:55,720
+ evidence-based dentistry, biostatistics, and a lot of other things.
+
+498
+00:40:55,720 --> 00:40:57,720
+ So thank you so much for watching.
+
+499
+00:40:57,720 --> 00:40:58,720
+ I hope you enjoyed it.
+
+500
+00:40:58,720 --> 00:41:03,600
+ If you're interested in supporting the channel, please check out my Patreon page, a huge thank
+
+501
+00:41:03,600 --> 00:41:12,240
+ you to Michael Raja, Rev Boyd, Leonardo Bungar, David Jayden, Janet, Nicole, Isabella Kaldis,
+
+502
+00:41:12,240 --> 00:41:14,520
+ and all of my patrons for their support.
+
+503
+00:41:14,520 --> 00:41:19,840
+ You can unlock extras like access to my video slides to take notes on and practice questions,
+
+504
+00:41:19,840 --> 00:41:23,240
+ so go check that out, the link is in the description.
+
+505
+00:41:23,240 --> 00:41:24,880
+ Thanks again for watching everyone.
+
+506
+00:41:24,880 --> 00:41:26,000
+ I'll see you in the next video.
+

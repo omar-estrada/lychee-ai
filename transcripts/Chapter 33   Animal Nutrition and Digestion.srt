@@ -1,0 +1,3032 @@
+1
+00:00:00,000 --> 00:00:06,000
+ Hi, class. Dr. Jim here. In this lecture we're going to look at animal digestion. So we're
+
+2
+00:00:06,000 --> 00:00:11,140
+ going to take the time and look at the nutrients that we need, how animals support themselves,
+
+3
+00:00:11,140 --> 00:00:15,180
+ and then again, essentially how they get through the process of digestion. So we're going to
+
+4
+00:00:15,180 --> 00:00:20,280
+ look at not only the human digestive system, but we're also going to look at other vertebrate
+
+5
+00:00:20,280 --> 00:00:25,280
+ animals and see how they digest their food to get the important nutrients that they need.
+
+6
+00:00:25,280 --> 00:00:30,960
+ Now again, what separates animals out from plants and other organisms like fungi is animals
+
+7
+00:00:30,960 --> 00:00:35,280
+ are heterotrophs. We need to have to eat. So again, we have developed adaptations for
+
+8
+00:00:35,280 --> 00:00:40,880
+ us to eat. And that was, again, we looked at that during chapter 27 when we looked at
+
+9
+00:00:40,880 --> 00:00:46,320
+ the predation and again, the production of jaws and the teeth and all that good stuff.
+
+10
+00:00:46,320 --> 00:00:51,920
+ So we'll look at that today in some of the specific adaptations that we came with. And
+
+11
+00:00:51,920 --> 00:00:56,320
+ then the other thing is, is that we do internal digestion. So what separates animals out from
+
+12
+00:00:56,320 --> 00:01:03,800
+ fungi is that they tend to digest externally and then absorb everything through their cell
+
+13
+00:01:03,800 --> 00:01:07,760
+ walls. Whereas animals, they do everything internally. And so you're going to see that
+
+14
+00:01:07,760 --> 00:01:13,440
+ with the sponges all the way up to humans, we all have internal digestion. And so sponges,
+
+15
+00:01:13,440 --> 00:01:18,440
+ they have their pores again, and they do filter feeding. And then you start to see the
+
+16
+00:01:18,440 --> 00:01:23,520
+ development of these gastrovascular cavities and then digested systems as they go on. Here's
+
+17
+00:01:23,520 --> 00:01:28,280
+ just a cute little picture of different things of animals eating and that stuff. And again,
+
+18
+00:01:28,280 --> 00:01:33,760
+ we see that most animals are either one of three types. They're either carnivores, which
+
+19
+00:01:33,760 --> 00:01:39,160
+ mean they just eat meat. They're herbivores, meaning they eat plants, or they eat both,
+
+20
+00:01:39,160 --> 00:01:42,640
+ which is an omnivore. And so again, a lot of that has to do. And you can look at the
+
+21
+00:01:42,640 --> 00:01:47,560
+ teeth that these animals have. And you can see what they'll eat in that stuff. But again,
+
+22
+00:01:47,560 --> 00:01:50,880
+ it's all about getting nutrients and what nutrients are important. So we'll take a look
+
+23
+00:01:50,880 --> 00:01:56,120
+ at that as we go on today. So first thing we're going to ask is, why do animals have
+
+24
+00:01:56,120 --> 00:02:00,240
+ to eat? Very simple question. Again, we're going to look at that. And again, getting
+
+25
+00:02:00,240 --> 00:02:04,240
+ the nutrients that they need in order to survive. The second thing we're going to look at are
+
+26
+00:02:04,240 --> 00:02:08,000
+ what are the steps of digestion. So we're going to take our, take our time going through
+
+27
+00:02:08,000 --> 00:02:13,200
+ what digestion is. And again, look at the aspects and the organs that are involved with that.
+
+28
+00:02:13,200 --> 00:02:18,220
+ And that's kind of the third topic as well. Then we'll look at the organs needed for digestion.
+
+29
+00:02:18,220 --> 00:02:23,200
+ Where does chemical digestion take place? And look at what is the roles of each of the organs?
+
+30
+00:02:23,200 --> 00:02:27,720
+ What are they supposed to do? And why do we have them? And then finally, look at the adaptations
+
+31
+00:02:27,720 --> 00:02:32,000
+ that are correlated with various animal diets. And so we'll take a look at the differences
+
+32
+00:02:32,000 --> 00:02:37,480
+ between herbivores and carnivores. And what does that effect have on their digestive system
+
+33
+00:02:37,480 --> 00:02:42,560
+ in that and some of these other organisms that are out there? Okay. So chapter 33, we're
+
+34
+00:02:42,560 --> 00:02:47,560
+ looking at digestion today. So we're going to be talking about the stomach, the intestines,
+
+35
+00:02:47,560 --> 00:02:51,860
+ and looking at all those wonderful aspects that go on. So let's take the journey together
+
+36
+00:02:51,860 --> 00:02:56,280
+ and let's go through and see what we can learn about the digestive system. And again, the need
+
+37
+00:02:56,280 --> 00:03:01,160
+ to feed. So food is taken in and taken apart and taken up by the process. And the process
+
+38
+00:03:01,160 --> 00:03:05,600
+ is known as animal nutrition. And in general, it falls into three categories. And I just
+
+39
+00:03:05,600 --> 00:03:11,520
+ mentioned this before. Herbivores mainly eat plants, carnivores eat other animals and omnivores
+
+40
+00:03:11,520 --> 00:03:17,400
+ eat both plants and animals. And again, most animals are also opportunistic feeders, meaning
+
+41
+00:03:17,400 --> 00:03:20,720
+ they're going to look for whatever source of food they can find and they're going to
+
+42
+00:03:20,720 --> 00:03:25,360
+ eat it. So again, that plays a role with the predator prey and then their herbivores of
+
+43
+00:03:25,360 --> 00:03:32,240
+ well. And again, has had major effects on evolution as we've seen in other chapters.
+
+44
+00:03:32,240 --> 00:03:37,640
+ Now the animal diet must supply energy, organic molecules, and essential nutrients. And so
+
+45
+00:03:37,640 --> 00:03:42,600
+ again, chemical energy, which is converted to ATP and power cells. So you need carbohydrates
+
+46
+00:03:42,600 --> 00:03:47,960
+ to do that. You need the organic building blocks, such as organic carbon, organic nitrogen to
+
+47
+00:03:47,960 --> 00:03:53,000
+ synthesize a variety of organic molecules, the proteins, the proteins, carbohydrates
+
+48
+00:03:53,000 --> 00:03:58,240
+ and glyco acids and lipids. And again, then we have the essential nutrients that are required
+
+49
+00:03:58,240 --> 00:04:04,360
+ by cells and must be obtained by dietary sources. And so again, this is just the example of what
+
+50
+00:04:04,360 --> 00:04:08,800
+ we think of fruits and grains and vegetables and protein. And again, having a variety is
+
+51
+00:04:08,800 --> 00:04:13,440
+ always good. And so that's one of the things that we always have to think about is making
+
+52
+00:04:13,440 --> 00:04:18,720
+ sure we get the right nutrients at the time. Now, essential nutrients must be obtained
+
+53
+00:04:18,720 --> 00:04:23,200
+ from the animal's diet. And again, these are four classes that we need. And again, essential
+
+54
+00:04:23,200 --> 00:04:28,200
+ amino acids to help build proteins, essential fatty acids, which are helped to maintain
+
+55
+00:04:28,200 --> 00:04:35,480
+ again, membranes as well as neural transmitter, neural systems, hormones or lipids, a lot
+
+56
+00:04:35,480 --> 00:04:40,360
+ of times, and some of these other guys that we need. And then vitamins and minerals that
+
+57
+00:04:40,360 --> 00:04:44,400
+ are very important as well. And if we don't get these things, then they always suggest
+
+58
+00:04:44,400 --> 00:04:48,680
+ getting taking vitamin supplements and that stuff because they're important for the body
+
+59
+00:04:48,680 --> 00:04:53,880
+ as well. And you can kind of see in a list of some of the things that are necessary for
+
+60
+00:04:53,880 --> 00:05:01,200
+ our body. So again, a little linoletic acid, prostaglandins are important, the fossil lipids,
+
+61
+00:05:01,200 --> 00:05:07,040
+ again, the essential amino acids, which are listed here, mineral cofactor or the iron,
+
+62
+00:05:07,040 --> 00:05:11,720
+ and then the vitamin B3 as a coenzyme to work on enzymes and that stuff. And so you can
+
+63
+00:05:11,720 --> 00:05:17,120
+ kind of see different rules for these bodies. Now, some of the essential fatty acids and
+
+64
+00:05:17,120 --> 00:05:23,000
+ amino acids, again, animals require 20 amino acids. So you can synthesize half the molecules
+
+65
+00:05:23,000 --> 00:05:28,040
+ in their diet, the remaining amino acids are the essential amino acids and it must be maintained
+
+66
+00:05:28,040 --> 00:05:32,240
+ from food. So we can make about half, but we have to get the essential ones. And these
+
+67
+00:05:32,240 --> 00:05:38,880
+ are the essential ones on here. So histidine, isoleucine, leucine, lysine, methionine, phenylalanine,
+
+68
+00:05:38,880 --> 00:05:45,280
+ thuroine, tryptophan and valine. And so again, these are the essential. There's some conditionally
+
+69
+00:05:45,280 --> 00:05:49,360
+ not essential. Sometimes they're needed more and then these guys are really not essential
+
+70
+00:05:49,360 --> 00:05:53,760
+ amino acids in that. And again, looking at the different types that are there. So these
+
+71
+00:05:53,760 --> 00:06:00,360
+ we not necessarily have to get from our diet. And so that's, that's the idea. Now, fatty,
+
+72
+00:06:00,360 --> 00:06:05,160
+ fatty acids, again, we need it for cellular components, such as fossil lipids, signaling
+
+73
+00:06:05,160 --> 00:06:10,520
+ molecules, they talk about hormones and storage fats, again, for energy storage and that there
+
+74
+00:06:10,520 --> 00:06:15,280
+ are essential fatty acids. And again, we can't synthesize them, but they can be synthesized
+
+75
+00:06:15,280 --> 00:06:20,640
+ by plants. And again, we obtain these from these essential fatty acids by our diets.
+
+76
+00:06:20,640 --> 00:06:26,240
+ And this includes things like omega sixes. So you can see where these things come from.
+
+77
+00:06:26,240 --> 00:06:31,000
+ So this kind of gives you an idea and that where we get them, we also have the omega
+
+78
+00:06:31,000 --> 00:06:35,920
+ threes. And again, a lot of people are lacking in the omega threes. So they take fish oil
+
+79
+00:06:35,920 --> 00:06:40,040
+ or some of these other things that again, are very important. So again, we get a lot
+
+80
+00:06:40,040 --> 00:06:44,840
+ of these from our diet. These not so much unless you eat a lot of fish or seeds and
+
+81
+00:06:44,840 --> 00:06:48,180
+ that stuff. So again, that's why a lot of us are now taking supplements because we're
+
+82
+00:06:48,180 --> 00:06:52,200
+ lacking these omega threes. And so a lot of times we get too many of these and not enough
+
+83
+00:06:52,200 --> 00:06:56,640
+ of these. And so that's the, that's the thing that we need there. Now vitamins that are
+
+84
+00:06:56,640 --> 00:07:02,040
+ essential. Again, these are the small required in small amounts, but they're essential again
+
+85
+00:07:02,040 --> 00:07:07,560
+ for enzymes and other functions in there. You can see a list of some of the vitamins
+
+86
+00:07:07,560 --> 00:07:13,200
+ that we need. A lot of times the B complexes and that vitamin D, vitamin E, vitamin K,
+
+87
+00:07:13,200 --> 00:07:17,880
+ folic acid, vitamin A and all these other things. And so you can see some of the different
+
+88
+00:07:17,880 --> 00:07:22,120
+ essential vitamins that we need and where we get them from. And again, natural source
+
+89
+00:07:22,120 --> 00:07:26,840
+ versus other sources. So yeah, taking a look at that. And then the minerals again, these
+
+90
+00:07:26,840 --> 00:07:32,000
+ are inorganic nutrients and again, required in small amounts. And again, getting these
+
+91
+00:07:32,000 --> 00:07:38,600
+ things from our diet and including things like manganese, calcium, sodium, copper, again
+
+92
+00:07:38,600 --> 00:07:45,000
+ fluorine, it's cesium, iron, zinc, all these different things. Again, a lot of these are
+
+93
+00:07:45,000 --> 00:07:49,960
+ co-factors and enzymes as well as signaling molecules in ourselves or transporters in
+
+94
+00:07:49,960 --> 00:07:55,080
+ that. So we need those as well. Now again, dietary deficiencies, if we don't get these
+
+95
+00:07:55,080 --> 00:07:59,800
+ things and we become malnourished. And again, this is a long term absence from the diet
+
+96
+00:07:59,800 --> 00:08:04,040
+ of one or more of these essential nutrients. And again, we've seen the sad stories and
+
+97
+00:08:04,040 --> 00:08:08,200
+ that stuff, especially where you have a lot of famine and drought and other things. And
+
+98
+00:08:08,200 --> 00:08:15,240
+ again, a lot of people in India as well as in Africa, where we see a lot of malnourishment.
+
+99
+00:08:15,240 --> 00:08:20,320
+ And again, it says that again, every third individual is malnourished in the world today.
+
+100
+00:08:20,320 --> 00:08:26,320
+ And so that's kind of sad that we live in a world as complex and cosmopolitan as we
+
+101
+00:08:26,320 --> 00:08:30,800
+ have it. And we still see hunger as a major issue. And even in the United States, we see
+
+102
+00:08:30,800 --> 00:08:35,040
+ that as an issue and that stuff, which is a sad, sad state affair, because the United
+
+103
+00:08:35,040 --> 00:08:43,640
+ States is a very productive country, very rich country in history and also in monetary wealth
+
+104
+00:08:43,640 --> 00:08:47,440
+ as well. And we still have children going to bed hungry every night and that stuff. And
+
+105
+00:08:47,440 --> 00:08:53,040
+ that's kind of a sad statement to say for this country especially in that. So we look
+
+106
+00:08:53,040 --> 00:08:59,760
+ at that and it can be a tough, tough situation. Now, deficiencies in nutrients can cause deformities,
+
+107
+00:08:59,760 --> 00:09:05,480
+ disease and death. And again, sometimes animals will get salt, mineral and shells or stones
+
+108
+00:09:05,480 --> 00:09:09,680
+ to prevent mineral deficiencies. And you can see here, this animal licking the rocks to
+
+109
+00:09:09,680 --> 00:09:14,480
+ get in some nutrients. And so sometimes it's essential because they're not getting it in
+
+110
+00:09:14,480 --> 00:09:18,040
+ their diet. And so they have to get it from other sources. And so a lot of times you'll
+
+111
+00:09:18,040 --> 00:09:24,040
+ see animals licking rocks or ground or other things to get some of these minerals that
+
+112
+00:09:24,040 --> 00:09:29,740
+ they may be deficient in. Now, a diet in sufficient amounts of one or more amino acids is the
+
+113
+00:09:29,740 --> 00:09:36,480
+ most common type of malnutrition in among humans. Again, other diets often deficient in vitamin
+
+114
+00:09:36,480 --> 00:09:42,920
+ A. And so one of the things we've seen is again synthesizing food with different vitamins
+
+115
+00:09:42,920 --> 00:09:47,680
+ in them. And so one of the things is this golden rice, which now has vitamin A and beta
+
+116
+00:09:47,680 --> 00:09:52,880
+ keratin in it. And so you see this thing called golden rice. And so this is one of the advantages
+
+117
+00:09:52,880 --> 00:09:58,320
+ of bioengineering. You're putting nutrients in food that now is available and help the
+
+118
+00:09:58,320 --> 00:10:02,480
+ male nourishment in different parts of the world. And so this is a good thing. And so
+
+119
+00:10:02,480 --> 00:10:07,880
+ this is where GMOs can actually be very helpful in that. And again, GMOs get a bad name. But
+
+120
+00:10:07,880 --> 00:10:12,440
+ again, this is one of the areas where it could be very beneficial in providing nutrients
+
+121
+00:10:12,440 --> 00:10:19,120
+ for people that are male nourished in these situations. Now, under nourishment, again,
+
+122
+00:10:19,120 --> 00:10:23,920
+ can arise when diets don't provide enough. And again, what happens in individual is they
+
+123
+00:10:23,920 --> 00:10:28,480
+ used up the stored fats and carbohydrates. They start to break down their own proteins.
+
+124
+00:10:28,480 --> 00:10:33,760
+ They lose muscle mass again, because of the breakdown, you suffer protein deficiency
+
+125
+00:10:33,760 --> 00:10:39,000
+ of the brain. And eventually you can die and suffer irreversible damage. And again, this
+
+126
+00:10:39,000 --> 00:10:42,680
+ doesn't have to be a third world country. We're talking about the United States to people
+
+127
+00:10:42,680 --> 00:10:48,200
+ with eating disorders. And again, things like anorexia or some of these other eating disorders
+
+128
+00:10:48,200 --> 00:10:53,840
+ where you definitely see this happen into people where they get very, you know, due to the psychological
+
+129
+00:10:53,840 --> 00:10:57,960
+ effects and that stuff, they can basically waste away. And essentially, because they're
+
+130
+00:10:57,960 --> 00:11:01,560
+ not getting the nutrients that they need and their body starts to eat themselves. And so
+
+131
+00:11:01,560 --> 00:11:09,360
+ it's a sad situation when they're not able to maintain their normal and normal environment.
+
+132
+00:11:09,360 --> 00:11:12,400
+ And again, they get this male nourishment because they're not getting enough food to
+
+133
+00:11:12,400 --> 00:11:17,280
+ supplement their diet. And so that's, that's a, that's an interesting aspect as well when
+
+134
+00:11:17,280 --> 00:11:22,920
+ you look at that. Now again, food processing can be divided into four stages. And so you
+
+135
+00:11:22,920 --> 00:11:28,920
+ have ingestion, which is basically taking in the food and bringing it in digestion, which
+
+136
+00:11:28,920 --> 00:11:33,960
+ is the chemical breakdown. And again, using the enzymatic hydrolysis. And then you have
+
+137
+00:11:33,960 --> 00:11:38,680
+ absorption in the intestines, which absorb the nutrients into the rest of the body. And
+
+138
+00:11:38,680 --> 00:11:45,480
+ then finally, you have elimination, which is getting rid of the excess or waste or undigested
+
+139
+00:11:45,480 --> 00:11:49,720
+ material in these situations. And so again, this is why we eat. And so again, these are
+
+140
+00:11:49,720 --> 00:11:54,840
+ the four stages, ingestion, digestion, absorption and elimination. And this is why we eat the
+
+141
+00:11:54,840 --> 00:12:00,160
+ food we eat. Okay. Now, ingestion is the act of eating or feeding. And again, it's strategies
+
+142
+00:12:00,160 --> 00:12:05,420
+ for extracting resources from through different widely among animals. You can see here, this
+
+143
+00:12:05,420 --> 00:12:11,400
+ snake is eating this, essentially has constricted this, it looks like an antelope completely,
+
+144
+00:12:11,400 --> 00:12:15,960
+ now it is swallowing it whole. And so again, these guys have onions, jaws, so they can
+
+145
+00:12:15,960 --> 00:12:22,280
+ swallow their food. Most animals, again, predatory animals have his jaws, so they can't do that.
+
+146
+00:12:22,280 --> 00:12:26,880
+ So they have to chew up their food and break it down first before they can ingest it. And
+
+147
+00:12:26,880 --> 00:12:32,440
+ so depending on the type of animal, you see different mechanisms for ingestion. Now, digestion
+
+148
+00:12:32,440 --> 00:12:37,120
+ is the process of breaking it down. And again, we have mechanical digestion, which is our
+
+149
+00:12:37,120 --> 00:12:41,360
+ teeth. And again, some of the other things that help break these things down, the movement
+
+150
+00:12:41,360 --> 00:12:45,440
+ of the food and breaking it down this way. And then you have the chemical digestion,
+
+151
+00:12:45,440 --> 00:12:50,040
+ which is the enzymes which help break things down into smaller pieces as they pass through
+
+152
+00:12:50,040 --> 00:12:54,600
+ and allow it to pass through the membranes. And so again, in chemical digestion, you have
+
+153
+00:12:54,600 --> 00:13:00,120
+ hydrolysis that split bonds with addition of water and other things, the acid helps break
+
+154
+00:13:00,120 --> 00:13:04,480
+ these things down and you look at these different things as we see it. So again, when you eat
+
+155
+00:13:04,480 --> 00:13:09,080
+ that pizza, you can see all the different things that go on. And again, the ingestion
+
+156
+00:13:09,080 --> 00:13:13,640
+ is the bringing the food in. Digestion is breaking it down. And then the next part is
+
+157
+00:13:13,640 --> 00:13:17,960
+ going to be the absorption of taking these small molecules once you've broken it down
+
+158
+00:13:17,960 --> 00:13:25,320
+ and then absorbing it. Okay, so absorption is the uptake of nutrients. And then the elimination
+
+159
+00:13:25,320 --> 00:13:32,360
+ is getting rid of any undigested material out of that digestive system. And so again,
+
+160
+00:13:32,360 --> 00:13:37,960
+ you can kind of see this ingestion is bringing it in. Digestion is breaking it down. Absorption
+
+161
+00:13:37,960 --> 00:13:43,280
+ is absorbing the nutrients. And then finally, elimination is getting rid of those undigested
+
+162
+00:13:43,280 --> 00:13:48,680
+ pieces. Now again, in most animals, processed food and specialized compartments. And again,
+
+163
+00:13:48,680 --> 00:13:52,640
+ the compartments reduce the risk of animals digesting their own cells and tissues. And
+
+164
+00:13:52,640 --> 00:13:57,760
+ so again, these systems are set up so that the digestion takes place in a closed system
+
+165
+00:13:57,760 --> 00:14:02,360
+ and that they're protected for not having them leak out. Obviously, people can have issues
+
+166
+00:14:02,360 --> 00:14:08,040
+ with that. But typically, we think of a closed system you have a tube inside of a tube. And
+
+167
+00:14:08,040 --> 00:14:12,680
+ so our digestive system is kind of closed off from the rest of the rest of the body. And
+
+168
+00:14:12,680 --> 00:14:16,880
+ again, eliminates these different things as we go along. And so again, keeps it in the
+
+169
+00:14:16,880 --> 00:14:22,520
+ digestive system and not leach out into the rest of the environment. Okay, now we can
+
+170
+00:14:22,520 --> 00:14:27,760
+ have intracellular digestion. And so again, when we think of single cells or in our bodies
+
+171
+00:14:27,760 --> 00:14:32,620
+ where you have these food particles that come in, they can be digested internally by the
+
+172
+00:14:32,620 --> 00:14:38,760
+ phagosome. The phagosome is basically brought in by the phagocytosis. You attach to the
+
+173
+00:14:38,760 --> 00:14:44,000
+ lysosome. The lysosome contains the enzymes and then you break these things down. And then
+
+174
+00:14:44,000 --> 00:14:50,720
+ the molecules are either brought in and absorbed by the cell or released through exocytosis.
+
+175
+00:14:50,720 --> 00:14:56,120
+ So again, that's internal cells. And we see this during the process of absorption. And
+
+176
+00:14:56,120 --> 00:15:00,600
+ once the material is broken down, and the individual cells are feeding on the little
+
+177
+00:15:00,600 --> 00:15:07,120
+ morsels. Now, extracellular digestion is essentially where it breaks out down outside the cells.
+
+178
+00:15:07,120 --> 00:15:11,400
+ And so again, there's compartments that are continuous with the outside of the animal's
+
+179
+00:15:11,400 --> 00:15:17,720
+ body. And so again, even in the simple animals like the nideria, what you have is this gastrovascular
+
+180
+00:15:17,720 --> 00:15:23,420
+ cavity, which essentially eats food, brings it in and releases enzymes to break this down.
+
+181
+00:15:23,420 --> 00:15:29,560
+ And so again, in this situation with the gastrovascular cavity, you have internal digestion.
+
+182
+00:15:29,560 --> 00:15:34,700
+ These get broken down and then the cells absorb the minerals once they're broken down. And
+
+183
+00:15:34,700 --> 00:15:39,560
+ then anything that doesn't go gets excreted back out through the mouth. And so again,
+
+184
+00:15:39,560 --> 00:15:45,640
+ whether you're a big animal like us or a small animal like the hydra, you do internal digestion
+
+185
+00:15:45,640 --> 00:15:52,040
+ inside a tube or a vessel inside the body that releases enzymes. And then finally, it's
+
+186
+00:15:52,040 --> 00:15:57,360
+ rid of the waste when it's been properly digested.
+
+187
+00:15:57,360 --> 00:16:02,240
+ Now, more complex animals have a complete digestive tract or an elementary canal. And
+
+188
+00:16:02,240 --> 00:16:07,280
+ again, with a mouth and anus. And so again, the mouth is responsible for bringing in food
+
+189
+00:16:07,280 --> 00:16:13,120
+ and the anus is responsible for the elimination of the waste products. And again, most animals
+
+190
+00:16:13,120 --> 00:16:18,920
+ have a complete digestive system. Again, it's really only the very simple animals like the
+
+191
+00:16:18,920 --> 00:16:23,600
+ couple that I can think of that are very simple are the nigerians. So again, the jellyfish
+
+192
+00:16:23,600 --> 00:16:29,080
+ or the hydra. And then the worms, the flat worms like the plenary typically have only
+
+193
+00:16:29,080 --> 00:16:35,000
+ a incomplete digestive system. Most animals above that all have a complete digestive system.
+
+194
+00:16:35,000 --> 00:16:39,640
+ So they have a way of to bring in the food and then a way to release the food animals.
+
+195
+00:16:39,640 --> 00:16:44,280
+ We saw this when we did the view or the scan of the different animals, but we'll look again
+
+196
+00:16:44,280 --> 00:16:50,320
+ more closely at digestion one, especially in the in the pigs when we do the dissection
+
+197
+00:16:50,320 --> 00:16:54,360
+ of the pigs. And we'll look at that as well as the frogs as well and look at that and
+
+198
+00:16:54,360 --> 00:16:59,560
+ see those different things. Okay, very similar. Okay. And again, it's the systems are the
+
+199
+00:16:59,560 --> 00:17:04,720
+ same way. It's a big one too. It just depends on the type of organs that you have. And again,
+
+200
+00:17:04,720 --> 00:17:09,000
+ these are some of the different things that you see. So sometimes you see crops and gizzards
+
+201
+00:17:09,000 --> 00:17:15,240
+ other times you see stomachs in that. And again, the roles of these things all depend
+
+202
+00:17:15,240 --> 00:17:21,160
+ on what they're supposed to do. And so again, we'll look at these as we go along throughout.
+
+203
+00:17:21,160 --> 00:17:26,840
+ Okay. Now, in the mammalian digestive system contains the elementary canal and the accessory
+
+204
+00:17:26,840 --> 00:17:32,080
+ glands that's increased the digestive juices. Again, it's one long tube all the way through.
+
+205
+00:17:32,080 --> 00:17:36,680
+ And again, the accessory glands and the salivary glands, the pancreas, the liver and the gall
+
+206
+00:17:36,680 --> 00:17:41,560
+ bladder all contribute digestive enzymes that help break down the food. So they are part
+
+207
+00:17:41,560 --> 00:17:47,680
+ of the chemical digestion. And we'll talk about where and what happens during each part of
+
+208
+00:17:47,680 --> 00:17:52,840
+ the digestive system here in a little while. Okay. Now the first stage of digestion is
+
+209
+00:17:52,840 --> 00:17:57,680
+ mechanical and takes place in the oral cavity. And again, the chemical would be the grinding
+
+210
+00:17:57,680 --> 00:18:02,480
+ of the teeth, tearing it up. And then the chemical digestion would be from the salivary
+
+211
+00:18:02,480 --> 00:18:07,480
+ glands. And so you release saliva in the oral cavity to help again slide that down through
+
+212
+00:18:07,480 --> 00:18:12,760
+ the esophagus as well as to start breaking down certain chemicals that are in the food.
+
+213
+00:18:12,760 --> 00:18:17,960
+ And so again, one of the things that we have is amylase to help break down starches and
+
+214
+00:18:17,960 --> 00:18:23,240
+ glucose polymers. Again, other things that we have is mucus and other things, water
+
+215
+00:18:23,240 --> 00:18:29,760
+ salts and glycoproteins as well as some other lysosymes in that that help break down some
+
+216
+00:18:29,760 --> 00:18:34,800
+ proteins and other things in the saliva itself. So you start to see some chemical digestion
+
+217
+00:18:34,800 --> 00:18:39,920
+ as well. And we'll look at specifically what gets broken down here in a little while when
+
+218
+00:18:39,920 --> 00:18:45,400
+ we look at chemical digestion. Now in the upper digestion, again, the tongue shapes the food
+
+219
+00:18:45,400 --> 00:18:50,760
+ into a bolus. And so that bolus then works its way down into the esophagus. And again,
+
+220
+00:18:50,760 --> 00:18:55,520
+ one of the things that we have is the epiglottis and that epiglottis helps close off so that
+
+221
+00:18:55,520 --> 00:19:00,800
+ we don't swallow food into our respiratory system. And again, that's an important part
+
+222
+00:19:00,800 --> 00:19:05,080
+ that's kind of the revolving door. Typically, it's closed when we're eating and then it
+
+223
+00:19:05,080 --> 00:19:09,760
+ opens back up when we're breathing. And so again, sometimes you get water food and that's
+
+224
+00:19:09,760 --> 00:19:15,080
+ when we get when we start to choke. And so it goes down the wrong, wrong hole, I guess
+
+225
+00:19:15,080 --> 00:19:19,460
+ in that case, if you want to call it that a wrong tube, and then you may have the response
+
+226
+00:19:19,460 --> 00:19:24,080
+ like a coughing response or you may need help like the heimlich response. And so you get
+
+227
+00:19:24,080 --> 00:19:28,840
+ the food out of there. And so but hopefully it works its way down through the esophagus
+
+228
+00:19:28,840 --> 00:19:32,680
+ and towards the stomach. And you can see some of the different ways that we use this. So
+
+229
+00:19:32,680 --> 00:19:38,160
+ the teeth, again, help cut and grind the food. The tongue helps move the food down as well
+
+230
+00:19:38,160 --> 00:19:44,200
+ as the different salivary glands that help again provide chemical digestion to break
+
+231
+00:19:44,200 --> 00:19:49,320
+ down the food as it goes along. Now, swelling must be closely carefully choreographed to
+
+232
+00:19:49,320 --> 00:19:54,000
+ avoid choking. And again, the epiglottis does protect that. And again, you want to make
+
+233
+00:19:54,000 --> 00:19:58,240
+ sure that it's closed before you swallow and all that stuff. And so a lot of times choking
+
+234
+00:19:58,240 --> 00:20:03,240
+ happens when we don't chew something fully and it gets kind of lodged in that area. And
+
+235
+00:20:03,240 --> 00:20:08,640
+ so that's one of the issues that that people have. And again, then the esophagus conducts
+
+236
+00:20:08,640 --> 00:20:13,600
+ food down from the pharynx down to the stomach using rhythmic cycles of contraction. We'll
+
+237
+00:20:13,600 --> 00:20:18,800
+ talk about about that. That's called pterostalis. And again, causes the squeezing sensation to
+
+238
+00:20:18,800 --> 00:20:23,720
+ work its way down to the stomach. And again, the form of the esophagus fits this function
+
+239
+00:20:23,720 --> 00:20:29,960
+ in the various among species. And again, around to work the food down to the stomach. Now,
+
+240
+00:20:29,960 --> 00:20:35,440
+ like I said, pterostalis is the rhythmic contractions of the muscles. And so the smooth muscles
+
+241
+00:20:35,440 --> 00:20:41,400
+ that line this help constrict and contract and that contraction allows for the food to
+
+242
+00:20:41,400 --> 00:20:46,640
+ work its way down to the stomach. And so we have these waves that essentially help push
+
+243
+00:20:46,640 --> 00:20:52,240
+ it down. Now, also, we have these valves at the end of both the esophagus and on the
+
+244
+00:20:52,240 --> 00:20:58,040
+ other end of the stomach. And at the other end of the digestive system that help regulate
+
+245
+00:20:58,040 --> 00:21:02,120
+ the movement material between the compartments. And so we'll see this a couple of times. The
+
+246
+00:21:02,120 --> 00:21:07,520
+ first sphincter we're going to see is the gastric, again, the gastric sphincter, or
+
+247
+00:21:07,520 --> 00:21:13,600
+ I think it's called the esophageal sphincter in that case, where again, the food comes
+
+248
+00:21:13,600 --> 00:21:18,000
+ down. And as the food comes down, it allows for the sphincter to relax and allows for
+
+249
+00:21:18,000 --> 00:21:22,680
+ the food to enter in. Now, some people have issues where they get heartburn and they acid
+
+250
+00:21:22,680 --> 00:21:26,640
+ from the stomach actually works their way through and can actually damage the esophagus
+
+251
+00:21:26,640 --> 00:21:31,280
+ and the sphincter itself if they have chronic heartburn and that. And so people can develop
+
+252
+00:21:31,280 --> 00:21:37,360
+ that as well. Now, once we get to the stomach, you have the digestive or gastric juices,
+
+253
+00:21:37,360 --> 00:21:43,160
+ which basically convert the meal of the mixture into the digestive juice called kind. And so
+
+254
+00:21:43,160 --> 00:21:48,400
+ it goes from a bolus to the alachain. You can see we have these pits inside of her stomach
+
+255
+00:21:48,400 --> 00:21:53,520
+ that release the acid. And then the acid is from these pareto cells, which take chlorine
+
+256
+00:21:53,520 --> 00:22:00,240
+ and the protons and convert it into hydrochloric acid. And the pepcidogen is then converted
+
+257
+00:22:00,240 --> 00:22:04,600
+ to pepsin, which becomes the active enzyme that helps break down protein. And so the
+
+258
+00:22:04,600 --> 00:22:10,680
+ HDL helps convert pepsinogen to pepsin. And then you have this reaction to help digest
+
+259
+00:22:10,680 --> 00:22:16,040
+ the food in the stomach. And so this is how chemical digestion takes place inside the
+
+260
+00:22:16,040 --> 00:22:20,760
+ stomach. And this just shows you the glands and that. And again, the mucus cells that
+
+261
+00:22:20,760 --> 00:22:25,800
+ help coat the stomach to protect it so you don't get all serves in that from the acid
+
+262
+00:22:25,800 --> 00:22:30,920
+ that's produced. Now again, the gastric juice has a low pH about two, which kills the bacteria
+
+263
+00:22:30,920 --> 00:22:35,440
+ and helps the nature of proteins. And again, it's made up of hydrochloric acid and pepsin,
+
+264
+00:22:35,440 --> 00:22:40,520
+ which helps break down proteins. And then it's a protease, meaning that it breaks down proteins
+
+265
+00:22:40,520 --> 00:22:44,600
+ and it cleaves proteins into peptides. And so that's typically the chemical digestion
+
+266
+00:22:44,600 --> 00:22:50,120
+ that's happening in the stomach is the pepsin breaking down the proteins in this case.
+
+267
+00:22:50,120 --> 00:22:54,360
+ Now the mucus in the stomach protects it from the gastric juice. And then cell division
+
+268
+00:22:54,360 --> 00:22:58,520
+ keeps adding new epithelial layers every three days to replace any cells damaged by
+
+269
+00:22:58,520 --> 00:23:04,000
+ digestive juices. And so again, it's that chronic wearing away that can lead to ulcers. And so
+
+270
+00:23:04,000 --> 00:23:09,040
+ you can see here's a normal stomach lining where you have this nice mucus layer as well
+
+271
+00:23:09,040 --> 00:23:14,080
+ as cells replacing, whereas you get damaged where you get these areas where are the ulcer
+
+272
+00:23:14,080 --> 00:23:20,600
+ forms. Now most people, and this is my microbiologist coming at you, get ulcers because they have
+
+273
+00:23:20,600 --> 00:23:25,920
+ a bacterial infection. And so it's not actually due to, you know, worrying a lot or having
+
+274
+00:23:25,920 --> 00:23:30,920
+ stress or other things. What really happens most of the time is you get this bacterial
+
+275
+00:23:30,920 --> 00:23:35,800
+ infection called helochobacter pylori, which sits in the stomach wall. It actually raises
+
+276
+00:23:35,800 --> 00:23:41,640
+ the pH so they can survive in there. And then it causes this wearing away of the lining.
+
+277
+00:23:41,640 --> 00:23:46,440
+ The cells can't repair itself as fast. And so you get the cell damage as well as the mucus
+
+278
+00:23:46,440 --> 00:23:51,120
+ goes away. And so you see this damage occurring. And so that's the big issue when you talk
+
+279
+00:23:51,120 --> 00:23:55,560
+ about ulcers and that a lot of times is due to a bacterial infection and not just due
+
+280
+00:23:55,560 --> 00:24:01,120
+ to stress or worry with that. And so I think they said it estimate about 90% of the ulcers
+
+281
+00:24:01,120 --> 00:24:05,280
+ that are actually caused by bacterial infection rather than, you know, some of these other
+
+282
+00:24:05,280 --> 00:24:11,000
+ things that we think about stress or worry or something else that goes on in these situations.
+
+283
+00:24:11,000 --> 00:24:16,080
+ Now coordinated constriction, relaxation, and stomach muscle turn the stomach contents.
+
+284
+00:24:16,080 --> 00:24:20,600
+ So it's kind of like this big bag that helps stir the stuff up. And then the sphincters
+
+285
+00:24:20,600 --> 00:24:26,080
+ prevent the kind from entering the esophagus or coming into the small intestine. So again,
+
+286
+00:24:26,080 --> 00:24:31,400
+ you have this cardio esophageal sphincter up at the top, which keeps it from going back
+
+287
+00:24:31,400 --> 00:24:35,560
+ through the esophagus. And then you have the pyloric sphincter or the valve that keeps
+
+288
+00:24:35,560 --> 00:24:40,960
+ it from going into the intestines until it's ready. And so again, you get this digestion
+
+289
+00:24:40,960 --> 00:24:45,360
+ and typically it takes anywhere from two to six hours to go from the stomach into the
+
+290
+00:24:45,360 --> 00:24:49,960
+ intestine for the food to move in. And so it's quite a while in the stomach, just digesting,
+
+291
+00:24:49,960 --> 00:24:54,760
+ and turning, and processing the chemical digestion, breaking down the proteins and eventually
+
+292
+00:24:54,760 --> 00:24:58,880
+ going into the stomach. So you'd assume that probably things that are higher protein are
+
+293
+00:24:58,880 --> 00:25:03,000
+ going to take longer to digest. And so that's one of the reasons why if you want to lose
+
+294
+00:25:03,000 --> 00:25:07,800
+ weight, they say eat a lot of protein, because it takes longer to digest. And so it's one
+
+295
+00:25:07,800 --> 00:25:12,600
+ of those things that you have to sit there and break it down longer. So you feel fuller,
+
+296
+00:25:12,600 --> 00:25:16,320
+ and it takes you a longer to break these things down. Same thing with fiber. That's the other
+
+297
+00:25:16,320 --> 00:25:20,760
+ thing because you can't digest it and it sits in your system and makes you feel full.
+
+298
+00:25:20,760 --> 00:25:26,240
+ Okay, now once the food, the bolus, and the kind who's into the small intestine, it enters
+
+299
+00:25:26,240 --> 00:25:31,360
+ into what we call the duodenum. And we've looked at that in chapter 32, how the cells
+
+300
+00:25:31,360 --> 00:25:36,680
+ regulate the pH. And so when it enters in here, travels through the pyloric sphincter
+
+301
+00:25:36,680 --> 00:25:41,960
+ and enters into the duodenum, what you see is that the pH goes up to about a seven.
+
+302
+00:25:41,960 --> 00:25:45,920
+ Now what happens here is that digestion still occurs in the small intestine, but you now
+
+303
+00:25:45,920 --> 00:25:50,040
+ start to see absorption. And so again, in the small intestine, you see all these little
+
+304
+00:25:50,040 --> 00:25:57,640
+ billi that allow for the, again, pre surface area so you can do more digestion and absorption
+
+305
+00:25:57,640 --> 00:26:02,480
+ in these places. And like I said, person is in the duodenum. And again, the kind mixes
+
+306
+00:26:02,480 --> 00:26:07,360
+ with digestive juices from the pancreas, liver, gallbladder, intestinal wall to further break
+
+307
+00:26:07,360 --> 00:26:12,240
+ things down. And so again, we get further breakdown in the smaller units and we start
+
+308
+00:26:12,240 --> 00:26:17,480
+ to see absorption and that and then we move into the large intestine here in a minute.
+
+309
+00:26:17,480 --> 00:26:21,360
+ Now, the roles of the pancreas, we look at the pancreas. And again, one of the things
+
+310
+00:26:21,360 --> 00:26:26,640
+ that it produces is the chymal trypsin, which is activated by the duodenum. One, it helps
+
+311
+00:26:26,640 --> 00:26:33,840
+ neutralize the acidic chym in there. We talked about that, the regulation of again, the secretenin,
+
+312
+00:26:33,840 --> 00:26:40,080
+ secretenin gets released by the duodenum, which triggers the pancreas, just add bicarbonate
+
+313
+00:26:40,080 --> 00:26:44,480
+ in and again, causing the things to raise the pH up. So that's one of the things that
+
+314
+00:26:44,480 --> 00:26:48,640
+ it does. The other thing that it does is it releases this trypsin in that, which helps
+
+315
+00:26:48,640 --> 00:26:54,600
+ also breakdown proteins as we go along. Now, in the small intestine, bile adds indigestion
+
+316
+00:26:54,600 --> 00:26:58,760
+ and absorption of fats. And so again, if you have a problem with your gallbladder or you're
+
+317
+00:26:58,760 --> 00:27:03,920
+ missing your gallbladder, one of the things that Dr. tells you is watch fatty foods because
+
+318
+00:27:03,920 --> 00:27:09,720
+ you're not as likely to eat or not as likely to digest fats as well because you're missing
+
+319
+00:27:09,720 --> 00:27:14,760
+ a lot of your bile. And that in that bile helps breakdown the fatty tissue. And so when
+
+320
+00:27:14,760 --> 00:27:19,600
+ you're losing your gallbladder because it gets blocked by a gallstone or it gets diseased
+
+321
+00:27:19,600 --> 00:27:23,920
+ or damaged, you have this removed. You still can make bile from your liver. You just don't
+
+322
+00:27:23,920 --> 00:27:28,160
+ have a lot of it stored. And so again, it's more about moderation. And so you still can
+
+323
+00:27:28,160 --> 00:27:32,560
+ eat fatty foods, but you have to be very careful because you just don't produce it or you don't
+
+324
+00:27:32,560 --> 00:27:38,240
+ have as much bile. And so that's the problem. Bile is also the reason why your poop turns
+
+325
+00:27:38,240 --> 00:27:43,640
+ out brown because it adds that color, it adds the there. And so when you see damage to the
+
+326
+00:27:43,640 --> 00:27:47,640
+ liver, a lot of times you get jaundice in that and that's the bilirubin that accumulates.
+
+327
+00:27:47,640 --> 00:27:51,920
+ Well, that's the color in the bile and that the greenish color and that and that gives
+
+328
+00:27:51,920 --> 00:27:57,280
+ you the color that you see in your poop. So that's why you see that it also destroys non-functional
+
+329
+00:27:57,280 --> 00:28:03,200
+ red blood cells as well. So runs that are dying. Now, let's take a look at the chemical
+
+330
+00:28:03,200 --> 00:28:08,960
+ digestion. So we talked about this first. So really in the oral cavity, the one that
+
+331
+00:28:08,960 --> 00:28:13,600
+ takes place there is in the saliva. So you have this amylase that helps break down the
+
+332
+00:28:13,600 --> 00:28:19,520
+ polysaccharide. So things like starch and glycogen, sucrose and lactose and maltose into smaller
+
+333
+00:28:19,520 --> 00:28:24,240
+ polysaccharide. So that's the first thing you see. So primarily in the mouth, the chemical
+
+334
+00:28:24,240 --> 00:28:30,480
+ digestion is going to be on the sugars in that. Okay. Then when you move to the stomach, the
+
+335
+00:28:30,480 --> 00:28:35,720
+ stomach will also continue on with the carbohydrate digestion and has again enzymes that breaks
+
+336
+00:28:35,720 --> 00:28:40,520
+ these things down as well as the protein digestion with the pepsin. And so again, that's what
+
+337
+00:28:40,520 --> 00:28:45,240
+ takes place with the acid and that helps break down the protein. So again, in the stomach,
+
+338
+00:28:45,240 --> 00:28:49,680
+ so now you've got carbohydrate and protein digestion. And then finally, when you move
+
+339
+00:28:49,680 --> 00:28:54,840
+ into the small intestine, you start to see the rest of the nutrients being broken down.
+
+340
+00:28:54,840 --> 00:29:01,720
+ So again, you see carbohydrate digestion with again, pancreatic amylases, you see more protein
+
+341
+00:29:01,720 --> 00:29:07,880
+ digestion with trypsin and chymotrypsin. And then you now start to see nucleic acid digestion
+
+342
+00:29:07,880 --> 00:29:13,400
+ through the nucleases that are found in the pancreas and then the pancreatic lipase along
+
+343
+00:29:13,400 --> 00:29:17,400
+ with bile with the fat digestion. And we're going to look at all these. So really, the
+
+344
+00:29:17,400 --> 00:29:22,400
+ main place of digestion and chemical digestion takes place in the intestines, but the stomach
+
+345
+00:29:22,400 --> 00:29:27,600
+ and the mouth start the carbohydrates and the protein digestion first. And then the rest
+
+346
+00:29:27,600 --> 00:29:33,160
+ of these things get digested in the small intestine. Okay. And then the other other things from
+
+347
+00:29:33,160 --> 00:29:39,000
+ other chemicals as well for carbohydrates. Again, you see digestion that protein digestion
+
+348
+00:29:39,000 --> 00:29:43,800
+ and then nucleic acid as well. So we've talked about all these different things as well.
+
+349
+00:29:43,800 --> 00:29:48,080
+ Now, absorption starts to take place in the small intestine as well. And again, that's
+
+350
+00:29:48,080 --> 00:29:52,320
+ why you have the villi and the micro villi, which again, increases the surface area so
+
+351
+00:29:52,320 --> 00:29:59,000
+ you can digest more. And so the enormous micro villi or surface area creates broader brush
+
+352
+00:29:59,000 --> 00:30:04,640
+ broader of increased rate of nutrient absorption. And again, without it, we wouldn't be able
+
+353
+00:30:04,640 --> 00:30:09,840
+ to absorb as well. And so that villi really increases surface area so you can absorb that
+
+354
+00:30:09,840 --> 00:30:14,480
+ much more food. And so again, makes it much more efficient in a much more efficient system.
+
+355
+00:30:14,480 --> 00:30:19,360
+ Otherwise, we'd group in a lot more if we didn't absorb quite as much in that. So it
+
+356
+00:30:19,360 --> 00:30:24,520
+ does help with that the absorption. You can see here, again, the blood vessels are attached
+
+357
+00:30:24,520 --> 00:30:29,120
+ to the intestine. They absorb the nutrients and that stuff. We see the absorption with
+
+358
+00:30:29,120 --> 00:30:33,760
+ the villi. You increase the surface area by having more of these as opposed to just a
+
+359
+00:30:33,760 --> 00:30:39,000
+ flat surface. You have so many more cells to absorb these cells absorb and then pass the
+
+360
+00:30:39,000 --> 00:30:43,800
+ nutrients into the blood. And so those things get into the blood and do those different
+
+361
+00:30:43,800 --> 00:30:49,920
+ things and then absorb the food or the nutrients, I'm sorry, in these cases. Now, one of the
+
+362
+00:30:49,920 --> 00:30:54,320
+ important veins in this case is the hepatic portal vein, which carries nutrients blood
+
+363
+00:30:54,320 --> 00:30:58,760
+ from the capillaries to the villi to the liver and then to the heart. And again, the liver
+
+364
+00:30:58,760 --> 00:31:03,880
+ regulates nutrient distribution, intercoverse many organic molecules and detoxifies many
+
+365
+00:31:03,880 --> 00:31:08,040
+ organic molecules. So really, the liver is there for an important reason, and that's
+
+366
+00:31:08,040 --> 00:31:12,840
+ to detoxify anything that we bring in. It also controls where the nutrients are going
+
+367
+00:31:12,840 --> 00:31:16,780
+ to go in the body. And so it's kind of the control center saying, okay, we got all these
+
+368
+00:31:16,780 --> 00:31:20,400
+ nutrients, where do we need them the most? And it's kind of like the distribution center
+
+369
+00:31:20,400 --> 00:31:24,080
+ of the shipping center and says, okay, we need nutrients here, we need nutrients here
+
+370
+00:31:24,080 --> 00:31:28,540
+ and the liver can do that. It also detoxifies things. So if there's toxins that you get
+
+371
+00:31:28,540 --> 00:31:33,560
+ in the food, or if you're naughty and drink alcohol, the liver does detoxify those things
+
+372
+00:31:33,560 --> 00:31:40,240
+ so that it becomes less of an issue in your body and detoxifies those types of things.
+
+373
+00:31:40,240 --> 00:31:45,920
+ So having a good functional liver is always important. So you can see people that have
+
+374
+00:31:45,920 --> 00:31:50,360
+ bouts of alcoholism and that stuff where they've destroyed their liver over a long period
+
+375
+00:31:50,360 --> 00:31:55,840
+ of time. Because their liver doesn't work as well, you get things like cirrhosis, sometimes
+
+376
+00:31:55,840 --> 00:32:02,040
+ you get liver cancer and other liver damage that can have a major effect on how well someone
+
+377
+00:32:02,040 --> 00:32:06,720
+ can detoxify the nutrients in their body. And so when you get liver damage, you start
+
+378
+00:32:06,720 --> 00:32:11,360
+ to see a lot of other things happen and so it's bad news all the way around. So again,
+
+379
+00:32:11,360 --> 00:32:15,120
+ you want to keep your liver happy because it's keeping you safe. And so that's an important
+
+380
+00:32:15,120 --> 00:32:21,640
+ thing when we think about that. Now with the fats, again, epithelial cells absorb the
+
+381
+00:32:21,640 --> 00:32:27,720
+ fatty acids and then monoglyglycerides and recombine them to triglycerides. And that's
+
+382
+00:32:27,720 --> 00:32:32,840
+ how they're moved around in the blood. And again, they're transported into the lacteal
+
+383
+00:32:32,840 --> 00:32:38,760
+ in lymphatic vessels of the villi and the lymphatic vessels develop the cycle of micron containing
+
+384
+00:32:38,760 --> 00:32:42,640
+ lymph in large veins that return the blood to the heart. And so that's how the fats get
+
+385
+00:32:42,640 --> 00:32:47,040
+ into the blood is actually through the lymphatic system and they promote it. So here you can
+
+386
+00:32:47,040 --> 00:32:52,280
+ see here's a fat globule and the bile salts that are produced by again liver that's stored
+
+387
+00:32:52,280 --> 00:32:56,240
+ in the gallbladder help break down the fat droplet and they break it down into the fatty
+
+388
+00:32:56,240 --> 00:33:01,440
+ acids and the monoglycerides. Those things then get absorbed by the epithelial cells
+
+389
+00:33:01,440 --> 00:33:05,960
+ and they're formed into triglycerides, which then end up in the lymphatic system, not in
+
+390
+00:33:05,960 --> 00:33:10,460
+ the blood system, but in the lymphatic system, which is then carried away by the lymph system,
+
+391
+00:33:10,460 --> 00:33:14,840
+ which then circulates back to the heart. And so your lymph system is actually very important
+
+392
+00:33:14,840 --> 00:33:19,360
+ for moving fats around in your body. So the fats do end up in your blood eventually,
+
+393
+00:33:19,360 --> 00:33:24,520
+ but again, most of the fats that are digested end up in the lymphatic system first and then
+
+394
+00:33:24,520 --> 00:33:30,180
+ are added into the essentially into circulation through the veins near or around the heart
+
+395
+00:33:30,180 --> 00:33:36,720
+ because that's where the main lymphatic duct enters into the circulatory system. So again,
+
+396
+00:33:36,720 --> 00:33:42,440
+ we'll talk more about the lymphatic system in chapter 35. Okay, now once the food enters
+
+397
+00:33:42,440 --> 00:33:47,220
+ into the large intestine, so the colon of the large intestines connected, you have the
+
+398
+00:33:47,220 --> 00:33:53,080
+ secum that adds in the fermentation of plant material. And again, where the large and small
+
+399
+00:33:53,080 --> 00:33:57,320
+ intestines meet. Now in certain animals that are herbivores, they're going to have a much
+
+400
+00:33:57,320 --> 00:34:02,200
+ larger secum and that appendix actually does a lot more. And so what we've seen is that
+
+401
+00:34:02,200 --> 00:34:07,680
+ the appendix does contain some certain bacteria and other cells that help with the immunology.
+
+402
+00:34:07,680 --> 00:34:12,560
+ And so otherwise, we're not really sure what the appendix does other than causing issues
+
+403
+00:34:12,560 --> 00:34:16,240
+ in people and they have appendicitis. And so they get inflammation of that and it can
+
+404
+00:34:16,240 --> 00:34:21,920
+ cause problems because if it ruptures, you now get the leakiness of whatever was in the
+
+405
+00:34:21,920 --> 00:34:28,080
+ appendix into the surrounding tissues and that can cause a severe bacterial infection
+
+406
+00:34:28,080 --> 00:34:32,560
+ and that can be very bad for people. So that's why you have to get that taken care of if
+
+407
+00:34:32,560 --> 00:34:38,480
+ you do feel that inflammation or pain associated with appendicitis. So again, the main part
+
+408
+00:34:38,480 --> 00:34:43,040
+ of the large intestine though, is to take the food and absorb the water that comes out
+
+409
+00:34:43,040 --> 00:34:47,040
+ of it. And so that's going to be the key. And again, you have lots of wonderful little
+
+410
+00:34:47,040 --> 00:34:52,840
+ bacteria in there that help aid in the digestion in that sense situation. And sure enough, here
+
+411
+00:34:52,840 --> 00:34:57,160
+ we talk about this. And so one of the major functions is to recover the water that has
+
+412
+00:34:57,160 --> 00:35:01,720
+ entered into the alimentary canal. And again, the colon houses the bacteria that live on
+
+413
+00:35:01,720 --> 00:35:07,080
+ unabsorbed organic material and produce some vitamins for us. And again, the feces, which
+
+414
+00:35:07,080 --> 00:35:12,080
+ makes it through the large intestine, include undigested material, bacteria, and again becomes
+
+415
+00:35:12,080 --> 00:35:17,000
+ more solid as it goes along because you're absorbing the water. Now, if you have a situation
+
+416
+00:35:17,000 --> 00:35:21,640
+ where you have diarrhea or something, what's happening is your body is secreting water.
+
+417
+00:35:21,640 --> 00:35:26,320
+ And so a lot of times you can get bacterial infections or other types of infections that
+
+418
+00:35:26,320 --> 00:35:33,020
+ cause the intestines to secrete water. And that's why you get diarrhea. So normally,
+
+419
+00:35:33,020 --> 00:35:38,040
+ normally your body will reabsorb most of the water. And so it should be more of a solid
+
+420
+00:35:38,040 --> 00:35:42,520
+ kind of feces as opposed to a very liquidy. If it's coming out liquidy, you may have some
+
+421
+00:35:42,520 --> 00:35:47,280
+ problems with reabsorption of that. And again, may have some intestinal issues with inflammation
+
+422
+00:35:47,280 --> 00:35:52,120
+ or other things that are going on in your system. And I like this, the good and bad flora, again,
+
+423
+00:35:52,120 --> 00:35:58,760
+ E. coli is good, the bifidobacteria and then the lactobacilli are all good bacteria. And
+
+424
+00:35:58,760 --> 00:36:03,280
+ these are all part of the probiotics. Not only do they provide benefits, but the other thing
+
+425
+00:36:03,280 --> 00:36:07,440
+ that they do is when they grow in there, they're keeping the pathogens away. They're keeping
+
+426
+00:36:07,440 --> 00:36:12,640
+ the bad guys away, like campylobacter, endorococcus vicalis, which can be bad. And then
+
+427
+00:36:12,640 --> 00:36:17,880
+ the cluster dium difficile. These guys are mostly pathogens and they cause pretty much
+
+428
+00:36:17,880 --> 00:36:23,160
+ bad infections in your intestines. And so they cause a lot of times, watery diorias,
+
+429
+00:36:23,160 --> 00:36:28,440
+ bloody diorias, and chronic diorias where they start eating away at the intestines so
+
+430
+00:36:28,440 --> 00:36:32,520
+ they can be very bad news over a series of time. And so again, if you want to know more
+
+431
+00:36:32,520 --> 00:36:37,160
+ about that, take microbiology and you'll definitely talk about some of the different
+
+432
+00:36:37,160 --> 00:36:41,200
+ infections that go on in the intestines themselves.
+
+433
+00:36:41,200 --> 00:36:45,760
+ Now the elimination part, so now if you've absorbed everything and removed the water,
+
+434
+00:36:45,760 --> 00:36:49,840
+ you have now the elimination. And again, it makes it to the rectum, which is kind of
+
+435
+00:36:49,840 --> 00:36:55,640
+ the storing site of the feces until it's ready to be eliminated. And again, there are two
+
+436
+00:36:55,640 --> 00:37:01,040
+ sphincters in those who have the external anal sphincter and the internal anal sphincter,
+
+437
+00:37:01,040 --> 00:37:06,160
+ which control the elimination of the feces. And so again, those are muscles that are very
+
+438
+00:37:06,160 --> 00:37:11,920
+ tight. And again, relax when you're eliminating the feces at this part. And again, typically
+
+439
+00:37:11,920 --> 00:37:16,200
+ we have control over that. Sometimes we don't, depending on how much is being stored in
+
+440
+00:37:16,200 --> 00:37:21,000
+ the rectal area. And sometimes we get blocked up because we don't have enough fiber or water
+
+441
+00:37:21,000 --> 00:37:25,560
+ in the system. And so it gets backed up. And that's what is called constipation, where
+
+442
+00:37:25,560 --> 00:37:28,480
+ you can't eliminate during that time.
+
+443
+00:37:28,480 --> 00:37:33,280
+ Okay, now if we look at this, the evolutionary adaptations of vertebrate digestive systems
+
+444
+00:37:33,280 --> 00:37:38,320
+ correlate with their diet. And so digestive systems are again, variations of the common
+
+445
+00:37:38,320 --> 00:37:44,440
+ plant. So whenever we look at the common plant, it's a long tube that essentially helps again
+
+446
+00:37:44,440 --> 00:37:51,120
+ with the four states of digestion. So you have ingestion, you have digestion, you have
+
+447
+00:37:51,120 --> 00:37:56,320
+ the absorption and then elimination. And depending on what you're eating and what you're doing,
+
+448
+00:37:56,320 --> 00:38:02,800
+ will determine what type of system you have. So you can see in the insectivore, again, typically
+
+449
+00:38:02,800 --> 00:38:10,240
+ in the insectivore, which eats insects. Again, there are a long short intestine, again, a
+
+450
+00:38:10,240 --> 00:38:15,040
+ short intestine in this case, and really no large intestine. It gets a little bit larger
+
+451
+00:38:15,040 --> 00:38:21,240
+ in that in the elimination. But again, there's no cecum because they're not eating any, they're
+
+452
+00:38:21,240 --> 00:38:25,920
+ not eating any plants. And so again, they don't really need that digestion. So you don't see
+
+453
+00:38:25,920 --> 00:38:32,320
+ that in this case. Now in a non ruminant herbivore, you see a simple stomach, which then passes
+
+454
+00:38:32,320 --> 00:38:37,080
+ into a very long intestine, you can see the cecum, which contains a lot of enzymes that
+
+455
+00:38:37,080 --> 00:38:42,360
+ help break down plant material in that. And so you see a large one of those, and again,
+
+456
+00:38:42,360 --> 00:38:48,200
+ a large intestine to absorb the water. In a ruminant herbivore, which has again, a rumin
+
+457
+00:38:48,200 --> 00:38:52,880
+ and a stomach, which holds a lot of these things. So a lot of digestion takes place here.
+
+458
+00:38:52,880 --> 00:38:59,280
+ You can see you have a very large small intestine in this case, again, long, and then a large
+
+459
+00:38:59,280 --> 00:39:04,920
+ cecum, which helps digest any other further undigested plant material, and then a long,
+
+460
+00:39:04,920 --> 00:39:09,600
+ large intestine to help remove the water in any of their absorption that needs to be done.
+
+461
+00:39:09,600 --> 00:39:15,000
+ And then a carnivore, which you see is a very short intestine in column and a very small
+
+462
+00:39:15,000 --> 00:39:19,840
+ cecum because again, you're primarily eating animals and not plants. And so if you don't
+
+463
+00:39:19,840 --> 00:39:25,240
+ have plants in your diet, you're going to have a small cecum. Now humans kind of in between
+
+464
+00:39:25,240 --> 00:39:29,480
+ because we're omnivores. Again, we eat plants, but a lot of the plant stuff we don't actually
+
+465
+00:39:29,480 --> 00:39:33,760
+ digest, we pass it through. And so again, in our diet, plants are good because we get
+
+466
+00:39:33,760 --> 00:39:37,760
+ oils and minerals and that stuff from plants. But one of the things that's also good is
+
+467
+00:39:37,760 --> 00:39:43,000
+ we get fiber and we don't digest that fiber and it helps clean us out. And so that's why
+
+468
+00:39:43,000 --> 00:39:47,240
+ fiber is always good because one, it makes us full. And so we don't want to eat more.
+
+469
+00:39:47,240 --> 00:39:51,280
+ And two, it helps clean out the system because we don't digest it. And so it passes through
+
+470
+00:39:51,280 --> 00:39:55,680
+ and so it's a good, good source to clean out. So if you want to clean your system out and
+
+471
+00:39:55,680 --> 00:39:59,520
+ do one of those cleanses, you eat a lot of fiber in this case. You eat a lot of vegetables
+
+472
+00:39:59,520 --> 00:40:04,840
+ and that stuff, a lot of plants help clean you out. Now another thing that we see with
+
+473
+00:40:04,840 --> 00:40:09,240
+ the adaptations is the type of teeth. And so again, the type of teeth are going to revolve
+
+474
+00:40:09,240 --> 00:40:14,480
+ around what do you eat. And so in a carnivore, you're going to have teeth that are specialized
+
+475
+00:40:14,480 --> 00:40:18,600
+ for tearing and chewing. So you're going to see well-developed canines, you're going
+
+476
+00:40:18,600 --> 00:40:24,200
+ to see incisors and then you're going to see molars to kind of grind in that stuff. And
+
+477
+00:40:24,200 --> 00:40:28,800
+ so that's what you see here. So the carnivore is going to be primarily for ripping and tearing.
+
+478
+00:40:28,800 --> 00:40:32,240
+ And so you're going to see well-developed teeth, especially in the front. And then the back
+
+479
+00:40:32,240 --> 00:40:37,120
+ teeth are going to be lesser-developed. In a herbivore, you're not going to see really
+
+480
+00:40:37,120 --> 00:40:40,680
+ a whole lot of incisors and canines because you don't need to do a lot of rippin and tearing
+
+481
+00:40:40,680 --> 00:40:44,240
+ a muscle. You're going to see a lot of grinding though. So you're going to see a lot of cream
+
+482
+00:40:44,240 --> 00:40:48,980
+ molars and molars in the back that help grind and break down the plant material. And then
+
+483
+00:40:48,980 --> 00:40:54,760
+ in an omnivore, you have both. And so in humans, a great example, we have incisors and canines
+
+484
+00:40:54,760 --> 00:40:59,200
+ that are developed to help rip and tear meat and other things that we eat. And then we
+
+485
+00:40:59,200 --> 00:41:04,200
+ have the molars back here that help grind any plant material as well as meat and other
+
+486
+00:41:04,200 --> 00:41:09,960
+ foods that we eat. And so it's one of those things that we see. Now some animals even
+
+487
+00:41:09,960 --> 00:41:15,120
+ have other types of mechanisms that help them eat. And again, for example, the teeth
+
+488
+00:41:15,120 --> 00:41:19,760
+ of a poisonous steaks have fangs that can inject venom. And so that can paralyze the
+
+489
+00:41:19,760 --> 00:41:27,000
+ host or not the host, but it paralyze the prey so that they can help eat the thing and catch
+
+490
+00:41:27,000 --> 00:41:31,120
+ it and eat it and do those things. And so that's an important adaptation that you see.
+
+491
+00:41:31,120 --> 00:41:38,480
+ Not all animals obviously have fangs or a venom to inject and then paralyze their prey
+
+492
+00:41:38,480 --> 00:41:43,720
+ in these cases. Now again, some other adaptations we talked about this with the type of food
+
+493
+00:41:43,720 --> 00:41:48,120
+ you eat. So again, the adaptation is an apparent length of the digestive system in different
+
+494
+00:41:48,120 --> 00:41:52,640
+ vertebrates. Many carnivores have a large expandable stomachs, again, for the amount
+
+495
+00:41:52,640 --> 00:41:57,320
+ of meat that they use. And then herbivores and omnivores generally have longer elementary
+
+496
+00:41:57,320 --> 00:42:02,320
+ canals and carnivores, because again, they need longer time to digest the vegetation.
+
+497
+00:42:02,320 --> 00:42:06,200
+ So if you eat plants, you need more time to digest it. And so that's what you're going
+
+498
+00:42:06,200 --> 00:42:10,440
+ to see. And you're going to see larger cecums. Again, carnivores, less cecum because they
+
+499
+00:42:10,440 --> 00:42:14,720
+ don't need the bacteria in the vitamins and minerals that are not vitamin enzymes to
+
+500
+00:42:14,720 --> 00:42:20,240
+ break down plant material. These are primarily eating meat. Whereas those that eat plants
+
+501
+00:42:20,240 --> 00:42:25,160
+ like herbivores and omnivores are going to have cecums to help digest the plant material
+
+502
+00:42:25,160 --> 00:42:30,040
+ that they eat. And again, humans are kind of in between because we more meat than plants,
+
+503
+00:42:30,040 --> 00:42:33,840
+ even if we're omnivores and that stuff, but we don't have well developed cecums in the
+
+504
+00:42:33,840 --> 00:42:38,120
+ sense that, again, you look at our appendix and that stuff, where you see here, ours is
+
+505
+00:42:38,120 --> 00:42:43,000
+ pretty short. And again, containing some enzymes that help digest that plant material. And again,
+
+506
+00:42:43,000 --> 00:42:48,240
+ ours is pretty small, kind of more like a carnivore than what you would see in a complete
+
+507
+00:42:48,240 --> 00:42:54,560
+ herbivore in this case. Now, again, a lot of times, herbivores will have fermentation
+
+508
+00:42:54,560 --> 00:42:59,240
+ chambers in their elementary canals where microorganisms can digest the cellulose. And
+
+509
+00:42:59,240 --> 00:43:03,600
+ so again, that's one of the things that we see. And so herbivores are going to have multiple
+
+510
+00:43:03,600 --> 00:43:08,600
+ chambers, especially in basically rumin's that are essentially helping digest. And so
+
+511
+00:43:08,600 --> 00:43:12,740
+ they have bacteria in there that help break down the cellulose. Again, in humans, we're
+
+512
+00:43:12,740 --> 00:43:16,440
+ omnivores. And so we don't really break that stuff down. And so that, again, helps
+
+513
+00:43:16,440 --> 00:43:22,080
+ us feel full and clean us out in those types of things. Now other bacteria can be very
+
+514
+00:43:22,080 --> 00:43:26,120
+ beneficial. Again, we have E. coli and other things that help provide vitamins and help
+
+515
+00:43:26,120 --> 00:43:30,720
+ break things back down. But obviously, we can get bacterial infections and those can
+
+516
+00:43:30,720 --> 00:43:36,200
+ be a big issue in that. And so again, one of the things that we see is that sometimes
+
+517
+00:43:36,200 --> 00:43:41,080
+ when we get pathogens, they can eliminate other species of bacteria from the stomach.
+
+518
+00:43:41,080 --> 00:43:46,280
+ And again, we see that these are the ones that cause the infection. And you can see
+
+519
+00:43:46,280 --> 00:43:51,240
+ that eliminates the bacteria, other bacteria that are normally in the stomach when you
+
+520
+00:43:51,240 --> 00:43:55,280
+ have this type of infection. And so that's the problem, too, is that people that have
+
+521
+00:43:55,280 --> 00:43:59,800
+ these infections with helochobacter lose a lot of the other ones. Same with C diff. And
+
+522
+00:43:59,800 --> 00:44:03,960
+ so one of the big problems with clustering difficil is that people have been in antibiotics
+
+523
+00:44:03,960 --> 00:44:09,280
+ for a very long time. And so it eliminates their normal microflora. So it allows for these
+
+524
+00:44:09,280 --> 00:44:13,720
+ guys to grow because the normal microflora is gone to the antibiotics. And then what you
+
+525
+00:44:13,720 --> 00:44:18,280
+ see is these guys take over and then they get this chronic diarrhea that doesn't go away.
+
+526
+00:44:18,280 --> 00:44:23,960
+ So one of the ways to treat a patient that has C diff is by eliminating the antibiotics,
+
+527
+00:44:23,960 --> 00:44:29,400
+ which seems counterintuitive. But what happens is then you restore some of the native micro
+
+528
+00:44:29,400 --> 00:44:34,200
+ biological environment. The other way, and a lot of people find this out and they go,
+
+529
+00:44:34,200 --> 00:44:37,720
+ wow, this is interesting as they do what is called fecal transplants. And what they do
+
+530
+00:44:37,720 --> 00:44:43,000
+ is they take fecal material from other healthy people, and they transplant it into people
+
+531
+00:44:43,000 --> 00:44:47,320
+ that don't have very good systems. And so people that have eliminated a lot of their
+
+532
+00:44:47,320 --> 00:44:52,720
+ normal bacteria to reestablish that bacterial population. It sounds weird, but it actually
+
+533
+00:44:52,720 --> 00:44:57,120
+ works really well. And so again, you may see this more and more common where people are
+
+534
+00:44:57,120 --> 00:45:01,840
+ going in. And again, typically how they do this is they make either pills or they inject
+
+535
+00:45:01,840 --> 00:45:06,960
+ it in or some way to get the fecal material in there. So it sounds gross, but it actually
+
+536
+00:45:06,960 --> 00:45:12,640
+ works really well. And so again, it's an interesting concept, but it's done wonders for those that
+
+537
+00:45:12,640 --> 00:45:17,600
+ have suffered chronically from clustered into fissile and some other digestive disease that
+
+538
+00:45:17,600 --> 00:45:22,480
+ are out there because reestablish them, the microbiome really helps in these situations.
+
+539
+00:45:23,600 --> 00:45:27,680
+ Now other mutualistic adaptations, and again, in herbivores, you have these
+
+540
+00:45:27,680 --> 00:45:33,120
+ rumin's which store a lot of these bacteria. They can help digest cellulose in that and break
+
+541
+00:45:33,120 --> 00:45:37,760
+ these down into simple sugars. And again, the rumin's help break these things down. So things
+
+542
+00:45:37,760 --> 00:45:42,080
+ like cut shooting animals and include deer, sheep, and cattle have these large rumin's that are
+
+543
+00:45:42,080 --> 00:45:46,960
+ basically these large filled bags full of bacteria that help break down the cellulose. And so that's
+
+544
+00:45:46,960 --> 00:45:52,000
+ why they're in herbivores. And they are able to break down the stuff so well because they have
+
+545
+00:45:52,000 --> 00:45:56,720
+ these bacteria in it. It's another thing that we see in termites. The termites have the bacteria
+
+546
+00:45:56,720 --> 00:46:01,280
+ that help break down cellulose and so they can eat wood and break down the cellulose because
+
+547
+00:46:01,280 --> 00:46:07,040
+ they have the bacteria in their digestive system that allow them to do that. And so we see that in
+
+548
+00:46:07,040 --> 00:46:11,360
+ termites and ants, carpentry ants that break down the wood and then cause problems in our houses and
+
+549
+00:46:11,360 --> 00:46:16,800
+ that stuff. So that's the other issue you see there. Okay, and again, feedback circuits regulate
+
+550
+00:46:16,800 --> 00:46:21,440
+ digestion, energy allocation, and appetite. And again, animals then take a food and nutrients
+
+551
+00:46:21,440 --> 00:46:26,720
+ are matched to the circumstance and need. We talk about that. And again, the regulation or
+
+552
+00:46:26,720 --> 00:46:33,520
+ digestion is every step of the way. And so again, the enteric division of the nervous system helps
+
+553
+00:46:33,520 --> 00:46:39,280
+ regulate the digestive process. And you can see integrins play a huge role in what regulates
+
+554
+00:46:39,280 --> 00:46:44,080
+ digestion. And so you have positive feedback. And so when food comes in, you get gastrin,
+
+555
+00:46:44,080 --> 00:46:50,320
+ which produces gastric juices from the pancreas and other places, you have other hormones that
+
+556
+00:46:50,320 --> 00:46:58,480
+ secrete from again, bile from the gallbladder and that incicretin, which releases bicarbonate.
+
+557
+00:46:58,480 --> 00:47:03,520
+ We talked about that last time in the CCK, which stimulates enzymes released from the
+
+558
+00:47:03,520 --> 00:47:09,520
+ pancreas. And then you also see inhibition of certain things to stop the production
+
+559
+00:47:09,520 --> 00:47:14,640
+ gastric juices once it's made its way through the intestine. So again, or into the intestine
+
+560
+00:47:14,640 --> 00:47:19,200
+ out of the stomach. So now they can stop the chemical digestion in the stomach and producing
+
+561
+00:47:19,200 --> 00:47:24,320
+ the acid that you have in that. So that's these are all different feedback mechanisms. You can see
+
+562
+00:47:24,320 --> 00:47:28,560
+ some are positive and some are negative based on what is going on in the system.
+
+563
+00:47:28,560 --> 00:47:34,080
+ Okay. And again, energy allocation. This is all about biorenerogenics. And again, nutritional
+
+564
+00:47:34,080 --> 00:47:39,520
+ leads and the animals energy used per unit is called as metabolic rate. And so one of the
+
+565
+00:47:39,520 --> 00:47:44,720
+ interesting things is that animals that have are warm blooded are going to have higher metabolic
+
+566
+00:47:44,720 --> 00:47:50,320
+ rates because they use in metabolism to maintain the again, how much heat they produce. Again,
+
+567
+00:47:50,320 --> 00:47:55,920
+ this can figure out the rate of heat loss, the amount of O2 consumed and the amount of CO2 produced.
+
+568
+00:47:55,920 --> 00:48:00,080
+ And we call that the metabolic rate. Now, like I said, and I was mentioning, we're going to see
+
+569
+00:48:00,080 --> 00:48:06,000
+ that here in a second, is that metabolic rate is very tied very closely and especially endotherms
+
+570
+00:48:06,000 --> 00:48:10,560
+ because we can regulate it based on our body temperature. We need metabolism to keep us warm.
+
+571
+00:48:10,560 --> 00:48:15,040
+ And so if we don't eat enough, we get cold. And so that's one of the issues that again, we need
+
+572
+00:48:15,040 --> 00:48:20,720
+ our metabolism to keep going so we can keep our body temperature the same way. And so again,
+
+573
+00:48:20,720 --> 00:48:26,240
+ you see this organic molecules going in, digestion absorption, breaking these things down. You do
+
+574
+00:48:26,240 --> 00:48:31,840
+ lose some heat off. And again, all these because we're taking and changing energy from one form
+
+575
+00:48:31,840 --> 00:48:36,960
+ to another, we do lose heat. And again, formation of ATP. And you can see all these different things,
+
+576
+00:48:36,960 --> 00:48:43,840
+ waste and loss of energy and that stuff. But again, enough to do the processes that we need. And so
+
+577
+00:48:43,840 --> 00:48:48,880
+ again, if we're deficient in any areas, we have problems in this internal environment. And that's
+
+578
+00:48:48,880 --> 00:48:55,280
+ always an issue in ourselves. Now, the minimum metabolic rate is an animal, or again, maintaining
+
+579
+00:48:55,280 --> 00:49:01,840
+ this minimal metabolic rate for cell functions. And this metabolic rate, or BMR, is a minimum rate
+
+580
+00:49:01,840 --> 00:49:07,440
+ that non-growing endotherm at rest on an empty stomach and is not experiencing stress. And so
+
+581
+00:49:07,440 --> 00:49:12,240
+ that would be the metabolic rate. What is your cells doing when you have an empty stomach? You're
+
+582
+00:49:12,240 --> 00:49:17,680
+ just kind of dormant, not doing anything. You're old, so you're not growing at all. So your body's
+
+583
+00:49:17,680 --> 00:49:22,480
+ not doing those types of things. You're after the age of maturity and an adult. And essentially,
+
+584
+00:49:22,480 --> 00:49:26,560
+ you're just sitting there on the couch type of thing and not experiencing any stress. So couch
+
+585
+00:49:26,560 --> 00:49:32,640
+ potato, that would be your BMR. But anytime you're doing those things, you are looking at it. And so
+
+586
+00:49:32,640 --> 00:49:37,600
+ what we measure typically is when we fast. And so that's what we look at when we look at your
+
+587
+00:49:37,600 --> 00:49:42,640
+ metabolic rate. You have to fast. So you're not eating anything, again, an adult, and you're not
+
+588
+00:49:42,640 --> 00:49:49,920
+ stressed out. So those are the things that you can see that your BMR decreases as you get older.
+
+589
+00:49:49,920 --> 00:49:55,360
+ And the reason for that is because you're still growing as an into an adult. And so your metabolic
+
+590
+00:49:55,360 --> 00:49:59,680
+ rate is going to be much higher. And then as you age, it gets slower and slower and slower.
+
+591
+00:49:59,680 --> 00:50:04,720
+ And that's one of the reasons why as you age, you start putting more pounds on because your
+
+592
+00:50:04,720 --> 00:50:10,640
+ metabolic rate decreases because you're not doing metabolism as fast. And so a lot of the stuff gets
+
+593
+00:50:10,640 --> 00:50:15,600
+ stored as opposed to breaking down. And so when you're 20, it's easy to eat a whole pizza by
+
+594
+00:50:15,600 --> 00:50:21,600
+ yourself and not feel the effects. But when you get to 40 and 50, it's much harder to look at that
+
+595
+00:50:21,600 --> 00:50:25,360
+ or, you know, to get rid of it. You basically look at the pizza and you put on five pounds. And that's
+
+596
+00:50:25,360 --> 00:50:32,480
+ just because your metabolic rate slows down as you as you go. Now, again, in an ectotherm is also
+
+597
+00:50:32,480 --> 00:50:36,880
+ caused the standard metabolic rate because again, they're fasting and that stuff. And an endotherm
+
+598
+00:50:36,880 --> 00:50:41,040
+ and ectotherm is a little bit different in the sense because they're more responsive to the
+
+599
+00:50:41,040 --> 00:50:47,040
+ external environment where these guys have to maintain internally. So when we look at endotherapy,
+
+600
+00:50:47,040 --> 00:50:53,600
+ again, it's more energetically costly than ectotherm because we have to maintain our metabolic
+
+601
+00:50:53,600 --> 00:51:01,440
+ basically our temperature. And so again, the colder it is, the more our metabolic rate goes up.
+
+602
+00:51:01,440 --> 00:51:06,400
+ And then as the temperature increases, the more the rate goes down. And in ectotherm,
+
+603
+00:51:06,400 --> 00:51:11,040
+ it's the opposite. The ectotherm really doesn't change until it really gets warm.
+
+604
+00:51:11,040 --> 00:51:16,880
+ And so the metabolic rate drops as the external rate drops. And so that's the ectotherm. And again,
+
+605
+00:51:16,880 --> 00:51:22,320
+ the as the external there goes down, we got to maintain our temperature so we burn more. And so
+
+606
+00:51:22,320 --> 00:51:28,720
+ that's why the metabolic rate goes up as an endotherm. Ectothermic goes down because when they cool off,
+
+607
+00:51:28,720 --> 00:51:32,880
+ they slow down. And so they don't need to do as much because that's how they are. And so that's
+
+608
+00:51:32,880 --> 00:51:38,000
+ what you see. Ectotherm, again, you see the metabolic rate drops when the temperature drops.
+
+609
+00:51:38,000 --> 00:51:42,640
+ Endotherms, it actually goes up as the temperature drops because you've got to maintain that body
+
+610
+00:51:42,640 --> 00:51:48,400
+ temperature. And so that's the issue there. Okay. And so again, regulation of energy storage,
+
+611
+00:51:48,400 --> 00:51:53,520
+ the liver and muscle cells are used first and the energy is stored as glycogen. When these are full,
+
+612
+00:51:53,520 --> 00:52:00,400
+ excess energy is stored is fat. And so this is the issue that we suffer from. And so this is why,
+
+613
+00:52:00,400 --> 00:52:06,000
+ as humans, we're seeing an increase in obesity because we're taking in more calories, more food,
+
+614
+00:52:06,000 --> 00:52:10,800
+ and that stuff. And we're not using it as much. We're not being as active as we should. And so we
+
+615
+00:52:10,800 --> 00:52:16,080
+ see, again, in kids, the the rate of obesity going up because they're eating very high sugary
+
+616
+00:52:16,080 --> 00:52:20,880
+ snacks. And that sugar is not being burned off. So they're not running around and planning more,
+
+617
+00:52:20,880 --> 00:52:26,160
+ they're playing video games and being sedentary. And so you see a decrease. And again, the decrease
+
+618
+00:52:26,160 --> 00:52:32,160
+ in the metabolic rate, you're also seeing these things stored. And so that's the problem. And so
+
+619
+00:52:32,160 --> 00:52:37,520
+ when the fewer calories are taken in and expended, the body expands the liver and glycogen,
+
+620
+00:52:37,520 --> 00:52:42,560
+ micro glycogen, and then fat are then burned. And so again, it's all about calories in calories
+
+621
+00:52:42,560 --> 00:52:46,400
+ out. But again, we know that there's other factors in that stuff. So it's easy to say, oh, yeah,
+
+622
+00:52:46,400 --> 00:52:51,760
+ just stop eating. But we need the nutrients as well. And so one of the problems is, is our diet in
+
+623
+00:52:51,760 --> 00:52:56,560
+ general, and that stuff. And you guys probably know by looking at that and seeing the problems
+
+624
+00:52:56,560 --> 00:53:00,960
+ that we have, if we have lots of sugar in our diet and those things, those things get stored.
+
+625
+00:53:00,960 --> 00:53:06,320
+ And that's why we see this increase in fat deposits and that stuff and why we're getting heavier and
+
+626
+00:53:06,320 --> 00:53:10,320
+ heavier and heavier, because there's a lot of sugar and processing in our foods, and they're not
+
+627
+00:53:10,320 --> 00:53:15,600
+ natural, let the body in our body normally knows how to deal with. And that's one of the issues as well.
+
+628
+00:53:15,600 --> 00:53:22,880
+ Now with glucose comingostasis, again, insulin and glycogen or glycogen are together maintained
+
+629
+00:53:22,880 --> 00:53:28,960
+ in glucose levels. Insulin rises after a carbohydrate rich meal, and glucose entering the liver through
+
+630
+00:53:28,960 --> 00:53:34,800
+ the hepatic portal vein is used to synthesize glycogen. So it gets stored. When glucose concentration is
+
+631
+00:53:34,800 --> 00:53:40,720
+ low, the hepatic portal vein, glucagon stimulates liver to break down glycogen with these glucose
+
+632
+00:53:40,720 --> 00:53:46,400
+ into the blood. And so insulin and glucagon are basically the feedback loops. When you don't have,
+
+633
+00:53:46,400 --> 00:53:51,520
+ when you have glucose coming into the system, insulin goes, so it brings more glucose into the
+
+634
+00:53:51,520 --> 00:53:58,160
+ liver to be stored. When those levels go down, insulin goes down, and then glucagon or glucagon
+
+635
+00:53:58,160 --> 00:54:05,120
+ comes up to then produce again and release glycogen so it gets burned. And so that's essentially what
+
+636
+00:54:05,120 --> 00:54:10,480
+ happens in the body. So you can see here, again, feedback loops. And so when the glucose level rises,
+
+637
+00:54:10,480 --> 00:54:15,760
+ such as after eating, you get an introduction of insulin that causes the transport of glucose into
+
+638
+00:54:15,760 --> 00:54:21,600
+ the cells. And so then the blood level, glucose level falls back to the normal level. And then
+
+639
+00:54:21,600 --> 00:54:26,080
+ what happens if it falls too much, like after fasting, what happens is you get this secretion
+
+640
+00:54:26,080 --> 00:54:31,360
+ of glucagon, and then glucagon causes the breakdown of glycogen and glucose into the blood, and then
+
+641
+00:54:31,360 --> 00:54:36,240
+ you can see what the levels are. So normally when we think about diabetes and that stuff, and we're
+
+642
+00:54:36,240 --> 00:54:41,760
+ going to talk about that here in a second, we have a dysfunction in this system. And so this is why
+
+643
+00:54:41,760 --> 00:54:46,240
+ you have to fast when they're measuring your blood glucose, because if you eat something,
+
+644
+00:54:46,240 --> 00:54:51,760
+ it may cause the glucose levels to be too high, and then it will give you a false, a false high
+
+645
+00:54:51,760 --> 00:54:56,240
+ number, you know, type of thing. So a false, a false positive in this case, I guess, if you want
+
+646
+00:54:56,240 --> 00:55:01,040
+ to look at it that way, whereas if you do fasting, it's going to lower the levels to more of a
+
+647
+00:55:01,040 --> 00:55:07,120
+ maintenance level. And again, you're going to see where your normal glucose levels are based on that.
+
+648
+00:55:07,120 --> 00:55:12,720
+ Okay, now again, the last thing we're going to talk about is diabetes. And again, diabetes,
+
+649
+00:55:12,720 --> 00:55:17,760
+ malitis is a disease caused by the deficiency of insulin, or a decrease in the response of
+
+650
+00:55:17,760 --> 00:55:22,960
+ insulin in the target tissues. And so part of the problem is that glucose cannot or cells can
+
+651
+00:55:22,960 --> 00:55:27,600
+ are unable to take up glucose to meet their metabolic needs. And so fat becomes the main
+
+652
+00:55:27,600 --> 00:55:33,600
+ substrate of cellular respiration. And so again, what happens in type one is that it's actually an
+
+653
+00:55:33,600 --> 00:55:39,120
+ immune response. And so what happens is that you have low insulin because the pancreas is
+
+654
+00:55:39,120 --> 00:55:44,720
+ essentially destroying the cell or the immune system is destroying the pancreas in the production
+
+655
+00:55:44,720 --> 00:55:49,520
+ of insulin. So you don't have enough insulin in your body to respond to the glucose levels.
+
+656
+00:55:49,520 --> 00:55:56,480
+ And so you don't have unable to use the glucose to insulin. So what happens is that the body is
+
+657
+00:55:56,480 --> 00:56:03,440
+ constantly using fat deposits to serve as the glucose source. And so that can be an issue because
+
+658
+00:56:03,440 --> 00:56:07,920
+ again, it affects circulation and it affects a lot of other things that go on and it damages
+
+659
+00:56:07,920 --> 00:56:14,800
+ tissues over time. Now type two is when the insulin is not being recognized by glucose anymore. And so
+
+660
+00:56:14,800 --> 00:56:20,480
+ the receptor is damaged in that. And so insulin is not up taking glucose right. And this is typically
+
+661
+00:56:20,480 --> 00:56:25,840
+ due to a dietary thing. And so again, getting too much sugar in the diet and the insulin is not
+
+662
+00:56:25,840 --> 00:56:30,880
+ responding to the glucose levels anymore. And so that's the issue here. And so again, you have
+
+663
+00:56:30,880 --> 00:56:34,720
+ high levels of glucose in the body. And instead of keeping it in a nice steady state, you have
+
+664
+00:56:34,720 --> 00:56:39,920
+ these fluctuations that are going up and down either way too much glucose or crashing. And so
+
+665
+00:56:39,920 --> 00:56:46,240
+ that can be an issue again in those situations. Now type one again is an autoimmune disorder.
+
+666
+00:56:46,240 --> 00:56:51,760
+ Typically it's genetic in that and the immune system destroys the pancreatic beta cells. So again,
+
+667
+00:56:51,760 --> 00:56:56,800
+ insulin is not being produced. And so the issue there is that because the glucose levels are not
+
+668
+00:56:56,800 --> 00:57:01,760
+ responding to insulin, you can go from very high to low depending on what you're eating. And so
+
+669
+00:57:01,760 --> 00:57:06,400
+ people can go into coma with a crash because they don't have enough glucose in their body.
+
+670
+00:57:06,400 --> 00:57:10,880
+ Type two is characterized by the failure of the target spells through actually responding
+
+671
+00:57:10,880 --> 00:57:16,240
+ normal insulin. And again, heredity is a factor in type two, as well as excess body weight and
+
+672
+00:57:16,240 --> 00:57:23,200
+ lack of exercise. So typically it's associated with a BCD and other issues with food consumption
+
+673
+00:57:23,200 --> 00:57:27,760
+ of that. And so we see that with the type two. Type one is more of an autoimmune. And again,
+
+674
+00:57:27,760 --> 00:57:33,360
+ people are typically have genetic or hereditary effects with the type one in this case.
+
+675
+00:57:33,360 --> 00:57:39,440
+ Now obviously, again, we've talked about the over, over nourishment in that causes obesity,
+
+676
+00:57:39,440 --> 00:57:44,480
+ which results from excessive intake of food and stored as fat. And again, obesity contributes to
+
+677
+00:57:44,480 --> 00:57:52,400
+ diabetes, cancer, breast, cancer of the colon and breast, heart attacks and strokes because you get
+
+678
+00:57:52,400 --> 00:57:58,160
+ fat deposits in the vessels is that. And again, we have discovered several mechanisms that help
+
+679
+00:57:58,160 --> 00:58:02,400
+ regulate body weight. I'm going to show you one of them here in just a minute. But one of the issues
+
+680
+00:58:02,400 --> 00:58:08,480
+ is again, is consumption, again, over consumption, especially of high carbohydrates. And that is a
+
+681
+00:58:08,480 --> 00:58:14,720
+ big problem because they get stored as fat. And so that's the issue. Now, one of the hormones that
+
+682
+00:58:14,720 --> 00:58:22,400
+ actually triggers obesity is called grilling. And grilling is a hormone that is secreted by the
+
+683
+00:58:22,400 --> 00:58:27,200
+ stomach and it triggers the feeling of hunger before meals. And so this is a stomach where I'm
+
+684
+00:58:27,200 --> 00:58:32,320
+ stomach. This is when you get that sensation of, man, I'm so hungry, I could eat like this whole
+
+685
+00:58:32,320 --> 00:58:37,440
+ pizza right now. I'm just so hungry. And that's that grilling that's really kind of triggering that
+
+686
+00:58:37,440 --> 00:58:42,560
+ that sensation that you want to eat and get you ready to eat. Then the insulin and PYY hormones
+
+687
+00:58:42,560 --> 00:58:46,480
+ are secreted by the small intestines after you need to suppress the appetite. And so that's
+
+688
+00:58:46,480 --> 00:58:50,720
+ now slowing yourself down. So now that you're full, you want those things. And then there's
+
+689
+00:58:50,720 --> 00:58:56,320
+ another hormone leptin, which is produced by fat tissue that suppresses appetite. And again,
+
+690
+00:58:56,320 --> 00:59:00,960
+ depending on how many things you have there. One of the biggest issues, and again, I suffer from
+
+691
+00:59:00,960 --> 00:59:06,800
+ this is eating too fast because it doesn't allow your body to send those signals fast enough
+
+692
+00:59:06,800 --> 00:59:13,440
+ to respond to appetite. And so what we have to do, and again, this is a problem with society in
+
+693
+00:59:13,440 --> 00:59:18,240
+ general, is we go too fast sometimes and we need to stop and enjoy our food. Because when we eat
+
+694
+00:59:18,240 --> 00:59:24,480
+ on the run and we eat very fast, we're not allowing our bodies to catch up and regulate our appetite.
+
+695
+00:59:24,480 --> 00:59:28,880
+ And so what happens is when we eat fast and we're just downing the food left and right,
+
+696
+00:59:28,880 --> 00:59:33,760
+ we're not getting the typical response that we see with our hormone levels and our hormones
+
+697
+00:59:33,760 --> 00:59:37,920
+ can't catch up. And so one of the things that they say is if you want to control your appetite
+
+698
+00:59:37,920 --> 00:59:43,920
+ and you want to make sure that you're not eating so much is slow down. Take the number of bites
+
+699
+00:59:43,920 --> 00:59:50,080
+ in chew and then slow down and enjoy the experience. And so you can eat what you want. But if you slow
+
+700
+00:59:50,080 --> 00:59:54,240
+ down, your body is going to tell you, okay, I'm full, I don't need to eat anymore. But if you eat
+
+701
+00:59:54,240 --> 00:59:59,600
+ really fast and you're just downing everything left and right, your body doesn't have time to
+
+702
+00:59:59,600 --> 01:00:04,080
+ tell you you're full. And so you don't get the signal. And so you continue to eat until,
+
+703
+01:00:04,080 --> 01:00:08,800
+ you know, and then finally you feel like, oh, and then now you've overeat. And now you have too many
+
+704
+01:00:08,800 --> 01:00:14,640
+ of these over nourishment, essentially. And now that gets stored as fat. So one of the ways they
+
+705
+01:00:14,640 --> 01:00:19,200
+ figured this out. And again, just using it is just by slowing down. So I guess that's another way to
+
+706
+01:00:19,200 --> 01:00:24,960
+ look at it, slow down, slow your role so that you, you slow down in the digestion. And so look at that
+
+707
+01:00:24,960 --> 01:00:30,640
+ and see how that goes. Now this is just a summary of how these things work. Again, we talked about
+
+708
+01:00:30,640 --> 01:00:37,440
+ the four stages of of really physical digestion. Again, the mouth is the ingestion part you bring
+
+709
+01:00:37,440 --> 01:00:42,880
+ it in, you chew it, you have secretions from the salivary glands that help break down the carbohydrates.
+
+710
+01:00:42,880 --> 01:00:47,680
+ It works its way down the esophagus to the stomach where you get secretions from the gastric lands,
+
+711
+01:00:47,680 --> 01:00:54,400
+ which not only do carbohydrates, but proteins. And then you get the digestion in the small intestine,
+
+712
+01:00:54,400 --> 01:00:59,840
+ again, the secretion of different enzymes and that from the small intestine, the liver and the
+
+713
+01:00:59,840 --> 01:01:04,800
+ pancreas, which helps break down really all four major macromolecules, carbohydrates,
+
+714
+01:01:04,800 --> 01:01:10,720
+ proteins, lipids and nucleic acids. The lipids leave due to the vial in that. And again,
+
+715
+01:01:10,720 --> 01:01:16,160
+ the breakdown into the triglycerides, which end up in the lymphatic system, which end up then into
+
+716
+01:01:16,160 --> 01:01:21,520
+ the veins that go to the heart. And then again, the absorb food, the absorption part in the small
+
+717
+01:01:21,520 --> 01:01:27,280
+ intestine and a large intestine take place and again absorb it and go into the vessels that go to
+
+718
+01:01:27,280 --> 01:01:34,160
+ the liver. And then the liver can detoxify or tell where the nutrients need to go, what needs to go
+
+719
+01:01:34,160 --> 01:01:38,000
+ where the central receiving kind of thing or central stripping and says, we're going to ship
+
+720
+01:01:38,000 --> 01:01:43,120
+ this up to the rest of the body. And again, the large intestine is necessary for the absorption
+
+721
+01:01:43,120 --> 01:01:47,440
+ of water. And that's primarily what you see there as well as the microorganisms that you have there
+
+722
+01:01:47,440 --> 01:01:53,600
+ that help aid in digestion and help again provide certain vitamins and minerals that you might need.
+
+723
+01:01:53,600 --> 01:01:58,800
+ And then finally, any food that isn't digested gets eliminated through elimination and that goes
+
+724
+01:01:58,800 --> 01:02:03,120
+ through the rectum and anus. The rectum is kind of the holding center and then the anus when you're
+
+725
+01:02:03,120 --> 01:02:09,200
+ ready to alleviate or expel the waste product. And so that's really looking at mammalian
+
+726
+01:02:09,200 --> 01:02:14,720
+ digestion. It really doesn't change except for again, some of the adaptations depending on what
+
+727
+01:02:14,720 --> 01:02:20,640
+ type of organs you know are again herbivores have sometimes these large bags called rumin's that have
+
+728
+01:02:20,640 --> 01:02:27,280
+ bacteria that help break down the cellulose and help that go. They also have the secum part of
+
+729
+01:02:27,280 --> 01:02:34,000
+ the large intestine that contain enzymes and bacteria that help break down again plant material.
+
+730
+01:02:34,000 --> 01:02:40,400
+ carnivores tend not to have any rumin's they have a short pretty much short intestine just to absorb
+
+731
+01:02:40,400 --> 01:02:45,440
+ and then again a short small intestine and large intestine and then no secum because again they're
+
+732
+01:02:45,440 --> 01:02:50,320
+ not really digesting any plant material so it's not needed and then eliminated. And then omnivores
+
+733
+01:02:50,320 --> 01:02:55,760
+ are kind of in the middle in that so again that's kind of giving you the summary of the mammalian
+
+734
+01:02:55,760 --> 01:03:00,560
+ digestion. So we made it to the end and again we looked at animal diets that must supply
+
+735
+01:03:00,560 --> 01:03:04,720
+ chemical energy, organic building blocks and essential nutrients and we talked about
+
+736
+01:03:04,720 --> 01:03:11,040
+ the essential amino acids, the essential lipids that you need and then the vitamins and minerals
+
+737
+01:03:11,040 --> 01:03:15,120
+ and those things and again mel nourishment is when you're lacking those things and the most common
+
+738
+01:03:15,120 --> 01:03:20,960
+ thing that we're missing is vitamins and amino acids and so again that's where the the GMOs come
+
+739
+01:03:20,960 --> 01:03:25,920
+ from and that stuff and so again we talked about that before. Again food processing involves the
+
+740
+01:03:25,920 --> 01:03:31,360
+ four stages in digestion which is coming through the mouth digestion which is both the mechanical
+
+741
+01:03:31,360 --> 01:03:36,400
+ and chemical digestion of breaking the food down, absorptions taking those food or particles and
+
+742
+01:03:36,400 --> 01:03:40,960
+ bringing them in through the intestinal wall and that and supplying the nutrients to the rest of
+
+743
+01:03:40,960 --> 01:03:45,920
+ the body and then elimination is getting rid of the waste products in those in those in those
+
+744
+01:03:45,920 --> 01:03:50,960
+ situations. Again we talked about a lot of the different organs specialized for sequential stages
+
+745
+01:03:50,960 --> 01:03:56,000
+ of food processing. We took you through the mammals in the mammalian stages and again looking at what
+
+746
+01:03:56,000 --> 01:04:01,040
+ the stomach does small intestine, large intestine and then the accessory organs and what they do
+
+747
+01:04:01,040 --> 01:04:06,800
+ for digestion and eating in both chemical digestion and mechanical digestion and then finally absorption
+
+748
+01:04:06,800 --> 01:04:11,600
+ and again we looked at adaptations we talked about that the difference between herbivores
+
+749
+01:04:11,600 --> 01:04:16,080
+ and carnivores not only in the digestive system but the type of teeth they have so again looking
+
+750
+01:04:16,080 --> 01:04:21,680
+ at those things and then we also looked at the feedback circuits that regulate digestion and
+
+751
+01:04:21,680 --> 01:04:27,200
+ again for energy minerals and that and then again slowing down doing those things but when things
+
+752
+01:04:27,200 --> 01:04:32,080
+ get out of whack that can have a huge effect on the body and again too much of a good thing can
+
+753
+01:04:32,080 --> 01:04:38,160
+ lead to storage and then weight gain and all those other things. Okay so with that we made it to the
+
+754
+01:04:38,160 --> 01:04:44,000
+ end of the this lecture if you have any questions please feel free to ask you know send me an email
+
+755
+01:04:44,000 --> 01:04:47,920
+ whatever you need to do to contact me and that stuff if you have any questions I'm glad you're
+
+756
+01:04:47,920 --> 01:04:52,640
+ watching the videos hopefully you're getting some on it hopefully learning something new in that and
+
+757
+01:04:52,640 --> 01:04:54,340
+ I will see you next time.
+
+758
+01:04:54,340 --> 01:04:55,000
+ Thanks for watching.
+

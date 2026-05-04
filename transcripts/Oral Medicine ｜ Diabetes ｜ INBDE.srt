@@ -1,0 +1,1384 @@
+1
+00:00:00,000 --> 00:00:11,480
+ Hey everyone, Ryan here, and welcome back to our oral medicine series.
+
+2
+00:00:11,480 --> 00:00:15,720
+ This video will be all about diabetes.
+
+3
+00:00:15,720 --> 00:00:18,560
+ So we're going to start with diabetes mellitus.
+
+4
+00:00:18,560 --> 00:00:24,200
+ And mellitus comes from the Latin, meaning sweetened with honey, which refers to the
+
+5
+00:00:24,200 --> 00:00:28,000
+ presence of sugar in the urine.
+
+6
+00:00:28,000 --> 00:00:32,940
+ Now glucose is the main sugar that we use for energy as humans.
+
+7
+00:00:32,940 --> 00:00:38,800
+ And diabetes mellitus leads to an excess of glucose in the blood.
+
+8
+00:00:38,800 --> 00:00:43,480
+ High blood glucose is called hyperglycemia.
+
+9
+00:00:43,480 --> 00:00:49,880
+ Now insulin is a hormone naturally produced by beta cells of the pancreas.
+
+10
+00:00:49,880 --> 00:00:56,800
+ And insulin's job is to capture glucose in the blood and transport it into cells where
+
+11
+00:00:56,800 --> 00:01:00,520
+ it can be used for energy, which is a good thing.
+
+12
+00:01:00,520 --> 00:01:07,080
+ But if insulin doesn't function properly, or it just isn't produced, then glucose is
+
+13
+00:01:07,080 --> 00:01:12,680
+ stuck in the blood where it builds up and that can actually be a bad thing.
+
+14
+00:01:12,680 --> 00:01:18,640
+ Now glucose is a high energy reactive molecule and it'll actually cause oxidative damage
+
+15
+00:01:18,640 --> 00:01:22,320
+ to the endothelial cells that lie in the blood vessels.
+
+16
+00:01:22,320 --> 00:01:28,880
+ And damage to arteries can lead to atherosclerosis, which can in turn lead to hypertension, heart
+
+17
+00:01:28,880 --> 00:01:33,120
+ attacks, stroke, and peripheral vascular disease.
+
+18
+00:01:33,120 --> 00:01:42,160
+ And damage to capillaries can cause neuropathy, aka diabetic nerve pain, retinopathy and nephropathy.
+
+19
+00:01:42,160 --> 00:01:48,400
+ So some bad things about having high glucose around in the blood.
+
+20
+00:01:48,400 --> 00:01:55,160
+ Now some of the most classic signs and symptoms of diabetes mellitus include polydipsia, polyphagia,
+
+21
+00:01:55,160 --> 00:01:56,720
+ and polyurea.
+
+22
+00:01:56,720 --> 00:02:02,480
+ So this means that you're very thirsty, you're very hungry, and you urinate excessively.
+
+23
+00:02:02,480 --> 00:02:09,400
+ So the saying goes you eat a lot, drink a lot, and pee a lot.
+
+24
+00:02:09,400 --> 00:02:14,960
+ Now as a side note, there are also other mechanisms of developing diabetes such as diabetes
+
+25
+00:02:14,960 --> 00:02:24,200
+ insipidus, and insipidus, instead of mellitus this time, refers to the word insipid, which
+
+26
+00:02:24,200 --> 00:02:30,480
+ in turn is with regards to the passing of a lot of bland, colorless urine, instead of
+
+27
+00:02:30,480 --> 00:02:34,000
+ the sweet sugary urine and diabetes mellitus.
+
+28
+00:02:34,000 --> 00:02:39,200
+ So it's a condition where the kidneys are unable to retain water and this actually has
+
+29
+00:02:39,200 --> 00:02:42,960
+ nothing to do with insulin or blood glucose.
+
+30
+00:02:42,960 --> 00:02:49,000
+ So you just produce large amounts of urine because of a pituitary gland deficiency or
+
+31
+00:02:49,000 --> 00:02:51,560
+ an insensitivity to ADH.
+
+32
+00:02:51,560 --> 00:03:01,080
+ Now ADH, also known as vasopressin, stands for anti-diuretic hormone, and a lack of anti-diuretic
+
+33
+00:03:01,080 --> 00:03:05,280
+ hormone will lead to diuresis or peeing.
+
+34
+00:03:05,280 --> 00:03:10,520
+ So you're constantly thirsty, even if you have something to drink because you're constantly
+
+35
+00:03:10,520 --> 00:03:12,440
+ peeing it out.
+
+36
+00:03:12,440 --> 00:03:18,000
+ Diabetes isn't really an element for diabetes insipidus, it's all about the liquids here.
+
+37
+00:03:18,000 --> 00:03:26,240
+ So you typically would treat this with a synthetic ADH, a low salt diet, and/or IV fluids.
+
+38
+00:03:26,240 --> 00:03:30,200
+ But for the rest of the video though, we're going to shift back our focus to the much
+
+39
+00:03:30,200 --> 00:03:34,960
+ more common diabetes mellitus.
+
+40
+00:03:34,960 --> 00:03:42,920
+ So for type 1 diabetes mellitus, 5 to 10% of your diabetes cases are going to be type 1.
+
+41
+00:03:42,920 --> 00:03:48,000
+ It usually has a juvenile onset, which means it usually affects children.
+
+42
+00:03:48,000 --> 00:03:54,400
+ It's insulin dependent, which means that this diabetes depends entirely on a lack of insulin
+
+43
+00:03:54,400 --> 00:03:55,720
+ production.
+
+44
+00:03:55,720 --> 00:04:02,720
+ So usually some autoimmune reaction kills those beta cells, which usually produce insulin.
+
+45
+00:04:02,720 --> 00:04:07,480
+ So insulin's not being produced naturally by the body, and these patients have to take
+
+46
+00:04:07,480 --> 00:04:10,160
+ insulin synthetically.
+
+47
+00:04:10,160 --> 00:04:14,520
+ Of course there's an insulin deficiency, as explained above, the body does not make
+
+48
+00:04:14,520 --> 00:04:16,200
+ enough insulin.
+
+49
+00:04:16,200 --> 00:04:21,880
+ And without insulin, there's no sugar inside these cells that desperately need energy.
+
+50
+00:04:21,880 --> 00:04:28,720
+ So in the absence of sugar, cells are burning lipids, which produces toxic ketone bodies.
+
+51
+00:04:28,720 --> 00:04:35,280
+ This is called ketosis if it's more mild, or ketoacidosis if it's more severe.
+
+52
+00:04:35,280 --> 00:04:39,880
+ And this can result in a fruity smelling ketone breath.
+
+53
+00:04:39,880 --> 00:04:44,800
+ There's no way to prevent this, and by this I mean there's a strong genetic component
+
+54
+00:04:44,800 --> 00:04:45,800
+ to type 1 diabetes.
+
+55
+00:04:45,800 --> 00:04:50,120
+ You can't blame diet or exercise here.
+
+56
+00:04:50,120 --> 00:04:56,000
+ In all cases, if they're going to be managed properly, require insulin injections.
+
+57
+00:04:56,000 --> 00:05:01,260
+ Now let's compare this slide to the next one, Type 2 Diabetes.
+
+58
+00:05:01,260 --> 00:05:07,760
+ This one accounts for 85 to 90% of all diabetes cases, and it's one of the most common chronic
+
+59
+00:05:07,760 --> 00:05:09,800
+ diseases out there.
+
+60
+00:05:09,800 --> 00:05:15,440
+ It usually has an adult onset, which means it usually is the result of obesity, poor
+
+61
+00:05:15,440 --> 00:05:19,600
+ diet, lack of physical activity, things like that.
+
+62
+00:05:19,600 --> 00:05:25,040
+ It's non-insulin dependent, in other words it's more complicated, so there may be a component
+
+63
+00:05:25,040 --> 00:05:31,240
+ of less insulin production, but more importantly, even if insulin's floating around in the blood,
+
+64
+00:05:31,240 --> 00:05:38,600
+ the target cells are no longer sensitive to insulin, so it can't do its job.
+
+65
+00:05:38,600 --> 00:05:40,600
+ So this is called insulin resistance.
+
+66
+00:05:40,600 --> 00:05:46,720
+ The body can't use insulin properly, it's resistant to insulin's effects.
+
+67
+00:05:46,720 --> 00:05:52,760
+ Most cases can be prevented, again usually the cause of obesity, poor diet, lack of physical
+
+68
+00:05:52,760 --> 00:05:58,120
+ activity, and late stage cases may require insulin injections.
+
+69
+00:05:58,120 --> 00:06:05,080
+ So early on, insulin really does you no good, but later on the pancreatic islets get burnt
+
+70
+00:06:05,080 --> 00:06:10,360
+ out trying to produce more insulin all the time, and then you actually might need to
+
+71
+00:06:10,360 --> 00:06:15,320
+ have synthetic insulin injections to try to help you out.
+
+72
+00:06:15,320 --> 00:06:21,280
+ A third type of diabetes mellitus is called gestational diabetes, which occurs in pregnant
+
+73
+00:06:21,280 --> 00:06:28,080
+ women who otherwise don't have diabetes, and it's due to placental hormones, and it's basically
+
+74
+00:06:28,080 --> 00:06:37,560
+ a combination of type 1 with insulin deficiency and type 2 with insulin resistance.
+
+75
+00:06:37,560 --> 00:06:44,640
+ So this usually resolves though after the baby is delivered.
+
+76
+00:06:44,640 --> 00:06:50,880
+ So there are two main ways to measure diabetes, and the first one is blood glucose measured
+
+77
+00:06:50,880 --> 00:06:52,880
+ with a glucometer.
+
+78
+00:06:52,880 --> 00:06:59,600
+ This is the relatively easy way, and how it works is you wash your hands, you prick your
+
+79
+00:06:59,600 --> 00:07:07,480
+ finger, and you place a drop of blood into this test strip that's inserted in the glucometer.
+
+80
+00:07:07,480 --> 00:07:13,400
+ And the device then reads out your blood sugar in milligrams per deciliter.
+
+81
+00:07:13,400 --> 00:07:19,080
+ So while it's relatively easy to measure, it's not reliable because blood glucose goes
+
+82
+00:07:19,080 --> 00:07:24,160
+ up and down throughout the day, depending on when you eat and last, what you eat, and
+
+83
+00:07:24,160 --> 00:07:27,320
+ when you took the measurement.
+
+84
+00:07:27,320 --> 00:07:34,040
+ So we'll go over what a good measurement looks like in the next slide on classifications.
+
+85
+00:07:34,040 --> 00:07:40,960
+ Now the second test we have is the HBA1C test, and this is a much more valuable test, and
+
+86
+00:07:40,960 --> 00:07:43,680
+ it's also asked more on the board exam.
+
+87
+00:07:43,680 --> 00:07:52,600
+ So this one stands for hemoglobin A1C, which is a glycated or glycosylated form of hemoglobin.
+
+88
+00:07:52,600 --> 00:07:58,760
+ It's basically hemoglobin, which is that protein in red blood cells that transports oxygen
+
+89
+00:07:58,760 --> 00:08:01,640
+ that's coated with sugar.
+
+90
+00:08:01,640 --> 00:08:09,520
+ And importantly, this modification is permanent for the entire lifespan of that red blood
+
+91
+00:08:09,520 --> 00:08:14,760
+ cell, which is about 120 days.
+
+92
+00:08:14,760 --> 00:08:21,120
+ So a sample of blood will be taken, usually from your arm, and this test will tell you
+
+93
+00:08:21,120 --> 00:08:27,200
+ the percentage of hemoglobin proteins in your blood sample that are coated with sugar.
+
+94
+00:08:27,200 --> 00:08:31,920
+ And this gives you your blood glucose level over the past three months, because again,
+
+95
+00:08:31,920 --> 00:08:35,440
+ that's the average lifespan of a red blood cell.
+
+96
+00:08:35,440 --> 00:08:42,720
+ And the higher your A1C percent level is, the worse your blood sugar control and the
+
+97
+00:08:42,720 --> 00:08:47,680
+ higher your risk of diabetes complications.
+
+98
+00:08:47,680 --> 00:08:51,000
+ All right, now on to the diabetes categories.
+
+99
+00:08:51,000 --> 00:08:55,080
+ And this is straight from the American Diabetes Association.
+
+100
+00:08:55,080 --> 00:08:56,880
+ So there are three rows.
+
+101
+00:08:56,880 --> 00:09:03,720
+ We have normal or healthy, we have prediabetes, which is the equivalent of pre-hypertension
+
+102
+00:09:03,720 --> 00:09:10,440
+ or elevated blood pressure, it's not quite a disease state, but it is higher than normal.
+
+103
+00:09:10,440 --> 00:09:15,360
+ And then we have diabetes, which is the equivalent of hypertension, but for blood sugar.
+
+104
+00:09:15,360 --> 00:09:20,520
+ So hypertension is for blood pressure, diabetes is for blood sugar.
+
+105
+00:09:20,520 --> 00:09:25,800
+ And the two often go hand in hand, it's what we call co-morbidities.
+
+106
+00:09:25,800 --> 00:09:29,320
+ They tend to happen together, but not always.
+
+107
+00:09:29,320 --> 00:09:37,800
+ And there are also three columns, we have the HBA1C, the fasting plasma glucose test,
+
+108
+00:09:37,800 --> 00:09:41,360
+ and the oral glucose tolerance test.
+
+109
+00:09:41,360 --> 00:09:47,760
+ And remember, as dentists, we're not diagnosing people with diabetes, we're simply evaluating
+
+110
+00:09:47,760 --> 00:09:54,200
+ their current health status, and then we either modify our dental treatment and/or refer them
+
+111
+00:09:54,200 --> 00:10:01,180
+ to a physician for further evaluation, diagnosis, and treatment when necessary.
+
+112
+00:10:01,180 --> 00:10:07,040
+ So the HBA1C test is what we just talked about, it's taking a sample of red blood cells and
+
+113
+00:10:07,040 --> 00:10:11,080
+ measuring the percentage of hemoglobin that's coated with sugar.
+
+114
+00:10:11,080 --> 00:10:15,040
+ And this gives you a reliable look at the blood glucose situation for the last two to
+
+115
+00:10:15,040 --> 00:10:16,400
+ three months.
+
+116
+00:10:16,400 --> 00:10:22,520
+ And this is used by doctors to diagnose someone with diabetes, but for someone already with
+
+117
+00:10:22,520 --> 00:10:28,640
+ diabetes, we want them to be ideally under 7%.
+
+118
+00:10:28,640 --> 00:10:35,360
+ We want them to be under 7% for a relatively well-controlled situation.
+
+119
+00:10:35,360 --> 00:10:43,840
+ These numbers here, 6.5% or above, 5.7 to 6.4 and below 5.7, are more used for diagnosis.
+
+120
+00:10:43,840 --> 00:10:50,240
+ Again, if someone already has diabetes, we're looking for under 7% for a well-controlled
+
+121
+00:10:50,240 --> 00:10:51,240
+ situation.
+
+122
+00:10:51,240 --> 00:10:59,320
+ So, as dentists, we can ask a patient what their last HBA1C reading was to get an idea,
+
+123
+00:10:59,320 --> 00:11:03,760
+ are they well-controlled at less than 7% or are they poorly controlled, which would be
+
+124
+00:11:03,760 --> 00:11:10,960
+ above 8%, and that might inform how we proceed with treatment.
+
+125
+00:11:10,960 --> 00:11:18,600
+ And of course, we want that HBA1C measurement to have been taken within the last three months.
+
+126
+00:11:18,600 --> 00:11:23,360
+ Then we have the fasting plasma glucose test.
+
+127
+00:11:23,360 --> 00:11:29,600
+ And fasting is defined as not having anything to eat or drink except water for at least eight
+
+128
+00:11:29,600 --> 00:11:32,800
+ hours before the test.
+
+129
+00:11:32,800 --> 00:11:41,080
+ And finally, the oral glucose tolerance test is technically pretty complicated, but basically
+
+130
+00:11:41,080 --> 00:11:45,880
+ it involves you fasting for eight hours, and then you drink this really sweet drink and
+
+131
+00:11:45,880 --> 00:11:52,520
+ then check your blood glucose two hours after that to reveal how your body processes glucose.
+
+132
+00:11:52,520 --> 00:11:58,960
+ Alternatively, it can just be taken approximately two hours post-prandial, which means after
+
+133
+00:11:58,960 --> 00:12:01,120
+ having a meal.
+
+134
+00:12:01,120 --> 00:12:06,240
+ So, for fasting, we want to be below 100.
+
+135
+00:12:06,240 --> 00:12:09,080
+ We want to be 99 or below.
+
+136
+00:12:09,080 --> 00:12:14,000
+ But not too low, as we'll see in a little bit, too low can actually be a bad thing.
+
+137
+00:12:14,000 --> 00:12:21,680
+ And then for post-prandial, we want to be below 140 or 139 and below.
+
+138
+00:12:21,680 --> 00:12:28,960
+ For the pre-diabetes rows, these orange values are given different names depending on what
+
+139
+00:12:28,960 --> 00:12:30,720
+ test was used.
+
+140
+00:12:30,720 --> 00:12:38,400
+ So if you score between 100 and 125 with the fasting glucose test, it's called impaired
+
+141
+00:12:38,400 --> 00:12:40,360
+ fasting glucose.
+
+142
+00:12:40,360 --> 00:12:44,800
+ IFG would be what you would call that.
+
+143
+00:12:44,800 --> 00:12:51,760
+ If you score between 140 and 199 with the glucose tolerance test, it's called impaired
+
+144
+00:12:51,760 --> 00:12:56,000
+ glucose tolerance, or IGT.
+
+145
+00:12:56,000 --> 00:13:01,320
+ And then findings in the red row would point to a diagnosis of diabetes.
+
+146
+00:13:01,320 --> 00:13:10,000
+ Okay, so we talked about measuring, we talked about categories, now how do we manage diabetes?
+
+147
+00:13:10,000 --> 00:13:13,440
+ Well for Type 1, it's all about getting that insulin.
+
+148
+00:13:13,440 --> 00:13:18,240
+ And so you're going to treat it with self-administered, subcutaneous insulin.
+
+149
+00:13:18,240 --> 00:13:23,000
+ And these are all synthetic derivatives of that hormone.
+
+150
+00:13:23,000 --> 00:13:28,440
+ For this graph, the y-axis is intensity of the effect of insulin.
+
+151
+00:13:28,440 --> 00:13:32,480
+ The x-axis is duration in hours.
+
+152
+00:13:32,480 --> 00:13:38,280
+ So we'll start with the human insulin as a baseline.
+
+153
+00:13:38,280 --> 00:13:43,000
+ Human insulin has a strong and relatively rapid effect.
+
+154
+00:13:43,000 --> 00:13:50,480
+ For the synthetic forms, lispro, aspart and gluysine are rapid-acting forms.
+
+155
+00:13:50,480 --> 00:13:55,600
+ They're stronger and faster-acting than the human insulin, but their effect dies down
+
+156
+00:13:55,600 --> 00:13:57,600
+ pretty quick.
+
+157
+00:13:57,600 --> 00:14:04,880
+ NPH, or neutral prodomine h-dorn, is a weaker and longer-acting form.
+
+158
+00:14:04,880 --> 00:14:11,720
+ And then Glargine and Detimer are even weaker and longer-acting than that.
+
+159
+00:14:11,720 --> 00:14:19,200
+ So a common prescription would be to combine one rapid-acting form of insulin right before
+
+160
+00:14:19,200 --> 00:14:26,760
+ eating meals with one long-acting form of insulin per day to have a basal effect on
+
+161
+00:14:26,760 --> 00:14:32,800
+ keeping glucose levels low and controlled.
+
+162
+00:14:32,800 --> 00:14:35,440
+ So how about for type 2 diabetes?
+
+163
+00:14:35,440 --> 00:14:39,120
+ Well, there are a plethora of different medications out there.
+
+164
+00:14:39,120 --> 00:14:44,920
+ So let's go over some names and their mechanisms of action.
+
+165
+00:14:44,920 --> 00:14:55,480
+ So so final ureas, also called insulin secreti-gogs, are typically taken 30 minutes before meals.
+
+166
+00:14:55,480 --> 00:15:02,360
+ And their mechanism of action is to enhance insulin secretion by beta cells.
+
+167
+00:15:02,360 --> 00:15:10,380
+ So we're increasing insulin secretion pretty directly.
+
+168
+00:15:10,380 --> 00:15:16,240
+ And some examples of that are Glipazide, Glybyride, and Glympyride.
+
+169
+00:15:16,240 --> 00:15:23,440
+ The bighuonides are taken with meals and their mechanism of action is primarily to reduce
+
+170
+00:15:23,440 --> 00:15:25,680
+ glucose production.
+
+171
+00:15:25,680 --> 00:15:33,600
+ And this is done by decreasing gluconeogenesis, liver production of new glucose, decreasing
+
+172
+00:15:33,600 --> 00:15:40,680
+ glucose uptake from the intestines, and decreasing glucagon production, which normally moves
+
+173
+00:15:40,680 --> 00:15:44,120
+ glucose into the blood.
+
+174
+00:15:44,120 --> 00:15:52,360
+ So by a couple of mechanisms, the bighuonides, which are mostly metformin, is decreasing
+
+175
+00:15:52,360 --> 00:15:58,240
+ the amount of glucose, reducing glucose production.
+
+176
+00:15:58,240 --> 00:16:02,040
+ Next we have the dipeptidase 4 inhibitors.
+
+177
+00:16:02,040 --> 00:16:10,640
+ These are the gliptins, and the gliptins are taken once daily regardless of meals.
+
+178
+00:16:10,640 --> 00:16:18,680
+ And they inhibit the breakdown of the natural secreti-gogs, GLP1 and GIP, which are natural
+
+179
+00:16:18,680 --> 00:16:22,920
+ hormones that stimulate insulin secretion.
+
+180
+00:16:22,920 --> 00:16:30,360
+ So by inhibiting those enzymes, they indirectly enhance insulin secretion.
+
+181
+00:16:30,360 --> 00:16:42,200
+ So again, I'm going to say this one is increasing insulin by inhibiting the dipeptidase 4 enzyme.
+
+182
+00:16:42,200 --> 00:16:46,320
+ Next we have the thiazolidin diodes.
+
+183
+00:16:46,320 --> 00:16:48,160
+ And these are glitazones.
+
+184
+00:16:48,160 --> 00:16:49,160
+ These are the glitazones.
+
+185
+00:16:49,160 --> 00:16:51,680
+ These are taken with meals.
+
+186
+00:16:51,680 --> 00:16:58,640
+ They improve insulin sensitivity, particularly for fat and muscle cells.
+
+187
+00:16:58,640 --> 00:17:06,040
+ And especially they produce more glucose transporters, so insulin will have a more profound
+
+188
+00:17:06,040 --> 00:17:10,520
+ effect and suck more glucose into those cells.
+
+189
+00:17:10,520 --> 00:17:19,760
+ So for this one, we can say it decreases blood glucose by increasing glucose transporters.
+
+190
+00:17:19,760 --> 00:17:26,800
+ So those are often called GLUTs, glucose transporters.
+
+191
+00:17:26,800 --> 00:17:30,240
+ Alright then we have the alpha-glucosidase inhibitors.
+
+192
+00:17:30,240 --> 00:17:36,440
+ These are administered just before meals, and they function to delay carbohydrate digestion
+
+193
+00:17:36,440 --> 00:17:37,680
+ in the gut.
+
+194
+00:17:37,680 --> 00:17:44,560
+ So basically they block the breakdown of polysaccharides into glucose by this alpha-glucosidase
+
+195
+00:17:44,560 --> 00:17:46,920
+ enzyme in intestinal cells.
+
+196
+00:17:46,920 --> 00:17:53,360
+ And if you inhibit this enzyme, you excrete glucose instead of absorbing it.
+
+197
+00:17:53,360 --> 00:18:00,960
+ However, leaving more sugars in the intestines for bacteria to ferment can cause some problems.
+
+198
+00:18:00,960 --> 00:18:07,520
+ They can cause abdominal pain, nausea and diarrhea, which are common side effects from a carbose
+
+199
+00:18:07,520 --> 00:18:10,800
+ and migletol.
+
+200
+00:18:10,800 --> 00:18:16,600
+ So we can say for this one, you're losing glucose because you're excreting it rather
+
+201
+00:18:16,600 --> 00:18:21,000
+ than absorbing it in the gut.
+
+202
+00:18:21,000 --> 00:18:28,680
+ And for our final row, we have the sodium glucose co-transporter to inhibitors.
+
+203
+00:18:28,680 --> 00:18:37,480
+ And these are the glyph lozins, and they selectively inhibit this co-transporter, which is expressed
+
+204
+00:18:37,480 --> 00:18:43,040
+ almost exclusively in the proximal convoluted tubule in the kidney.
+
+205
+00:18:43,040 --> 00:18:48,760
+ So this will cause you to urinate glucose instead of reabsorbing it.
+
+206
+00:18:48,760 --> 00:18:55,760
+ However, just like with the above row, leaving more sugars in the urine can feed bacteria
+
+207
+00:18:55,760 --> 00:19:01,280
+ in the urethra in the bladder, causing urinary tract infections.
+
+208
+00:19:01,280 --> 00:19:07,320
+ So similar to alpha-glucosidase inhibitors, this is going to decrease the amount of glucose
+
+209
+00:19:07,320 --> 00:19:12,880
+ by increasing the amount that we're excreting this time in the urine.
+
+210
+00:19:12,880 --> 00:19:18,120
+ Alright, so hopefully that's helpful to break down those rows and the different drugs that
+
+211
+00:19:18,120 --> 00:19:19,920
+ can be used to treat diabetes.
+
+212
+00:19:19,920 --> 00:19:25,200
+ I know these can appear on the board exams.
+
+213
+00:19:25,200 --> 00:19:31,000
+ So there are two extremes of the blood sugar spectrum that we have to talk about.
+
+214
+00:19:31,000 --> 00:19:37,400
+ And they're hypoglycemia, which is low blood sugar, and hyperglycemia, which is high blood
+
+215
+00:19:37,400 --> 00:19:39,200
+ sugar.
+
+216
+00:19:39,200 --> 00:19:49,960
+ And someone would have hypoglycemia if they're less than 70 mg per deciliter of blood glucose.
+
+217
+00:19:49,960 --> 00:19:57,080
+ And actually this is what we're most concerned about for a diabetic and the dental chair,
+
+218
+00:19:57,080 --> 00:20:01,640
+ because they are then at risk for insulin shock.
+
+219
+00:20:01,640 --> 00:20:04,680
+ That's too much insulin, not enough sugar.
+
+220
+00:20:04,680 --> 00:20:08,040
+ The lower the blood sugar, the higher the risk.
+
+221
+00:20:08,040 --> 00:20:13,160
+ And this might seem totally counterintuitive, especially from the last slide that we talked
+
+222
+00:20:13,160 --> 00:20:15,000
+ about all those medications.
+
+223
+00:20:15,000 --> 00:20:19,600
+ Basically, everything we've talked about up to this point has been how do we reduce blood
+
+224
+00:20:19,600 --> 00:20:21,960
+ sugar for diabetics.
+
+225
+00:20:21,960 --> 00:20:27,560
+ But if it's reduced too much, then they can pass out via insulin shock.
+
+226
+00:20:27,560 --> 00:20:29,240
+ And that's a medical emergency.
+
+227
+00:20:29,240 --> 00:20:34,160
+ So there's a happy medium that we're shooting for.
+
+228
+00:20:34,160 --> 00:20:39,920
+ Now if they're hypoglycemic and conscious, then we can give them orange juice or a glucose
+
+229
+00:20:39,920 --> 00:20:45,880
+ tab some quick form of sugar to boost their levels and avoid insulin shock.
+
+230
+00:20:45,880 --> 00:20:50,280
+ Then you can wait 15 minutes and then retest their sugar level.
+
+231
+00:20:50,280 --> 00:20:56,120
+ If they're hypoglycemic and have already passed out, then it's a medical emergency we need
+
+232
+00:20:56,120 --> 00:21:03,960
+ to call 911 and administer intravascular dextrose or intramuscular glucagon to help boost their
+
+233
+00:21:03,960 --> 00:21:05,880
+ sugar levels.
+
+234
+00:21:05,880 --> 00:21:13,080
+ Now either way here, we want to arrange for them to have an escort to drive them home.
+
+235
+00:21:13,080 --> 00:21:17,680
+ So what are some signs and symptoms of hypoglycemia that we can look for?
+
+236
+00:21:17,680 --> 00:21:20,560
+ Well I love this little memory tool.
+
+237
+00:21:20,560 --> 00:21:22,960
+ Cold and clammy need some candy.
+
+238
+00:21:22,960 --> 00:21:27,400
+ So you're feeling cold and sweaty, these are cardinal symptoms, and then getting some
+
+239
+00:21:27,400 --> 00:21:30,080
+ sugary candy will help resolve them.
+
+240
+00:21:30,080 --> 00:21:37,640
+ I also made up this pneumatic, tired, which stands for tachycardia, irritability, restlessness,
+
+241
+00:21:37,640 --> 00:21:41,840
+ excessive hunger, and diaphoresis or sweating.
+
+242
+00:21:41,840 --> 00:21:48,760
+ So a nice little card here to help you remember some of the key factors and things to remember
+
+243
+00:21:48,760 --> 00:21:51,520
+ for hypoglycemia.
+
+244
+00:21:51,520 --> 00:21:55,040
+ And then on the other hand, we have hyperglycemia.
+
+245
+00:21:55,040 --> 00:22:01,460
+ So the specific numbers for hyperglycemia are at least 126 milligrams per deciliter
+
+246
+00:22:01,460 --> 00:22:07,400
+ for fasting, at least 200 milligrams per deciliter for after a meal.
+
+247
+00:22:07,400 --> 00:22:14,080
+ So the same as that red traffic light from the classification or category slide.
+
+248
+00:22:14,080 --> 00:22:16,960
+ So how do you avoid or manage this?
+
+249
+00:22:16,960 --> 00:22:23,160
+ Well you would promote exercise, eat less, and take insulin as directed.
+
+250
+00:22:23,160 --> 00:22:29,680
+ It's not as immediately dangerous as hypoglycemia in the dental setting, but if it's chronically
+
+251
+00:22:29,680 --> 00:22:36,000
+ high, it can lead to life-threatening complications like diabetic ketoacidosis that we were talking
+
+252
+00:22:36,000 --> 00:22:40,720
+ about before, or hyperosmolar hyperglycemic state.
+
+253
+00:22:40,720 --> 00:22:44,360
+ Now how about signs and symptoms of hyperglycemia?
+
+254
+00:22:44,360 --> 00:22:49,360
+ Well I also love this memory tool, hot and dry, sugar high.
+
+255
+00:22:49,360 --> 00:22:54,080
+ So you feel hot and thirsty thanks to having too much sugar.
+
+256
+00:22:54,080 --> 00:22:59,680
+ And I also made up this pneumatic, sinful, which stands for sweet breath, that ketone
+
+257
+00:22:59,680 --> 00:23:07,440
+ breath, increased thirst, nausea and vomiting, frequent urination, polyurea, and loss of
+
+258
+00:23:07,440 --> 00:23:10,800
+ clear vision or blurry vision.
+
+259
+00:23:10,800 --> 00:23:16,400
+ So cold and clammy needs some candy, hot and dry, sugar high, hopefully you can remember
+
+260
+00:23:16,400 --> 00:23:23,680
+ those catchy little phrases and that can help you remember stuff on the board exam.
+
+261
+00:23:23,680 --> 00:23:28,920
+ Alright so here we are with our flowchart on how to manage diabetic patients.
+
+262
+00:23:28,920 --> 00:23:34,240
+ And you may notice this one looks pretty similar to the hypertension one where a well controlled
+
+263
+00:23:34,240 --> 00:23:40,040
+ situation has some treatment modifications while a poorly controlled situation requires
+
+264
+00:23:40,040 --> 00:23:43,920
+ some bigger decisions to make.
+
+265
+00:23:43,920 --> 00:23:51,480
+ So if a diabetes is well controlled, the HBA1C and the glucose are in a safe range based
+
+266
+00:23:51,480 --> 00:23:57,080
+ on what we just talked about, then all routine dental procedures can be performed with only
+
+267
+00:23:57,080 --> 00:23:59,920
+ a few extra considerations.
+
+268
+00:23:59,920 --> 00:24:03,240
+ The short morning appointments are usually best.
+
+269
+00:24:03,240 --> 00:24:09,360
+ We want to avoid aspirin and other NSAIDs in patients taking sulfonal urea drugs because
+
+270
+00:24:09,360 --> 00:24:14,320
+ they can worsen hypoglycemia.
+
+271
+00:24:14,320 --> 00:24:21,680
+ One of the side effects of oral glucocorticosteroids like prednisone is that they can increase blood
+
+272
+00:24:21,680 --> 00:24:29,720
+ glucose levels and increase insulin resistance, making diabetes and hyperglycemia worse.
+
+273
+00:24:29,720 --> 00:24:33,200
+ So avoid them when possible.
+
+274
+00:24:33,200 --> 00:24:39,600
+ Levofloxasin is a potent antibiotic that can be used to treat oral infections, but it can
+
+275
+00:24:39,600 --> 00:24:45,560
+ also lower blood glucose levels and worsen hypoglycemia.
+
+276
+00:24:45,560 --> 00:24:49,360
+ So again avoid that if possible.
+
+277
+00:24:49,360 --> 00:24:55,000
+ We want to advise the patient to take their usual insulin dose and normal meals on the
+
+278
+00:24:55,000 --> 00:25:01,160
+ day of their dental appointment and confirm this with them at the appointment.
+
+279
+00:25:01,160 --> 00:25:07,080
+ We want to use an office glucometer prior to dental procedures to ensure good glucose
+
+280
+00:25:07,080 --> 00:25:15,880
+ control, and we're specifically trying to avoid hypoglycemia more so than hyperglycemia.
+
+281
+00:25:15,880 --> 00:25:21,320
+ We want to have a glucose source ready, orange juice, soda, cake icing, and give it to the
+
+282
+00:25:21,320 --> 00:25:27,560
+ patient if those cold and clammy symptoms start to occur.
+
+283
+00:25:27,560 --> 00:25:33,360
+ I'd probably also add to this to be slow to change the chair position because diabetic
+
+284
+00:25:33,360 --> 00:25:38,280
+ neuropathy can affect the integrity of the vasculature, and these patients may be at
+
+285
+00:25:38,280 --> 00:25:42,800
+ more risk of orthostatic hypotension.
+
+286
+00:25:42,800 --> 00:25:49,480
+ Now if glycemic control is poor, or if signs and symptoms point to an undiagnosed problem,
+
+287
+00:25:49,480 --> 00:25:54,560
+ then there are some additional precautions that we should take.
+
+288
+00:25:54,560 --> 00:25:59,300
+ If it's an elective procedure like an ascetic restoration, I would defer treatment and make
+
+289
+00:25:59,300 --> 00:26:04,000
+ sure they follow up with their physician to get things back under control.
+
+290
+00:26:04,000 --> 00:26:10,800
+ If it's an urgent procedure however, extracting an infected tooth, then we have to consider
+
+291
+00:26:10,800 --> 00:26:19,320
+ are they asymptomatic or symptomatic for life-threatening ketoacidosis, etc.
+
+292
+00:26:19,320 --> 00:26:26,760
+ And if there are no symptoms, ideally we would call the physician before proceeding if possible,
+
+293
+00:26:26,760 --> 00:26:33,240
+ and then you'd want to manage any infections pretty aggressively in these patients by incision,
+
+294
+00:26:33,240 --> 00:26:40,320
+ drainage, extraction, pulpotomy, and antibiotics because they have a reduced ability to fight
+
+295
+00:26:40,320 --> 00:26:45,000
+ infection, and then we would refer them to their doctor.
+
+296
+00:26:45,000 --> 00:26:50,240
+ If they are symptomatic, then we are immediately referring to the emergency room, get them
+
+297
+00:26:50,240 --> 00:26:56,200
+ to the hospital where they could administer intravascular antibiotics, manage their insulin
+
+298
+00:26:56,200 --> 00:26:59,880
+ levels appropriately, things like that.
+
+299
+00:26:59,880 --> 00:27:07,080
+ One other thing to consider, brittle diabetes, which is very uncontrolled diabetes, you have
+
+300
+00:27:07,080 --> 00:27:14,680
+ a higher than 200 milligrams per deciliter of fasting glucose and/or an HBA1C that's
+
+301
+00:27:14,680 --> 00:27:21,240
+ greater than 9%, you might want to consider antibiotic prophylaxis before proceeding
+
+302
+00:27:21,240 --> 00:27:25,320
+ as we discussed in our antibiotic prophylaxis video.
+
+303
+00:27:25,320 --> 00:27:31,320
+ And again, these guidelines are a bit of a grey area, some dentists may disagree on
+
+304
+00:27:31,320 --> 00:27:36,320
+ some of the things I have here and when to defer treatment, when not to, but this is
+
+305
+00:27:36,320 --> 00:27:41,000
+ what I use in practice and the numbers I discussed in this video, I'm confident they're what
+
+306
+00:27:41,000 --> 00:27:44,480
+ you should know for the board exam.
+
+307
+00:27:44,480 --> 00:27:50,240
+ Also since there's a big correlation between diabetes and hypertension, you would only
+
+308
+00:27:50,240 --> 00:27:56,800
+ follow any of the hypertension guidelines from our last video, like epinephrine restrictions,
+
+309
+00:27:56,800 --> 00:28:03,920
+ only if their blood pressure indicates to do so.
+
+310
+00:28:03,920 --> 00:28:08,400
+ And then there are a few oral manifestations of diabetes to be aware of.
+
+311
+00:28:08,400 --> 00:28:12,680
+ Dry mouth or zerostomy is a big one and it contributes to a lot of the other ones on
+
+312
+00:28:12,680 --> 00:28:14,000
+ this list.
+
+313
+00:28:14,000 --> 00:28:17,920
+ Burning mouth is one of those, a burning mouth sensation.
+
+314
+00:28:17,920 --> 00:28:24,080
+ A delayed wound healing is due to peripheral vascular damage, increased incidence and severity
+
+315
+00:28:24,080 --> 00:28:29,560
+ of infections, this goes hand in hand with the delayed wound healing, increased risk
+
+316
+00:28:29,560 --> 00:28:36,360
+ of carry thanks to dry mouth and increased glucose in the saliva, oral candidiasis also
+
+317
+00:28:36,360 --> 00:28:44,360
+ thanks to dry mouth, glucose and increased infection rate, prodigland enlargement due
+
+318
+00:28:44,360 --> 00:28:50,640
+ to compensatory hyperactivity of the salivary glands, try to make up for that dry mouth,
+
+319
+00:28:50,640 --> 00:28:53,280
+ and then gingivitis and periodontal disease.
+
+320
+00:28:53,280 --> 00:29:01,120
+ Again, zerostomyia, sugar, changes in the oral microbiome, all to blame.
+
+321
+00:29:01,120 --> 00:29:05,920
+ So to finish up, I once again came up with just two scenarios here covering some frequently
+
+322
+00:29:05,920 --> 00:29:07,680
+ asked questions that I get.
+
+323
+00:29:07,680 --> 00:29:13,080
+ So a lot of people ask me, you know, what would you recommend for a diabetic patient who
+
+324
+00:29:13,080 --> 00:29:17,640
+ is undergoing a procedure with general anesthesia?
+
+325
+00:29:17,640 --> 00:29:25,000
+ Now, usually severe diabetics should not go under general anesthesia if at all possible.
+
+326
+00:29:25,000 --> 00:29:32,000
+ Well-controlled diabetics can, but the typical recommendation for both IV sedation and general
+
+327
+00:29:32,000 --> 00:29:38,560
+ anesthesia is fasting from midnight the night before the procedure and using only half the
+
+328
+00:29:38,560 --> 00:29:44,840
+ usual insulin dose, and then supplementing with intravenous glucose during the procedure
+
+329
+00:29:44,840 --> 00:29:47,120
+ as needed.
+
+330
+00:29:47,120 --> 00:29:53,040
+ For the second scenario, the patient has trouble remembering if they took their insulin today.
+
+331
+00:29:53,040 --> 00:29:58,240
+ Now might sound silly, but there's actually a well-established link between memory loss
+
+332
+00:29:58,240 --> 00:30:05,120
+ or amnesia and diabetes, and that's because uncontrolled diabetes increases the risk of
+
+333
+00:30:05,120 --> 00:30:11,840
+ cognitive problems like amnesia when you have a higher-than-normal blood glucose level
+
+334
+00:30:11,840 --> 00:30:17,000
+ that can damage nerve cells and blood vessels and peripheral nerves of the body and the
+
+335
+00:30:17,000 --> 00:30:18,000
+ brain.
+
+336
+00:30:18,000 --> 00:30:24,120
+ Now, in terms of what you should do, it really depends on their most recent HBA1C and their
+
+337
+00:30:24,120 --> 00:30:29,000
+ blood glucose level in the chair, and you can go back to our flow chart and decide how
+
+338
+00:30:29,000 --> 00:30:36,000
+ to proceed based on your findings and your concerns.
+
+339
+00:30:36,000 --> 00:30:40,040
+ That's it for this video guys, thank you so much for watching, please like this video
+
+340
+00:30:40,040 --> 00:30:44,480
+ if you enjoyed it, and subscribe to this channel for more on dentistry.
+
+341
+00:30:44,480 --> 00:30:48,160
+ If you'd like to support me, please check out my Patreon page.
+
+342
+00:30:48,160 --> 00:30:51,280
+ Thank you to all of my Patrons here for their support.
+
+343
+00:30:51,280 --> 00:30:56,440
+ You can unlock access to my video slides to take notes on and practice questions for the
+
+344
+00:30:56,440 --> 00:30:57,680
+ board exams.
+
+345
+00:30:57,680 --> 00:31:00,740
+ So go check that out, the link will be in the description.
+
+346
+00:31:00,740 --> 00:31:03,800
+ Thanks again for watching everyone, I'll see you in the next video.
+

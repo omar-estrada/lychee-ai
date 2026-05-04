@@ -1,0 +1,1764 @@
+1
+00:00:00,000 --> 00:00:06,160
+ Hey everyone, this is Ryan here, and welcome back to our Peridontic series.
+
+2
+00:00:06,160 --> 00:00:11,480
+ This video is going to be about surgical therapy in periodontics.
+
+3
+00:00:11,480 --> 00:00:16,040
+ So I apologize in advance as it's going to be a really long video, but it's a really
+
+4
+00:00:16,040 --> 00:00:21,440
+ interesting topic, so I hope we can have a lot of fun learning about it.
+
+5
+00:00:21,440 --> 00:00:29,120
+ So local therapy is designed to remove bacterial plaque and local factors that favor its accumulation.
+
+6
+00:00:29,120 --> 00:00:33,480
+ Now we already talked about non-surgical therapy, and when that's not enough to resolve the
+
+7
+00:00:33,480 --> 00:00:39,440
+ disease, often surgical therapy is then considered.
+
+8
+00:00:39,440 --> 00:00:44,840
+ Since we're talking about surgical therapy, we need to talk about gingival flap design.
+
+9
+00:00:44,840 --> 00:00:52,760
+ So gingival flaps are used for better access and visibility to the area of concern.
+
+10
+00:00:52,760 --> 00:00:57,240
+ So I'm going to go through each of these concepts, and they're all important to know for the
+
+11
+00:00:57,240 --> 00:01:02,260
+ board exam, and I'll go through them one at a time so we can really understand the concept
+
+12
+00:01:02,260 --> 00:01:03,760
+ behind them.
+
+13
+00:01:03,760 --> 00:01:08,000
+ So the first one is that the base of the flap should be wider than the top of the flap to
+
+14
+00:01:08,000 --> 00:01:11,280
+ ensure adequate blood supply.
+
+15
+00:01:11,280 --> 00:01:15,560
+ So in this first image here, that idea is illustrated.
+
+16
+00:01:15,560 --> 00:01:22,200
+ You can see the top of the flap is up here, and since it was flapped up, this area was
+
+17
+00:01:22,200 --> 00:01:28,720
+ by the teeth, you can tell that the scalloping matches where the gingival margins were, and
+
+18
+00:01:28,720 --> 00:01:33,600
+ the base of the flap is still in contact with the bone.
+
+19
+00:01:33,600 --> 00:01:38,160
+ So you can notice the base of the flap is wider than the top, and this ensures that the minimal
+
+20
+00:01:38,160 --> 00:01:43,560
+ amount of vasculature is severed, and the top of the flap can remain well vascularized
+
+21
+00:01:43,560 --> 00:01:46,480
+ and vital after surgery.
+
+22
+00:01:46,480 --> 00:01:51,240
+ Here's an example where the base is narrower than the top, and that's not good because we're
+
+23
+00:01:51,240 --> 00:01:57,360
+ severing some vasculature here and here that could supply the top corners, and you can get
+
+24
+00:01:57,360 --> 00:02:01,040
+ tissue necrosis, just not a good result.
+
+25
+00:02:01,040 --> 00:02:07,920
+ The next concept is that incisions should occur over intact bone, not over bony defects
+
+26
+00:02:07,920 --> 00:02:10,080
+ or eminences.
+
+27
+00:02:10,080 --> 00:02:14,800
+ So you want to avoid vertical incisions over bony prominences, like by the canines, the
+
+28
+00:02:14,800 --> 00:02:21,600
+ uniform ridge, lingual of the mandible, and you also want to avoid areas of bony defects.
+
+29
+00:02:21,600 --> 00:02:25,160
+ So we can see this second image illustrating that idea.
+
+30
+00:02:25,160 --> 00:02:29,240
+ These incisions are on a nice sound intact bone.
+
+31
+00:02:29,240 --> 00:02:37,760
+ You can notice this area of recession, a big bony defect here, and this is not a good flap
+
+32
+00:02:37,760 --> 00:02:41,240
+ because the vertical incision is right by that defect.
+
+33
+00:02:41,240 --> 00:02:46,280
+ Say for example, we had to surgically extract that tooth, you certainly want the flap margin
+
+34
+00:02:46,280 --> 00:02:54,960
+ to be at least one or two teeth over from the area you're working on.
+
+35
+00:02:54,960 --> 00:03:01,600
+ You want the corners of the flap to be rounded, not sharp, vertical releases, these vertical
+
+36
+00:03:01,600 --> 00:03:06,920
+ incisions should occur at the line angles of their respective teeth.
+
+37
+00:03:06,920 --> 00:03:12,120
+ So that's where the third image comes in, and you can also appreciate this in the previous
+
+38
+00:03:12,120 --> 00:03:18,680
+ two, but the ideal area for the margin of the flap to contact the tooth is going to
+
+39
+00:03:18,680 --> 00:03:21,960
+ be right at the line angle.
+
+40
+00:03:21,960 --> 00:03:28,360
+ That's because if you did it in the middle of the papilla, you'd cause loss of that papilla,
+
+41
+00:03:28,360 --> 00:03:32,240
+ and you'd have the formation of what are known as black triangles.
+
+42
+00:03:32,240 --> 00:03:40,480
+ If the edge of the flap came into the mid-facial surface of the tooth, then that often would
+
+43
+00:03:40,480 --> 00:03:44,840
+ cause noticeable gingival recession.
+
+44
+00:03:44,840 --> 00:03:49,680
+ So you don't want to be mid-facial, you don't want to be mid-papilla, you want to be in-between
+
+45
+00:03:49,680 --> 00:03:52,640
+ the two and right at the line angle.
+
+46
+00:03:52,640 --> 00:04:01,280
+ So line one here illustrates being mid-papilla, line two here illustrates being mid-facial.
+
+47
+00:04:01,280 --> 00:04:06,720
+ So you also want to avoid vital structures, you should be careful high up in the labial
+
+48
+00:04:06,720 --> 00:04:11,720
+ maxilla, in the infra-orbital region, and in the lingual mandible, where you have thin
+
+49
+00:04:11,720 --> 00:04:21,400
+ tissue, where the lingual artery is, so you want to avoid vital structures like that.
+
+50
+00:04:21,400 --> 00:04:26,360
+ And like I've talked about in previous videos, it's really important what the patient is doing
+
+51
+00:04:26,360 --> 00:04:31,240
+ at home to take care of their teeth, just as important as what you're doing in the clinic.
+
+52
+00:04:31,240 --> 00:04:32,920
+ If not more important.
+
+53
+00:04:32,920 --> 00:04:38,880
+ So like that, post-operative flat control is the most important procedure after periodontal
+
+54
+00:04:38,880 --> 00:04:42,400
+ surgery.
+
+55
+00:04:42,400 --> 00:04:46,400
+ So the next thing we have to talk about for flaps, we talked about flap design, now let's
+
+56
+00:04:46,400 --> 00:04:51,120
+ talk about the two different types in terms of thickness.
+
+57
+00:04:51,120 --> 00:04:56,600
+ So we have the split or partial thickness flap or mucosal flap, I included all the names
+
+58
+00:04:56,600 --> 00:04:58,600
+ here just to be thorough.
+
+59
+00:04:58,600 --> 00:05:03,760
+ And the full thickness are mucoperiosteal flap.
+
+60
+00:05:03,760 --> 00:05:08,360
+ So this name is helpful to include because it clues you in to the actual layers that
+
+61
+00:05:08,360 --> 00:05:11,240
+ are included in the flap.
+
+62
+00:05:11,240 --> 00:05:18,560
+ So for the mucosal one, we have the gingiva or the mucosa and the submucosa.
+
+63
+00:05:18,560 --> 00:05:24,520
+ So whether your gingiva or mucosa depends on where you are relative to the muco gingival
+
+64
+00:05:24,520 --> 00:05:25,600
+ junction.
+
+65
+00:05:25,600 --> 00:05:32,240
+ So both of these include the epithelium and the laminopropia and the submucosa has the
+
+66
+00:05:32,240 --> 00:05:36,480
+ vessels and the underlying nerves, things like that.
+
+67
+00:05:36,480 --> 00:05:41,320
+ So this type of flap is a little less aggressive and it's used for muco gingival surgery because
+
+68
+00:05:41,320 --> 00:05:45,200
+ we don't need to expose the bone, that would be unnecessary.
+
+69
+00:05:45,200 --> 00:05:52,080
+ The full thickness flap is called mucoperiosteal because it includes the periostium.
+
+70
+00:05:52,080 --> 00:05:59,720
+ So the periostium is that thin, really dense, connective tissue layer that directly contacts
+
+71
+00:05:59,720 --> 00:06:02,280
+ and covers bone.
+
+72
+00:06:02,280 --> 00:06:06,800
+ So we have to remove that and include that as part of the flap when we need to contact
+
+73
+00:06:06,800 --> 00:06:09,800
+ when we need to work on the actual bone.
+
+74
+00:06:09,800 --> 00:06:15,200
+ So it's used for osteosurgery and periodontal regeneration to permit primary closure as
+
+75
+00:06:15,200 --> 00:06:17,800
+ well as in apically repositioned flaps.
+
+76
+00:06:17,800 --> 00:06:22,880
+ We'll talk about all that later on in the video, but I will say primary closure when
+
+77
+00:06:22,880 --> 00:06:28,800
+ I say that I'm talking about the edges of the soft tissue when sutured back together,
+
+78
+00:06:28,800 --> 00:06:29,800
+ touch each other.
+
+79
+00:06:29,800 --> 00:06:35,480
+ In other words, there's no open wound left, that would be secondary closure.
+
+80
+00:06:35,480 --> 00:06:41,500
+ So whenever alveolar bone is exposed, like in the full thickness flaps, expect about one
+
+81
+00:06:41,500 --> 00:06:44,400
+ millimeter of bone resorption and remodeling.
+
+82
+00:06:44,400 --> 00:06:49,880
+ This is sort of a natural body response and should expect some amount of resorption anytime
+
+83
+00:06:49,880 --> 00:06:53,600
+ bone is exposed to the oral cavity.
+
+84
+00:06:53,600 --> 00:06:59,400
+ So talked about flap design and now we talked about the two different types of partial thickness
+
+85
+00:06:59,400 --> 00:07:03,200
+ and full thickness flaps.
+
+86
+00:07:03,200 --> 00:07:08,080
+ Papilla preservation is a concept that I've sort of already talked about.
+
+87
+00:07:08,080 --> 00:07:12,040
+ We talked about how we don't want to split the papilla, that was sort of the conventional
+
+88
+00:07:12,040 --> 00:07:16,600
+ flap design was have the margins go straight through the papilla, but then we were getting
+
+89
+00:07:16,600 --> 00:07:21,360
+ this papilla loss and formation of black triangles.
+
+90
+00:07:21,360 --> 00:07:27,720
+ So the papilla preservation flap is to preserve the papilla.
+
+91
+00:07:27,720 --> 00:07:31,760
+ So now this is sort of different from what we're talking about here.
+
+92
+00:07:31,760 --> 00:07:35,680
+ These are wider flaps to expose a large area of bone.
+
+93
+00:07:35,680 --> 00:07:41,040
+ These are smaller incisions if we just wanted to work on a smaller localized area, but you
+
+94
+00:07:41,040 --> 00:07:43,660
+ can see the concept is the same.
+
+95
+00:07:43,660 --> 00:07:48,200
+ The edges of the flap contact the line angles of the teeth.
+
+96
+00:07:48,200 --> 00:07:53,120
+ So the three types of papilla preservation flaps are detailed in these three lines.
+
+97
+00:07:53,120 --> 00:07:57,880
+ This one goes from the lingual line angle of this tooth to the facial line angle of this
+
+98
+00:07:57,880 --> 00:07:59,080
+ tooth.
+
+99
+00:07:59,080 --> 00:08:03,120
+ This one's scalloped from lingual line angle to lingual line angle.
+
+100
+00:08:03,120 --> 00:08:07,840
+ This one's scalloped from facial line angle to facial line angle.
+
+101
+00:08:07,840 --> 00:08:12,360
+ So those are papilla preservation flaps.
+
+102
+00:08:12,360 --> 00:08:16,160
+ So let's talk a little bit more about the full thickness flap.
+
+103
+00:08:16,160 --> 00:08:21,320
+ Since we're involving the periosteum layer, there are some specific incisions that we need
+
+104
+00:08:21,320 --> 00:08:24,960
+ to know when doing this type of flap.
+
+105
+00:08:24,960 --> 00:08:33,720
+ So the first one is the internal or reverse bevel incision, and that's shown as one in
+
+106
+00:08:33,720 --> 00:08:39,080
+ this image, and it's about one millimeter from the gingival margin, the crest of the
+
+107
+00:08:39,080 --> 00:08:40,080
+ gingiva.
+
+108
+00:08:40,080 --> 00:08:42,480
+ So you can see it's a little bit apart from that.
+
+109
+00:08:42,480 --> 00:08:47,360
+ It's beveled, it's not straight up and down, straight side to side, and it's used to remove
+
+110
+00:08:47,360 --> 00:08:52,640
+ the pocket lining, yet conserve the outer gingiva.
+
+111
+00:08:52,640 --> 00:08:58,400
+ The circular or curvicular incision shown as number two here is right through the base
+
+112
+00:08:58,400 --> 00:09:01,960
+ of the pocket to the alveolar crest.
+
+113
+00:09:01,960 --> 00:09:06,840
+ So you can imagine like sticking a periodontal probe into a pocket instead of now we're taking
+
+114
+00:09:06,840 --> 00:09:13,880
+ a scalpel and cutting through the pocket to the bone.
+
+115
+00:09:13,880 --> 00:09:18,280
+ And number three here is the interdental or interproximal incision.
+
+116
+00:09:18,280 --> 00:09:22,480
+ And that's to remove the collar of tissue around the tooth you created with the first
+
+117
+00:09:22,480 --> 00:09:23,480
+ two incisions.
+
+118
+00:09:23,480 --> 00:09:29,800
+ So you can see number one contacts this area of bone, number two contacts this area of bone,
+
+119
+00:09:29,800 --> 00:09:34,680
+ and so there's this little piece of soft tissue that's still connected to bone that we're
+
+120
+00:09:34,680 --> 00:09:40,120
+ just going to slice off with that last third incision.
+
+121
+00:09:40,120 --> 00:09:45,040
+ So the combination of all three of those incisions is what we could call a modified
+
+122
+00:09:45,040 --> 00:09:46,120
+ Whitman flap.
+
+123
+00:09:46,120 --> 00:09:52,640
+ It involves those three incisions and provides access to sub-gensurable areas for debridement,
+
+124
+00:09:52,640 --> 00:09:53,640
+ for cleaning.
+
+125
+00:09:53,640 --> 00:09:59,400
+ If there's calculus there for say we couldn't get with a conventional scaling and replaning.
+
+126
+00:09:59,400 --> 00:10:03,760
+ And with the goal of new attachment.
+
+127
+00:10:03,760 --> 00:10:10,200
+ Now we also have an apically repositioned flap which requires the addition of vertical
+
+128
+00:10:10,200 --> 00:10:12,120
+ releasing incisions.
+
+129
+00:10:12,120 --> 00:10:17,280
+ Note that all three of these were horizontal and involved the top of the flap here.
+
+130
+00:10:17,280 --> 00:10:22,840
+ And now we're adding in these two vertical slices so that we can, and you want to make
+
+131
+00:10:22,840 --> 00:10:31,120
+ sure they're beyond the mucogen jivel junction and so then you can safely, you can safely
+
+132
+00:10:31,120 --> 00:10:38,920
+ get underneath the jingiva and the mucosa here, flap this area up, and you can position
+
+133
+00:10:38,920 --> 00:10:43,960
+ the flap so that the top of the flap doesn't come up to where it was here.
+
+134
+00:10:43,960 --> 00:10:49,240
+ It actually, you position it so it's a little bit apical to where it was originally.
+
+135
+00:10:49,240 --> 00:10:52,200
+ And that's in order to attain pocket reduction.
+
+136
+00:10:52,200 --> 00:10:59,060
+ By moving, physically moving the jingiva margin apically.
+
+137
+00:10:59,060 --> 00:11:05,780
+ So the peridontal pack is a device that's sometimes used after this sort of invasive
+
+138
+00:11:05,780 --> 00:11:07,520
+ flap surgery.
+
+139
+00:11:07,520 --> 00:11:11,800
+ Usually consists of ZOE which is zinc oxide eugenol.
+
+140
+00:11:11,800 --> 00:11:17,760
+ And you might recognize this if you watched my endodontics videos it's also the main ingredient
+
+141
+00:11:17,760 --> 00:11:21,920
+ in gut-apertia and endodontic sealer.
+
+142
+00:11:21,920 --> 00:11:26,160
+ They leave it in place typically for one week and they're placed to protect the surgical
+
+143
+00:11:26,160 --> 00:11:32,760
+ wound, minimize discomfort, maintain tissue placement, and help prevent post-op bleeding.
+
+144
+00:11:32,760 --> 00:11:38,920
+ The important thing to know for the board exam is that packs do not enhance healing.
+
+145
+00:11:38,920 --> 00:11:44,080
+ You can think of the zinc oxide eugenol as having sort of a soothing quality so it doesn't
+
+146
+00:11:44,080 --> 00:11:48,800
+ enhance healing but it does protect these things.
+
+147
+00:11:48,800 --> 00:11:52,220
+ So you'd think it would enhance healing but it actually doesn't so that's an important
+
+148
+00:11:52,220 --> 00:11:54,920
+ distinction to know for the board exam.
+
+149
+00:11:54,920 --> 00:11:56,920
+ Little bit counterintuitive.
+
+150
+00:11:56,920 --> 00:12:03,480
+ Alright, so the first category of surgery is gingival surgery.
+
+151
+00:12:03,480 --> 00:12:13,080
+ So this is surgery only involving the jingiva, only soft tissue above the mucogenible junction.
+
+152
+00:12:13,080 --> 00:12:14,720
+ There are two types of gingival surgery.
+
+153
+00:12:14,720 --> 00:12:21,040
+ It's gingivectomy which is excision of gingiva to eliminate superboni pockets or gingival
+
+154
+00:12:21,040 --> 00:12:27,680
+ enlargements say drug-induced gingival enlargement from a calcium channel blocker.
+
+155
+00:12:27,680 --> 00:12:34,880
+ Gingivalplasty is excision of gingiva, sound similar, to reshape tissue deformities.
+
+156
+00:12:34,880 --> 00:12:39,560
+ So you might be thinking what the heck is the difference between the two of those?
+
+157
+00:12:39,560 --> 00:12:41,880
+ They sound awfully similar.
+
+158
+00:12:41,880 --> 00:12:46,840
+ Now the difference between the two is the treatment objective.
+
+159
+00:12:46,840 --> 00:12:54,080
+ So the ectomy is more aggressive and against to eliminate pockets or enlargements.
+
+160
+00:12:54,080 --> 00:12:58,800
+ And the plasti is just some aesthetic reshaping.
+
+161
+00:12:58,800 --> 00:13:03,680
+ It's more for the aesthetics, less aggressive re-contouring.
+
+162
+00:13:03,680 --> 00:13:11,040
+ So it's the way that it's used and the objective that you're trying to achieve is where you
+
+163
+00:13:11,040 --> 00:13:12,960
+ would distinguish between the two terms.
+
+164
+00:13:12,960 --> 00:13:15,640
+ That's how I think of it anyway.
+
+165
+00:13:15,640 --> 00:13:21,600
+ Healing by this type of surgery is by secondary intention only because there is no tissue
+
+166
+00:13:21,600 --> 00:13:23,320
+ to approximate.
+
+167
+00:13:23,320 --> 00:13:28,400
+ So I mentioned primary closure before, closure and intention, same thing.
+
+168
+00:13:28,400 --> 00:13:33,480
+ Primary closure where the wound edges are approximated, they touch each other.
+
+169
+00:13:33,480 --> 00:13:36,960
+ The secondary closure or intention is where they do not.
+
+170
+00:13:36,960 --> 00:13:38,400
+ So you have an open wound.
+
+171
+00:13:38,400 --> 00:13:42,240
+ And this makes sense because if you're just cutting ginger butt off, there's nothing you
+
+172
+00:13:42,240 --> 00:13:50,640
+ can reattach, suture together, you're going to have some amount of open wound there.
+
+173
+00:13:50,640 --> 00:13:54,600
+ A specific type of gingival surgery is distal wedge surgery.
+
+174
+00:13:54,600 --> 00:13:58,880
+ This is for pocket reduction distal to terminal molars.
+
+175
+00:13:58,880 --> 00:14:03,240
+ Depending if you're in the upper arch or lower arch, this looks different.
+
+176
+00:14:03,240 --> 00:14:08,600
+ So for the maxillary terminal molar, you do a full thickness flap, so you're including
+
+177
+00:14:08,600 --> 00:14:12,800
+ periosteum in that, with parallel incisions.
+
+178
+00:14:12,800 --> 00:14:16,240
+ So the two incisions here are parallel to each other.
+
+179
+00:14:16,240 --> 00:14:24,480
+ For mandibular, again, full thickness flap, including periosteum, with a V-shaped incisions.
+
+180
+00:14:24,480 --> 00:14:25,600
+ So you can see that in this.
+
+181
+00:14:25,600 --> 00:14:31,400
+ So I love these two images because they clearly denote the two different types of incisions
+
+182
+00:14:31,400 --> 00:14:36,280
+ used, and believe it or not, this is definitely important to know for the board exam.
+
+183
+00:14:36,280 --> 00:14:41,400
+ It's a little bit of a niche surgery, but it's certainly important to know.
+
+184
+00:14:41,400 --> 00:14:42,400
+ All right.
+
+185
+00:14:42,400 --> 00:14:49,160
+ The second category of surgery that we're going to talk about is mucogengival surgery.
+
+186
+00:14:49,160 --> 00:14:55,200
+ So now we're including both the gingiva and the mucosa, all the soft tissue above and
+
+187
+00:14:55,200 --> 00:14:58,880
+ below the mucogengival junction.
+
+188
+00:14:58,880 --> 00:15:07,480
+ So I don't know if I can overemphasize how important this is to know.
+
+189
+00:15:07,480 --> 00:15:13,320
+ Knowing the free gingiva graft and the connective tissue graft is going to get you so many questions
+
+190
+00:15:13,320 --> 00:15:15,880
+ and it's just so great to know it.
+
+191
+00:15:15,880 --> 00:15:20,880
+ It really cleared everything up for my head when I was in dental school.
+
+192
+00:15:20,880 --> 00:15:27,360
+ So the free gingiva graft is, well, let me just say, these are the two main types of
+
+193
+00:15:27,360 --> 00:15:32,540
+ soft tissue grafts, and definitely, again, commit this to memory, and I hope I can explain
+
+194
+00:15:32,540 --> 00:15:36,760
+ it to you so you really understand the concepts here.
+
+195
+00:15:36,760 --> 00:15:42,520
+ So caratinized tissue, as we talked about in the very first video in this series, includes
+
+196
+00:15:42,520 --> 00:15:47,400
+ both the free gingiva and the attached gingiva.
+
+197
+00:15:47,400 --> 00:15:52,200
+ And of these two, the attached gingiva is the most ideal tissue type, but both of these
+
+198
+00:15:52,200 --> 00:16:03,260
+ are preferable to the non-caratinized alveolar mucosa, and that's because this caratin layer
+
+199
+00:16:03,260 --> 00:16:05,360
+ is a lot stronger.
+
+200
+00:16:05,360 --> 00:16:10,840
+ The whole purpose of this graft, the free gingiva graft, is that we really want caratinized
+
+201
+00:16:10,840 --> 00:16:16,480
+ tissue to surround not only natural teeth, but also crowns and implants because it's
+
+202
+00:16:16,480 --> 00:16:17,480
+ stronger.
+
+203
+00:16:17,480 --> 00:16:24,960
+ Proper and less easy to irritate on tooth brushing because of the caratin layer.
+
+204
+00:16:24,960 --> 00:16:32,440
+ So in this example here, we have a lot of soft tissue recession around an implant here
+
+205
+00:16:32,440 --> 00:16:35,200
+ and you can see this darker mucosa.
+
+206
+00:16:35,200 --> 00:16:42,080
+ The lighter areas are caratinized, that's because the caratin makes it look whiter, and
+
+207
+00:16:42,080 --> 00:16:45,880
+ this area, we have mucosa right up against the implant.
+
+208
+00:16:45,880 --> 00:16:50,200
+ And so that's going to get really irritated if the patient's trying to brush there.
+
+209
+00:16:50,200 --> 00:16:57,000
+ It's not as resistant to the irritation as the caratinized layer is.
+
+210
+00:16:57,000 --> 00:17:02,800
+ So the free gingiva graft is to widen the band of caratinized tissue.
+
+211
+00:17:02,800 --> 00:17:08,880
+ So what we would do, if I can get the pen out, is we would want to perform a free gingiva
+
+212
+00:17:08,880 --> 00:17:16,400
+ graft in this area here, and that could be a valid treatment option for the patient to
+
+213
+00:17:16,400 --> 00:17:26,000
+ promote the growth of caratinized tissue there where there's only alveolar mucosa there now.
+
+214
+00:17:26,000 --> 00:17:32,800
+ In contrast, the connective tissue graft involves taking a layer of connective tissue, usually
+
+215
+00:17:32,800 --> 00:17:38,440
+ from the palate and sutured, over an exposed root surface.
+
+216
+00:17:38,440 --> 00:17:47,420
+ So let's say this tooth right here has a lot of recession, and we could place a connective
+
+217
+00:17:47,420 --> 00:17:55,560
+ tissue graft over this area of exposed root in order to promote the coverage of that root.
+
+218
+00:17:55,560 --> 00:18:00,160
+ So say that patient was really sensitive in that area where there was exposed dentin,
+
+219
+00:18:00,160 --> 00:18:05,360
+ and the connective tissue graft could be a great treatment option for that patient.
+
+220
+00:18:05,360 --> 00:18:10,800
+ So what you do, again, is take this connective tissue from the palate, you'd suture it over
+
+221
+00:18:10,800 --> 00:18:16,360
+ the exposed root surface, usually create a coronaly advanced flap to move the already
+
+222
+00:18:16,360 --> 00:18:22,400
+ existing, the ideal caratinized tissue layer up and over this new graft.
+
+223
+00:18:22,400 --> 00:18:27,960
+ And so this type of graft is to cover the exposed root surface.
+
+224
+00:18:27,960 --> 00:18:30,000
+ So there's a big difference between the two.
+
+225
+00:18:30,000 --> 00:18:36,220
+ They may seem slightly similar, and they are, but in a very simplified but helpful way of
+
+226
+00:18:36,220 --> 00:18:38,280
+ differentiating the two.
+
+227
+00:18:38,280 --> 00:18:46,000
+ The free gingival graft happens below or apical to the gingival margin, and the connective
+
+228
+00:18:46,000 --> 00:18:52,320
+ tissue graft happens above or coronal to the gingival margin.
+
+229
+00:18:52,320 --> 00:18:58,120
+ So one is to widen the band of caratinized tissue, and the other one is for root coverage.
+
+230
+00:18:58,120 --> 00:19:03,800
+ So knowing and distinguishing between these two grafts is super, super important, and
+
+231
+00:19:03,800 --> 00:19:08,120
+ I promise will really, really help.
+
+232
+00:19:08,120 --> 00:19:13,120
+ The last three things to mention here for mucogen gingival surgery, we can do a phrenectomy,
+
+233
+00:19:13,120 --> 00:19:19,120
+ which is a complete removal of the phrenom, phrenotomy is just an incision of the phrenom,
+
+234
+00:19:19,120 --> 00:19:20,600
+ not a complete removal.
+
+235
+00:19:20,600 --> 00:19:25,640
+ So again, we see theectomy being the more aggressive form of surgery, and we'll see that
+
+236
+00:19:25,640 --> 00:19:31,520
+ again in the future, and vestibule plastic, where you make an incision in the base of
+
+237
+00:19:31,520 --> 00:19:35,080
+ the vestibule in order to deepen it.
+
+238
+00:19:35,080 --> 00:19:41,280
+ All right, and this is sort of a review of what we just talked about if you want to go
+
+239
+00:19:41,280 --> 00:19:42,880
+ over it in writing.
+
+240
+00:19:42,880 --> 00:19:47,960
+ So this includes some measurements, and if you're interested, why it's called a free gingival
+
+241
+00:19:47,960 --> 00:19:56,120
+ graft, free by definition, a free graft by definition is transplanted without a nourishing
+
+242
+00:19:56,120 --> 00:19:57,240
+ blood supply.
+
+243
+00:19:57,240 --> 00:20:03,600
+ So it must undergo revascularization from the recipient bed that's receiving that graft.
+
+244
+00:20:03,600 --> 00:20:09,200
+ So the free gingival graft is only the epithelium layer, it lacks a blood supply.
+
+245
+00:20:09,200 --> 00:20:15,000
+ So when you perform a split thickness flap, you expose the vascular bed at the recipient
+
+246
+00:20:15,000 --> 00:20:21,520
+ site so that I can feed and nourish the new caratinized tissue.
+
+247
+00:20:21,520 --> 00:20:25,440
+ And connective tissue graft, same sort of thing, this is just a review about what we
+
+248
+00:20:25,440 --> 00:20:30,720
+ talked about, and I briefly mentioned this, but the palate is the most common donor site
+
+249
+00:20:30,720 --> 00:20:35,280
+ for both of these, for both the free gingival graft and the connective tissue graft.
+
+250
+00:20:35,280 --> 00:20:45,200
+ So definitely remember that the palate is the most often used site for this sort of surgery.
+
+251
+00:20:45,200 --> 00:20:49,760
+ All right, so the third category of surgery is osteosurgery.
+
+252
+00:20:49,760 --> 00:20:56,000
+ So now we're no longer talking about soft tissue, now we're talking about the bone.
+
+253
+00:20:56,000 --> 00:21:01,640
+ And just like anything, before we do any treatment, we want to observe and analyze what's there
+
+254
+00:21:01,640 --> 00:21:02,880
+ to start with.
+
+255
+00:21:02,880 --> 00:21:09,080
+ So let's talk about bone architecture and what this concept refers to.
+
+256
+00:21:09,080 --> 00:21:15,160
+ So visualization of bony architecture allows the clinician to determine the types of bony
+
+257
+00:21:15,160 --> 00:21:19,720
+ defects that are present and the extent of those defects.
+
+258
+00:21:19,720 --> 00:21:27,120
+ Positive architecture means that the interproximal bone is coronal to radicular bone, and that's
+
+259
+00:21:27,120 --> 00:21:30,160
+ what we see in image A.
+
+260
+00:21:30,160 --> 00:21:37,480
+ So the interproximal bone that is between the teeth is higher than the radicular bone, which
+
+261
+00:21:37,480 --> 00:21:42,640
+ is around the root, and that's pretty normal.
+
+262
+00:21:42,640 --> 00:21:46,560
+ Flat architecture is where interproximal and radicular bone are at the same height.
+
+263
+00:21:46,560 --> 00:21:50,640
+ It's flat across.
+
+264
+00:21:50,640 --> 00:21:57,080
+ Negative architecture is where the interproximal bone is apical to the radicular bone, and that's
+
+265
+00:21:57,080 --> 00:22:01,640
+ the opposite of what is normal healthy bone architecture.
+
+266
+00:22:01,640 --> 00:22:09,880
+ So positive architecture is what we want.
+
+267
+00:22:09,880 --> 00:22:13,760
+ So for osteosurgery, we have two different types of surgery.
+
+268
+00:22:13,760 --> 00:22:19,640
+ We have the ostectomy, which is removal of supporting bone, and osteotomy, which is
+
+269
+00:22:19,640 --> 00:22:22,520
+ removal of non-supporting bone.
+
+270
+00:22:22,520 --> 00:22:28,760
+ To remember, gingivectomy was excision of tissue and gingivoplasty was this more conservative
+
+271
+00:22:28,760 --> 00:22:31,600
+ reshaping and recontoring.
+
+272
+00:22:31,600 --> 00:22:37,920
+ So again, theectomy is the more aggressive type, same situation here.
+
+273
+00:22:37,920 --> 00:22:44,160
+ Ostectomy is again removal of supporting alveolar bone, meaning it's directly supporting the
+
+274
+00:22:44,160 --> 00:22:50,120
+ tooth, it's indirect contact with the periodontal ligament.
+
+275
+00:22:50,120 --> 00:22:55,400
+ Theectomy, in contrast, is reduction of bone away from the tooth.
+
+276
+00:22:55,400 --> 00:23:02,480
+ They both aim to create a more physiologic, positive bone architecture, but one does with
+
+277
+00:23:02,480 --> 00:23:06,200
+ removal of supporting bone, and one does not.
+
+278
+00:23:06,200 --> 00:23:10,560
+ So that's the main distinction between those two.
+
+279
+00:23:10,560 --> 00:23:15,560
+ After ostectomy, there's often these peaks of bone remaining at the line angles called
+
+280
+00:23:15,560 --> 00:23:21,040
+ widow's peaks, which predispose to periodontal pockets in these areas, basically saying to
+
+281
+00:23:21,040 --> 00:23:24,480
+ do a thorough job, smooth everything, round everything out.
+
+282
+00:23:24,480 --> 00:23:28,960
+ So you don't have these sharp areas of bone left over, but sometimes you can't help it
+
+283
+00:23:28,960 --> 00:23:37,120
+ and have to go back and do an osteotomy to reshape and recontour that area.
+
+284
+00:23:37,120 --> 00:23:43,360
+ So I also want to briefly tie in an important concept called clinical crown lengthening.
+
+285
+00:23:43,360 --> 00:23:49,200
+ This is where you want to expose more to structure by lowering the bone for several different
+
+286
+00:23:49,200 --> 00:23:54,160
+ purposes, one of which is gaining more feral for crown support, which I have a separate
+
+287
+00:23:54,160 --> 00:23:58,600
+ video on the feral effect and biologic width, so check that out if you want to learn more
+
+288
+00:23:58,600 --> 00:24:00,880
+ about those concepts.
+
+289
+00:24:00,880 --> 00:24:06,880
+ But clinical crown lengthening is essentially combining osteous resection and ostectomy,
+
+290
+00:24:06,880 --> 00:24:16,080
+ lowering the bone with either a gingivectomy by cutting the collar of gingiva away.
+
+291
+00:24:16,080 --> 00:24:21,440
+ And you would do that if there would be at least two millimeters of keratinized tissue
+
+292
+00:24:21,440 --> 00:24:27,200
+ remaining after the gingivectomy, or otherwise, you'd have to do an apically positioned flap,
+
+293
+00:24:27,200 --> 00:24:32,520
+ like I talked about before, physically moving the gingival margin down.
+
+294
+00:24:32,520 --> 00:24:36,360
+ And that would be to conserve the keratinized tissue that is there.
+
+295
+00:24:36,360 --> 00:24:43,520
+ So osteosurgery is used in a whole bunch of areas in dentistry, in periodontics, and in
+
+296
+00:24:43,520 --> 00:24:46,400
+ prosthodontics to get more feral effects.
+
+297
+00:24:46,400 --> 00:24:54,540
+ So you can see how removing some bone, lowering the bone area will also effectively lower where
+
+298
+00:24:54,540 --> 00:25:02,280
+ the gingiva is if you combine it with a gingivectomy or apically positioned flap.
+
+299
+00:25:02,280 --> 00:25:08,440
+ So mechanisms of healing after surgery, there are a couple of different ways that the situation
+
+300
+00:25:08,440 --> 00:25:09,640
+ can go.
+
+301
+00:25:09,640 --> 00:25:16,360
+ You can have regeneration, which is a complete restoration of architecture and function,
+
+302
+00:25:16,360 --> 00:25:21,160
+ or repair, which is not completely restoring architecture and function.
+
+303
+00:25:21,160 --> 00:25:28,760
+ It involves healing by scar or formation of long, junctional epithelium.
+
+304
+00:25:28,760 --> 00:25:33,880
+ So we talked about junctional epithelium, it has a weak hemidesma zone while attachment
+
+305
+00:25:33,880 --> 00:25:38,600
+ to enamel, but it is a sign of healing towards a shallower pocket.
+
+306
+00:25:38,600 --> 00:25:45,120
+ This term long, junctional epithelium is used when a pocket was once very deep, and since
+
+307
+00:25:45,120 --> 00:25:51,640
+ the bone and periodontal ligament have been irreversibly damaged and gone, this had this
+
+308
+00:25:51,640 --> 00:26:01,720
+ physically long pocket that was formed, the soft tissue that comes into its place is a
+
+309
+00:26:01,720 --> 00:26:07,960
+ very physically long, several millimeters long worth of junctional epithelium that attaches
+
+310
+00:26:07,960 --> 00:26:14,200
+ to the tooth, and that's the best we can hope for natural healing.
+
+311
+00:26:14,200 --> 00:26:21,240
+ And so these two terms are formid dichotomy, and these two formid dichotomy as well.
+
+312
+00:26:21,240 --> 00:26:27,240
+ Reattachment is the reunion of epithelial and connective tissue with the tooth root surface
+
+313
+00:26:27,240 --> 00:26:34,200
+ after incision or injury, whereas new attachment is embedding of fresh new PDL fibers into new
+
+314
+00:26:34,200 --> 00:26:39,480
+ cement that has been previously deprived of its original attachment.
+
+315
+00:26:39,480 --> 00:26:45,720
+ So you may be wondering, well, Ryan, you just talked about how bone and PDL were irreversibly
+
+316
+00:26:45,720 --> 00:26:50,040
+ damaged and the best we can hope for is this long, junctional epithelium attached into
+
+317
+00:26:50,040 --> 00:26:54,360
+ the tooth, but how do we get new attachment with new PDL?
+
+318
+00:26:54,360 --> 00:26:56,880
+ Well, wonder no longer.
+
+319
+00:26:56,880 --> 00:27:04,040
+ The last category of surgery is regenerative surgery, and this is where we seek to actually
+
+320
+00:27:04,040 --> 00:27:07,960
+ regenerate tissue that was lost.
+
+321
+00:27:07,960 --> 00:27:15,520
+ So periodontal regeneration, also formerly known as guided tissue regeneration, where
+
+322
+00:27:15,520 --> 00:27:20,480
+ we want to regenerate bone, cementum, and PDL.
+
+323
+00:27:20,480 --> 00:27:27,080
+ Yes, we're going to try to reverse and regenerate bone and PDL and cementum that was lost by
+
+324
+00:27:27,080 --> 00:27:29,640
+ the periodontal disease.
+
+325
+00:27:29,640 --> 00:27:31,680
+ Now this can't be done in every situation.
+
+326
+00:27:31,680 --> 00:27:39,320
+ There's very specific situations and really good patient motivation and oral hygiene to
+
+327
+00:27:39,320 --> 00:27:45,600
+ make this stuff happen, but it is possible in select situations.
+
+328
+00:27:45,600 --> 00:27:52,200
+ So in this treatment, there are three B's that are free-winly used by operators to
+
+329
+00:27:52,200 --> 00:27:57,480
+ have the best chance for successful tissue regeneration.
+
+330
+00:27:57,480 --> 00:28:03,520
+ So I'm a big fan of video games, and there are three classic roles that a group of players
+
+331
+00:28:03,520 --> 00:28:07,720
+ working together would assume to take on a big boss.
+
+332
+00:28:07,720 --> 00:28:13,440
+ So I'm going to diverge for a second here and talk about these three roles.
+
+333
+00:28:13,440 --> 00:28:18,920
+ And I think they'll help you remember these three B's.
+
+334
+00:28:18,920 --> 00:28:24,840
+ So the tank takes the damage from the boss and protects the rest of the players.
+
+335
+00:28:24,840 --> 00:28:31,160
+ The damage focused on dealing damage and defeating the boss, and the healers are responsible
+
+336
+00:28:31,160 --> 00:28:34,400
+ for making sure the other players stay alive.
+
+337
+00:28:34,400 --> 00:28:40,360
+ So I remember the three materials of the regeneration process by assigning each one of these roles
+
+338
+00:28:40,360 --> 00:28:43,320
+ to each one of these materials.
+
+339
+00:28:43,320 --> 00:28:46,800
+ So the barrier membrane is like the tank.
+
+340
+00:28:46,800 --> 00:28:53,600
+ It's placed over the defect and its job is to protect the area.
+
+341
+00:28:53,600 --> 00:28:58,200
+ The bone graft is the damage because it's doing the bulk of the work.
+
+342
+00:28:58,200 --> 00:29:04,080
+ It gets right in there and it's used to regenerate the missing bone.
+
+343
+00:29:04,080 --> 00:29:09,800
+ And the biologic agent is like the healer because it's a medicament that creates a supportive
+
+344
+00:29:09,800 --> 00:29:14,440
+ environment for the rest of the components to do their job.
+
+345
+00:29:14,440 --> 00:29:19,560
+ So I remember the tank, the damage, and the healer as the three B's barrier membrane,
+
+346
+00:29:19,560 --> 00:29:21,920
+ bone graft, and biologic agent.
+
+347
+00:29:21,920 --> 00:29:27,240
+ So a little bit silly, but I think it really helps me remember what each of those things
+
+348
+00:29:27,240 --> 00:29:31,600
+ are doing and let alone what they are.
+
+349
+00:29:31,600 --> 00:29:35,180
+ So why do we need these three components for regeneration?
+
+350
+00:29:35,180 --> 00:29:39,280
+ Well if we did nothing, this is what wound healing would look like.
+
+351
+00:29:39,280 --> 00:29:45,080
+ And these cells populate a wound area during the healing process, listed from fastest to
+
+352
+00:29:45,080 --> 00:29:47,360
+ slowest.
+
+353
+00:29:47,360 --> 00:29:53,220
+ So the epithelial cells and the connective tissue cells would repopulate that wound area
+
+354
+00:29:53,220 --> 00:30:03,040
+ the fastest and the PDL cells labeled four, bone cells labeled three are the two slowest.
+
+355
+00:30:03,040 --> 00:30:07,680
+ So this should make sense because like I was talking about before, the natural healing
+
+356
+00:30:07,680 --> 00:30:13,960
+ process would result in a long junctional epithelium and you'd get all this soft tissue
+
+357
+00:30:13,960 --> 00:30:22,760
+ would grow down into this wound and the bone and PDL wouldn't get a chance to grow up and
+
+358
+00:30:22,760 --> 00:30:26,760
+ restore that attachment that was once there.
+
+359
+00:30:26,760 --> 00:30:32,440
+ So if we do nothing, let the wound heal, often get a long junctional epithelium, which is
+
+360
+00:30:32,440 --> 00:30:42,640
+ a sign of healing, yes, but it's not a complete regeneration that would just be a repair.
+
+361
+00:30:42,640 --> 00:30:48,080
+ So we really want to get a full regeneration when we're talking about periodontal regeneration
+
+362
+00:30:48,080 --> 00:30:51,640
+ or guided tissue regeneration.
+
+363
+00:30:51,640 --> 00:30:56,280
+ So that's why we use those three components.
+
+364
+00:30:56,280 --> 00:31:02,680
+ The barrier membrane would slip in here and that would prevent the downgrowth of the soft
+
+365
+00:31:02,680 --> 00:31:12,600
+ tissue components and we'd place the graft in here to provide a physical scaffolding to
+
+366
+00:31:12,600 --> 00:31:21,080
+ promote new bone formation and we'd also use the biologic agent to help support everything.
+
+367
+00:31:21,080 --> 00:31:28,120
+ So the tank, damage, and the heal.
+
+368
+00:31:28,120 --> 00:31:33,120
+ You can also do direct root surface treatment with chelating agents like EDTA and citric
+
+369
+00:31:33,120 --> 00:31:40,720
+ acid can expose collagen fibrils through de-mineralization and may improve the success
+
+370
+00:31:40,720 --> 00:31:43,120
+ of new attachment.
+
+371
+00:31:43,120 --> 00:31:49,120
+ Alright, so bone graft materials have a lot of definitions associated with them.
+
+372
+00:31:49,120 --> 00:31:55,800
+ So I made them as simple as possible so we can remember them for the board exam.
+
+373
+00:31:55,800 --> 00:32:01,680
+ So the best, well let's talk about these definitions first and then I can go a little bit more
+
+374
+00:32:01,680 --> 00:32:02,680
+ in depth.
+
+375
+00:32:02,680 --> 00:32:05,720
+ So we have four different types of bone graft materials.
+
+376
+00:32:05,720 --> 00:32:10,640
+ There's autographed, which means the bone comes from yourself.
+
+377
+00:32:10,640 --> 00:32:15,280
+ Allograft is from another human, usually a cadaver.
+
+378
+00:32:15,280 --> 00:32:23,780
+ The xenograft is from another animal, usually a cow, and the aloplast is a synthetic or
+
+379
+00:32:23,780 --> 00:32:24,780
+ inorganic.
+
+380
+00:32:24,780 --> 00:32:32,960
+ You can think of like plastic being a synthetic material, just like aloplast is a synthetic
+
+381
+00:32:32,960 --> 00:32:34,520
+ material.
+
+382
+00:32:34,520 --> 00:32:41,400
+ So those are the four main categories of graft materials and there are three main ideas that
+
+383
+00:32:41,400 --> 00:32:43,400
+ grafts can carry out.
+
+384
+00:32:43,400 --> 00:32:50,600
+ So osteoconductive means that the graft is forming a physical scaffold to hold that
+
+385
+00:32:50,600 --> 00:32:54,880
+ area open and provide area for a bone to fill in.
+
+386
+00:32:54,880 --> 00:33:01,800
+ Osteoinductive, I mean it's converting neighboring progenitor cells, these kind of young bone
+
+387
+00:33:01,800 --> 00:33:07,920
+ cells that are nearby into osteoblasts that are going to in turn form bone.
+
+388
+00:33:07,920 --> 00:33:15,720
+ Ogenic means that the bone graft material itself is actually forming new bone.
+
+389
+00:33:15,720 --> 00:33:23,400
+ So the autographed is the best grafting material because it has all three of these qualities.
+
+390
+00:33:23,400 --> 00:33:27,040
+ The autographed is conductive, inductive, and genic.
+
+391
+00:33:27,040 --> 00:33:28,920
+ The allograft is the next best one.
+
+392
+00:33:28,920 --> 00:33:35,200
+ It has the osteoconductive and inductive qualities, but not the genic.
+
+393
+00:33:35,200 --> 00:33:40,200
+ And all of the bone grafts are osteoconductive.
+
+394
+00:33:40,200 --> 00:33:45,840
+ So the xenograft and aloplast are osteoconductive but not the other two.
+
+395
+00:33:45,840 --> 00:33:57,400
+ So listed from first to fourth is sort of the order from best to worst bone graft materials.
+
+396
+00:33:57,400 --> 00:34:01,240
+ So a summary of everything we've talked about.
+
+397
+00:34:01,240 --> 00:34:06,920
+ I know it's a lot, we've talked about the four categories of periodontal surgery, the
+
+398
+00:34:06,920 --> 00:34:10,640
+ gingival, mucogengival, osteous, and regenerative.
+
+399
+00:34:10,640 --> 00:34:15,880
+ And they kind of fit into these two overarching categories of additive where we're trying
+
+400
+00:34:15,880 --> 00:34:23,220
+ to restore tissue, you can do that with regeneration, free gingival graft, connective tissue graft,
+
+401
+00:34:23,220 --> 00:34:28,920
+ and advancing the flap cronally, or we can talk about a subtractive method where we're
+
+402
+00:34:28,920 --> 00:34:35,720
+ trying to bring levels down and reduce pocket depths by doing osteosurgery, reconquering
+
+403
+00:34:35,720 --> 00:34:42,600
+ to get that positive bony architecture, gingivectomy, or apically positioned flap to physically move
+
+404
+00:34:42,600 --> 00:34:48,720
+ the gingival margin down and reduce pocket depths.
+
+405
+00:34:48,720 --> 00:34:53,560
+ And tying it all together, I'm going to leave you with this slide full of beautiful things
+
+406
+00:34:53,560 --> 00:34:55,640
+ to know for the board exam.
+
+407
+00:34:55,640 --> 00:35:01,640
+ These make for really good board exam questions because it ties in the diagnosis classification
+
+408
+00:35:01,640 --> 00:35:06,440
+ stuff we talked about from earlier in the series with the available treatment options
+
+409
+00:35:06,440 --> 00:35:09,800
+ covered in this video.
+
+410
+00:35:09,800 --> 00:35:15,920
+ So for, and this is maybe a bit of an overgeneralization, but definitely a great tool for the board
+
+411
+00:35:15,920 --> 00:35:16,920
+ exam.
+
+412
+00:35:16,920 --> 00:35:24,520
+ So one in two wall defects, you typically would opt to do osteous resection.
+
+413
+00:35:24,520 --> 00:35:33,560
+ Also doing ostectomy to re-contour the bone to restore that ideal, natural, positive architecture.
+
+414
+00:35:33,560 --> 00:35:40,560
+ Whereas if you have three and four wall defects, you would opt to try regeneration.
+
+415
+00:35:40,560 --> 00:35:47,200
+ And that's because the more walls you have, the better blood supply and cell source proximity
+
+416
+00:35:47,200 --> 00:35:49,400
+ you have.
+
+417
+00:35:49,400 --> 00:35:58,080
+ So the deep narrow three wall defect is the ideal, theoretical ideal for regenerating
+
+418
+00:35:58,080 --> 00:36:00,480
+ in for bony defects.
+
+419
+00:36:00,480 --> 00:36:07,440
+ So a deep narrow three wall defect has the most surface area possible of available bone
+
+420
+00:36:07,440 --> 00:36:13,320
+ to populate the graft with bone cells and also to protect the graft while everything
+
+421
+00:36:13,320 --> 00:36:16,280
+ is regenerating.
+
+422
+00:36:16,280 --> 00:36:21,960
+ So think about if you were in a big hurricane, would you rather be in a house with four
+
+423
+00:36:21,960 --> 00:36:24,760
+ walls or a house with one wall?
+
+424
+00:36:24,760 --> 00:36:30,560
+ And so the more walls you have, the more protected the graft is and the more walls there are
+
+425
+00:36:30,560 --> 00:36:36,000
+ to provide new natural bone cells to form new bone in that area.
+
+426
+00:36:36,000 --> 00:36:38,440
+ The same concept with forcations.
+
+427
+00:36:38,440 --> 00:36:46,280
+ So a HAMP class II forcation and either the buckle of an upper molar or either buckle or
+
+428
+00:36:46,280 --> 00:36:52,280
+ lingual of lower molars is ideal for regenerating forcation defects.
+
+429
+00:36:52,280 --> 00:37:00,160
+ Again, the class II provides the deepest narrowest defect with the most available bony walls.
+
+430
+00:37:00,160 --> 00:37:06,560
+ And the Miller class I with a thick gingival biotype, really nice thick gums and a wide
+
+431
+00:37:06,560 --> 00:37:13,920
+ band of kratnized tissue at least two millimeters wide is ideal for regenerating recession defects.
+
+432
+00:37:13,920 --> 00:37:19,720
+ The near, and we talked about this in the first video, but the near 100% chance of success
+
+433
+00:37:19,720 --> 00:37:28,000
+ of root coverage with a connective tissue graft with this type of soft tissue defect.
+
+434
+00:37:28,000 --> 00:37:36,000
+ So to remember, the best types of the ideal defects to restore with their respective treatments
+
+435
+00:37:36,000 --> 00:37:44,880
+ are remember, three for three wall, two for HAMP class II, and one for Miller class I.
+
+436
+00:37:44,880 --> 00:37:49,640
+ So tying it all together is as easy as three, two, and one.
+
+437
+00:37:49,640 --> 00:37:56,760
+ Alright guys, I know that was a lot of material in this video, just go ahead and watch it
+
+438
+00:37:56,760 --> 00:38:01,840
+ a few times and feel free to ask me questions in the comments if anything wasn't clear.
+
+439
+00:38:01,840 --> 00:38:05,960
+ I really hope you enjoyed the video and thanks so much for watching everyone and thanks for
+
+440
+00:38:05,960 --> 00:38:06,960
+ all the support.
+
+441
+00:38:06,960 --> 00:38:10,080
+ I'll see you all in the next video of the periodontic series.
+

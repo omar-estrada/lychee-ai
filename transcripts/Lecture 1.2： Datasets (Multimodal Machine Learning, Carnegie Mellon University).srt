@@ -1,0 +1,3344 @@
+1
+00:00:00,000 --> 00:00:04,880
+ today's lecture we're going to dive deep into some of the main research tasks in multimodal learning.
+
+2
+00:00:04,880 --> 00:00:13,920
+ As Sophie mentioned that last week, sorry on Tuesday, there's four main prior eras of multimodal
+
+3
+00:00:13,920 --> 00:00:18,960
+ research. So multimodal research really started in the 1970s where people from psychology and
+
+4
+00:00:18,960 --> 00:00:24,960
+ philosophy really asked how can we build these behavioral models to understand human communication
+
+5
+00:00:24,960 --> 00:00:30,640
+ and human interaction in these social settings. In that era, one of the biggest projects was the
+
+6
+00:00:30,640 --> 00:00:34,640
+ McGurk effect from a cognitive psychologist, which really looked at the importance of both
+
+7
+00:00:34,640 --> 00:00:40,320
+ audio and visual information in speech recognition. So a lot of research then was inspired by psychology
+
+8
+00:00:40,320 --> 00:00:46,320
+ and philosophy. And it was not until the 1980s where there was a resurgence and really really
+
+9
+00:00:46,320 --> 00:00:51,040
+ accessible computing tools that people went into the computational era. What a goal was to build
+
+10
+00:00:51,040 --> 00:00:56,560
+ some of these computational models to test the psychology and philosophy theories that had developed
+
+11
+00:00:56,560 --> 00:01:02,240
+ in the behavioral era. Some of the main research projects in the computational era involved building
+
+12
+00:01:02,240 --> 00:01:07,360
+ these statistical models that learn from data for tasks like audiovisual speech recognition.
+
+13
+00:01:07,360 --> 00:01:14,800
+ And slowly towards then in the 2000s became the interaction era where people focused less on
+
+14
+00:01:14,800 --> 00:01:19,520
+ understanding a single human, but also looked at the interaction between humans and other humans
+
+15
+00:01:19,520 --> 00:01:26,720
+ and humans and computers. That was when multimodal HCI saw a boom in research. And finally in the
+
+16
+00:01:26,720 --> 00:01:31,840
+ 2010s, ever since you know there's been deep learning boom, a lot of people have tried applying
+
+17
+00:01:31,840 --> 00:01:36,800
+ these deep learning methods to get really really good performance in multimodal research. And that
+
+18
+00:01:36,800 --> 00:01:46,240
+ will be the main focus of our course. So we look at one of some of these specific research tasks
+
+19
+00:01:46,240 --> 00:01:50,720
+ that really led to this resurgence in multimodal learning. They started with audiovisual speech
+
+20
+00:01:50,720 --> 00:01:56,960
+ recognition in the 1990s. Slowly then there was also a boom in a content-based video retrieval
+
+21
+00:01:56,960 --> 00:02:01,040
+ because the internet was starting. There were a lot more videos being available on YouTube and
+
+22
+00:02:01,040 --> 00:02:05,840
+ people really wanted to be able to retrieve these videos based on some content such as keywords and
+
+23
+00:02:05,840 --> 00:02:10,720
+ descriptions that they provided. So that was a huge motivating factor for both academia industry
+
+24
+00:02:10,720 --> 00:02:17,520
+ to work on multimodal learning. Towards the 2000s, there was huge interest in effective computing,
+
+25
+00:02:17,520 --> 00:02:24,000
+ especially from groups like Rosalind Picard's. And slowly then people also worked on video event
+
+26
+00:02:24,000 --> 00:02:28,880
+ recognition. There were these really large traffic challenges where the goal is that you're given a
+
+27
+00:02:28,880 --> 00:02:35,920
+ video and you have to recognize the events in the video. LP's group also did a lot of the work in
+
+28
+00:02:35,920 --> 00:02:40,400
+ early work in multimodal sentiment analysis, extending a lot of the work a language-based
+
+29
+00:02:40,400 --> 00:02:45,600
+ sentiment analysis to the multimodal form where you have to look at both verbal and nonverbal cues.
+
+30
+00:02:45,600 --> 00:02:50,800
+ Again, aligned with this interaction era, we are trying to build better models for human
+
+31
+00:02:50,800 --> 00:03:01,040
+ computer interaction. And it wasn't really until the middle of the 2010s or 2015s where there was
+
+32
+00:03:01,040 --> 00:03:06,240
+ this huge boom in multimodal research really inspired by the work done in deep learning
+
+33
+00:03:06,240 --> 00:03:11,440
+ for these unimodal data sets. For example, really good models for language, such as language models
+
+34
+00:03:11,440 --> 00:03:16,880
+ and really good models for vision, such as your CNNs. And the combination of these models really
+
+35
+00:03:16,880 --> 00:03:22,480
+ led to a boom in language and vision research. It's not a surprise that two modalities that
+
+36
+00:03:22,480 --> 00:03:26,640
+ people work on primarily in multimodal learning are language and vision. And these are also the
+
+37
+00:03:26,640 --> 00:03:30,800
+ modalities that deep learning has had the most success in, probably followed by speech.
+
+38
+00:03:34,480 --> 00:03:39,200
+ So in this era, the deep learning era, some of the main tasks that we're looking at
+
+39
+00:03:39,200 --> 00:03:44,640
+ involve image captioning for sure. And given the success of image captioning,
+
+40
+00:03:44,640 --> 00:03:49,520
+ being able to generate these really descriptive captions from images, people also started looking
+
+41
+00:03:49,520 --> 00:03:54,480
+ at video captioning. So adding this challenge of having the temporal component where we have
+
+42
+00:03:54,480 --> 00:03:59,760
+ the reason over long-term interactions in the video and possibly give different captions
+
+43
+00:03:59,760 --> 00:04:05,920
+ for different times in the video. That was also a big area of people looked at. But soon people
+
+44
+00:04:05,920 --> 00:04:11,440
+ realized that both image captioning and video captioning, while really catchy subjects that
+
+45
+00:04:11,440 --> 00:04:15,360
+ gave really good results, there are some inherent problems. And that main problem is that it's
+
+46
+00:04:15,360 --> 00:04:20,560
+ really hard to evaluate these generation tasks. So people began kind of simplifying but also
+
+47
+00:04:20,560 --> 00:04:24,800
+ localizing the problem a lot more by looking at visual question answering, where again,
+
+48
+00:04:24,800 --> 00:04:29,680
+ you're given an image. But instead of captioning any part about the image, you're asking a question
+
+49
+00:04:29,680 --> 00:04:35,280
+ about a specific area in the image and you want to uncover an answer based on that. So this
+
+50
+00:04:35,280 --> 00:04:40,880
+ converted some of the traditional generation tasks into ones that were more classification-based
+
+51
+00:04:40,880 --> 00:04:46,160
+ and also more localized. Because given an image, you can ask questions about any part of the image
+
+52
+00:04:46,160 --> 00:04:52,480
+ and get a reasonable answer. There were large datasets built for that. And soon there was
+
+53
+00:04:52,480 --> 00:04:56,960
+ also a vested interest in extending these two videos, being able to reason across the temporal
+
+54
+00:04:56,960 --> 00:05:01,920
+ dependencies, given a question, localizing which part of the video that question refers to
+
+55
+00:05:01,920 --> 00:05:06,800
+ and being able to retrieve an answer from that area of the video.
+
+56
+00:05:06,800 --> 00:05:16,400
+ Soon after another area of research that kind of extends these multimodal tasks,
+
+57
+00:05:16,400 --> 00:05:20,640
+ what was said in multimodal dialogue, we are really trying to build the next generation of
+
+58
+00:05:20,640 --> 00:05:25,600
+ these interactive agents that are able to interact both through language, but at the same time also
+
+59
+00:05:25,600 --> 00:05:31,520
+ refer to particular aspects in the environment. So building dialogue that is grounded in the environment.
+
+60
+00:05:31,520 --> 00:05:39,440
+ Oh, someone's asking a question here. What is grounding? So grounding is the essential
+
+61
+00:05:39,440 --> 00:05:44,960
+ tasks of taking what is described in language and being able to understand what language refers
+
+62
+00:05:44,960 --> 00:05:48,960
+ to in the environment. There is no clear definition for this, but throughout the years,
+
+63
+00:05:48,960 --> 00:05:54,320
+ that is the definition which people motivate their applications based on. So one example is that
+
+64
+00:05:54,880 --> 00:06:00,400
+ if I were to ask a question about the image, for example, how many boxes are in this image,
+
+65
+00:06:00,400 --> 00:06:05,120
+ one example of grounding would be to localize what it means for the word box to be referring
+
+66
+00:06:05,120 --> 00:06:10,160
+ to in this image. So you could kind of draw a region around the image representations of box
+
+67
+00:06:10,160 --> 00:06:16,000
+ in the image, given your question. So grounding is a very, very important question. It is very
+
+68
+00:06:16,000 --> 00:06:21,200
+ similar to alignment in the sense that you're going to align the meaning of concepts in language
+
+69
+00:06:21,200 --> 00:06:25,040
+ with the meaning of concepts in image, so that you can reason over them jointly.
+
+70
+00:06:25,040 --> 00:06:30,640
+ I was going to go into grounding a lot more into in some of the future slides that we're
+
+71
+00:06:30,640 --> 00:06:35,040
+ going to look at, in particular, when we're going to go into these specific datasets and applications.
+
+72
+00:06:35,040 --> 00:06:45,200
+ So extending multi-model dialogue in the early 2018s, there was also a really large
+
+73
+00:06:45,200 --> 00:06:50,320
+ benefit of having large scale datasets from industry, especially Google and this YouTube
+
+74
+00:06:50,320 --> 00:06:54,880
+ dataset, where the goal is to kind of take these videos and understand what are the events going
+
+75
+00:06:54,880 --> 00:07:00,240
+ on within them, both as a classification task and also as a retrieval task, so that if you're given
+
+76
+00:07:00,240 --> 00:07:04,320
+ some video that you're trying to search for, you can retrieve the correct video, the main goal of
+
+77
+00:07:04,320 --> 00:07:13,520
+ YouTube, basically. And recently, in the past two years, there's been amazing work that has linked
+
+78
+00:07:13,520 --> 00:07:18,320
+ all the great research happening in reinforcement learning and robotics with multi-model learning.
+
+79
+00:07:20,000 --> 00:07:24,400
+ So on the reinforcement learning side, people have started to look at language and vision
+
+80
+00:07:24,400 --> 00:07:28,960
+ navigation, so you're in some environment and you're given some natural language instruction,
+
+81
+00:07:28,960 --> 00:07:33,120
+ and you would like to build an agent that is able to navigate and follow these instructions
+
+82
+00:07:33,120 --> 00:07:37,680
+ in your environment, combining both aspects of language and vision understanding and also
+
+83
+00:07:37,680 --> 00:07:43,760
+ reinforcement learning to obtain these long-term goals. In terms of robotics, there's also been a
+
+84
+00:07:43,760 --> 00:07:49,920
+ resurgence in deep learning for self-driving cars, and a lot of these multi-sensory inputs at the
+
+85
+00:07:49,920 --> 00:07:55,280
+ self-driving cars has to take in. Spanning both visual and signals such as LIDAR are also being
+
+86
+00:07:55,280 --> 00:08:01,920
+ processed by these multi-model machine learning methods. And of course, there's many more problems
+
+87
+00:08:01,920 --> 00:08:07,760
+ to come. Recently, multi-model learning has been applied to robotics, to healthcare, to education,
+
+88
+00:08:07,760 --> 00:08:12,480
+ and I really hope that you're going to be able to explore some of these existing tasks on this
+
+89
+00:08:12,480 --> 00:08:22,080
+ slide and also the tasks that are coming in the future. So given all these real-world tasks,
+
+90
+00:08:22,080 --> 00:08:28,880
+ we've tried to group these applications into seven groups. These are by no means exhaustive,
+
+91
+00:08:28,880 --> 00:08:35,360
+ and this is by no means a perfect categorization, but we like to share some of this categorization
+
+92
+00:08:35,360 --> 00:08:39,920
+ with you, so that helps you localize whatever you want to work on for your research project,
+
+93
+00:08:40,640 --> 00:08:45,920
+ and also the data says that are within this area. So the first one is that on effective
+
+94
+00:08:45,920 --> 00:08:50,800
+ recognition, effective computing, building these computers that are able to understand these
+
+95
+00:08:50,800 --> 00:08:57,680
+ human-centric behaviors like emotion and sentiment, media description for image and video captioning,
+
+96
+00:08:57,680 --> 00:09:03,520
+ multi-model QA, which for the localizers media description, by only answering a question,
+
+97
+00:09:03,520 --> 00:09:08,240
+ by only providing an answer about a specific question, target to one specific area of the image.
+
+98
+00:09:09,840 --> 00:09:14,800
+ Multi-model navigation, which really combines these aspects of reinforcement learning and robotics
+
+99
+00:09:14,800 --> 00:09:21,680
+ with understanding language and vision. Multi-model dialogue, being able to hold dialogue with a
+
+100
+00:09:21,680 --> 00:09:27,920
+ human while being grounded in an image. Event recognition, these are more computer vision tasks
+
+101
+00:09:27,920 --> 00:09:33,920
+ where you like to recognize the activity in a video, and also segment the correct activity,
+
+102
+00:09:33,920 --> 00:09:39,760
+ the reason of corresponding to that activity in a video. And finally, multi-media retrieval,
+
+103
+00:09:39,760 --> 00:09:44,560
+ where you're given some tags, possibly some similar images, possibly some tags and language,
+
+104
+00:09:44,560 --> 00:09:51,440
+ and you're going to retrieve a similar image or video. Someone asking a really good question
+
+105
+00:09:51,440 --> 00:09:58,720
+ here has the reverse been done. Can we go from caption to videos? What even caption to images
+
+106
+00:09:58,720 --> 00:10:03,040
+ is a really hard problem. If you're trying to retrieve images, it really simplifies the problem,
+
+107
+00:10:03,040 --> 00:10:07,440
+ but if you're trying to go from caption to actually generating an image, that is a very,
+
+108
+00:10:07,440 --> 00:10:12,080
+ very difficult problem, both in terms of these high-dimensional images that you have to generate,
+
+109
+00:10:12,080 --> 00:10:17,360
+ and also an evaluation. It's really hard to evaluate what makes a good image. In all of these machine
+
+110
+00:10:17,360 --> 00:10:22,240
+ learning tasks, as you have seen, if there are lacks good evaluation metrics, it's just really
+
+111
+00:10:22,240 --> 00:10:28,160
+ hard to make progress on them. For caption to video, I would assume that there are some data sets where
+
+112
+00:10:28,160 --> 00:10:34,320
+ your goal is to take a caption and retrieve the nearest video. So retrieval simplifies this
+
+113
+00:10:34,320 --> 00:10:37,760
+ generation problem into a classification problem over all the videos that you have,
+
+114
+00:10:37,760 --> 00:10:43,520
+ which is more likely to be able to be done. If you want to go from a caption to actually
+
+115
+00:10:43,520 --> 00:10:48,720
+ generating a video, that is more likely a very difficult task. Just because generating videos is
+
+116
+00:10:48,720 --> 00:11:00,400
+ really hard to both do and evaluate. Cool. So right now I'm going to delve into a couple of these
+
+117
+00:11:00,400 --> 00:11:04,640
+ categories. I think four of these categories real quick, just to give you a sense of what are some
+
+118
+00:11:04,640 --> 00:11:12,080
+ of the main research questions, some of the main data sets, and some of the main course projects
+
+119
+00:11:12,080 --> 00:11:16,800
+ that have been done in this similar area so that you can have a look at what are the standards
+
+120
+00:11:16,800 --> 00:11:21,360
+ that other people have done in this course. So I'm going to start with effective computing.
+
+121
+00:11:21,360 --> 00:11:27,840
+ Effective computing, the grand goal of being, of building computers that are able to recognize
+
+122
+00:11:27,840 --> 00:11:33,120
+ emotions and human effective states. So when people think of effective computing, most of you would
+
+123
+00:11:33,120 --> 00:11:38,240
+ assume into the first area where to go into look at these effective states, such as emotions,
+
+124
+00:11:38,240 --> 00:11:43,440
+ modes, and feelings. But throughout the years, effective computing has taken a lot of different
+
+125
+00:11:43,440 --> 00:11:48,160
+ forms. They've studied a lot of different areas, and many of these are very interesting areas from
+
+126
+00:11:48,160 --> 00:11:54,400
+ both psychology and computer science research. So one example is understanding cognitive states.
+
+127
+00:11:54,400 --> 00:12:00,320
+ Given humans, both individuals and in groups, can we understand where the humans are thinking
+
+128
+00:12:00,320 --> 00:12:04,880
+ and concentrating? That is very important in education. A lot of multimodal machine learning is being
+
+129
+00:12:04,880 --> 00:12:09,680
+ applied to education. The goal is to kind of interact with humans, interact with teachers in
+
+130
+00:12:09,680 --> 00:12:14,960
+ the classroom, to find out whether the students are thinking, are concentrating, are curious,
+
+131
+00:12:14,960 --> 00:12:19,440
+ or have questions about the material. That is one example of understanding these
+
+132
+00:12:19,440 --> 00:12:26,800
+ cognitive states. In terms of personalities, the goal is not just to model a single snapshot of
+
+133
+00:12:26,800 --> 00:12:32,240
+ emotion, but rather to make a long-term reasoning and long-term judgment of the innate personalities
+
+134
+00:12:32,240 --> 00:12:36,960
+ that a human might have, expanding things like introvert and extrovert and other more complex
+
+135
+00:12:36,960 --> 00:12:42,080
+ personalities. Pathology focuses primarily on the intersection of machine learning and health
+
+136
+00:12:42,080 --> 00:12:47,360
+ care, and the goal there is to look at humans and decide whether they are prone to various
+
+137
+00:12:47,360 --> 00:12:54,560
+ mental health disorders, or such as depression or anxiety and so on. Finding social processes
+
+138
+00:12:54,560 --> 00:12:59,920
+ really extend a lot of the research in both an individual, effective computing, to that of groups,
+
+139
+00:12:59,920 --> 00:13:05,840
+ looking at how humans interact with each other, to be able to reason above these social processes.
+
+140
+00:13:07,520 --> 00:13:12,640
+ So just to go into a bit more detail and look at some of the labels and annotations that people
+
+141
+00:13:12,640 --> 00:13:18,080
+ look at for these tasks. For effective states, most of you are quite familiar with this. The
+
+142
+00:13:18,080 --> 00:13:23,440
+ goal here is to recognize some of the more emotions, spanning the simpler basic emotions
+
+143
+00:13:23,440 --> 00:13:29,120
+ like anger, disgust, fear, and also more complex emotions like shame, guilt, frustration, and anxiety.
+
+144
+00:13:29,120 --> 00:13:33,680
+ At the same time, I'm going to also give you a highlight of these other states.
+
+145
+00:13:34,880 --> 00:13:38,960
+ For cognitive states, it's really about understanding whether someone is engaged
+
+146
+00:13:38,960 --> 00:13:41,680
+ has knowledge, very important for educational purposes.
+
+147
+00:13:41,680 --> 00:13:48,560
+ For personalities, not just looking at a single state in instantaneous in time, but
+
+148
+00:13:48,560 --> 00:13:52,800
+ reasoning over a long term to find out the innate personalities intrinsic to a person.
+
+149
+00:13:52,800 --> 00:13:57,440
+ So there's a well-known introvert and extrovert, but it also goes beyond to describe things like
+
+150
+00:13:57,440 --> 00:14:01,600
+ whether a person seems to be artistic, seems to be responsible, and seems to be trusting.
+
+151
+00:14:03,600 --> 00:14:09,200
+ Pathology is a subset of effective computing that is done a lot in the LP group, which is the
+
+152
+00:14:09,200 --> 00:14:14,080
+ intersection of machine learning and healthcare. For some of the doctors that we're working with,
+
+153
+00:14:14,080 --> 00:14:18,560
+ we're actually able to bring these multimodal technologies to these doctors and watch them
+
+154
+00:14:18,560 --> 00:14:23,680
+ interact with these patients. Given these patients, both verbal and nonverbal cues,
+
+155
+00:14:23,680 --> 00:14:29,120
+ the goal is to kind of predict whether this person is at risk of being depressed,
+
+156
+00:14:29,680 --> 00:14:35,840
+ at risk of having anxiety, having trauma, and many of these other mental health disorders.
+
+157
+00:14:35,840 --> 00:14:39,600
+ And this is a very important research problem because most people, when they go to the doctor,
+
+158
+00:14:39,600 --> 00:14:43,920
+ they don't know that they themselves are depressed, and they're not going to say clearly from their
+
+159
+00:14:43,920 --> 00:14:48,480
+ verbal information that they seem to be depressed. It's really a lot of these subtle nonverbal
+
+160
+00:14:48,480 --> 00:14:53,840
+ gestures that you have to look at in order to figure out whether this person is at risk of depression.
+
+161
+00:14:57,600 --> 00:15:04,160
+ And finally, in the 2000s, in the era of interaction, people are looking at the social processes,
+
+162
+00:15:04,160 --> 00:15:07,680
+ both in terms of human-computer interaction and also human-human interaction.
+
+163
+00:15:07,680 --> 00:15:13,920
+ So being able to understand these social signals in groups and determine whether a group of people
+
+164
+00:15:13,920 --> 00:15:23,200
+ show rapport, cohesion, cooperation, or competition. So obviously, these are very, very cool problems
+
+165
+00:15:23,200 --> 00:15:27,680
+ in machine learning inspired by psychology, but a main drawback about all of these is that the
+
+166
+00:15:27,680 --> 00:15:33,280
+ data sets are rather small, and these annotations are also quite difficult to obtain. It really
+
+167
+00:15:33,280 --> 00:15:38,560
+ requires a good amount of human expertise to be able to annotate accurately a lot of these
+
+168
+00:15:38,560 --> 00:15:43,280
+ labels for things like social processes and pathology in the doctors to annotate that accurately.
+
+169
+00:15:43,280 --> 00:15:50,160
+ But there are still some data sets in this area that I'll go into, and there are also
+
+170
+00:15:50,160 --> 00:15:54,000
+ people looking at machine learning methods to model these effective computing topics.
+
+171
+00:15:54,000 --> 00:16:01,600
+ If you're interested more, this course will not go that much into effective computing. The focus
+
+172
+00:16:01,600 --> 00:16:06,880
+ is more on the algorithms in multi-modal machine learning, but LPT teaches this other course on
+
+173
+00:16:06,880 --> 00:16:12,080
+ multi-modal effective computing in this other semester. So usually, he teaches it in spring,
+
+174
+00:16:12,080 --> 00:16:17,040
+ and that might be taught next semester or the following year to be determined.
+
+175
+00:16:17,040 --> 00:16:22,800
+ But you can always get these slides from Biazza in previous versions of the course if you're interested
+
+176
+00:16:22,800 --> 00:16:31,920
+ in more on effective computing. Some interesting questions here. Can we get some references to
+
+177
+00:16:31,920 --> 00:16:38,480
+ state-of-the-art papers and HIV sub-domains? Of course, that is the goal of some of the things
+
+178
+00:16:38,480 --> 00:16:43,440
+ that we'll be going into, both in terms of data sets and models. Some of these references will
+
+179
+00:16:43,440 --> 00:16:50,080
+ also be posted online. And also, getting these state-of-the-art papers is also the goal of your
+
+180
+00:16:50,080 --> 00:16:54,800
+ research. So once you localize into what area that you're trying to look at, the first thing
+
+181
+00:16:54,800 --> 00:16:59,680
+ you should do is kind of look at the state-of-the-art papers, both not just in machine learning, but also
+
+182
+00:16:59,680 --> 00:17:05,200
+ in prior working psychology. So a lot of these effective computing did start from being inspired
+
+183
+00:17:05,200 --> 00:17:08,720
+ from psychology and philosophy research. So you should also look at some of the state-of-the-art
+
+184
+00:17:08,720 --> 00:17:13,200
+ works, some of the state-of-the-art features that people use in psychology as well, that
+
+185
+00:17:13,200 --> 00:17:19,040
+ will constitute a big part of the first project assignment. Another question I have here is,
+
+186
+00:17:19,040 --> 00:17:23,040
+ is most of multimodal learning supervised? That's a great question.
+
+187
+00:17:23,040 --> 00:17:29,520
+ After this lecture, you will think that most of multimodal learning are supervised because I'm
+
+188
+00:17:29,520 --> 00:17:34,640
+ introducing these data sets, data set by data set, and a lot of the models I introduced
+
+189
+00:17:34,640 --> 00:17:40,480
+ will also be specific to these data sets. But one of the main areas of multimodal learning and
+
+190
+00:17:40,480 --> 00:17:45,200
+ machine learning in general is that of going towards unsupervised learning. And there's also a
+
+191
+00:17:45,200 --> 00:17:50,560
+ ton of cool challenges there. How can you learn useful multimodal representations without labels?
+
+192
+00:17:50,560 --> 00:17:57,440
+ Some of it will get into in the fourth or fifth week, of course, of the course. If you're interested
+
+193
+00:17:57,440 --> 00:18:02,400
+ early, I think there are also some papers that will be posted soon, and you can also email some of
+
+194
+00:18:02,400 --> 00:18:07,680
+ the instructors to talk more about unsupervised multimodal learning. Yeah, but these are great
+
+195
+00:18:07,680 --> 00:18:13,360
+ questions. If at any time anyone has any questions, feel free to type it in the chat. I'm looking
+
+196
+00:18:13,360 --> 00:18:21,280
+ out for it, and I'll answer these questions as soon as I can. Cool. So that was a brief overview
+
+197
+00:18:21,280 --> 00:18:29,280
+ of effective computing. So right now, we're going to go into some of the specific data sets
+
+198
+00:18:29,280 --> 00:18:34,080
+ that people look at in effective computing so that you have a sense of what machine learning
+
+199
+00:18:34,080 --> 00:18:40,640
+ models have been designed for it. It's impossible for me to talk about effective computing without
+
+200
+00:18:40,640 --> 00:18:46,400
+ talking about this audio-visual emotion challenge. This challenge has been here since 2011. It's
+
+201
+00:18:46,400 --> 00:18:51,760
+ been here for around 10 years. And every year, there is this new challenge on being able to test
+
+202
+00:18:51,760 --> 00:18:58,160
+ whether machine learning models can take both audio content, what people say in the verbal modalities,
+
+203
+00:18:58,160 --> 00:19:03,760
+ and also visual content. So people's gestures and expressions in the nonverbal modalities.
+
+204
+00:19:03,760 --> 00:19:09,440
+ And really trying to understand whether you can infer emotions from these modalities.
+
+205
+00:19:09,440 --> 00:19:16,160
+ Some of the annotations include both discrete emotions, spanning happiness,
+
+206
+00:19:16,160 --> 00:19:21,760
+ sadness, and surprise, and also continuous emotions, which might be a term new to some of you.
+
+207
+00:19:21,760 --> 00:19:28,800
+ Continuous emotions are real value dimensions of emotion that range across continuous numbers,
+
+208
+00:19:28,800 --> 00:19:33,440
+ that range across a spectrum. So one spectrum which people analyze is a spectrum from positive to
+
+209
+00:19:33,440 --> 00:19:39,840
+ negative that is called valence. Another spectrum which people analyze is that of active to passive
+
+210
+00:19:39,840 --> 00:19:44,320
+ that is called arousal. So for a lot of these data sets, they are looking at both valence,
+
+211
+00:19:44,320 --> 00:19:49,840
+ positive to negative, and arousal, active to passive. And really getting human annotators to
+
+212
+00:19:49,840 --> 00:19:55,280
+ annotate these on a continuous spectrum. So it's a regression problem. And the goal is to
+
+213
+00:19:55,280 --> 00:20:00,480
+ take in this audio visual content and be able to predict both your discrete and continuous emotions.
+
+214
+00:20:00,480 --> 00:20:07,520
+ Some of the recent data sets also have transcripts. So you can process text without actually looking
+
+215
+00:20:07,520 --> 00:20:15,680
+ at the audio features. And there's also been some extensions of this. Some of them in other
+
+216
+00:20:15,680 --> 00:20:22,000
+ languages like German. Some of them more focused on human-computer interaction. And some of these
+
+217
+00:20:22,000 --> 00:20:30,080
+ are more popular than others. One really interesting data set is this one called the Recola data set.
+
+218
+00:20:30,080 --> 00:20:34,400
+ It's really popular, firstly, for a couple of reasons. First, it contains very fine-grained
+
+219
+00:20:34,400 --> 00:20:40,160
+ annotations at the frame level. So some of the data sets I'm going to be describing to you
+
+220
+00:20:40,160 --> 00:20:45,600
+ have an entire video. And after you finish the entire video of someone speaking, you have a
+
+221
+00:20:45,600 --> 00:20:51,840
+ single annotation for that entire video. For the Recola data set, you have this entire video,
+
+222
+00:20:51,840 --> 00:20:57,360
+ and you actually have valence at every frame. So you have these temporal labels. In this case,
+
+223
+00:20:57,360 --> 00:21:02,160
+ these are continuous emotions of arousal and valence. And essentially, you have a slider
+
+224
+00:21:02,160 --> 00:21:06,000
+ of these continuous emotions that goes up and down across the frames in the video.
+
+225
+00:21:06,640 --> 00:21:11,360
+ So these are really, really fine-grained labels that add in further challenges, which I've made
+
+226
+00:21:11,360 --> 00:21:16,400
+ this data set. A very interesting one for people to study. Another interesting aspect is that
+
+227
+00:21:16,400 --> 00:21:23,040
+ apart from both audio and visual features, it also includes physiological data. So one of them is
+
+228
+00:21:23,040 --> 00:21:29,280
+ electrocardiography, which is a graph of voltage versus time of the electrical activity of the heart.
+
+229
+00:21:29,280 --> 00:21:33,520
+ So how fast the heart is pumping? And that is using some electrodes on the skin.
+
+230
+00:21:35,120 --> 00:21:40,960
+ EDA is another physiological signal that measures how much a person is sweating.
+
+231
+00:21:40,960 --> 00:21:46,800
+ Suppose no sweating and heart rates have been seen in psychology research to be predictors
+
+232
+00:21:46,800 --> 00:21:51,360
+ of emotion. And the goal here is also to see where the machine learning models are able to
+
+233
+00:21:51,360 --> 00:21:57,200
+ accurately integrate both your verbal, nonverbal features, and also these physiological data
+
+234
+00:21:57,200 --> 00:22:06,080
+ sources to be able to get better predictions. So a lot of these data sets in effective computing
+
+235
+00:22:06,080 --> 00:22:11,280
+ have been around for longer, just because effective computing is an earlier field that started in
+
+236
+00:22:11,280 --> 00:22:15,600
+ both psychology and statistical analysis before moving into this deep learning era.
+
+237
+00:22:15,600 --> 00:22:20,560
+ And it's always a trade-off. So a lot of these data sets in effective computing have been along
+
+238
+00:22:20,560 --> 00:22:26,560
+ for some time. The benefit is that there's a lot of work in both data-driven and also psychology
+
+239
+00:22:26,560 --> 00:22:33,680
+ research in studying these problems. But the main drawback is that you then have to work harder to
+
+240
+00:22:33,680 --> 00:22:45,680
+ find out ways to improve these problems. These are data sets. Cool. Some of the -- also talk about
+
+241
+00:22:45,680 --> 00:22:51,600
+ some of the research that has come out of our group. So our group has really focused on multimodal
+
+242
+00:22:51,600 --> 00:22:57,200
+ sentiment analysis. So sentiment is a concept of language, and people have studied this in linguistics.
+
+243
+00:22:57,200 --> 00:23:02,640
+ Essentially, whether a person is reflecting positively or negatively to a particular video.
+
+244
+00:23:02,640 --> 00:23:08,480
+ This started off as a main research project in NLP. Language is clearly very important if I
+
+245
+00:23:08,480 --> 00:23:12,800
+ express something like, you know, I went to the restaurant and I love the food. The service was
+
+246
+00:23:12,800 --> 00:23:19,120
+ awesome. It's clear that I'm giving a very subjectively positive opinion about this -- about a topic
+
+247
+00:23:19,120 --> 00:23:24,320
+ at hand, which is this restaurant. Language kind of offers most of the heavy lifting, offers most of
+
+248
+00:23:24,320 --> 00:23:30,320
+ the information in sentiment analysis. But we also realized that people also tend to express their
+
+249
+00:23:30,320 --> 00:23:36,960
+ opinions in novel gestures. So things like, you know, sartasm. Things like just being ambivalent
+
+250
+00:23:36,960 --> 00:23:43,760
+ in language by, you know, showing visibly discontent, visible discontent using your verbal -- non-verbal
+
+251
+00:23:43,760 --> 00:23:50,240
+ gestures. So what we've done is we extended some of this work in language-based sentiment analysis
+
+252
+00:23:50,240 --> 00:23:55,280
+ to these multimodal sources. We've collected some videos on YouTube spanning many speakers and
+
+253
+00:23:55,280 --> 00:24:02,400
+ spanning a bunch of opinion videos. And the goal is to take in these language visual and acoustic
+
+254
+00:24:02,400 --> 00:24:09,440
+ data and make a prediction about human sentiment. We've also since then expanded this data set.
+
+255
+00:24:09,440 --> 00:24:14,080
+ So now this is one of the largest data sets in multimodal learning that spans almost 25,000
+
+256
+00:24:14,080 --> 00:24:20,160
+ video segments, thousands of speakers and 250 topics. And we've also extended the annotations
+
+257
+00:24:20,160 --> 00:24:26,000
+ from both fine-grained sentiment, five-class sentiment to a lot of these emotions, these discrete emotions
+
+258
+00:24:26,000 --> 00:24:34,160
+ as well. At the same time, people have also extended the research on both -- from single person to
+
+259
+00:24:34,160 --> 00:24:39,200
+ multiparty emotional recognition. So this male data set is a data set that's collected from the
+
+260
+00:24:39,200 --> 00:24:45,280
+ French TV show. And you're annotating the emotions of each of the characters separately. So the
+
+261
+00:24:45,280 --> 00:24:50,320
+ goal here is not just to look at the overall sentiment and emotions of the entire conversation,
+
+262
+00:24:50,320 --> 00:24:56,880
+ but rather to keep these baseline models of how each individual is progressing in terms of their
+
+263
+00:24:56,880 --> 00:25:03,920
+ emotions. In this case, one of the characters is always showing positive emotion, joy and surprise.
+
+264
+00:25:04,400 --> 00:25:16,960
+ While the other person is showing more anger. Cool. So I have a question here. I always think
+
+265
+00:25:16,960 --> 00:25:22,560
+ that defining emotional state will require combinations of some time period of facial landmarks, gestures
+
+266
+00:25:22,560 --> 00:25:28,080
+ and eyes across multiple frames. So does it make sense to have emotional labels at a frame level?
+
+267
+00:25:28,080 --> 00:25:33,760
+ That's a great question. So this really ties into what I'm going to talk a bit next,
+
+268
+00:25:33,760 --> 00:25:38,800
+ which is what are the core challenges most involved in affect recognition. So I think the main
+
+269
+00:25:38,800 --> 00:25:43,280
+ question here is that -- is that of the alignment problem? Because you have these really long-term
+
+270
+00:25:43,280 --> 00:25:47,680
+ videos. You have language, you have visual and acoustic, and a lot of these features are not
+
+271
+00:25:47,680 --> 00:25:53,760
+ necessarily going to be aligned. If I'm saying something positive at time five, I'm most likely
+
+272
+00:25:53,760 --> 00:25:59,520
+ going to smile at some other time. Maybe I was smiling or two seconds later. And maybe I will
+
+273
+00:25:59,520 --> 00:26:04,400
+ even laugh maybe a few seconds later. So there's this alignment problem where not all the modalities
+
+274
+00:26:04,400 --> 00:26:09,360
+ are perfectly aligned at the same time level. So whether it makes sense to have annotations
+
+275
+00:26:09,360 --> 00:26:15,040
+ at that particular frame level. So I think a way that people deal with this or there's two aspects.
+
+276
+00:26:15,040 --> 00:26:18,720
+ First of all, you have to deal with your alignment problem, which is a big problem in research,
+
+277
+00:26:18,720 --> 00:26:23,280
+ regardless of whether you want to have predictions at a frame level or you want to have predictions
+
+278
+00:26:23,280 --> 00:26:28,960
+ at a video level. Alignment is one of those problems, which is always there. In terms of
+
+279
+00:26:28,960 --> 00:26:35,520
+ actually having emotions at a frame level, what people do tend to do is that you want
+
+280
+00:26:35,520 --> 00:26:39,280
+ to annotate -- when these annotators are looking at these videos, they're kind of having -- they
+
+281
+00:26:39,280 --> 00:26:45,120
+ have a sliding bar. So the frame, the annotation for the frame t equals to five is actually looking
+
+282
+00:26:45,120 --> 00:26:50,560
+ at the information before t equals to five. So you want to keep a rolling average of the
+
+283
+00:26:50,560 --> 00:26:57,680
+ features that you have seen so far and use that to update your frame level emotion annotation.
+
+284
+00:26:58,640 --> 00:27:02,960
+ So in this case, it's kind of simplifying the alignment problem to only having to reason about
+
+285
+00:27:02,960 --> 00:27:09,600
+ information that has happened in the previous time steps in the video. But these are awesome
+
+286
+00:27:09,600 --> 00:27:13,920
+ questions. These are kind of the research questions that you should be looking at. Basically,
+
+287
+00:27:13,920 --> 00:27:18,480
+ not just looking at the data set itself, but really challenging some of the hypotheses and
+
+288
+00:27:18,480 --> 00:27:23,280
+ assumptions and research questions that came out when this -- when the authors of these data sets
+
+289
+00:27:23,280 --> 00:27:31,600
+ built them. So going on that similar vein, when everyone's working on these tasks,
+
+290
+00:27:31,600 --> 00:27:37,520
+ I want everyone to think about what are the main challenges in modeling these problems,
+
+291
+00:27:37,520 --> 00:27:41,840
+ not just trying to get better results on the data set, but really thinking about some of the
+
+292
+00:27:41,840 --> 00:27:46,880
+ research questions. So for affect recognition, a lot of the main challenges comes in fusing
+
+293
+00:27:46,880 --> 00:27:51,520
+ these modalities. You have multiple data sources, some of which are more useful than others at
+
+294
+00:27:51,520 --> 00:27:55,600
+ different time periods. The goal is really to how to best leverage all of these data sources to
+
+295
+00:27:55,600 --> 00:28:01,760
+ make a prediction. At the same time, you need to have suitable levels of extraction to get really
+
+296
+00:28:01,760 --> 00:28:06,960
+ good multimodal representations. And you also need alignment. So in this case, because most of these
+
+297
+00:28:06,960 --> 00:28:12,320
+ data sets are temporal data sets consisting of videos, alignment is a very big challenge where
+
+298
+00:28:12,320 --> 00:28:20,000
+ you have to align positive words in text with smiles and gestures and the visual modalities.
+
+299
+00:28:22,480 --> 00:28:27,600
+ Cold learning is something that people don't usually study, but it's also an area which has
+
+300
+00:28:27,600 --> 00:28:32,880
+ arisen in affective computing. And there was one example which I'll be talked about last week,
+
+301
+00:28:32,880 --> 00:28:38,320
+ which is to look at language-based sentiment analysis. But during training, you kind of enriching
+
+302
+00:28:38,320 --> 00:28:44,240
+ language with visual and audio behaviors. If you recall that with the model where you took language
+
+303
+00:28:44,240 --> 00:28:51,360
+ and you're trying to construct these audio and visual behaviors to make language more informative.
+
+304
+00:28:51,680 --> 00:28:58,000
+ But at test time, you only use a language. So that is one example of cold learning. And
+
+305
+00:28:58,000 --> 00:29:01,280
+ I have seen people apply cold learning to problems in affect recognition.
+
+306
+00:29:01,280 --> 00:29:16,640
+ Cool. At this point, I'm going to go into two examples of past research projects from
+
+307
+00:29:16,640 --> 00:29:23,120
+ taken by students taking this course on affective computing. So one of these research projects
+
+308
+00:29:23,120 --> 00:29:28,640
+ is called select additive learning. And the goal here is to perform better on multimodal
+
+309
+00:29:28,640 --> 00:29:33,920
+ sentiment analysis across these data sets. And the main idea is to reduce the effect of confounding
+
+310
+00:29:33,920 --> 00:29:39,440
+ factors. So what are these confounding factors? Let me give you an example. So suppose you have
+
+311
+00:29:39,440 --> 00:29:44,960
+ a data set like this. You have each of these are video clips and they're saying something and,
+
+312
+00:29:44,960 --> 00:29:51,680
+ you know, each of these speakers are saying multiple utterances. Some of them are positive,
+
+313
+00:29:51,680 --> 00:29:57,440
+ some of them are negative, annotated in the MOSI data set. So the main problem in machine learning
+
+314
+00:29:57,440 --> 00:30:02,800
+ research is to find what rules you can infer from this data. Rules being a mapping from
+
+315
+00:30:02,800 --> 00:30:08,560
+ input features to labels that you want to predict. So if you look at this, for example,
+
+316
+00:30:08,560 --> 00:30:12,880
+ you see the first person is smiling, the third person is smiling, and they consist an
+
+317
+00:30:12,880 --> 00:30:18,880
+ usual positive sentiment. So one rule that you could infer from training these supervised learning
+
+318
+00:30:18,880 --> 00:30:24,400
+ models is that the presence of a smile leads to positive sentiment. Another rule that you
+
+319
+00:30:24,400 --> 00:30:29,280
+ couldn't infer based on, you know, this person and this person down here is that the presence of a
+
+320
+00:30:29,280 --> 00:30:33,360
+ frown indicates negative sentiment. And these are very reasonable rules that most likely would
+
+321
+00:30:33,360 --> 00:30:40,080
+ generalize. Likewise, you can see that a nod might refer to positive sentiment. But if you look at
+
+322
+00:30:40,080 --> 00:30:45,360
+ this data set, another rule that you couldn't infer is that because this person is wearing glasses
+
+323
+00:30:45,360 --> 00:30:50,480
+ and this person is wearing glasses. And so is this person and they all occur with the fact that
+
+324
+00:30:50,480 --> 00:30:55,200
+ they're saying something that contains negative sentiment. A possible rule that you couldn't infer
+
+325
+00:30:55,200 --> 00:31:00,720
+ that would still be consistent with this data set is that the presence of glasses worn by a person
+
+326
+00:31:00,720 --> 00:31:05,920
+ leads to negative sentiment. If you use such a rule and you train them on this data set,
+
+327
+00:31:05,920 --> 00:31:11,040
+ you will still get really good training and test error. But this is what we call a confounding
+
+328
+00:31:11,040 --> 00:31:16,160
+ factor that most likely will not generalize. So essentially, this is an artifact in the data
+
+329
+00:31:16,160 --> 00:31:24,800
+ collection process. So what the students proposed was to build a solution that learns representations
+
+330
+00:31:24,800 --> 00:31:30,080
+ that kind of masks out the effect of user identity. Because a lot of they went through these data sets
+
+331
+00:31:30,080 --> 00:31:34,160
+ and found that a lot of these confounding factors actually had to do with these, you know,
+
+332
+00:31:34,160 --> 00:31:38,320
+ person-specific things, you know, whether a person is wearing glasses, whether a person, you know,
+
+333
+00:31:38,320 --> 00:31:44,160
+ is male or female, has, you know, black or brown hair. So what they did was to modify the conventional
+
+334
+00:31:44,160 --> 00:31:48,400
+ representation learning approach that goes on features through a model to your labels,
+
+335
+00:31:48,400 --> 00:31:55,280
+ to a new model that takes the features, learns the representations, but at the same time also
+
+336
+00:31:55,280 --> 00:32:01,200
+ takes in identities, learns the representation, and adding noise to the representation of these
+
+337
+00:32:01,200 --> 00:32:08,640
+ identities. The hypothesis here is that the representation of the representation that is
+
+338
+00:32:08,640 --> 00:32:14,000
+ most useful in predicting a label should come from these person-independent features, you know,
+
+339
+00:32:14,000 --> 00:32:18,880
+ things that whether you're actually smiling or nodding, and these person-dependent factors,
+
+340
+00:32:18,880 --> 00:32:23,600
+ which actually should not take part in making a prediction, things like whether you're actually
+
+341
+00:32:23,600 --> 00:32:28,800
+ wearing glasses or what color your hair is. So by adding noise and sampling various amounts of
+
+342
+00:32:28,800 --> 00:32:34,160
+ noise across this data set, you're actually marginalizing the effect of speakers out from the model.
+
+343
+00:32:34,160 --> 00:32:39,840
+ You're making sure that a model is not really taking into account the identity of the speaker
+
+344
+00:32:39,840 --> 00:32:44,800
+ and still being able to focus on the real useful input features towards making this prediction.
+
+345
+00:32:44,800 --> 00:32:53,280
+ Right, so this was a course project done I think about three years ago, and this was published in
+
+346
+00:32:53,280 --> 00:33:00,960
+ this multimedia conference. Another research project, which is also of course a multimodal sentiment
+
+347
+00:33:00,960 --> 00:33:07,200
+ analysis, is that of solving the alignment and both fusion and alignment problem. So the goal
+
+348
+00:33:07,200 --> 00:33:14,000
+ is to estimate the importance of each modality at the word level in a video. So in terms of fusion,
+
+349
+00:33:14,000 --> 00:33:20,400
+ the goal is to kind of take this video and break it apart into multiple frames, and for each frame
+
+350
+00:33:20,400 --> 00:33:26,000
+ we're going to reason about whether the language, visual, and acoustic gestures are actually useful.
+
+351
+00:33:26,000 --> 00:33:31,040
+ So in this case, you see that this speaker is only showing a smile at this time step,
+
+352
+00:33:31,040 --> 00:33:36,400
+ and what we should do is build a gate that lets these visual features pass into the model
+
+353
+00:33:36,400 --> 00:33:41,920
+ to predict that this person is showing positive sentiment. And the other times of the video where
+
+354
+00:33:41,920 --> 00:33:46,880
+ the person is not showing any visible gestures from visual modality, we should not use this visual
+
+355
+00:33:46,880 --> 00:33:54,800
+ modality towards making a prediction. So the goal is to build a model that is more interpretable,
+
+356
+00:33:54,800 --> 00:34:00,800
+ that estimates modality and temporal importance, and then is to attend to this important information,
+
+357
+00:34:00,800 --> 00:34:08,480
+ both across modalities and across time. And our solution here was a couple of components in this
+
+358
+00:34:08,480 --> 00:34:14,480
+ model. One of the main components is to be the first one to do a word level alignment. So we're
+
+359
+00:34:14,480 --> 00:34:20,960
+ actually segmenting, we're defining a reasonable approximation to segment the video into the level
+
+360
+00:34:20,960 --> 00:34:26,080
+ of words. So we're going to take all of these words, each of them correspond to one time step,
+
+361
+00:34:26,080 --> 00:34:30,400
+ and we're going to take the audio and visual gestures and align them with respect to these words.
+
+362
+00:34:30,400 --> 00:34:35,840
+ So the basic assumption here is that whatever is you're going to say a word,
+
+363
+00:34:35,840 --> 00:34:39,680
+ and we're also going to attend to the visual and audio gestures that were set
+
+364
+00:34:39,680 --> 00:34:47,120
+ during this same duration. And in terms of estimating the importance, we have both a temporal attention,
+
+365
+00:34:47,120 --> 00:34:51,680
+ which estimates the importance of each time step, certain time steps might correspond more
+
+366
+00:34:51,680 --> 00:34:57,600
+ towards predicting a label, if that time step has a very visibly important word or gesture,
+
+367
+00:34:57,600 --> 00:35:03,200
+ and other time steps will correspond less. And for these other modalities like audio and visual,
+
+368
+00:35:03,200 --> 00:35:09,120
+ we also have this gated attention that is a binary game that is either 0 or 1, which either
+
+369
+00:35:09,120 --> 00:35:13,440
+ lets these are audio visual features go through, if the model estimates that they are important
+
+370
+00:35:13,440 --> 00:35:24,720
+ words predicting a label, and 0 otherwise. So the hypothesis here is that the attention
+
+371
+00:35:24,720 --> 00:35:28,880
+ weights represent the contribution of each modality at each time step, and likewise,
+
+372
+00:35:28,880 --> 00:35:33,040
+ the modality gates is meant to determine the importance and contribution of each modality.
+
+373
+00:35:33,040 --> 00:35:38,400
+ And because these gates are 0 and 1, they're not continuous numbers that you can back propagate
+
+374
+00:35:38,400 --> 00:35:42,000
+ through. We're actually training these gates using reinforcement learning, and that's one of the
+
+375
+00:35:42,000 --> 00:35:52,800
+ main technical contributions in this paper. Cool. So those are two examples of cross projects that
+
+376
+00:35:52,800 --> 00:35:59,840
+ were done in previous years on effective computing. Now I'm going to jump into media description.
+
+377
+00:36:04,240 --> 00:36:09,680
+ So as you recall, in this computational and deep learning era, media description, given an image
+
+378
+00:36:09,680 --> 00:36:13,680
+ like a video, like videos and audio saying being able to accurately caption the image,
+
+379
+00:36:13,680 --> 00:36:19,520
+ was one of the main enablers of modern multimodal machine learning research, both in terms of
+
+380
+00:36:19,520 --> 00:36:24,880
+ really large data sets that have images and captions, and a lot of these data sets are also obtained
+
+381
+00:36:24,880 --> 00:36:29,760
+ from the internet. For example, a lot of these data sets are from things like Instagram, Flickr,
+
+382
+00:36:30,320 --> 00:36:34,400
+ where you have where people just upload these images and provide some user-generated captions
+
+383
+00:36:34,400 --> 00:36:42,080
+ for these. So these large data sets progress in modeling really enabled this modern boom in
+
+384
+00:36:42,080 --> 00:36:47,280
+ multimodal machine learning research. And one of the biggest data sets that enabled this was the
+
+385
+00:36:47,280 --> 00:36:55,440
+ MS-COCO data set. This one was really large, 120,000 images, and each of these images was taken
+
+386
+00:36:55,440 --> 00:37:01,920
+ onto Amazon Mechanical Turk and annotated with five different captions. And it's really important
+
+387
+00:37:01,920 --> 00:37:09,840
+ to get high quality annotations that span many captions, because this problem requires you to
+
+388
+00:37:09,840 --> 00:37:14,400
+ reason about many different captions that could be generated from the same image.
+
+389
+00:37:14,400 --> 00:37:23,520
+ The main challenge here, again, is that of evaluation. Many of these generation tasks
+
+390
+00:37:23,520 --> 00:37:28,560
+ is very difficult to evaluate what makes a good caption and what makes a bad caption. You don't
+
+391
+00:37:28,560 --> 00:37:33,360
+ want to necessarily just constrain yourself with something like supervised learning, where you just
+
+392
+00:37:33,360 --> 00:37:38,400
+ try to match the captions exactly, because there's just so many ways a human could caption an image,
+
+393
+00:37:38,400 --> 00:37:43,440
+ and many of these could still be reasonable captions despite not being in the data set.
+
+394
+00:37:48,640 --> 00:37:55,440
+ So when these people released these data set, they also had an evaluation server. And the goal
+
+395
+00:37:55,440 --> 00:38:00,160
+ here was to at least try their best to take this candidate sentence and evaluate against a set
+
+396
+00:38:00,160 --> 00:38:07,600
+ of ground truth sentences using either human or evaluation metrics. And what they did at CDPR 2015
+
+397
+00:38:07,600 --> 00:38:13,520
+ was that they actually tested a lot of these models if people submitted, and they did a very
+
+398
+00:38:13,520 --> 00:38:19,520
+ exhaustive test using human annotations. They actually gave these images and captions to humans
+
+399
+00:38:19,520 --> 00:38:23,920
+ on enter, and they had humans look at whether these captions actually made sense.
+
+400
+00:38:23,920 --> 00:38:33,840
+ And not surprisingly, the answer was no. A lot of these models done by Google, Microsoft,
+
+401
+00:38:33,840 --> 00:38:38,320
+ a lot of these big companies, they had very good models, but a lot of it was still quite far from
+
+402
+00:38:38,320 --> 00:38:44,560
+ how humans would judge whether a good caption would be. So there's still a lot of work to be
+
+403
+00:38:44,560 --> 00:38:50,560
+ done in this area. One of the main challenges again is annotation, because ideally you don't
+
+404
+00:38:50,560 --> 00:38:55,360
+ want to build a model and have to annotate it using humans. Evaluate it using humans every time
+
+405
+00:38:55,360 --> 00:39:00,560
+ you retrain your model and retest a new model. Human labels are really expensive. So people have
+
+406
+00:39:00,560 --> 00:39:06,960
+ also tried coming up with automatic labels. These are things like cider, meteor, rogue, blue.
+
+407
+00:39:06,960 --> 00:39:12,160
+ Essentially, these look at the captions that you generate and some of the reference captions,
+
+408
+00:39:12,160 --> 00:39:17,680
+ and they match some overlap in terms of your end-grams. So how much your one gram, two gram
+
+409
+00:39:17,680 --> 00:39:25,760
+ match with the reference captions. And the main question here is that if you want to not rely
+
+410
+00:39:25,760 --> 00:39:30,480
+ on modern human evaluation and instead rely on these automatic evaluation methods, which are
+
+411
+00:39:30,480 --> 00:39:35,680
+ really, really fast, well, these two things have to be consistent. So there must be a clear correspondence,
+
+412
+00:39:35,680 --> 00:39:41,840
+ clear correlation between automatic and human evaluations. Well, the answer is that it doesn't
+
+413
+00:39:41,840 --> 00:39:48,160
+ correspond so well. In fact, just based on automatic captions, a lot of these models from the same
+
+414
+00:39:48,160 --> 00:39:54,160
+ challenge by Google MSR, they actually outperform human performance. So clearly there's some issue
+
+415
+00:39:54,160 --> 00:39:59,760
+ with these automatic metrics that are kind of allowing these models to overfit to the training
+
+416
+00:39:59,760 --> 00:40:05,840
+ data, still get really good automatic evaluation performance, but obviously not good performance
+
+417
+00:40:05,840 --> 00:40:12,240
+ as judged by a human. So at the same time, a lot of people are working on building better models for
+
+418
+00:40:12,240 --> 00:40:16,960
+ these media descriptions and captioning problems. A lot of the research is also going into building
+
+419
+00:40:16,960 --> 00:40:23,120
+ better evaluation metrics and you contain a mix of human and automatic metrics that are more reliable.
+
+420
+00:40:28,560 --> 00:40:35,520
+ So soon after image captioning, people extended the task to videos. To mainly tackle this new
+
+421
+00:40:35,520 --> 00:40:43,760
+ problem of having temporal dependence. So essentially, you want to capture not just a single part of
+
+422
+00:40:43,760 --> 00:40:48,800
+ an image, but also caption various parts of a video, possibly across a continuous spectrum
+
+423
+00:40:48,800 --> 00:40:55,440
+ as the video is being played. And there's also been some interesting data sets coming out,
+
+424
+00:40:55,440 --> 00:41:02,640
+ including a show race data set, which included a show race data set. In this case, you're actually
+
+425
+00:41:02,640 --> 00:41:08,000
+ asking M. Turkers to act out this description. So the benefit here is that you actually have
+
+426
+00:41:08,000 --> 00:41:13,280
+ these ground truth scripts that you start by generating. You get the videos of people acting it out,
+
+427
+00:41:13,280 --> 00:41:18,080
+ and then you get more people to annotate these descriptions. So this really allows for more fine
+
+428
+00:41:18,080 --> 00:41:23,280
+ grain control over what you're actually seeing in the data set and what the ground truth captions
+
+429
+00:41:23,280 --> 00:41:30,560
+ should be. There's some questions here. One question is what is the objective function
+
+430
+00:41:30,560 --> 00:41:39,040
+ in image captioning? That's a good question. Again, coupled with the fact that it's very
+
+431
+00:41:39,040 --> 00:41:44,160
+ difficult to evaluate, there is no clear objective function that people prefer. I think the one
+
+432
+00:41:44,160 --> 00:41:49,040
+ that's most popular is just to have something that optimizes for the negative log likelihood
+
+433
+00:41:49,040 --> 00:41:54,000
+ every time step when you're generating the sentence. So similar loss function to that in a language
+
+434
+00:41:54,000 --> 00:42:00,720
+ modeling or machine translation. But as people work on designing better evaluation metrics,
+
+435
+00:42:00,720 --> 00:42:04,960
+ people have also started looking at building objective functions that directly optimize
+
+436
+00:42:04,960 --> 00:42:10,080
+ for these evaluation metrics directly. Because there is a mismatch between optimizing for
+
+437
+00:42:10,080 --> 00:42:16,320
+ negative log likelihood and some of the metrics that people care about. So there's some research
+
+438
+00:42:16,320 --> 00:42:21,440
+ done in designing these better objective functions. Some of the main challenges there are that some
+
+439
+00:42:21,440 --> 00:42:26,880
+ of the objective, some of the evaluation metrics that should be optimized for, including these things
+
+440
+00:42:26,880 --> 00:42:33,120
+ like a blue Cider Rolks course, which check for matching end grants. These are not differentiable.
+
+441
+00:42:33,120 --> 00:42:40,080
+ So it's not as trivial to optimize as your cross entropy loss. So people have also designed some
+
+442
+00:42:40,080 --> 00:42:47,120
+ methods to circumvent that being able to tackle these directly optimizing for these evaluation
+
+443
+00:42:47,120 --> 00:42:50,080
+ metrics. But at the same time, had them in the fact that they are not differentiable.
+
+444
+00:42:50,080 --> 00:42:59,920
+ Someone is also asking, can we have an evaluation model? Since verification is easier than generation,
+
+445
+00:42:59,920 --> 00:43:05,680
+ this could be feasible. So essentially a evaluation model that takes in images and
+
+446
+00:43:06,480 --> 00:43:13,280
+ possible captions and scores how good these captions are. I have not seen some of this,
+
+447
+00:43:13,280 --> 00:43:17,600
+ but I wouldn't be surprised if some of these exist. I think it definitely is an interesting
+
+448
+00:43:17,600 --> 00:43:24,240
+ idea. It's similar in the sense to how people who work in complexity theory know that solving
+
+449
+00:43:24,240 --> 00:43:29,440
+ an NP-hard problem is clearly harder than verifying that a solution to an NP-hard problem is indeed true.
+
+450
+00:43:29,440 --> 00:43:34,480
+ So that is one of the interesting research areas. If you're interested in that, I would highly suggest
+
+451
+00:43:34,480 --> 00:43:42,240
+ you look at some of the related work and perhaps do it for your course project.
+
+452
+00:43:42,240 --> 00:43:46,080
+ Cool.
+
+453
+00:43:46,080 --> 00:43:58,880
+ So another way to circumvent the problem of these really difficult evaluation metrics
+
+454
+00:43:58,880 --> 00:44:04,720
+ is to change the task from direct generation of the captions to referring expressions, which
+
+455
+00:44:04,720 --> 00:44:09,760
+ essentially what you're doing is given an image and you're given some descriptions
+
+456
+00:44:09,760 --> 00:44:14,880
+ within the image. And your goal is to localize the particular areas in the image that you are
+
+457
+00:44:14,880 --> 00:44:22,160
+ referring to. For example, in this case, you have given an image. There's two women. The goal is to
+
+458
+00:44:22,160 --> 00:44:27,280
+ localize the women on the right in the white shirt and your goal is to be able to identify
+
+459
+00:44:27,280 --> 00:44:33,200
+ this particular object that the text is corresponding to. This is also a pretty interesting task.
+
+460
+00:44:33,200 --> 00:44:37,760
+ It is related to grounding the goal where you're trying to link these linguistic elements. So what
+
+461
+00:44:37,760 --> 00:44:44,480
+ is being described in text to what is being referred to in the image. And while this seems like an
+
+462
+00:44:44,480 --> 00:44:49,840
+ isolated task in itself, grounding is actually an important area that has to be solved first
+
+463
+00:44:49,840 --> 00:44:54,320
+ before you can solve a lot of these, you know, fusion and alignment problems that come up later
+
+464
+00:44:54,960 --> 00:45:04,320
+ in these new datasets. Recently, people have also built these larger scale description and
+
+465
+00:45:04,320 --> 00:45:09,200
+ grounding datasets. I really like this visual genome dataset because it offers really, really fine
+
+466
+00:45:09,200 --> 00:45:15,040
+ green annotations in text as well as the bounding boxes of where they're referring to the image.
+
+467
+00:45:15,040 --> 00:45:19,040
+ So in this case, you always have these entities that would correspond to nouns in the image,
+
+468
+00:45:19,040 --> 00:45:24,160
+ like this case. You have a girl corresponding to a bounding box around the girl. You also have
+
+469
+00:45:24,960 --> 00:45:31,360
+ these attributes like behind and there's going to be no man behind girl. So the man would correspond
+
+470
+00:45:31,360 --> 00:45:38,240
+ to this man behind the girl. So a very, very densely connected graph of all the entities in the image
+
+471
+00:45:38,240 --> 00:45:44,480
+ as well as possible relationships between these entities. And this has also emerged as a very useful
+
+472
+00:45:44,480 --> 00:45:50,720
+ dataset both for reasoning and grounding and also as a pre-training step towards building better
+
+473
+00:45:50,720 --> 00:46:01,600
+ multimodal representations for other tasks. So the main challenges here are definitely translation.
+
+474
+00:46:01,600 --> 00:46:07,760
+ The goal is to map data from one modality to semantically meaningful high dimensional data
+
+475
+00:46:07,760 --> 00:46:14,320
+ in another modality, for example, image to captions. But at the same time, you need a very good representation
+
+476
+00:46:14,320 --> 00:46:19,840
+ that is aligned between these two modalities to be able to accurately perform translation.
+
+477
+00:46:21,040 --> 00:46:26,000
+ And when people kind of simplified a problem using referring expressions and grounding,
+
+478
+00:46:26,000 --> 00:46:29,120
+ the core there is also the alignment problem between language and vision.
+
+479
+00:46:29,120 --> 00:46:44,560
+ All right, there's two more sections to go. So for multimodal QA, the main motivation of this task
+
+480
+00:46:44,560 --> 00:46:49,200
+ was really to circumvent some of the challenges in image captioning and video captioning,
+
+481
+00:46:49,200 --> 00:46:53,920
+ which is really hard to evaluate generation. So it's really to sort to to convert these, you know,
+
+482
+00:46:53,920 --> 00:46:59,520
+ image and these media description tasks into a classification task. So one of the most popular
+
+483
+00:46:59,520 --> 00:47:03,760
+ is this visual question answering dataset where you have a bunch of images. You're asking some
+
+484
+00:47:03,760 --> 00:47:09,120
+ questions like what color her eyes, what is the mustache made of, and your goal is to localize
+
+485
+00:47:09,120 --> 00:47:14,400
+ what the question is referring to in the image and uncover the correct answer. This dataset has
+
+486
+00:47:14,400 --> 00:47:20,080
+ been along for very long, it's been almost six years, and many, many methods have been proposed for this.
+
+487
+00:47:20,080 --> 00:47:29,520
+ So this VQA dataset, I think since then people have also expanded it to include both real images
+
+488
+00:47:29,520 --> 00:47:34,880
+ and also synthetic images. And the benefit of this dataset is that it's just really, really large
+
+489
+00:47:34,880 --> 00:47:40,720
+ in scale. There's more than 200,000 images. And in terms of these multiple choice questions,
+
+490
+00:47:40,720 --> 00:47:46,320
+ there are both true and false, it spends more than 6 million answers out of which 1.8 million are
+
+491
+00:47:46,320 --> 00:47:54,640
+ actually correct. And every year at some of the language and vision conferences, there are these
+
+492
+00:47:54,640 --> 00:48:01,360
+ challenges for VQA. And people have found that currently they're quite good at VCS and no questions,
+
+493
+00:48:01,360 --> 00:48:06,640
+ but some of the main challenges are that in freeform questions and counting. So freeform questions
+
+494
+00:48:06,640 --> 00:48:12,400
+ are questions where the sentence structure differs quite a lot between training and testing. And
+
+495
+00:48:12,400 --> 00:48:16,960
+ counting is also a very difficult task. If I were to ask how many yellow bananas are there,
+
+496
+00:48:16,960 --> 00:48:23,440
+ that is a more challenging task for machine learning rather than just asking whether there is a yellow
+
+497
+00:48:23,440 --> 00:48:31,840
+ banana. Beyond supervised learning, people have also found some issues with these VQA datasets,
+
+498
+00:48:31,840 --> 00:48:36,800
+ which is just guessing without an image. So just giving a question and predicting an answer
+
+499
+00:48:36,800 --> 00:48:42,160
+ based on a question using these purely language based models, they actually perform pretty well.
+
+500
+00:48:42,160 --> 00:48:50,640
+ And adding the visual only leads to a 14% increase in accuracy. So one example is if I have a VQA model
+
+501
+00:48:50,640 --> 00:48:54,960
+ and I'm going to ask the model what color is the banana without actually looking at the image.
+
+502
+00:48:54,960 --> 00:49:01,120
+ Most of the time your VQA model will answer yellow, just because 80% of the bananas in
+
+503
+00:49:01,120 --> 00:49:06,800
+ the training set are yellow. And as a result, if you actually test this VQA model on a green banana,
+
+504
+00:49:06,800 --> 00:49:10,880
+ which obviously doesn't happen that much, it's still going to pretty yellow. So some of these models
+
+505
+00:49:10,880 --> 00:49:16,240
+ are shown to be biased in the sense that they just rely on the simple form, kind of looking at the
+
+506
+00:49:16,240 --> 00:49:21,200
+ simple statistics in a dataset, looking at what correlates the models in these in the language
+
+507
+00:49:21,200 --> 00:49:26,160
+ modality, and kind of ignoring the image, which is a more complex task for the model to do.
+
+508
+00:49:27,840 --> 00:49:34,720
+ And recently, there have been some new datasets to solve this problem by really having the same
+
+509
+00:49:34,720 --> 00:49:39,840
+ question by giving the same question and having a bunch of images with the answers different.
+
+510
+00:49:39,840 --> 00:49:43,920
+ So I like this example a lot. The question is where is the child sitting and most of the times
+
+511
+00:49:43,920 --> 00:49:49,600
+ you would just answer arms or arms or chair or something. And you actually got an image of a child
+
+512
+00:49:49,600 --> 00:49:54,240
+ sitting in a fridge to force the model to make sure that you can't understand the image and
+
+513
+00:49:54,240 --> 00:49:59,360
+ the answer fridge correctly. So these are some of the more interesting problems that people are
+
+514
+00:49:59,360 --> 00:50:09,920
+ looking at that go beyond supervised learning. And beyond VQA, there's a bunch of other datasets,
+
+515
+00:50:09,920 --> 00:50:14,720
+ most of them similar in vain. Here's a reference, you can look more at them if you're interested.
+
+516
+00:50:14,720 --> 00:50:21,760
+ These are all image-based QA. And likewise, people have also tried to extend this to video-based QA.
+
+517
+00:50:21,760 --> 00:50:29,280
+ So TvQA is one where you're given a long-term tele-TV show and you have to ask and answer questions
+
+518
+00:50:29,280 --> 00:50:38,080
+ at specific parts of the TV show. One challenge here is that you also have to deal with compositional
+
+519
+00:50:38,080 --> 00:50:42,640
+ questions because some of the questions might actually refer to previous parts of the video or
+
+520
+00:50:42,640 --> 00:50:51,040
+ previous questions that have already been answered. VCR is also a nice dataset. It extends VQA
+
+521
+00:50:51,760 --> 00:50:59,280
+ to requiring the model to give an explanation instead of just giving the correct answer.
+
+522
+00:50:59,280 --> 00:51:02,160
+ And a lot of this does require some amount of common sense reasoning
+
+523
+00:51:02,160 --> 00:51:05,120
+ to provide a rationale for why the answer is true.
+
+524
+00:51:05,120 --> 00:51:14,320
+ One of the datasets that came out of our group is this social IQ dataset which is a mix of
+
+525
+00:51:14,320 --> 00:51:20,160
+ effective computing and also recent research in Monty model QA. So it's a QA dataset that is
+
+526
+00:51:20,160 --> 00:51:27,920
+ primarily focused on social behaviors and social interactions. Things like how is the discussion
+
+527
+00:51:27,920 --> 00:51:32,960
+ between the woman and the man in the white shirt? So one of the answers could be she is blaming
+
+528
+00:51:32,960 --> 00:51:37,920
+ her in a tense voice and not letting him defend himself. So a lot of these don't really focus on
+
+529
+00:51:37,920 --> 00:51:43,760
+ objects which VQA and VCR datasets have and instead focus more on these social interactions.
+
+530
+00:51:46,240 --> 00:51:51,040
+ I have a question here. In VQA, do we manually balance the data so that it does not have any
+
+531
+00:51:51,040 --> 00:51:57,360
+ bias? That's a great question. I think there is no universal answer to this. Well, and this is a
+
+532
+00:51:57,360 --> 00:52:02,480
+ question that is not just specific to VQA. This is a question that happens everywhere in machine
+
+533
+00:52:02,480 --> 00:52:06,000
+ learning research. You're going to collect some datasets. You think a dataset is awesome,
+
+534
+00:52:06,000 --> 00:52:10,960
+ it's large, it's more annotated. But then you realize that the dataset has no inherent biases.
+
+535
+00:52:10,960 --> 00:52:17,040
+ It can be biases in the annotation. It can be biases in the data. It can be social biases,
+
+536
+00:52:17,040 --> 00:52:24,480
+ language biases and so on. People are generally split across two different areas.
+
+537
+00:52:24,480 --> 00:52:29,040
+ One area is to take a closer look at the dataset, balance it, make sure that it's not bias,
+
+538
+00:52:29,040 --> 00:52:33,840
+ which does work well but it does require some effort. You might have to remove certain portions
+
+539
+00:52:33,840 --> 00:52:38,880
+ of the dataset. You might have to annotate new data to make sure that all the aspects of
+
+540
+00:52:38,880 --> 00:52:43,840
+ bias are equally represented, which is a more challenging task but I hope is that once you have
+
+541
+00:52:43,840 --> 00:52:51,280
+ a balanced dataset, train your model results in a model that shows less bias. Another area is to
+
+542
+00:52:51,280 --> 00:52:59,280
+ ignore the data and really look at how a model can be used to take in bad bias data but learn
+
+543
+00:52:59,280 --> 00:53:04,400
+ representations that are not biased. That is more of the algorithmic challenge where you're trying to
+
+544
+00:53:04,400 --> 00:53:10,480
+ learn unbiased, learn fair representations from possibly biased data. That is also difficult
+
+545
+00:53:10,480 --> 00:53:14,880
+ because you have to define what bias means. Sometimes it might require retraining these models,
+
+546
+00:53:14,880 --> 00:53:19,520
+ sometimes it might require post-processing these models. But this is also a big area of research
+
+547
+00:53:19,520 --> 00:53:23,840
+ and I really like this area. I think more people should work on it, especially in the context of
+
+548
+00:53:23,840 --> 00:53:30,560
+ multi-model research. I think the end result is possibly going to be a mix between making sure
+
+549
+00:53:30,560 --> 00:53:36,800
+ that data sets, try to be unbiased as possible but at the same time, you also want to make sure
+
+550
+00:53:36,800 --> 00:53:42,320
+ that your algorithm with your evaluation metrics are actually accurately characterizing these biases
+
+551
+00:53:42,320 --> 00:53:45,760
+ at the same time. Great question.
+
+552
+00:53:45,760 --> 00:53:57,120
+ So in multi-model QA, likewise, a lot of research questions to look at translation,
+
+553
+00:53:57,120 --> 00:54:02,400
+ alignment and representation are the main challenges as well as fusion. A lot of these
+
+554
+00:54:02,400 --> 00:54:09,200
+ challenges are the same as media description and retrieval. I think the main additional challenge
+
+555
+00:54:09,200 --> 00:54:14,160
+ that QA has is that you must also comprehend the question and localize what part of the image
+
+556
+00:54:14,160 --> 00:54:19,600
+ or video that the question is corresponding to. So in this case, alignment is a bigger challenge
+
+557
+00:54:19,600 --> 00:54:31,680
+ than it would have been in media description. Cool. Just to give a sense of what are some of the
+
+558
+00:54:31,680 --> 00:54:38,720
+ problems that some students have worked on for multi-model QA. I really like this project from
+
+559
+00:54:38,720 --> 00:54:45,120
+ Fall 2019, I think. So the goal here is to design adversarial attacks on these BQA models.
+
+560
+00:54:46,080 --> 00:54:53,440
+ So for people more unfamiliar adversarial attacks are this new area of research in ensuring testing
+
+561
+00:54:53,440 --> 00:54:58,000
+ and benchmarking the robustness of these deep learning methods. So deep learning obviously is
+
+562
+00:54:58,000 --> 00:55:02,080
+ very good at supervised learning. It has obtained really, really good performance on multiple tasks,
+
+563
+00:55:02,080 --> 00:55:06,480
+ but people still don't really understand how most of these deep learning models work.
+
+564
+00:55:06,480 --> 00:55:10,400
+ And what people have found is that if you give the deep learning model an image,
+
+565
+00:55:10,400 --> 00:55:14,640
+ so in this case, you're giving it to a pre-trained image net, you're giving this image,
+
+566
+00:55:14,640 --> 00:55:19,680
+ it predicts Panda with pretty high confidence. That's good. You can actually add a really,
+
+567
+00:55:19,680 --> 00:55:24,880
+ really small amount of your Gaussian noise or some other type of noise, which causes a change
+
+568
+00:55:24,880 --> 00:55:29,840
+ that is basically imperceptible to the human eye. And if you put the same image to the neural network,
+
+569
+00:55:29,840 --> 00:55:36,480
+ it's going to predict given with really, really high 99.3% confidence. So this is what's called an
+
+570
+00:55:36,480 --> 00:55:42,320
+ adversarial attack, an attack because an adversarial attack because it's making the neural network
+
+571
+00:55:42,320 --> 00:55:46,160
+ change a prediction to something that's clearly wrong with very high confidence and yet it's
+
+572
+00:55:46,160 --> 00:55:54,160
+ imperceptible to humans. And the goal here is not just to show that these attacks are possible,
+
+573
+00:55:54,160 --> 00:55:59,600
+ it's also a model to show that these are some adversarial settings that neural nets don't work
+
+574
+00:55:59,600 --> 00:56:05,120
+ well on. How can we show that, show some of these settings and at the same time benchmark
+
+575
+00:56:05,120 --> 00:56:10,400
+ and improve the robustness of these existing models? So a lot of these adversarial attacks are
+
+576
+00:56:10,400 --> 00:56:16,400
+ started off being in computer vision, image classification. This group looked at the adversarial
+
+577
+00:56:16,400 --> 00:56:23,600
+ attacks on VQA models as a step towards benchmarking their robustness. And what would it look like
+
+578
+00:56:23,600 --> 00:56:28,480
+ in a VQA setting? So let's say this is the image that you started off with. And the question is,
+
+579
+00:56:28,480 --> 00:56:33,840
+ what kind of flowers are in the vase? And your answer would be rows. Everything went well.
+
+580
+00:56:33,840 --> 00:56:38,640
+ This was a pre-trained model, everything goes well. And they found that they were able to design these
+
+581
+00:56:39,600 --> 00:56:44,080
+ these perturbations to the image. In this case, it's very interesting because they were able to
+
+582
+00:56:44,080 --> 00:56:50,080
+ design a perturbation that focuses primarily on the vase. And they were able to add this
+
+583
+00:56:50,080 --> 00:56:55,200
+ perturbation to the image, feed the same image to the VQA model, and given the same question,
+
+584
+00:56:55,200 --> 00:57:00,960
+ the VQA model would now predict sunflower instead of rows with very high confidence.
+
+585
+00:57:00,960 --> 00:57:07,360
+ And the question here is, how can we design a targeted attack on these images on VQA models,
+
+586
+00:57:07,360 --> 00:57:11,040
+ which will further help in assessing robustness of these existing methods?
+
+587
+00:57:11,040 --> 00:57:18,080
+ And the core idea here was to use a fusion over the original image and the question
+
+588
+00:57:18,080 --> 00:57:24,000
+ to generate these adversarial perturbation maps that were localized with the -- that
+
+589
+00:57:24,000 --> 00:57:29,120
+ were localized in the image with respect to the question. So our policy here is that the
+
+590
+00:57:29,120 --> 00:57:33,840
+ question helps you to localize these important visual regions. These are the regions that the
+
+591
+00:57:33,840 --> 00:57:39,360
+ VQA model that is pre-trained will look at. And you really want to target these important visual
+
+592
+00:57:39,360 --> 00:57:45,280
+ regions to get a better adversarial attack. So in this case, the question is, what is the
+
+593
+00:57:45,280 --> 00:57:51,520
+ man doing? They were able to generate these perturbation maps that focus primarily on the man.
+
+594
+00:57:51,520 --> 00:57:55,920
+ In this case, the man is snowboarding. So these maps are primarily on the man. And these
+
+595
+00:57:55,920 --> 00:58:00,960
+ adversarial perturbation maps were then the input added to the image and input to the model
+
+596
+00:58:01,440 --> 00:58:08,480
+ and force the model to make a wrong prediction. So this was an example of a pretty cool project
+
+597
+00:58:08,480 --> 00:58:13,600
+ where language helps in localizing which areas your adversarial attacks should focus on.
+
+598
+00:58:13,600 --> 00:58:18,080
+ I think they also found that if you just did adversarial attacks on the image,
+
+599
+00:58:18,080 --> 00:58:22,160
+ it would just be, you know, possibly something like uniform noise across the entire image
+
+600
+00:58:22,160 --> 00:58:26,800
+ that is not interpretable and that is not localizable with respect to where
+
+601
+00:58:26,800 --> 00:58:32,720
+ the question is answering, but they're able to generate both smaller perturbations of smaller
+
+602
+00:58:32,720 --> 00:58:40,960
+ norm and more localized to where the question is referring to. Cool.
+
+603
+00:58:40,960 --> 00:58:49,600
+ So just onto the very last topic and very last set of datasets that I would be introducing.
+
+604
+00:58:50,800 --> 00:58:57,760
+ And that is for multimodal navigation. And this really comes with the growth of reinforcement
+
+605
+00:58:57,760 --> 00:59:02,320
+ learning and a growth of robotics that have really enabled the next generation of AI
+
+606
+00:59:02,320 --> 00:59:06,880
+ assistants to interact with the real world. We've seen a lot of these personal assistants. We have
+
+607
+00:59:06,880 --> 00:59:12,160
+ these personal robots coming up. We have them being deployed both in simulation and also in the real
+
+608
+00:59:12,160 --> 00:59:17,200
+ world. We also have cell driving cars, which is another example of AI agent that has to interact
+
+609
+00:59:17,200 --> 00:59:23,040
+ with the real world, possibly taking into account these multimodal signals. And the core challenge
+
+610
+00:59:23,040 --> 00:59:29,200
+ here is that in addition to just understanding language and vision, we also have to take actions
+
+611
+00:59:29,200 --> 00:59:35,440
+ in the real world. So it's really about both multimodal perception of the environment and also
+
+612
+00:59:35,440 --> 00:59:40,800
+ linking that to action. Taking actions in the real world, which possibly leads you to a next state,
+
+613
+00:59:40,800 --> 00:59:45,280
+ and therefore you have a loop between multimodal perception and actions that you have to take.
+
+614
+00:59:46,480 --> 00:59:51,360
+ So here's an example. You're in this environment. This is a hotel room. The user tells the robot
+
+615
+00:59:51,360 --> 00:59:56,400
+ to go to the entrance of the lounge area. So first the robot has to do exactly that. It goes to the
+
+616
+00:59:56,400 --> 01:00:02,160
+ entrance of the lounge area. And that's a set of actions that it's going to take at a start.
+
+617
+01:00:02,160 --> 01:00:06,320
+ It's going to take a response and tell the human that, you know, I'm here. What else should I do?
+
+618
+01:00:06,320 --> 01:00:12,160
+ A user would say on the right, there is a bar on top of the counter. You'll see a box and bring
+
+619
+01:00:12,160 --> 01:00:17,520
+ that to me. So that's also a very complex natural language instruction, where the robot has to
+
+620
+01:00:17,520 --> 01:00:24,160
+ understand both the language and the visual environments and take these correct actions
+
+621
+01:00:24,160 --> 01:00:33,920
+ in order to execute these instructions. So here's another example to really illustrate the
+
+622
+01:00:33,920 --> 01:00:41,200
+ technical challenges that arise in multimodal navigation. So we're going to look at instruction
+
+623
+01:00:41,200 --> 01:00:44,880
+ following, for example. So we're going to start with an instruction. And you're also going to
+
+624
+01:00:44,880 --> 01:00:51,040
+ start with an initial viewpoint that the robot is currently in. So in this case, the viewpoint is
+
+625
+01:00:51,040 --> 01:00:57,440
+ in this house facing a door. The first goal is to just start parsing the sentence and look at
+
+626
+01:00:57,440 --> 01:01:05,200
+ the instructions that are given. So you always have these verbs like find. So these find verbs
+
+627
+01:01:05,200 --> 01:01:10,080
+ represent the actions that you have to take in this environment. So in this case, the robot is
+
+628
+01:01:10,080 --> 01:01:15,680
+ starting to find something in which case it could be orienting as viewpoint. You also have these
+
+629
+01:01:15,680 --> 01:01:20,400
+ nouns that help you localize and ground where you are at the environment. So in this case, you have
+
+630
+01:01:20,400 --> 01:01:25,200
+ a window. So you're going to turn possibly clockwise until you see a window in which case you will stop.
+
+631
+01:01:25,200 --> 01:01:31,280
+ And then again, you would have this sequence of verbs that says look left, which represents the
+
+632
+01:01:31,280 --> 01:01:35,360
+ actions that you have. So it's going to look left. And it's going to keep looking left until it
+
+633
+01:01:35,360 --> 01:01:40,640
+ obtains another noun to ground where the robot should look at. And in this case, you would turn
+
+634
+01:01:40,640 --> 01:01:48,560
+ left until you see the crypts. And this series of action and grounding localization just keeps
+
+635
+01:01:48,560 --> 01:01:55,680
+ going on until you eventually finish the executing all the instructions. So you will go to, you're
+
+636
+01:01:55,680 --> 01:02:00,480
+ going to search for the crypt, and you will look for the target below the crypt. And then you would
+
+637
+01:02:01,120 --> 01:02:08,160
+ return your answer to the human. So it's really about this action, language, and vision loop that
+
+638
+01:02:08,160 --> 01:02:13,440
+ you have to execute throughout possibly long time steps before you actually complete the task.
+
+639
+01:02:13,440 --> 01:02:22,960
+ So there's been some very new data sets, very realistic data sets in the real world, and also
+
+640
+01:02:22,960 --> 01:02:28,960
+ with a good series of instructions. One of this is the room-to-room data set, which is a navigation
+
+641
+01:02:28,960 --> 01:02:34,000
+ task in real buildings. You have instructions like head upstairs and walk past the piano
+
+642
+01:02:34,000 --> 01:02:43,440
+ to the archway directly in front. And again, you have these multi-step questions that go through
+
+643
+01:02:43,440 --> 01:02:48,880
+ multiple steps where you have to continuously localize and take actions until you complete
+
+644
+01:02:48,880 --> 01:02:58,080
+ the entire instruction. I have a couple of questions here.
+
+645
+01:02:58,080 --> 01:03:04,160
+ So first question, for adversarial attacks on VQA, is it possible to generate class-specific
+
+646
+01:03:04,160 --> 01:03:11,600
+ perturbations? For example, changing rows specifically to sunflower or daffodil? The answer is yes.
+
+647
+01:03:11,600 --> 01:03:19,600
+ I'm not an expert in adversarial attacks, but I have seen some people work on this. So in this case,
+
+648
+01:03:19,600 --> 01:03:24,000
+ a lot of this goes into the algorithm's specific redesign for adversarial attacks.
+
+649
+01:03:24,000 --> 01:03:28,560
+ Essentially, what they were trying to do is that they were trying to solve this optimization problem
+
+650
+01:03:28,560 --> 01:03:34,240
+ where you're given some amount of corruption. You want to minimize this corruption that is
+
+651
+01:03:34,240 --> 01:03:40,240
+ added to the image while at the same time ensuring that the image plus the corruption
+
+652
+01:03:40,240 --> 01:03:45,280
+ feed forward through a neural network maximizes your prediction in some category.
+
+653
+01:03:45,280 --> 01:03:50,240
+ So that is a general setup. You want to minimize the noise such as the noise added to the image
+
+654
+01:03:50,240 --> 01:03:55,200
+ be used to the highest change in the upper prediction. So that will cause you to
+
+655
+01:03:55,200 --> 01:04:00,240
+ adversarial predict some other category. And I have seen work in changing this optimization
+
+656
+01:04:00,240 --> 01:04:06,720
+ to one where you are directly optimizing for one specific category which you don't want to predict
+
+657
+01:04:06,720 --> 01:04:16,400
+ maximally. Eventually that, no, definitely look at the related works. Going off of that question,
+
+658
+01:04:16,400 --> 01:04:20,880
+ is there work happening in modifying an image according to natural language instructions,
+
+659
+01:04:20,880 --> 01:04:28,400
+ turning the rows into a sunflower? The answer is also yes, although I don't remember the exact paper,
+
+660
+01:04:28,400 --> 01:04:35,680
+ I think. I'll have to check. I think if I find the paper corresponding to this project,
+
+661
+01:04:35,680 --> 01:04:40,400
+ I can link it on Piazza. But that's a really cool question. So the goal is to kind of take an image
+
+662
+01:04:40,400 --> 01:04:45,680
+ and give it a set of natural language instructions and kind of modify the image in this targeted way.
+
+663
+01:04:47,280 --> 01:04:52,240
+ Again, I will assume the main challenges. There are more of the evaluation than the model itself
+
+664
+01:04:52,240 --> 01:04:58,400
+ because image generation is always a very difficult problem. And if you want to do targeted image
+
+665
+01:04:58,400 --> 01:05:10,080
+ generation, that's also even more difficult challenge. Cool. Just a couple of slides left.
+
+666
+01:05:10,080 --> 01:05:14,720
+ I think some of the very interesting projects that I have been looking at myself and a lot of
+
+667
+01:05:14,720 --> 01:05:19,680
+ the research community has to be looking at is this general area of language and games.
+
+668
+01:05:19,680 --> 01:05:24,160
+ So a lot of these are, these are some of the fourth learning games. This is called the Nethat
+
+669
+01:05:24,160 --> 01:05:29,600
+ game. If some of you are old, you might have played this in back in the days. These are these
+
+670
+01:05:29,600 --> 01:05:35,520
+ grid world games where an agent is situated in some world and has to follow some natural language
+
+671
+01:05:35,520 --> 01:05:40,400
+ instructions. Like, you know, this kind of moving pretty fast, but you're going to see things like,
+
+672
+01:05:40,400 --> 01:05:45,840
+ you know, you have this crosswalk. There's like three ways to go, which way do you want to go?
+
+673
+01:05:45,840 --> 01:05:49,440
+ You see like a key. Do you want to pick it up? Do you want to climb up a ladder and so on?
+
+674
+01:05:49,440 --> 01:05:54,720
+ So you're always faced with both the environment that you're in, possible actions to take,
+
+675
+01:05:54,720 --> 01:05:59,280
+ you know, your cardinal directions, picking up objects, using objects. At the same time,
+
+676
+01:05:59,280 --> 01:06:03,760
+ you're also given these are a set of natural language instructions and prompts
+
+677
+01:06:03,760 --> 01:06:11,040
+ that you either have to follow or you have to reason about. These seem simple because they don't
+
+678
+01:06:11,040 --> 01:06:15,760
+ actually require real world images, but in terms of the reasoning and long-term reinforcement
+
+679
+01:06:15,760 --> 01:06:20,000
+ learning problems that you have to solve, I personally think these are more challenging
+
+680
+01:06:20,000 --> 01:06:24,320
+ than these instruction following tasks. The main reason being that these instruction
+
+681
+01:06:24,320 --> 01:06:28,960
+ following tasks, a lot of it is partially supervised in the sense that you have a,
+
+682
+01:06:28,960 --> 01:06:34,480
+ you have this reward signal that you obtain after you execute these instructions correctly,
+
+683
+01:06:34,480 --> 01:06:39,200
+ but a lot of these games have very, very sparse reward signals. So you really have to explore
+
+684
+01:06:39,200 --> 01:06:44,960
+ for a long time before you actually see something happening. The other benefit is that these are
+
+685
+01:06:44,960 --> 01:06:49,600
+ language and games execute very quickly. You're not actually working with these high dimensional
+
+686
+01:06:49,600 --> 01:06:54,160
+ photorealistic images, but you're either working with these, you know, pixel grid world. So they also
+
+687
+01:06:54,160 --> 01:06:59,360
+ run much faster and are also good test bets for you to test your ideas on.
+
+688
+01:06:59,360 --> 01:07:08,880
+ Another cool data set that I love. This is a more difficult data set. It is a data set that
+
+689
+01:07:08,880 --> 01:07:14,320
+ tests whether agents can both speak and act in a game. So what we've seen so far in these
+
+690
+01:07:14,320 --> 01:07:19,040
+ multi-moder navigation and multi-moder reinforcement learning, the goal is only to perform an action,
+
+691
+01:07:19,040 --> 01:07:25,280
+ you know, either following the instructions or, you know, moving up, down, there, fried, executing
+
+692
+01:07:25,280 --> 01:07:29,360
+ instructions. The goal is only to act. In this case, these agents have to both speak and act,
+
+693
+01:07:29,360 --> 01:07:34,960
+ which really brings it towards a, which really brings it towards this modern era of, you know,
+
+694
+01:07:34,960 --> 01:07:41,040
+ building these socially intelligent models that both have to interact and act in these environments.
+
+695
+01:07:41,040 --> 01:07:47,280
+ So in this case, you are, you know, there are this player in this fantasy world where, in this case,
+
+696
+01:07:47,280 --> 01:07:54,960
+ you are a villager and the partner is, is a, is a knight. And each of these agents are given some
+
+697
+01:07:54,960 --> 01:08:00,560
+ persona. And you're also given some goal, which is that you're supposed to either perform some
+
+698
+01:08:00,560 --> 01:08:05,520
+ actions or you're supposed to say something to the opposing player tonight to make them smile.
+
+699
+01:08:05,520 --> 01:08:10,320
+ So in this case, what you could say is that, wow, you're a real knight. Thanks for keeping
+
+700
+01:08:10,320 --> 01:08:14,640
+ us safe. I'd also love to be a knight someday. So that is something that you could say
+
+701
+01:08:15,280 --> 01:08:20,320
+ to the, to the other player, and other players also going to predict the other ones, something
+
+702
+01:08:20,320 --> 01:08:24,640
+ that can be tough, but I'm happy to do it. I would protect the realm and also predict some
+
+703
+01:08:24,640 --> 01:08:29,840
+ actions like smile. So this, this is also like a pretty cool environment that really tests,
+
+704
+01:08:29,840 --> 01:08:34,720
+ that kind of combines both dialogue, you have to converse back and forth with the other players
+
+705
+01:08:34,720 --> 01:08:36,800
+ and you also have to take actions in this environment.
+
+706
+01:08:43,920 --> 01:08:50,000
+ Cool. So the core challenges here are primarily on representation, in my opinion, and fusion.
+
+707
+01:08:50,000 --> 01:08:55,440
+ So the goal here is both to kind of reason about language as well as the environment.
+
+708
+01:08:55,440 --> 01:08:59,680
+ And the goal is to not just to get a representation that is useful for supervised learning
+
+709
+01:08:59,680 --> 01:09:04,080
+ and to maximize the label at that one time step, it's also to learn a good representation that
+
+710
+01:09:04,080 --> 01:09:09,040
+ can be useful for reinforcement learning, being able to reason about long-term interactions with
+
+711
+01:09:09,040 --> 01:09:14,960
+ the world with possibly very sparse rewards. So for those of you not familiar with reinforcement
+
+712
+01:09:14,960 --> 01:09:20,240
+ learning, I'm actually giving two more lectures on multimodal RL towards the middle of the core.
+
+713
+01:09:20,240 --> 01:09:24,960
+ So we're really going to go in depth into some of the learning algorithms and technical challenges
+
+714
+01:09:24,960 --> 01:09:33,280
+ in this area. If you're working with some of the recent data set where you have to both speak
+
+715
+01:09:33,280 --> 01:09:37,600
+ and act in dialogue, there's also going to be a translation problem where you have to
+
+716
+01:09:37,600 --> 01:09:42,560
+ take your inputs and generate realistic utterances that interact with the environment.
+
+717
+01:09:42,560 --> 01:09:51,520
+ Let's give two very quick examples of some of the course projects in this area.
+
+718
+01:09:51,520 --> 01:09:56,960
+ This was, I think, about two years ago, and in this case, you're also in this embodied environment
+
+719
+01:09:56,960 --> 01:10:01,920
+ from the Doom video game, and the goal is to follow these instructions. You know, go to the
+
+720
+01:10:01,920 --> 01:10:08,000
+ green short pillar, and you'll like to go to that pillar, and you only get a positive reward of,
+
+721
+01:10:08,000 --> 01:10:13,520
+ plus one if you reach a correctly and zero reward otherwise. And the goal here is to build a model
+
+722
+01:10:13,520 --> 01:10:18,560
+ that comprehends these instructions, are able to ground the entities. So in this case, grounding
+
+723
+01:10:18,560 --> 01:10:24,080
+ means understanding what it means to be green, what it means to be a pillar, what it means to be short,
+
+724
+01:10:24,080 --> 01:10:28,720
+ and so on. Here's to ground these entities and relations and execute the instruction.
+
+725
+01:10:31,760 --> 01:10:38,720
+ So this video is pretty interesting. The model is quite simple, actually, so they embed these
+
+726
+01:10:38,720 --> 01:10:44,480
+ instructions using some instruction processing model, designed for text, they process the image
+
+727
+01:10:44,480 --> 01:10:51,200
+ to get some convolutional feature representations, and they perform a fusion using gated attention.
+
+728
+01:10:51,200 --> 01:10:55,760
+ Essentially, you're learning a model that takes in the instructions and
+
+729
+01:10:55,760 --> 01:11:01,040
+ attempts to correct parts of the image to figure out which parts of the image are actually corresponding
+
+730
+01:11:01,040 --> 01:11:06,960
+ to the particular instructions. That gives you a representation, and normally if you were doing
+
+731
+01:11:06,960 --> 01:11:12,080
+ something like QA, you would use this directly optimizes for the cross entropy loss for classification,
+
+732
+01:11:12,080 --> 01:11:18,560
+ but because this is a reinforcement learning problem, they have a policy. They have a policy
+
+733
+01:11:18,560 --> 01:11:24,320
+ learning model that outputs a policy, which is basically a distribution of what actions to take
+
+734
+01:11:24,320 --> 01:11:30,560
+ at every time step, and this policy is trained to maximize the long-term rewards of actually
+
+735
+01:11:30,560 --> 01:11:36,560
+ getting to the correct object, or getting to the correct object. And they found that this model
+
+736
+01:11:36,560 --> 01:11:40,720
+ actually learns to ground and compose attributes in natural language with the image features.
+
+737
+01:11:40,720 --> 01:11:45,280
+ So in this case, I'm saying composition because you want to learn these separate
+
+738
+01:11:45,280 --> 01:11:51,120
+ ground representations for green and torch, so that you can also generalize to other attributes
+
+739
+01:11:51,120 --> 01:11:58,560
+ like red torch or small torch. So that means that's really the concept of compositionality,
+
+740
+01:11:58,560 --> 01:12:05,200
+ where you have to take these basic feature representations grounded in the image and be able to compose
+
+741
+01:12:05,200 --> 01:12:16,880
+ them using different instructions. Another example just from this past year, we presented this paper
+
+742
+01:12:16,880 --> 01:12:22,480
+ at ECCV this year was that on multi-agent trajectory forecasting. So in this case, we're primarily
+
+743
+01:12:22,480 --> 01:12:27,920
+ concerned with building these better models for these autonomous driving cars, autonomous driving
+
+744
+01:12:27,920 --> 01:12:32,160
+ data sets in simulation. And the main problem here is that you're going to have these multiple
+
+745
+01:12:32,160 --> 01:12:38,080
+ agents. One, two, three, these can be both cars, can be pedestrians in this environment where you
+
+746
+01:12:38,080 --> 01:12:44,480
+ have these road boundaries in white and all these pavements that you're not supposed to go to in
+
+747
+01:12:44,480 --> 01:12:50,320
+ black. And one of the core challenges in autonomous driving is to be able to reason about these
+
+748
+01:12:50,320 --> 01:12:55,040
+ multiple agents and the possible trajectories that they could take in the future, so that you're
+
+749
+01:12:55,040 --> 01:12:59,280
+ actually going to be able to predict what you should take known. If you predict that the other
+
+750
+01:12:59,280 --> 01:13:04,160
+ agent is going to go at a stop sign that you should stop. If you predict that the pedestrian
+
+751
+01:13:04,160 --> 01:13:10,400
+ is going to cross, then you should stop as well. So the core challenge here was that we wanted to
+
+752
+01:13:10,400 --> 01:13:15,680
+ do a diverse trajectory forecasting. Instead of just predicting a single possible trajectory,
+
+753
+01:13:15,680 --> 01:13:20,320
+ we want to learn a probability distribution over these possible trajectories for each agent.
+
+754
+01:13:21,040 --> 01:13:27,520
+ And this distribution should reflect samples of low likelihood, such as driving onto the pavement,
+
+755
+01:13:27,520 --> 01:13:34,320
+ pavement, which is not very likely. And also regions of high likelihood, such as turning left
+
+756
+01:13:34,320 --> 01:13:39,760
+ or going straight. And in this case, just because people are more likely to go straight than make a
+
+757
+01:13:39,760 --> 01:13:45,120
+ turn, you would have this multimodal distribution where one mode of going straight is more likely
+
+758
+01:13:45,120 --> 01:13:54,560
+ than a mode of turning left. So this is also a pretty challenging problem. We have to build a
+
+759
+01:13:54,560 --> 01:14:03,520
+ probabilistic model across multiple agents to jointly reason about all the possible trajectories
+
+760
+01:14:03,520 --> 01:14:08,480
+ that other agents are taking so that you can give accurate predictions of your trajectory.
+
+761
+01:14:08,480 --> 01:14:13,040
+ And we found that this model that both looks at these agent-agent interactions,
+
+762
+01:14:13,040 --> 01:14:18,320
+ some modeling your interaction with other agents, and also agency interactions are pretty important.
+
+763
+01:14:18,320 --> 01:14:23,680
+ So agency interactions like looking at what are the drivable areas of the map and one of the
+
+764
+01:14:23,680 --> 01:14:29,280
+ non drivable areas of the map to generate this realistic distribution over possible future trajectories.
+
+765
+01:14:29,280 --> 01:14:37,520
+ Cool. So I know that was a long lecture and we're almost out of time.
+
+766
+01:14:37,520 --> 01:14:42,160
+ But just let me just give you some advice for the project moving forward.
+
+767
+01:14:43,120 --> 01:14:50,400
+ So there's a full list of datasets that we have kind of summarized for all of you,
+
+768
+01:14:50,400 --> 01:14:55,600
+ spanning the seven areas of affect recognition, media description, QA navigation.
+
+769
+01:14:55,600 --> 01:15:01,120
+ I didn't go into dialogue, event detection, and cross-meter retrieval, but a lot of these
+
+770
+01:15:01,120 --> 01:15:08,720
+ datasets are here. And definitely, you don't have to look at the datasets directly in this list.
+
+771
+01:15:08,720 --> 01:15:12,720
+ You're also free to look at some other datasets, especially new ones that have come out that
+
+772
+01:15:12,720 --> 01:15:17,120
+ we might not be aware of, or even some of the old ones that are not included in this list.
+
+773
+01:15:17,120 --> 01:15:20,720
+ But definitely let us know on Piazza if you find some other interesting datasets to look at.
+
+774
+01:15:20,720 --> 01:15:28,400
+ We also have more project examples on the website, including links to papers to code if they were
+
+775
+01:15:28,400 --> 01:15:36,720
+ released. So feel free to check that out. And just in general, to give some advice about
+
+776
+01:15:36,720 --> 01:15:41,680
+ multi-model research and the projects they will be undertaking, I think the main thing is to
+
+777
+01:15:41,680 --> 01:15:47,280
+ think more about the research problems and ask important research questions and think less about
+
+778
+01:15:47,280 --> 01:15:53,440
+ the datasets themselves. So I know we're kind of motivating this lecture and going into detail
+
+779
+01:15:53,440 --> 01:15:58,640
+ about a lot of these datasets and these datasets-specific models. But I always want everyone to keep
+
+780
+01:15:58,640 --> 01:16:04,160
+ in mind the main research problem that are inherent to many of these datasets that are inherent to
+
+781
+01:16:04,160 --> 01:16:11,040
+ the problem itself. And if you think about these research problems and design solutions based on
+
+782
+01:16:11,040 --> 01:16:15,840
+ these research problems, that also helps you build these more generalizable models that can work
+
+783
+01:16:15,840 --> 01:16:22,640
+ across several datasets within the same area. And likewise, if there's existing work in these
+
+784
+01:16:22,640 --> 01:16:27,520
+ areas, in particular looking at effective computing where a lot of the research started with psychology,
+
+785
+01:16:27,520 --> 01:16:32,000
+ you should also look at these existing research and info models that are also inspired by some
+
+786
+01:16:32,000 --> 01:16:37,600
+ of the work in psychology. There might be some very interesting, you know, hand-defined features,
+
+787
+01:16:37,600 --> 01:16:42,000
+ some very interesting modeling methods from psychology that are useful in this as well.
+
+788
+01:16:42,000 --> 01:16:49,600
+ Another thing to take note of is that a lot of people in machine learning look primarily at
+
+789
+01:16:49,600 --> 01:16:55,440
+ performance with respect to some, you know, evaluation metric. I would think, I would suggest
+
+790
+01:16:55,440 --> 01:17:00,720
+ everyone to also rethink about the metrics beyond simple performance. So things like whether your
+
+791
+01:17:00,720 --> 01:17:06,720
+ model is robust to missing or noisy modalities, whether you can design adversarial attacks to
+
+792
+01:17:06,720 --> 01:17:12,560
+ reason about the robustness of these methods. These are things that people who work on, you know,
+
+793
+01:17:12,560 --> 01:17:17,520
+ performance driven multimodal learning don't really think of right now. So I also think that a lot
+
+794
+01:17:17,520 --> 01:17:22,160
+ of research should be devoted into these areas so that we can actually make these models applicable
+
+795
+01:17:22,160 --> 01:17:29,440
+ in the real world. Another area instead of studying social biases, whether these representations
+
+796
+01:17:29,440 --> 01:17:35,440
+ actually carry these speaker artifacts that are undesirable towards making a prediction. For example,
+
+797
+01:17:35,440 --> 01:17:40,640
+ you wouldn't want to pick up on someone's race or gender if you were like making some sensitive
+
+798
+01:17:40,640 --> 01:17:47,440
+ prediction like related to affect to healthcare. So you want to make sure that your models are fair
+
+799
+01:17:47,440 --> 01:17:54,400
+ with respect. And likewise, you want to build interpretable models, things that can be easily
+
+800
+01:17:54,400 --> 01:18:00,560
+ understood rather than black box methods. You can also build interpretable versions of existing models
+
+801
+01:18:00,560 --> 01:18:06,000
+ or methods to analyze existing models to make them more interpretable. A lot of multimodal learning
+
+802
+01:18:06,000 --> 01:18:10,320
+ really focuses on finding out what are the dependencies between modalities, what are the
+
+803
+01:18:10,320 --> 01:18:16,080
+ contributions of modalities, and that is still not an answer question. So any area of interpretable
+
+804
+01:18:16,080 --> 01:18:21,840
+ research that goes into answering these questions would also be useful contributions. Likewise,
+
+805
+01:18:21,840 --> 01:18:26,720
+ nowadays people are trying to bring these methods into the real world, putting them on mobile devices.
+
+806
+01:18:26,720 --> 01:18:31,520
+ So faster models in terms of training, storage, and inference are also welcome.
+
+807
+01:18:31,520 --> 01:18:39,280
+ And finally, I also encourage people who have background in theory to also look at theoretical
+
+808
+01:18:39,280 --> 01:18:47,440
+ research. A lot of the lectures that we're going to give are focused more on these intuitions and
+
+809
+01:18:47,440 --> 01:18:51,680
+ deep learning and experiments, but we're also hoping to look into more theoretical areas for
+
+810
+01:18:51,680 --> 01:18:56,240
+ multimodal learning. And if you have contributions to this area, that would be great as well. Just
+
+811
+01:18:56,240 --> 01:19:00,720
+ make sure that there's also a decent amount of experiments to validate your theory, although
+
+812
+01:19:00,720 --> 01:19:06,800
+ you probably don't need to run that many experiments as compared to a purely experimental
+
+813
+01:19:06,800 --> 01:19:14,960
+ research project. Cool, and it's just some final advice. If you are used to dealing with text or
+
+814
+01:19:14,960 --> 01:19:18,960
+ speech, you're going to realize that if you want to deal with the images and videos, it can be a
+
+815
+01:19:18,960 --> 01:19:26,560
+ space space can be an issue. So make sure that you either partner with someone who has these large
+
+816
+01:19:26,560 --> 01:19:32,720
+ resources. And we're also going to be giving some of these AWS and Google Cloud credits to
+
+817
+01:19:32,720 --> 01:19:41,520
+ help in your research. And these will be announced on Plata. Cool, so that's the end of the lecture
+
+818
+01:19:41,520 --> 01:19:47,600
+ today. Just to give a recap on some of the upcoming course assignments, make sure that you either
+
+819
+01:19:47,600 --> 01:19:51,440
+ look at today's lecture, look at the slides, or look at the videos if you're not attending this
+
+820
+01:19:51,440 --> 01:19:57,040
+ this right now. Look at some of the main project preferences, data sets, research topics that
+
+821
+01:19:57,040 --> 01:20:02,960
+ you're interested in. Next Tuesday is a deadline for any sort of initial list of project preferences.
+
+822
+01:20:02,960 --> 01:20:09,920
+ And we also reserve a moment next Thursday to help everyone find teammates in this really cool
+
+823
+01:20:09,920 --> 01:20:15,040
+ interactive session that we have turned up. So here, we're really trying to help you find
+
+824
+01:20:15,040 --> 01:20:19,040
+ all the best teammates, the best projects that you're most interested in to let everyone have
+
+825
+01:20:19,040 --> 01:20:26,160
+ a successful course project. Two small tasks, the reading assignment is going to start next week.
+
+826
+01:20:26,160 --> 01:20:31,600
+ It's going to be due the following Friday. Make sure to look at the reading assignments,
+
+827
+01:20:31,600 --> 01:20:35,440
+ discuss them with your group, start reading them, and discussing them. And the lecture
+
+828
+01:20:35,440 --> 01:20:41,120
+ highlights are also going to be starting next week. So that one is also very simple. It's not meant
+
+829
+01:20:41,120 --> 01:20:45,280
+ to put all our pressure yourselves to chat that I know everyone is kind of understanding the basic
+
+830
+01:20:45,280 --> 01:20:50,480
+ material of the course and it's also to help us improve on whatever areas that was not explained
+
+831
+01:20:50,480 --> 01:20:55,440
+ too well. Yeah, so CPRS are for detailed instructions for all of these assignments.
+
+832
+01:20:55,440 --> 01:21:03,120
+ And that's it. Thanks for coming, everyone. That is the end of today's lecture. I actually have a
+
+833
+01:21:03,120 --> 01:21:09,840
+ large appendix of more multimodal data sets. Some of these are slides that we had in previous
+
+834
+01:21:09,840 --> 01:21:16,880
+ versions of the course that we had to remove for lack of time. But feel free to look at all of these
+
+835
+01:21:16,880 --> 01:21:22,000
+ datasets. We're going to post all these slides on Piazza as well. Thank you. I'm going to stay
+
+836
+01:21:22,000 --> 01:21:25,120
+ here for a couple of minutes in case people have questions.
+

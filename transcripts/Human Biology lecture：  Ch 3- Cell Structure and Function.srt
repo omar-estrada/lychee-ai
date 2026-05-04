@@ -1,0 +1,1336 @@
+1
+00:00:00,000 --> 00:00:07,000
+ Hey everyone, this is Dr. Marcon and this is chapter 3 on cell structure and function.
+
+2
+00:00:07,000 --> 00:00:11,000
+ So here are some of the learning objectives for you for this chapter.
+
+3
+00:00:11,000 --> 00:00:15,000
+ We want to relate the structure of a cell to its function.
+
+4
+00:00:15,000 --> 00:00:20,000
+ But first we have to figure out what is a cell and what's inside a cell.
+
+5
+00:00:20,000 --> 00:00:25,000
+ So eventually we'll be able to explain and identify how stuff, such as solutes and water,
+
+6
+00:00:25,000 --> 00:00:30,000
+ crosses membranes, determine the direction of the movement of water in different situations.
+
+7
+00:00:30,000 --> 00:00:34,000
+ We'll talk about that when we talk about membrane transport.
+
+8
+00:00:34,000 --> 00:00:40,000
+ And then describe the key eukaryotic organelles and their functions,
+
+9
+00:00:40,000 --> 00:00:44,000
+ including those involved in building proteins.
+
+10
+00:00:44,000 --> 00:00:49,000
+ So, so far in the last couple chapters we've learned about the properties of life
+
+11
+00:00:49,000 --> 00:00:55,000
+ and the basic building blocks, the basic elements that make us who we are.
+
+12
+00:00:55,000 --> 00:00:58,000
+ We talked about atoms, we talked about elements.
+
+13
+00:00:58,000 --> 00:01:03,000
+ So we went from the basic building blocks and now we're slowly building on
+
+14
+00:01:03,000 --> 00:01:09,000
+ to the components that make us humans, that make us who we are.
+
+15
+00:01:09,000 --> 00:01:15,000
+ So in the late 1830s we had two botanists.
+
+16
+00:01:15,000 --> 00:01:20,000
+ We had a botanist as well, we had botanist, Matthias, Schleiden and Zual,
+
+17
+00:01:20,000 --> 00:01:23,000
+ just Theodore Schwan, that were studying tissues
+
+18
+00:01:23,000 --> 00:01:28,000
+ and they proposed what's known as the unified cell theory.
+
+19
+00:01:28,000 --> 00:01:34,000
+ So we talked about, recall that living things are made up of one or more cells.
+
+20
+00:01:34,000 --> 00:01:41,000
+ So these two scientists actually made three postulates to the unified cell theory first.
+
+21
+00:01:41,000 --> 00:01:45,000
+ As we just said, all living things are composed of one or more cells.
+
+22
+00:01:45,000 --> 00:01:49,000
+ Also, the second, the cell is the basic unit of life.
+
+23
+00:01:49,000 --> 00:01:53,000
+ So it is the basic building blocks of all living things.
+
+24
+00:01:53,000 --> 00:01:58,000
+ And the third, all new cells will rise from existing cells.
+
+25
+00:01:58,000 --> 00:02:06,000
+ They just don't spontaneously come into existence, they come from existing cells.
+
+26
+00:02:06,000 --> 00:02:14,000
+ And again, this is referred to as the cell theory or the unified cell theory.
+
+27
+00:02:14,000 --> 00:02:17,000
+ So we have two main cell types.
+
+28
+00:02:17,000 --> 00:02:22,000
+ We have prokaryotic cells and we have eukaryotic cells.
+
+29
+00:02:22,000 --> 00:02:28,000
+ Prokaryotic cells, they lack an internal membrane-bound organelles.
+
+30
+00:02:28,000 --> 00:02:31,000
+ They are a lot smaller compared to eukaryotic cells.
+
+31
+00:02:31,000 --> 00:02:37,000
+ Eukaryotic cells, we know as our animal cells, basically the cells that make us who we are.
+
+32
+00:02:37,000 --> 00:02:42,000
+ They do contain an internal membrane-bound organelles, they are larger.
+
+33
+00:02:42,000 --> 00:02:48,000
+ There are four common components between these two cells.
+
+34
+00:02:48,000 --> 00:02:51,000
+ Depending on what book you read, there may be three, there may be four.
+
+35
+00:02:51,000 --> 00:02:58,000
+ According to your book, there are four common components between prokaryotic cells and eukaryotic cells.
+
+36
+00:02:58,000 --> 00:03:05,000
+ First, a plasma membrane which is an outer covering that separates the cell's interior from its surrounding environment.
+
+37
+00:03:05,000 --> 00:03:12,000
+ Second, an internal cytoplasm, this is the inside jelly-like region within the cell.
+
+38
+00:03:12,000 --> 00:03:14,000
+ Third, DNA.
+
+39
+00:03:14,000 --> 00:03:18,000
+ DNA is the genetic material of the cell.
+
+40
+00:03:18,000 --> 00:03:24,000
+ And according to your book, there is a fourth common component which is ribosomes.
+
+41
+00:03:24,000 --> 00:03:28,000
+ Ribosomes are particles that synthesize proteins.
+
+42
+00:03:28,000 --> 00:03:35,000
+ And we will talk more about that as we talk about the eukaryotic cells.
+
+43
+00:03:35,000 --> 00:03:41,000
+ So depending on your book again, there may be three, there may be four.
+
+44
+00:03:41,000 --> 00:03:50,000
+ But according to your book, there are four common components between these two types of cells.
+
+45
+00:03:50,000 --> 00:03:53,000
+ So how many cells are there in the human body?
+
+46
+00:03:53,000 --> 00:04:03,000
+ If you think about it, probably a lot more than 10 million but maybe less than a quadrillion.
+
+47
+00:04:03,000 --> 00:04:11,000
+ So there are 100 trillion cells in the human body and how big are these cells?
+
+48
+00:04:11,000 --> 00:04:23,000
+ So if you look at this table here, we can see that our cells are anywhere between 1 micron to 100 microns big.
+
+49
+00:04:23,000 --> 00:04:31,000
+ So most plant and animal cells are between or within this range.
+
+50
+00:04:31,000 --> 00:04:37,000
+ And we can see these cells are using different types of microscope.
+
+51
+00:04:37,000 --> 00:04:41,000
+ So cells are pretty tiny but how big is a micron?
+
+52
+00:04:41,000 --> 00:04:50,000
+ So if you think about it, when we look at a ruler, we have the metric systems that are using meters and centimeters.
+
+53
+00:04:50,000 --> 00:04:52,000
+ We have one centimeter here.
+
+54
+00:04:52,000 --> 00:04:55,000
+ So how many cells can fit in one centimeter?
+
+55
+00:04:55,000 --> 00:05:02,000
+ So about 10,000 microns can fit in one centimeter.
+
+56
+00:05:02,000 --> 00:05:12,000
+ So each cell is about 10 microns big so about 1,000 cells can fit in one centimeter.
+
+57
+00:05:12,000 --> 00:05:16,000
+ So just a really quick overview.
+
+58
+00:05:16,000 --> 00:05:22,000
+ There are several very important scientists that actually made discoveries about cells.
+
+59
+00:05:22,000 --> 00:05:24,000
+ First we have Robert Hook.
+
+60
+00:05:24,000 --> 00:05:30,000
+ Robert Hook first observed plant cells with a very crude microscope in the late 1600s.
+
+61
+00:05:30,000 --> 00:05:34,000
+ Then we have Matthias Schladen and Theodore Schwan.
+
+62
+00:05:34,000 --> 00:05:42,000
+ Schladen and Schwan actually in the 1830s boldly asserted that all living things are composed of cells.
+
+63
+00:05:42,000 --> 00:05:52,000
+ Shortly after that we have Rudolf Vercho who extended this idea by contending that cells only come from other cells.
+
+64
+00:05:52,000 --> 00:05:59,000
+ Now this kind of challenged the prevailing theory of the time where people believe that organisms can arise from
+
+65
+00:05:59,000 --> 00:06:04,000
+ non-living matter and this was known as the theory of spontaneous generation.
+
+66
+00:06:04,000 --> 00:06:08,000
+ Basically living things just spontaneously generated.
+
+67
+00:06:08,000 --> 00:06:10,000
+ But we know that that is not true.
+
+68
+00:06:10,000 --> 00:06:16,000
+ And Vercho's theory that cells coming from other cells actually still holds true today.
+
+69
+00:06:16,000 --> 00:06:23,000
+ So we know that cells are the small living units in the body.
+
+70
+00:06:23,000 --> 00:06:28,000
+ We know that cells can obtain nutrients, make molecules needed to survive,
+
+71
+00:06:28,000 --> 00:06:37,000
+ dispose of waste, maintain the shape or their shape of the cell as well as replicate and make more cells.
+
+72
+00:06:37,000 --> 00:06:43,000
+ We have structures within the cells called organelles.
+
+73
+00:06:43,000 --> 00:06:48,000
+ Organelles are subunits of cells that have specific functions.
+
+74
+00:06:48,000 --> 00:06:51,000
+ And most cells do contain the same basic organelles.
+
+75
+00:06:51,000 --> 00:06:56,000
+ However, not all cells have all organelles in the same abundance.
+
+76
+00:06:56,000 --> 00:07:00,000
+ For example, we will talk about mitochondria.
+
+77
+00:07:00,000 --> 00:07:05,000
+ Mitochondria is an organelle that is responsible for ATP production.
+
+78
+00:07:05,000 --> 00:07:07,000
+ ATP is needed for energy.
+
+79
+00:07:07,000 --> 00:07:12,000
+ And we have skeletal muscles that move and need ATP for energy.
+
+80
+00:07:12,000 --> 00:07:19,000
+ So cells within skeletal muscle will have more mitochondria so that they can have more ATP for movement.
+
+81
+00:07:19,000 --> 00:07:28,000
+ Whereas there are other cells who don't really use a lot of ATP, so they might not have as much mitochondria
+
+82
+00:07:28,000 --> 00:07:31,000
+ as say a skeletal muscle cell.
+
+83
+00:07:31,000 --> 00:07:35,000
+ Now, cells have three very main components.
+
+84
+00:07:35,000 --> 00:07:39,000
+ There is the outer boundary known as the plasma membrane.
+
+85
+00:07:39,000 --> 00:07:45,000
+ And then within the cell we have the cytoplasm, which contains most organelles.
+
+86
+00:07:45,000 --> 00:07:55,000
+ And the control center of the cell we know is the nucleus and the nucleus controls all cellular activities.
+
+87
+00:07:55,000 --> 00:08:00,000
+ And here is just a basic structure of a generalized cell.
+
+88
+00:08:00,000 --> 00:08:09,000
+ So we can see within the center of the cell is the nucleus contained within a nuclear envelope.
+
+89
+00:08:09,000 --> 00:08:15,000
+ We can see that there is a smaller structure called the nucleolus.
+
+90
+00:08:15,000 --> 00:08:18,000
+ And then we can see chromatin within the nucleus.
+
+91
+00:08:18,000 --> 00:08:29,000
+ And then we have this outer plasma membrane which basically holds the shape of the cell and kind of holds everything inside.
+
+92
+00:08:29,000 --> 00:08:37,000
+ And then within the cell we have the cytoplasm where we can find the different organelles within the cell.
+
+93
+00:08:37,000 --> 00:08:42,000
+ And then we'll go over the different organelles in just a little bit.
+
+94
+00:08:42,000 --> 00:08:45,000
+ So the plasma membrane defines the extent of the cell.
+
+95
+00:08:45,000 --> 00:08:54,000
+ It separates the intracellular fluid within the cell from the extra cellular fluid outside and between the cells.
+
+96
+00:08:54,000 --> 00:09:06,000
+ The structure of the plasma membrane, we know that it is based on a fluid mosaic model, meaning it has a lipid bilayer
+
+97
+00:09:06,000 --> 00:09:09,000
+ within the lipid bilayer.
+
+98
+00:09:09,000 --> 00:09:14,000
+ We can see types of membrane proteins throughout.
+
+99
+00:09:14,000 --> 00:09:16,000
+ For example, we have integral proteins.
+
+100
+00:09:16,000 --> 00:09:23,000
+ These integral proteins are firmly embedded in the plasma membrane or attached to the lipid bilayer.
+
+101
+00:09:23,000 --> 00:09:31,000
+ We also have short chains of carbohydrates that are attached to the integral proteins that form the glycocalyx.
+
+102
+00:09:31,000 --> 00:09:36,000
+ We also have peripheral proteins that attach to the membrane surface.
+
+103
+00:09:36,000 --> 00:09:42,000
+ These proteins support the plasma membrane from the cytoplasmic side.
+
+104
+00:09:42,000 --> 00:09:49,000
+ And here we can see the fluid mosaic model of the plasma membrane.
+
+105
+00:09:49,000 --> 00:09:58,000
+ We see that lipid bilayer, so there are two layers of lipids forming the plasma membrane.
+
+106
+00:09:58,000 --> 00:10:07,000
+ We have an inward facing layer of the phospholipid and then the outward facing layer of the phospholipids.
+
+107
+00:10:07,000 --> 00:10:15,000
+ So we can see the head of the phospholipid and then the tails within.
+
+108
+00:10:15,000 --> 00:10:24,000
+ So two layers of lipids forming that lipid bilayer of the plasma membrane.
+
+109
+00:10:24,000 --> 00:10:33,000
+ So the phospholipid molecule is actually what makes up the bilayer of the plasma membrane.
+
+110
+00:10:33,000 --> 00:10:38,000
+ It has a polar head, which we can see by these little circles.
+
+111
+00:10:38,000 --> 00:10:43,000
+ And these polar parts of the phospholipid, they're actually hydrophilic.
+
+112
+00:10:43,000 --> 00:10:47,000
+ So, "philic" means something that is attracted to or like.
+
+113
+00:10:47,000 --> 00:10:55,000
+ So a hydrophilic end of the phospholipid molecule means that it actually is attracted to water.
+
+114
+00:10:55,000 --> 00:11:01,000
+ And then we have a non-polar tail of the phospholipid molecule.
+
+115
+00:11:01,000 --> 00:11:06,000
+ And these are actually hydrophobic, meaning they are not attracted to water.
+
+116
+00:11:06,000 --> 00:11:11,000
+ They're actually not afraid, but basically not attracted to.
+
+117
+00:11:11,000 --> 00:11:15,000
+ So we have two parts of the phospholipid molecule.
+
+118
+00:11:15,000 --> 00:11:22,000
+ So we have that polar hydrophilic head and then the non-polar tail, which is hydrophobic.
+
+119
+00:11:22,000 --> 00:11:26,000
+ And then in this picture, we can see the different proteins that we talked about.
+
+120
+00:11:26,000 --> 00:11:32,000
+ We have these integral proteins that are embedded throughout the phospholipid bilayer.
+
+121
+00:11:32,000 --> 00:11:39,000
+ We also have peripheral proteins located on the surfaces of the phospholipid bilayer.
+
+122
+00:11:39,000 --> 00:11:53,000
+ And then we have the carbohydrates that are attached to or can be attached to the plasma membrane forming a glyco-calix.
+
+123
+00:11:53,000 --> 00:12:07,000
+ So functions of the plasma membrane, basically, they relate to the location at the interface of the cell's exterior or outer part and the interior, which is the inner part.
+
+124
+00:12:07,000 --> 00:12:11,000
+ The plasma membrane can provide a barrier against substances outside the cell.
+
+125
+00:12:11,000 --> 00:12:22,000
+ And then we do have some plasma membrane that do act as receptors for certain things, such as hormones or neurotransmitters.
+
+126
+00:12:22,000 --> 00:12:29,000
+ Other functions of the plasma membrane can also include determining what substances can enter or leave the cell.
+
+127
+00:12:29,000 --> 00:12:44,000
+ So we know that the membrane is selectively permeable, meaning it can basically decide what can come into the cell or what can leave the cell.
+
+128
+00:12:44,000 --> 00:12:54,000
+ Plasma membrane is important for transport of molecules within the cell or leaving the cell.
+
+129
+00:12:54,000 --> 00:13:01,000
+ So type of membrane transport we're going to first talk about is the first one will be simple diffusion.
+
+130
+00:13:01,000 --> 00:13:12,000
+ So simple diffusion is basically the tendency of molecules to move down their concentration gradient from an area of high concentration to an area below concentration.
+
+131
+00:13:12,000 --> 00:13:14,000
+ We then have osmosis.
+
+132
+00:13:14,000 --> 00:13:17,000
+ Whenever you hear the word osmosis, think water.
+
+133
+00:13:17,000 --> 00:13:22,000
+ So osmosis is basically the diffusion of water molecules across a membrane.
+
+134
+00:13:22,000 --> 00:13:27,000
+ Note that simple diffusion and osmosis do not require energy.
+
+135
+00:13:27,000 --> 00:13:34,000
+ So it's basically a simple diffusion of areas of high concentration to low.
+
+136
+00:13:34,000 --> 00:13:43,000
+ In the case of osmosis, that being the movement of water molecules.
+
+137
+00:13:43,000 --> 00:13:48,000
+ So here we can see in this first part of the diagram, simple diffusion.
+
+138
+00:13:48,000 --> 00:13:56,000
+ We have simple diffusion of fat soluble molecules that go directly through that phospholipid bilayer down their concentration gradient.
+
+139
+00:13:56,000 --> 00:14:01,000
+ So going from an area of high concentration to an area of low concentration.
+
+140
+00:14:01,000 --> 00:14:06,000
+ Osmosis, this is the diffusion of water through the lipid bilayer.
+
+141
+00:14:06,000 --> 00:14:14,000
+ Again, these two types of membrane transport do not require ATP or do not require energy.
+
+142
+00:14:14,000 --> 00:14:19,000
+ This next part of the diagram we'll see, we can see facilitated diffusion.
+
+143
+00:14:19,000 --> 00:14:28,000
+ Now facilitated diffusion is a type of membrane transport where we have movement of molecules down their concentration gradient.
+
+144
+00:14:28,000 --> 00:14:31,000
+ However, using an integral protein.
+
+145
+00:14:31,000 --> 00:14:36,000
+ So we talked about integral proteins being embedded within that phospholipid bilayer.
+
+146
+00:14:36,000 --> 00:14:48,000
+ Facilitated diffusion is basically the diffusion of molecules going from an area of high concentration to an area of low concentration with the help of an integral protein.
+
+147
+00:14:48,000 --> 00:14:54,000
+ So facilitated basically means it requires help.
+
+148
+00:14:54,000 --> 00:14:58,000
+ And we can see here it's getting help from an integral protein.
+
+149
+00:14:58,000 --> 00:15:06,000
+ We'll span the plasma membrane and help with the passage of particular solids across the membrane.
+
+150
+00:15:06,000 --> 00:15:08,000
+ Then we have active transport.
+
+151
+00:15:08,000 --> 00:15:14,000
+ So active transport as its name implies requires energy.
+
+152
+00:15:14,000 --> 00:15:22,000
+ So the integral proteins will move molecules across the plasma membrane against their concentration gradient.
+
+153
+00:15:22,000 --> 00:15:33,000
+ So in order to go against their concentration gradient, meaning instead of going from high to low, it goes from areas of low concentration to high concentrations.
+
+154
+00:15:33,000 --> 00:15:36,000
+ And this requires energy to do so.
+
+155
+00:15:36,000 --> 00:15:45,000
+ So active transport, we can see that the integral proteins will move molecules across the plasma membrane with the aid of ATP.
+
+156
+00:15:45,000 --> 00:15:55,000
+ So use ATP as an energy source to actively pump substances across the plasma membrane against their concentration gradients.
+
+157
+00:15:55,000 --> 00:15:58,000
+ Okay.
+
+158
+00:15:58,000 --> 00:16:11,000
+ So again, just a quick recap of the different more types of membrane transport, facilitated fusion movement of molecules down their concentration gradient through the use of integral protein.
+
+159
+00:16:11,000 --> 00:16:24,000
+ Active transport requiring energy, requiring ATP in which the integral proteins will move molecules and pump them across the plasma membrane against their concentration gradient.
+
+160
+00:16:24,000 --> 00:16:31,000
+ Then we have more means of transport.
+
+161
+00:16:31,000 --> 00:16:33,000
+ Here we have endocytosis.
+
+162
+00:16:33,000 --> 00:16:41,000
+ Endo, meaning inner, so endocytosis is a mechanism by which particles enter cells.
+
+163
+00:16:41,000 --> 00:16:42,000
+ And we have different types.
+
+164
+00:16:42,000 --> 00:16:47,000
+ We have two main types here that we can see of endocytosis.
+
+165
+00:16:47,000 --> 00:16:54,000
+ It basically, depending upon the type of substance that is being moved.
+
+166
+00:16:54,000 --> 00:17:00,000
+ So phagocytosis, and this is basically the cell engulfing solids or cell eating.
+
+167
+00:17:00,000 --> 00:17:03,000
+ Think of a Pac-Man cell.
+
+168
+00:17:03,000 --> 00:17:13,000
+ So if you've ever played Pac-Man, which is an old school video game, you can see Pac-Man kind of engulfing little pellets or, you know, those ghosts or whatever.
+
+169
+00:17:13,000 --> 00:17:17,000
+ So that would be an example of phagocytosis.
+
+170
+00:17:17,000 --> 00:17:21,000
+ Now, penocytosis is different from phagocytosis because it involves fluids.
+
+171
+00:17:21,000 --> 00:17:29,000
+ So penocytosis is cell drinking.
+
+172
+00:17:29,000 --> 00:17:32,000
+ We have receptor-mediated endocytosis.
+
+173
+00:17:32,000 --> 00:17:35,000
+ This is when plasma proteins will bind to certain molecules.
+
+174
+00:17:35,000 --> 00:17:44,000
+ It will then invaginate and form a coated pit and then pinch off to become a coated vesicle.
+
+175
+00:17:44,000 --> 00:17:55,000
+ This is a method by which hormones such as insulin or other hormones, enzymes, and low density lipoproteins can enter cells.
+
+176
+00:17:55,000 --> 00:17:59,000
+ So here we see the three types of endocytosis.
+
+177
+00:17:59,000 --> 00:18:10,000
+ We have phagocytosis when the cell will engulf a large particle and enclose it, sort of like a Pac-Man cell.
+
+178
+00:18:10,000 --> 00:18:17,000
+ We have penocytosis, which is basically the engulfing of fluids.
+
+179
+00:18:17,000 --> 00:18:29,000
+ So in folding of the plasma membrane will carry a drop of extra-cellular fluid containing solutes into the cell and forming a tiny membrane bound vesicle.
+
+180
+00:18:29,000 --> 00:18:33,000
+ No receptors are used, so process is non-specific.
+
+181
+00:18:33,000 --> 00:18:39,000
+ And then we have receptor-mediated endocytosis, so we have the use of receptors.
+
+182
+00:18:39,000 --> 00:18:51,000
+ So extra-cellular substances will bind to specific receptors or specific receptor proteins in regions of protein-coated pits.
+
+183
+00:18:51,000 --> 00:19:01,000
+ This enables the cell to ingest and concentrate specific substances in protein-coated vesicles.
+
+184
+00:19:01,000 --> 00:19:14,000
+ This ingested substance can be simply released inside the cell or combined with a lysosome to ingest or digest whatever contents are within that vesicle.
+
+185
+00:19:14,000 --> 00:19:22,000
+ And then once this has occurred, receptors can be recycled and go back to the plasma membrane.
+
+186
+00:19:22,000 --> 00:19:33,000
+ So if endo means moving stuff into the cell exo, or exocytosis is movement of substances out of the cell.
+
+187
+00:19:33,000 --> 00:19:38,000
+ So exocytosis is a mechanism that moves substances out of the cell.
+
+188
+00:19:38,000 --> 00:19:55,000
+ A substance will usually be enclosed in a vesicle and then will move towards the plasma membrane where the contents of the vesicle will then erupt or move out of the vesicle into the extra-cellular fluid.
+
+189
+00:19:55,000 --> 00:20:09,000
+ So here we can see the process of exocytosis. We have that vesicle, so the molecule to be secreted will migrate towards the plasma membrane in a membrane-bound vesicle.
+
+190
+00:20:09,000 --> 00:20:22,000
+ Once it reaches the plasma membrane, proteins will bind the vesicle to the plasma membrane and then the vesicle and plasma membrane will fuse.
+
+191
+00:20:22,000 --> 00:20:31,000
+ A pore will open up and the contents within the vesicle will be released to the exterior of the cell.
+
+192
+00:20:31,000 --> 00:20:44,000
+ Here we can see a really nice photo-micrograph of the contents of the vesicle being released via exocytosis to the outside of the cell.
+
+193
+00:20:44,000 --> 00:20:58,000
+ So the cytoplasm is a structure that lies internal or inside to the plasma membrane and consists of cytosol, organelles, and other inclusions.
+
+194
+00:20:58,000 --> 00:21:07,000
+ Cytosol is a jelly-like fluid in which other cellular elements are suspended and consists of water, ions, and enzymes.
+
+195
+00:21:07,000 --> 00:21:20,000
+ So the first organell or cytoplasmic organell that we're going to talk about are ribosomes. Ribosomes are constructed of proteins and ribosomal RNA and are not surrounded by a membrane.
+
+196
+00:21:20,000 --> 00:21:26,000
+ Ribosomes are important because this is the site of protein synthesis.
+
+197
+00:21:26,000 --> 00:21:45,000
+ We have an assembly of proteins called translation. Basically, the ribosomes are the assembly line of the manufacturing plants where substances are assembled to form proteins.
+
+198
+00:21:45,000 --> 00:21:54,000
+ Free ribosomes function within the cytosol and we have also ribosomes that are attached to the endoplasmic reticulum.
+
+199
+00:21:54,000 --> 00:22:05,000
+ These ribosomes attached to the ER make proteins to help renew the plasma membrane, also make proteins that are exported from the cell.
+
+200
+00:22:05,000 --> 00:22:16,000
+ Speaking of the ER or the endoplasmic reticulum, the ER is a system of membrane wall envelopes and tubes throughout the cytoplasm and we have two different types of ER.
+
+201
+00:22:16,000 --> 00:22:29,000
+ We have rough ER which actually gets its appearance because we have ribosomes that are found within the external surfaces of the endoplasmic reticulum.
+
+202
+00:22:29,000 --> 00:22:36,000
+ So it kind of gives it that rough looking appearance and then we have smooth ER.
+
+203
+00:22:36,000 --> 00:22:47,000
+ So if it is smooth ER, there are no ribosomes attached. If there are no ribosomes, no protein synthesis occurs within the smooth ER.
+
+204
+00:22:47,000 --> 00:22:55,000
+ So the smooth ER consists of two-wheels in a branching network. Again, no ribosomes are attached to the smooth ER.
+
+205
+00:22:55,000 --> 00:22:59,000
+ That's why it has its smooth appearance.
+
+206
+00:22:59,000 --> 00:23:11,000
+ And here we can see the endoplasmic reticulum. We have the rough ER with the ribosomes kind of studied throughout the surface of the ER here.
+
+207
+00:23:11,000 --> 00:23:17,000
+ Again, this is where we have protein synthesis and then we have smooth ER.
+
+208
+00:23:17,000 --> 00:23:23,000
+ So no ribosomes, meaning no protein synthesis.
+
+209
+00:23:23,000 --> 00:23:31,000
+ The next organelle is the Golgi apparatus. The Golgi apparatus is a stack of three to ten disc-shaped envelopes.
+
+210
+00:23:31,000 --> 00:23:38,000
+ This organelle sorts products of the rough ER and then sends them to their proper destination.
+
+211
+00:23:38,000 --> 00:23:49,000
+ The products of the rough ER will move through the Golgi from the convex side to the concave side of the Golgi apparatus.
+
+212
+00:23:49,000 --> 00:23:55,000
+ So the Golgi apparatus is basically the packaging and shipping division of the manufacturing plant.
+
+213
+00:23:55,000 --> 00:24:01,000
+ So it's the FedEx of the cell.
+
+214
+00:24:01,000 --> 00:24:09,000
+ So here we see many vesicles in the process of pinching off from the Golgi apparatus.
+
+215
+00:24:09,000 --> 00:24:19,000
+ So products coming from the rough ER being packaged and shipped through the Golgi apparatus.
+
+216
+00:24:19,000 --> 00:24:34,000
+ So this is the sequence of vents from the rough ER where protein synthesis takes place to the final distribution of these proteins once it has gone through packaging and shipping within the Golgi.
+
+217
+00:24:34,000 --> 00:24:42,000
+ So protein-contained vesicles will pinch off the rough ER, will migrate to fuse with membranes of the Golgi.
+
+218
+00:24:42,000 --> 00:24:48,000
+ Proteins are then modified within the Golgi compartments and are then packaged within different vesicle types.
+
+219
+00:24:48,000 --> 00:25:02,000
+ So we can see they're being placed into these vesicles containing the proteins and then will then be shipped off depending on their ultimate destination.
+
+220
+00:25:02,000 --> 00:25:12,000
+ Sometimes it's towards the plasma membrane where the contents will then be shipped out of the cell.
+
+221
+00:25:12,000 --> 00:25:26,000
+ Or it could end up being incorporated into the plasma membrane or the proteins can then stay within the cell.
+
+222
+00:25:26,000 --> 00:25:39,000
+ And these proteins can be used as digestive enzymes to break down any particles that might come within the cell.
+
+223
+00:25:39,000 --> 00:25:43,000
+ The next organelle we're going to talk about is lysosomes.
+
+224
+00:25:43,000 --> 00:25:48,000
+ So lysosomes are membrane-walled sacs containing digestive enzymes.
+
+225
+00:25:48,000 --> 00:26:01,000
+ These digest any unwanted substances and are also known as the demolition crew, so basically they break down and digest any unwanted substances within the cell.
+
+226
+00:26:01,000 --> 00:26:08,000
+ Here's just some pictures of an electron micrograph of lysosomes containing those enzymes.
+
+227
+00:26:08,000 --> 00:26:14,000
+ And then we can see the lightening areas are regions where materials are being digested.
+
+228
+00:26:14,000 --> 00:26:19,000
+ A very important organelle that we talked about earlier is the mitochondria.
+
+229
+00:26:19,000 --> 00:26:26,000
+ So the mitochondria are surrounded by a double-walled membrane and generate most of the cell's energy.
+
+230
+00:26:26,000 --> 00:26:30,000
+ They are known as the power plant or the powerhouse of the cell.
+
+231
+00:26:30,000 --> 00:26:43,000
+ The mitochondria release energy stored in chemical bonds and will transfer this energy to help produce ATP, also known as adenotryphosphate, basically what we use for energy.
+
+232
+00:26:43,000 --> 00:26:51,000
+ So cells with very high energy requirements will have more mitochondria like we talked about earlier.
+
+233
+00:26:51,000 --> 00:26:57,000
+ For example, muscle cells will need more mitochondria because they need more ATP to function.
+
+234
+00:26:57,000 --> 00:27:00,000
+ The mitochondria are the most complex organelle.
+
+235
+00:27:00,000 --> 00:27:09,000
+ They actually contain some eternally inherited DNA, so we get our mitochondria from our mothers.
+
+236
+00:27:09,000 --> 00:27:14,000
+ We also think that the mitochondria might have arisen from bacteria.
+
+237
+00:27:14,000 --> 00:27:20,000
+ So here we can see the structure of the mitochondrial DNA.
+
+238
+00:27:20,000 --> 00:27:27,000
+ We have an outer membrane and then an inner membrane, and then we see these folds known as Christe.
+
+239
+00:27:27,000 --> 00:27:36,000
+ And then we have enzymes within the Christe of the mitochondria.
+
+240
+00:27:36,000 --> 00:27:39,000
+ Next, organelle are peroxisomes.
+
+241
+00:27:39,000 --> 00:27:44,000
+ These are membrane-walled sacks of oxidase enzymes.
+
+242
+00:27:44,000 --> 00:27:51,000
+ Peroxisomes are enzymes that help neutralize any free radicals and help break down poisons.
+
+243
+00:27:51,000 --> 00:27:54,000
+ They also can break down long chains of fatty acids.
+
+244
+00:27:54,000 --> 00:28:00,000
+ Peroxisomes are very numerous in the liver and kidneys because they basically help detoxify things.
+
+245
+00:28:00,000 --> 00:28:05,000
+ We know that liver and kidneys are very important in detoxification of our blood.
+
+246
+00:28:05,000 --> 00:28:14,000
+ Peroxisomes are the toxic waste removal system of this cell.
+
+247
+00:28:14,000 --> 00:28:16,000
+ Then we have the cytoskeleton.
+
+248
+00:28:16,000 --> 00:28:20,000
+ This is the cell skeleton, which is an elaborate network of rods.
+
+249
+00:28:20,000 --> 00:28:23,000
+ And we have three different types of rods.
+
+250
+00:28:23,000 --> 00:28:27,000
+ We have microtubules, microfilaments, and intermediate filaments.
+
+251
+00:28:27,000 --> 00:28:34,000
+ So microtubules being cylindrical structures made up of proteins, microfilaments being filaments
+
+252
+00:28:34,000 --> 00:28:43,000
+ of contractile protein actin, very important when we talk about movement and contraction
+
+253
+00:28:43,000 --> 00:28:48,000
+ of these proteins, specifically in skeletal muscle.
+
+254
+00:28:48,000 --> 00:28:55,000
+ And then we have intermediate filaments, which are protein fibers.
+
+255
+00:28:55,000 --> 00:29:00,000
+ So microfilaments are strands made of spherical protein subunit called actins.
+
+256
+00:29:00,000 --> 00:29:11,000
+ And you can see that here, kind of crisscrossing and being closely associated with one another.
+
+257
+00:29:11,000 --> 00:29:15,000
+ Microfilaments form the blue networks surrounding the pink nucleus in the photo.
+
+258
+00:29:15,000 --> 00:29:18,000
+ So again, these are part of the cytoskeleton.
+
+259
+00:29:18,000 --> 00:29:21,000
+ We then have intermediate filaments.
+
+260
+00:29:21,000 --> 00:29:28,000
+ These are tough in soluble protein fibers that are constructed like woven ropes.
+
+261
+00:29:28,000 --> 00:29:30,000
+ And then we have microtubules.
+
+262
+00:29:30,000 --> 00:29:35,000
+ These are hollow tubes of spherical protein subunits called tubulins.
+
+263
+00:29:35,000 --> 00:29:42,000
+ Again, helping form that cytoskeletal element within the cell.
+
+264
+00:29:42,000 --> 00:29:46,000
+ Other organelles include centrosomes and centrioles.
+
+265
+00:29:46,000 --> 00:29:56,000
+ Centrosome is a spherical structure in the cytoplasm composed of the centrosome matrix and centrioles.
+
+266
+00:29:56,000 --> 00:30:02,000
+ So centrosomes being made up of centrioles.
+
+267
+00:30:02,000 --> 00:30:11,000
+ Centrioles are paired cylindrical bodies, consists of 27 short microtubules, also act in forming cilia,
+
+268
+00:30:11,000 --> 00:30:18,000
+ and are very necessary for an event called karyokinesis or nuclear division.
+
+269
+00:30:18,000 --> 00:30:23,000
+ So this occurs during mitosis.
+
+270
+00:30:23,000 --> 00:30:33,000
+ We also have cytoplasmic inclusions which are temporary structures and not present in all cell types.
+
+271
+00:30:33,000 --> 00:30:39,000
+ These inclusions may consist of pigments, crystals of protein as well as food stores.
+
+272
+00:30:39,000 --> 00:30:43,000
+ So such inclusions include lipid droplets.
+
+273
+00:30:43,000 --> 00:30:47,000
+ These are found in liver cells and fat cells.
+
+274
+00:30:47,000 --> 00:30:53,000
+ We also have glycosomes which help store sugar in the form of glycogen.
+
+275
+00:30:53,000 --> 00:31:02,000
+ So we know that glucose is very important to help us perform certain functions.
+
+276
+00:31:02,000 --> 00:31:10,000
+ And then the store form of glucose is known as glycogen.
+
+277
+00:31:10,000 --> 00:31:17,000
+ So the next very important organelle is the nucleus, nucleus is the control center of the cell.
+
+278
+00:31:17,000 --> 00:31:23,000
+ We know that DNA directs the cell's activities, DNA is contained within the nucleus.
+
+279
+00:31:23,000 --> 00:31:27,000
+ DNA is important for providing instructions for protein synthesis.
+
+280
+00:31:27,000 --> 00:31:30,000
+ You know, we get our DNA from our parents.
+
+281
+00:31:30,000 --> 00:31:38,000
+ And protein synthesis is important because it basically directs things such as eye color or hair color
+
+282
+00:31:38,000 --> 00:31:44,000
+ or, you know, all sorts of things, sorts of traits that we get from our parents.
+
+283
+00:31:44,000 --> 00:31:50,000
+ So the nucleus is approximately five microns in diameter.
+
+284
+00:31:50,000 --> 00:31:53,000
+ And here we see the purple structure.
+
+285
+00:31:53,000 --> 00:31:57,000
+ It's not usually purple, but in this figure it is purple.
+
+286
+00:31:57,000 --> 00:32:03,000
+ We can see the nucleus as well as the nucleolus.
+
+287
+00:32:03,000 --> 00:32:08,000
+ And we see that it is surrounded by cisterns of the rough ER.
+
+288
+00:32:08,000 --> 00:32:14,000
+ Again, rough ER containing ribosomes which is very important in protein synthesis.
+
+289
+00:32:14,000 --> 00:32:22,000
+ And we know that the DNA within the nucleus directs protein synthesis.
+
+290
+00:32:22,000 --> 00:32:25,000
+ So the nucleus is surrounded by the nuclear envelope.
+
+291
+00:32:25,000 --> 00:32:29,000
+ These are two parallel membranes separated by a fluid filled space.
+
+292
+00:32:29,000 --> 00:32:38,000
+ We have nuclear pores that penetrate the nuclear envelope which allow large molecules to pass in and out of the nucleus.
+
+293
+00:32:38,000 --> 00:32:41,000
+ Then we have within the nucleus the nucleolus.
+
+294
+00:32:41,000 --> 00:32:48,000
+ This is also known as the little nucleus in the center of the nucleus contains parts of several chromosomes
+
+295
+00:32:48,000 --> 00:32:54,000
+ and is the site of ribosomes subunit assembly.
+
+296
+00:32:54,000 --> 00:33:00,000
+ So speaking of chromatin and chromosomes we have what is known as DNA.
+
+297
+00:33:00,000 --> 00:33:05,000
+ DNA is your deoxyribonucleic acid.
+
+298
+00:33:05,000 --> 00:33:10,000
+ Basically DNA is a double helix composed of four subunits.
+
+299
+00:33:10,000 --> 00:33:17,000
+ We have our thymine, adenine, cytosine and guanine.
+
+300
+00:33:17,000 --> 00:33:19,000
+ We have purines and pyrimidines.
+
+301
+00:33:19,000 --> 00:33:23,000
+ A way to remember that is pure as gold.
+
+302
+00:33:23,000 --> 00:33:36,000
+ So purines include the subunits of adenine and guanine and the pyrimidines are thymine and cytosine.
+
+303
+00:33:36,000 --> 00:33:39,000
+ So DNA is packed with protein molecules.
+
+304
+00:33:39,000 --> 00:33:46,000
+ DNA is plus proteins form chromatin.
+
+305
+00:33:46,000 --> 00:33:54,000
+ So each cluster of DNA and histone proteins is considered to be called a nucleosome.
+
+306
+00:33:54,000 --> 00:34:04,000
+ Here we see the double helix structure of DNA and we have pairings of different nucleotides or different subunits
+
+307
+00:34:04,000 --> 00:34:14,000
+ so we can see that adenine will bind with thymine and this bond is through a hydrogen bond.
+
+308
+00:34:14,000 --> 00:34:21,000
+ And then we see the pairing of cytosine with guanine.
+
+309
+00:34:21,000 --> 00:34:36,000
+ So purines and pyrimidines will basically bind with one another and form this double helical structure that we know to be DNA.
+
+310
+00:34:36,000 --> 00:34:49,000
+ So we have different regions within the DNA. Extended chromatin is the active region where the DNA genetic code will be copied into messenger RNA in transcription.
+
+311
+00:34:49,000 --> 00:35:00,000
+ Basically messenger RNA takes that code from the DNA to allow for protein synthesis.
+
+312
+00:35:00,000 --> 00:35:12,000
+ We also have condensed chromatin. These are tightly coiled nucleosomes. This is the inactive form of chromatin.
+
+313
+00:35:12,000 --> 00:35:31,000
+ So chromosomes are the highest level of organization of chromatin. Chromosomes contain a long molecule of DNA and a typical human cell contains 46 chromosomes or 23 pairs of chromosomes.
+
+314
+00:35:31,000 --> 00:35:43,000
+ One for mom, one from dad. So here we see the DNA double helix. We have the active region known as the extended chromatin.
+
+315
+00:35:43,000 --> 00:35:53,000
+ And then we can see how they start to tightly bind it condensed to then form the highest level which is the chromosome.
+
+316
+00:35:53,000 --> 00:36:05,000
+ Now that we've learned what makes up our cells and the different structures that make up our cells, we have to ask ourselves what do our cells do?
+
+317
+00:36:05,000 --> 00:36:11,000
+ Do all cells have the same structure and function? To answer that question, let's compare these two cells.
+
+318
+00:36:11,000 --> 00:36:22,000
+ On the left we have microglia cells in the brain. Microglia cells are support cells for the main cells in the brain, the neurons.
+
+319
+00:36:22,000 --> 00:36:33,000
+ So we can see the microglia cells shaded green here. And then on the right we see a sperm cell. Now what do we notice about their structures?
+
+320
+00:36:33,000 --> 00:36:44,000
+ We know they have the body of the cell, there's organelles within the cell. We tell that there are two specific structures that differentiate these two cells.
+
+321
+00:36:44,000 --> 00:36:54,000
+ We know that the sperm cell is responsible for uniting with an egg cell and forming a totally new organism.
+
+322
+00:36:54,000 --> 00:36:59,000
+ But let's take a look at what microglia cells do in the brain.
+
+323
+00:36:59,000 --> 00:37:09,000
+ So pay attention to how their structure relates to function. So here are microglia cells in a living mouse brain.
+
+324
+00:37:09,000 --> 00:37:24,000
+ We can see the green stained microglia cells. Now when the mouse brain has some sort of injury, injury to the neurons,
+
+325
+00:37:24,000 --> 00:37:29,000
+ the microglia cells are important because they help they actually increase.
+
+326
+00:37:29,000 --> 00:37:35,000
+ So we can see there's a larger number of microglia cells going to the site of injury within the brain.
+
+327
+00:37:35,000 --> 00:37:44,000
+ They act like pac-man cells or macrophages to take away any cellular debris in any damaged cells.
+
+328
+00:37:44,000 --> 00:37:54,000
+ So if we damage the neurons within the mouse brain, these support cells, these microglia cells, will come in and take away this damage.
+
+329
+00:37:54,000 --> 00:38:09,000
+ So again, we can see that the structure of the cell does relate to its function. The sperm cell that we saw earlier has to swim into the vaginal canal,
+
+330
+00:38:09,000 --> 00:38:16,000
+ swim and meet the female's egg in order for fertilization in order for new life to occur.
+
+331
+00:38:16,000 --> 00:38:30,000
+ So we saw that the structure of the sperm was ideal. It had a tail, the head of the sperm, important for getting into the, through the layers of the egg cell for fertilization.
+
+332
+00:38:30,000 --> 00:38:44,000
+ Whereas in the mouse brain, these microglia have specific cell structure that allows them to kind of phagocytize or eat any damaged cells or cellular debris.
+
+333
+00:38:44,000 --> 00:38:50,000
+ So again, pay attention to how structures of cell relates to their function.
+
+334
+00:38:50,000 --> 00:39:02,000
+ Okay, so that's it for this part of chapter three. There will be another video focusing on membrane transport, and we'll get more into that in the next video.
+

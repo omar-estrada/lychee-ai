@@ -1,0 +1,1400 @@
+1
+00:00:00,000 --> 00:00:05,440
+ Hi, class. Dr. Jim here. In this lecture, we're going to be looking at immunity. And
+
+2
+00:00:05,440 --> 00:00:10,360
+ so I really broke this up into the two types of immunity that we have, the innate immunity
+
+3
+00:00:10,360 --> 00:00:15,320
+ and the adaptive immunity. And adaptive is a much more complex system. An innate immunity
+
+4
+00:00:15,320 --> 00:00:20,440
+ is just the basic you have, your barriers on the outside, so your skin, your mucus membranes,
+
+5
+00:00:20,440 --> 00:00:25,720
+ the chemicals, the tears, the saliva, all those things that help prevent organisms from
+
+6
+00:00:25,720 --> 00:00:29,640
+ getting inside of you. And then you have that second line, which is really sitting right
+
+7
+00:00:29,640 --> 00:00:34,900
+ underneath the first line of defense. And so you have these white blood cells that are
+
+8
+00:00:34,900 --> 00:00:42,720
+ there. You have the process of inflammation, which basically causes you to get the white
+
+9
+00:00:42,720 --> 00:00:48,640
+ blood cells to the spot that they need to. And then finally, you have chemical mediators
+
+10
+00:00:48,640 --> 00:00:57,000
+ like the interferon, which is chemicals that turn on the immune system, as well as complement,
+
+11
+00:00:57,000 --> 00:01:01,320
+ which is kind of this cascade of proteins that go through and help fight this thing.
+
+12
+00:01:01,320 --> 00:01:04,360
+ So this one's a really short video. We're just going to talk about the first two lines
+
+13
+00:01:04,360 --> 00:01:08,600
+ of defense. And then we're going to spend a lot of more time on the adaptive immunity
+
+14
+00:01:08,600 --> 00:01:12,680
+ and spending really just kind of combine the two and do that. And again, I separated this
+
+15
+00:01:12,680 --> 00:01:17,080
+ out so it wouldn't be so long and that stuff. So let's take a look at innate immunity. This
+
+16
+00:01:17,080 --> 00:01:20,960
+ is something you're born with. This is not something that you have to develop over time,
+
+17
+00:01:20,960 --> 00:01:25,320
+ like the adaptive. And so that's one of the nice things. And again, most animals have
+
+18
+00:01:25,320 --> 00:01:31,480
+ at least innate immunity. What you're talking about in sex or organisms even lower on the
+
+19
+00:01:31,480 --> 00:01:35,520
+ inverter risk scale all the way up to us. And so innate is something we're born with. And
+
+20
+00:01:35,520 --> 00:01:42,960
+ then the adaptivism or complex type of system that we deal with, especially in humans and
+
+21
+00:01:42,960 --> 00:01:47,480
+ other mammals that we see. So let's take a look at the innate immunity today. And then
+
+22
+00:01:47,480 --> 00:01:52,200
+ the next video is going to look at the adaptive as we go along. Okay. So again, first we'll
+
+23
+00:01:52,200 --> 00:01:56,240
+ talk about innate immunity. I've kind of explained that already a little bit what innate immunity
+
+24
+00:01:56,240 --> 00:02:00,680
+ is. It's something you're born with. And it's your chemical, line of defense, your first
+
+25
+00:02:00,680 --> 00:02:04,240
+ line of defense, those barriers. And then the second line, which is all the cells of
+
+26
+00:02:04,240 --> 00:02:08,720
+ the white blood cells that you have. And then how does innate immunity work in the body?
+
+27
+00:02:08,720 --> 00:02:14,280
+ So explain that again, barriers to keep things out. And then essentially the second line is
+
+28
+00:02:14,280 --> 00:02:19,000
+ to fix anything that happened in the first line. And then we'll look at some of the components
+
+29
+00:02:19,000 --> 00:02:22,880
+ of the first line of defense. Like I said, those are your physical barriers. Again, your
+
+30
+00:02:22,880 --> 00:02:28,560
+ skin, your mucous membranes, the enzymes you produce, some of the other things, sweat glands,
+
+31
+00:02:28,560 --> 00:02:32,160
+ all those other things, which are there, not only for certain functions, but they're also
+
+32
+00:02:32,160 --> 00:02:36,440
+ there for defense as well. And then finally, the second line of defense, which is going
+
+33
+00:02:36,440 --> 00:02:40,760
+ to be mostly your white blood cells. And what I'm talking about are the granulocytes
+
+34
+00:02:40,760 --> 00:02:46,120
+ that we learned in chapter 34 with the blood, and then the agranulocytes, the monocytes.
+
+35
+00:02:46,120 --> 00:02:52,080
+ And so we'll look at those. The B&T lymphocytes, we're going to look at that in the next section.
+
+36
+00:02:52,080 --> 00:02:56,120
+ That's going to be the adaptive. And so again, they're important for adaptive rule. The other
+
+37
+00:02:56,120 --> 00:03:01,720
+ thing about these two is specificity. So with the adaptive immunity or required immunity,
+
+38
+00:03:01,720 --> 00:03:05,960
+ that is something you develop over time, and you have very specific cells that target their
+
+39
+00:03:05,960 --> 00:03:10,560
+ specific functions too. Whereas with these, it doesn't matter if it's a bacteria, virus,
+
+40
+00:03:10,560 --> 00:03:16,480
+ fungus, whatever, in that it's going to respond to it as a foreign agent and destroy, destroy,
+
+41
+00:03:16,480 --> 00:03:20,920
+ destroy. That's kind of their role in the body. They're like basically security guards
+
+42
+00:03:20,920 --> 00:03:25,800
+ watching to make sure nothing gets in and responding when something does. And so that's
+
+43
+00:03:25,800 --> 00:03:31,960
+ what we're going to look at here. So again, pathogens are agents that cause disease, infected
+
+44
+00:03:31,960 --> 00:03:36,480
+ wide range of animals, including humans. And again, really, we talk about pathogens as
+
+45
+00:03:36,480 --> 00:03:43,400
+ any microorganism or organism that causes disease within the humans or other organisms
+
+46
+00:03:43,400 --> 00:03:50,120
+ that way. So causing disease or disrupt tissue dysfunction, or whatever you want to call
+
+47
+00:03:50,120 --> 00:03:56,000
+ that, and trigger some of the responses that we see. Now again, our immune system enables
+
+48
+00:03:56,000 --> 00:04:01,320
+ an animal to avoid or limit many infections. And again, all animals have innate immunity,
+
+49
+00:04:01,320 --> 00:04:06,880
+ which is in defense that's active immediately upon infection, as well as birth. And so it's
+
+50
+00:04:06,880 --> 00:04:12,000
+ one of those things you're born with and you have these sets of features to keep you safe.
+
+51
+00:04:12,000 --> 00:04:15,920
+ The adaptive immunity is something that's only found in vertebrates. And again, it's
+
+52
+00:04:15,920 --> 00:04:21,440
+ a more specialized thing, specialized cells that have specificity as well as memory to
+
+53
+00:04:21,440 --> 00:04:25,160
+ it. And that's going to be another thing that we'll talk about next time is memory
+
+54
+00:04:25,160 --> 00:04:30,680
+ in these cases. Okay. And so again, the innate immunity includes barrier defenses. And again,
+
+55
+00:04:30,680 --> 00:04:37,240
+ it's can be small receptor proteins that bind to structures, count into viruses, bacteria
+
+56
+00:04:37,240 --> 00:04:42,320
+ and microbes. And again, binding the innate immune receptor activates internal defense
+
+57
+00:04:42,320 --> 00:04:48,880
+ responses to a broad range of defense or broad range of pathogens. So if we look at
+
+58
+00:04:48,880 --> 00:04:54,960
+ it on the big scale, so innate or natural immunity is not specific. And so this includes things
+
+59
+00:04:54,960 --> 00:04:59,400
+ like your first line of defense, which is the barriers against skin, mucus membranes,
+
+60
+00:04:59,400 --> 00:05:03,480
+ the secretions from those mucus membranes, the chemicals like the tears in your eyes
+
+61
+00:05:03,480 --> 00:05:07,280
+ have lysosine, which is all things that's why if you get something in your eye, you start
+
+62
+00:05:07,280 --> 00:05:12,520
+ to water your eyes to flush it out as well as provide lysosine to kill those things.
+
+63
+00:05:12,520 --> 00:05:18,400
+ Your ear wax in your ear, the mucus, like I said, sweat on your skin, the saltiness,
+
+64
+00:05:18,400 --> 00:05:23,360
+ again, to keep pathogens at bay. Also your normal floor. And we don't talk a lot about
+
+65
+00:05:23,360 --> 00:05:28,840
+ that as being a defense mechanism, but it does. We know that microbes have it. It can
+
+66
+00:05:28,840 --> 00:05:33,240
+ antagonize other microbes. And so when you have a good collection of good microbes there,
+
+67
+00:05:33,240 --> 00:05:36,720
+ the bad ones can't grow. And so if they're filling out all the spaces, the bad ones can't
+
+68
+00:05:36,720 --> 00:05:40,360
+ be there. So if you keep a good normal flora, you're in good shape. And so that's really
+
+69
+00:05:40,360 --> 00:05:45,360
+ brought along the last 10, 15 years, the whole idea of probiotics, because again, if you get
+
+70
+00:05:45,360 --> 00:05:49,920
+ good microflora in your gut and other parts of your body where they're supposed to be,
+
+71
+00:05:49,920 --> 00:05:54,120
+ then you keep the pathogens at bay. And so that's all part of the first line of defense.
+
+72
+00:05:54,120 --> 00:05:58,800
+ The second line, like I mentioned before, is your innate immune cells, which are mostly
+
+73
+00:05:58,800 --> 00:06:03,640
+ all white blood cells, but not all of the white blood cells. And so again, we'll talk
+
+74
+00:06:03,640 --> 00:06:09,400
+ again about that again. Inflammation complement. And then the antimicrobial substances that
+
+75
+00:06:09,400 --> 00:06:14,000
+ these cells produce. Okay. And then the acquired and adapted, this is going to be the other
+
+76
+00:06:14,000 --> 00:06:19,600
+ video that I'll show you again, the specialized lymphocytes, the B cells, which produce antibodies.
+
+77
+00:06:19,600 --> 00:06:24,160
+ So I'll talk all about that. And then the two types of T cells, the helper T cells, which
+
+78
+00:06:24,160 --> 00:06:28,460
+ help activate the system. And then the killer T cells, which basically do the cell killing.
+
+79
+00:06:28,460 --> 00:06:33,680
+ And so again, we'll talk about this next chapter, our next lecture, I should say, in
+
+80
+00:06:33,680 --> 00:06:37,600
+ that, but for right now, we're just going to focus in on the first and second line of
+
+81
+00:06:37,600 --> 00:06:44,280
+ innate immunity. Now adaptive required develops over exposure. And that involves a very specific
+
+82
+00:06:44,280 --> 00:06:48,840
+ response pathogens. And so we'll talk about that again in the next section. This is what
+
+83
+00:06:48,840 --> 00:06:52,040
+ we're going to look at right now in the innate immunity, which you're born with. And again,
+
+84
+00:06:52,040 --> 00:06:56,560
+ I just bring this up now just to show you that there are the two parts of the system.
+
+85
+00:06:56,560 --> 00:07:00,560
+ Now innate immunity is found in all animals and plants. In invertebrates innate immunity
+
+86
+00:07:00,560 --> 00:07:05,320
+ is the immediate response to infections and serves as the foundation of adaptive immunity.
+
+87
+00:07:05,320 --> 00:07:09,680
+ And so again, you have physical barriers and chemical barriers that protect. That's your
+
+88
+00:07:09,680 --> 00:07:14,240
+ first line of defense. And so again, the anatomical barriers, physical and chemical barriers,
+
+89
+00:07:14,240 --> 00:07:18,720
+ you have the cells, which include phagocyte cells, which eat things. You have the dendritic
+
+90
+00:07:18,720 --> 00:07:23,960
+ cells, which activate and present. And then you have the NK cells and the interleukins
+
+91
+00:07:23,960 --> 00:07:28,160
+ and all that good stuff that are there to trigger the immune response. And then you
+
+92
+00:07:28,160 --> 00:07:33,720
+ also have soluble proteins like compliments, cytokines, chemokines and antimicrobial substances
+
+93
+00:07:33,720 --> 00:07:38,120
+ that all play a role. And this is all released once these cells get activated. And so it's
+
+94
+00:07:38,120 --> 00:07:42,440
+ kind of like this double mechanism. Don't get the cells to activate. They start eating
+
+95
+00:07:42,440 --> 00:07:46,240
+ things and they start producing chemicals, which will then respond in the site of the
+
+96
+00:07:46,240 --> 00:07:50,200
+ infection. But again, this only happens when these things get in through the first line
+
+97
+00:07:50,200 --> 00:07:54,000
+ of defense. And so you have to have a breach in the first line of defense in order for
+
+98
+00:07:54,000 --> 00:08:02,000
+ the second line of offense to start working in this situation. Now again, in invertebrates,
+
+99
+00:08:02,000 --> 00:08:06,760
+ they only have innate immunity. And so again, typically they rely on their exoskeleton
+
+100
+00:08:06,760 --> 00:08:13,440
+ as a physical barrier against infection. Again, their digestive system, the enzyme lysoszyme
+
+101
+00:08:13,440 --> 00:08:18,420
+ breaks down bacterial cell walls, protects them from other pathogens. And then the immune
+
+102
+00:08:18,420 --> 00:08:24,360
+ cells of insects recognize pathogens by binding to molecules of specific viruses and microorganisms.
+
+103
+00:08:24,360 --> 00:08:29,240
+ And each recognition protein of the insect recognizes the broad class of pathogens. And
+
+104
+00:08:29,240 --> 00:08:34,600
+ so you have these other cells that respond in block and they kill, kill, kill, kill. And
+
+105
+00:08:34,600 --> 00:08:40,360
+ so you get phagocytosis, you get release of factors that trigger other cells. And again,
+
+106
+00:08:40,360 --> 00:08:46,000
+ you see enzymes and lysos and other things that go on to protect. And so again, it's
+
+107
+00:08:46,000 --> 00:08:51,080
+ a very simple system, but lots of insects out there. And so we don't really spend a lot
+
+108
+00:08:51,080 --> 00:08:56,360
+ of time. They don't have the adaptive immunity that they do, or that we do. But the innate
+
+109
+00:08:56,360 --> 00:09:03,320
+ immunity does just enough for their immune system to work and prevent from having major
+
+110
+00:09:03,320 --> 00:09:08,960
+ infections and that stuff. And probably some of the reason why insects only have the innate
+
+111
+00:09:08,960 --> 00:09:14,240
+ immunity is just the sheer numbers is that there's just so many of them that it's even
+
+112
+00:09:14,240 --> 00:09:18,400
+ if you lose a few here and there due to infection, it's not a big deal. So you're not going to
+
+113
+00:09:18,400 --> 00:09:23,520
+ develop these great immune systems unless you are fewer a number. And so, and that's
+
+114
+00:09:23,520 --> 00:09:27,040
+ one of the things that you see in the higher level organisms. You don't have as many offspring,
+
+115
+00:09:27,040 --> 00:09:31,000
+ so you're going to have to have better immune systems to respond to these different types
+
+116
+00:09:31,000 --> 00:09:35,040
+ of infections. So I think it's a numbers thing more than anything.
+
+117
+00:09:35,040 --> 00:09:40,840
+ Okay. Again, the hemostites circulate with the hemolymph. And again, remember, in insects,
+
+118
+00:09:40,840 --> 00:09:44,760
+ that's the one thing they don't have the blood in that stuff. So these all circulate around
+
+119
+00:09:44,760 --> 00:09:49,880
+ in that fluid that again is carrying the nutrients in that around the body. They break down and
+
+120
+00:09:49,880 --> 00:09:55,560
+ just break down substances, including bacteria. Then the hemostites are also released anti-microbial
+
+121
+00:09:55,560 --> 00:09:59,240
+ peptides throughout the plasma membranes and fungi and bacteria. And again, that's the
+
+122
+00:09:59,240 --> 00:10:05,000
+ basics of what we see in our innate immunity. And that we have cells that eat things. Okay.
+
+123
+00:10:05,000 --> 00:10:09,760
+ Those are the white blood cells that are phagocytic that eat those are the neutrophils and monocytes.
+
+124
+00:10:09,760 --> 00:10:14,400
+ And then we have the ones that release granules that kill and stimulate the immune system as
+
+125
+00:10:14,400 --> 00:10:19,800
+ well as those that stimulate complement and other things which help destroy these cells.
+
+126
+00:10:19,800 --> 00:10:24,000
+ And so again, just kind of giving an idea of what phagocytosis is. Again, that's the eating
+
+127
+00:10:24,000 --> 00:10:28,640
+ of these cells by the phagocytic cell. They eat the bacteria released, the lysosome that's
+
+128
+00:10:28,640 --> 00:10:33,920
+ the enzymes, and then spit it all out. Now in neutrophils, they tend to just eat and pass
+
+129
+00:10:33,920 --> 00:10:39,200
+ it out or spit it out. Whereas monocytes will actually take some of these components and
+
+130
+00:10:39,200 --> 00:10:43,280
+ put them in a receptor and present them to the third line of defense which we'll look
+
+131
+00:10:43,280 --> 00:10:46,920
+ at next time. So again, just kind of think about that in the back of your mind that we're
+
+132
+00:10:46,920 --> 00:10:53,640
+ going to see the connection of the second and third in the next lecture. Okay. Now again,
+
+133
+00:10:53,640 --> 00:10:58,240
+ innate immunity of vertebrates. Again, the immune system mammals is the best understood
+
+134
+00:10:58,240 --> 00:11:04,160
+ of all vertebrates. And again, these include beard defenses, phagocytosis and antimicrobial
+
+135
+00:11:04,160 --> 00:11:10,280
+ peptides. Again, natural killer cells, interferons and inflammatory response are also only seen
+
+136
+00:11:10,280 --> 00:11:14,520
+ in vertebrates and not in vertebrates. So we have these cells that go in and kill things.
+
+137
+00:11:14,520 --> 00:11:19,080
+ We have interferons which stimulate the immune system. It's probably because we have the adaptive
+
+138
+00:11:19,080 --> 00:11:23,360
+ that they're important. And again, they trigger different types of responses. And then we
+
+139
+00:11:23,360 --> 00:11:27,760
+ have the inflammatory response, which is really the body saying we have an infection. Let's
+
+140
+00:11:27,760 --> 00:11:33,000
+ do something about it. And again, it helps stimulate the rest of the immune system that
+
+141
+00:11:33,000 --> 00:11:37,960
+ we have. Now, barrier defenses. So this is the first line of defense include things like
+
+142
+00:11:37,960 --> 00:11:42,720
+ the skin and mucous membranes of the respiratory urinary and reproductive tracts, really anything
+
+143
+00:11:42,720 --> 00:11:47,840
+ that's open to the outside world. They're around mucous membranes. And again, what they're
+
+144
+00:11:47,840 --> 00:11:52,000
+ there for is to secrete mucus to trap these things to keep them from getting into where
+
+145
+00:11:52,000 --> 00:11:56,360
+ they're supposed to be. And so anywhere you have a opening to the outside world, you're
+
+146
+00:11:56,360 --> 00:12:01,440
+ going to have a mucous membrane along there to catch the microbes that are there. And again,
+
+147
+00:12:01,440 --> 00:12:06,120
+ mucous traps and allows to remove all microbes, many body fluids, including saliva, mucus
+
+148
+00:12:06,120 --> 00:12:10,760
+ and tears are hostile and many microbes because they contain enzymes like lysoszyme, which
+
+149
+00:12:10,760 --> 00:12:17,360
+ break down the bacteria and viruses. And then again, our skin has a low pH and the low pH
+
+150
+00:12:17,360 --> 00:12:21,880
+ of our digestive system. And so that's another thing that we do. So a lot of things that
+
+151
+00:12:21,880 --> 00:12:25,280
+ end up in our lungs, and we'll talk about that. And we talked about this in the respiratory
+
+152
+00:12:25,280 --> 00:12:31,280
+ system with the saliated elevator. What we do is we move this up and then we swallow
+
+153
+00:12:31,280 --> 00:12:34,920
+ it in the middle of the night. And so that's why you wake up a lot of times with the little
+
+154
+00:12:34,920 --> 00:12:39,520
+ bit of roughness in your throat or the frog in your throat, because again, that's a lot
+
+155
+00:12:39,520 --> 00:12:42,800
+ of the stuff you were breathing in the day before that you now swallowed in the middle
+
+156
+00:12:42,800 --> 00:12:46,080
+ night. And so that's kind of caught in your throat right there. And the reason why we
+
+157
+00:12:46,080 --> 00:12:50,560
+ swallow is to get into the acid to get rid of that. And so that's the idea here. And so
+
+158
+00:12:50,560 --> 00:12:55,320
+ you can see some of those different things that are there. Now, again, other cellular
+
+159
+00:12:55,320 --> 00:12:59,880
+ innate defenses, and this is now the second line of defense after the barrier. So pathogens
+
+160
+00:12:59,880 --> 00:13:07,760
+ get in. We have phagocytic cells that recognize groups of pathogens with these TLRs, which
+
+161
+00:13:07,760 --> 00:13:11,720
+ are called toaloid receptors. And these are nine different receptors. I think it's
+
+162
+00:13:11,720 --> 00:13:16,040
+ still nine. There may be more now. But again, they recognize specific things from either
+
+163
+00:13:16,040 --> 00:13:22,640
+ bacteria or viruses. And so again, some of the TLRs recognize lipopolysaccharide, which
+
+164
+00:13:22,640 --> 00:13:28,920
+ is found in ground negative bacteria, flagelline, which is part of the flagella. We also have
+
+165
+00:13:28,920 --> 00:13:36,840
+ the CPG DNA, which is recognized by TLR9. And then TLR3 recognize double-stranded RNA,
+
+166
+00:13:36,840 --> 00:13:42,000
+ which is found in viruses. And so not only do we recognize bacteria, but we also recognize
+
+167
+00:13:42,000 --> 00:13:46,560
+ pieces of viruses. And so we respond to those. When we eat those things, they respond to
+
+168
+00:13:46,560 --> 00:13:51,640
+ it and trigger the immune system response. And so that's going to be another thing that
+
+169
+00:13:51,640 --> 00:13:56,640
+ we see. Now, the two types of phagocytic cells in mammals are the neutrophils and the macrophages
+
+170
+00:13:56,640 --> 00:14:00,880
+ and the neutrophils, again, are really active against bacteria. Think of these as little
+
+171
+00:14:00,880 --> 00:14:05,560
+ pac-men, because all their job in life is to do is eat things, like, along, along, along,
+
+172
+00:14:05,560 --> 00:14:10,720
+ and chop things up. The other interesting thing that's been out in the last 10, 15 years
+
+173
+00:14:10,720 --> 00:14:15,120
+ is that these guys also spit their DNA out, kind of like Spider-Man. So what they do is
+
+174
+00:14:15,120 --> 00:14:19,920
+ they release their DNA and it's kind of like a big fishing net. And when the DNA goes out,
+
+175
+00:14:19,920 --> 00:14:24,800
+ they have histones on it, and the histones actually have antimicrobial properties. So
+
+176
+00:14:24,800 --> 00:14:29,240
+ they trap the DNA in that net, and then they kill the bacteria in there, and then they kind
+
+177
+00:14:29,240 --> 00:14:33,440
+ of bring back their DNA and kind of think of that. So think of the neutrophil, not only
+
+178
+00:14:33,440 --> 00:14:36,560
+ it's just eating things, but also think of them as kind of like Spider-Man, where they
+
+179
+00:14:36,560 --> 00:14:40,680
+ can shoot their DNA out, trap the bacteria, and then bring it in to eat. And so that's
+
+180
+00:14:40,680 --> 00:14:45,640
+ kind of an interesting thing about them. Macrophages, again, where you probably will
+
+181
+00:14:45,640 --> 00:14:49,680
+ see these, typically a macrophage is outside the blood, but when it's in the blood, we
+
+182
+00:14:49,680 --> 00:14:54,000
+ call these monocytes. And so they have two rules. Not only do they eat, and so they're
+
+183
+00:14:54,000 --> 00:15:00,160
+ very good at eating like pac-men against neutrophil, or like neutrophils, but they also then present.
+
+184
+00:15:00,160 --> 00:15:04,520
+ And so I wouldn't say they're just active against fungi. I think this is a little simplistic,
+
+185
+00:15:04,520 --> 00:15:09,280
+ but I think they're also very active against bacteria and viruses, because they're important
+
+186
+00:15:09,280 --> 00:15:14,320
+ because they're kind of that in between the second and third-line infants. So these
+
+187
+00:15:14,320 --> 00:15:19,480
+ are what are also known as antigen-presenting cells, because they present pathogens to the
+
+188
+00:15:19,480 --> 00:15:23,320
+ T-cell saying, "I ate this. We've got to do something about this." Or they present this
+
+189
+00:15:23,320 --> 00:15:26,680
+ to the B-cell and said, "I ate this. Let's do something about it." And so they're going
+
+190
+00:15:26,680 --> 00:15:30,960
+ to be really important gateway between the second and third-line. And again, we'll talk
+
+191
+00:15:30,960 --> 00:15:37,520
+ more about that next time in the next lecture. Now, the other cells that we have are these
+
+192
+00:15:37,520 --> 00:15:41,920
+ dendritic cells. Again, they're called dendritic cells, because they kind of look like a neuron.
+
+193
+00:15:41,920 --> 00:15:45,360
+ They have this big cell body, and then they have these dendrites that come off of them
+
+194
+00:15:45,360 --> 00:15:50,320
+ that are used to kind of trap and activate. And so they stimulate the development of adaptive
+
+195
+00:15:50,320 --> 00:15:55,120
+ immunity and contact with the environment -- that contact the environment like the skin. And
+
+196
+00:15:55,120 --> 00:15:58,660
+ so, again, they're kind of these important mediators between the second and third-line
+
+197
+00:15:58,660 --> 00:16:05,120
+ infants, because when they trap things, they then can present and show these to the T-cells
+
+198
+00:16:05,120 --> 00:16:10,720
+ and the B-cells. And then the eosinophils discharge destructive enzymes. Again, these
+
+199
+00:16:10,720 --> 00:16:16,240
+ are primarily for eukaryotic parasites. So if you ever want to know if you have a parasite,
+
+200
+00:16:16,240 --> 00:16:20,680
+ have the doctor or the nurse do a blood count. If you're high in eosinophils -- so if you're
+
+201
+00:16:20,680 --> 00:16:25,560
+ high in neutrophils, you have a bacterial infection. If you're high in eosinophils, your blood
+
+202
+00:16:25,560 --> 00:16:29,960
+ count, normally these are very low, less than 1% in your blood. If it's higher than
+
+203
+00:16:29,960 --> 00:16:34,760
+ 2% or 3%, that probably means you have a eukaryotic parasite. It probably means you either have
+
+204
+00:16:34,760 --> 00:16:41,200
+ a worm or some other type of eukary going on, and eosinophils are responding to the infection.
+
+205
+00:16:41,200 --> 00:16:45,320
+ So that's one way you can tell if you have a parasite, either a worm or an intracellular
+
+206
+00:16:45,320 --> 00:16:50,760
+ parasite or something like that. That's kind of floating around, and you look for your eosinophils.
+
+207
+00:16:50,760 --> 00:16:56,120
+ And so, again, they have granules that release, and they go and kill and do a good job at killing
+
+208
+00:16:56,120 --> 00:17:01,080
+ by releasing these enzymes, and that causes destruction.
+
+209
+00:17:01,080 --> 00:17:05,480
+ Now, another type of cell that we have is called the natural killer cells, and they circulate
+
+210
+00:17:05,480 --> 00:17:09,880
+ throughout the body to detect abnormal cells. And what they do is they go after cells that
+
+211
+00:17:09,880 --> 00:17:16,760
+ are infected with a virus. And so, again, these are a need, because again, they're not specific,
+
+212
+00:17:16,760 --> 00:17:19,800
+ but they'll look for cells that are in trouble. And so when the cells are in trouble, they
+
+213
+00:17:19,800 --> 00:17:23,840
+ go in, they release enzymes and actually kill the cells. So they're looking for cells that
+
+214
+00:17:23,840 --> 00:17:29,200
+ are infected with viruses or intracellular parasites that go in and kill the cell from
+
+215
+00:17:29,200 --> 00:17:34,480
+ the inside out. And so, again, they release chemicals causing cell death, and they spread
+
+216
+00:17:34,480 --> 00:17:40,720
+ virtually infected or virally infected or cancer cells. So they're going to play a real important
+
+217
+00:17:40,720 --> 00:17:46,000
+ role with cancer as well. And again, a lot of these things you're going to see is the lymphatic
+
+218
+00:17:46,000 --> 00:17:49,760
+ system, and the lymphatic system remembers the drainage. We're going to talk more about that
+
+219
+00:17:49,760 --> 00:17:54,080
+ in the adaptive, because it's really important with the B&T cells. But think about this. These
+
+220
+00:17:54,080 --> 00:17:58,240
+ cells are also there, looking at the fluid, getting returned back to the heart. If there's
+
+221
+00:17:58,240 --> 00:18:02,720
+ anything there that's not supposed to be there, these guys respond. And so that's what you see there.
+
+222
+00:18:02,720 --> 00:18:10,560
+ Now, some of the other proteins and peptides that we have include recognitions that attack pathogens
+
+223
+00:18:10,560 --> 00:18:16,160
+ and impede the reproduction. One of the things are interferons, which provide innate defense with
+
+224
+00:18:16,160 --> 00:18:20,880
+ interfering viruses, and they help activate macrophages. And they also kind of send out the
+
+225
+00:18:20,880 --> 00:18:25,040
+ warning signal to other cells that the cell is being infected by a virus. A lot of times,
+
+226
+00:18:25,040 --> 00:18:28,720
+ they'll send out interference and say, "Hey, I'm being infected. I'm being infected." Kind of the
+
+227
+00:18:28,720 --> 00:18:35,360
+ silent alarm is triggering other cells to either start making defenses or signaling the macrophages
+
+228
+00:18:35,360 --> 00:18:40,480
+ or NK cells to come eat me, because I'm not going to make it, and I need some help.
+
+229
+00:18:40,480 --> 00:18:45,920
+ The other thing we have is the complement system. And this is a group of about 30 proteins, and you
+
+230
+00:18:45,920 --> 00:18:51,920
+ can see they're labeled C1 through 9 in this situation. You have a couple different pathways.
+
+231
+00:18:51,920 --> 00:18:58,160
+ And typically, it is either activated by antibodies, which are produced by the B cells that stimulate
+
+232
+00:18:58,160 --> 00:19:04,480
+ it. Or again, a lot of times, you'll see it where you get activation through innate immunity. And
+
+233
+00:19:04,480 --> 00:19:10,800
+ again, this is a series of proteins that cause cell lysis. So you can see cell lysis. So what
+
+234
+00:19:10,800 --> 00:19:15,840
+ happens to the bacteria cells is it actually pokes holes. And we'll look at this again later on.
+
+235
+00:19:15,840 --> 00:19:20,160
+ Where it pokes holes in the cell, so it puts these proteins in the membrane and it causes the
+
+236
+00:19:20,160 --> 00:19:27,200
+ membrane to become leaky. It can lead to inflammation, again, leading to immune cell recognition and
+
+237
+00:19:27,200 --> 00:19:31,920
+ immune cells coming into the site of infection. And then it can also do obstinization, which
+
+238
+00:19:31,920 --> 00:19:37,520
+ targets antibodies to bind to the cell and flag and say, "Kill this." And so we'll see that as well,
+
+239
+00:19:37,520 --> 00:19:43,280
+ especially with the adaptive. And so activation can lead to the lysis of invading cells. So it's
+
+240
+00:19:43,280 --> 00:19:48,320
+ another innate system that you have that are just there to kill, kill, kill. So not only
+
+241
+00:19:48,320 --> 00:19:53,600
+ phagocytes and that, but you also have these proteins that are there to respond and start killing
+
+242
+00:19:53,600 --> 00:19:59,120
+ the cells. Now, another important thing that we have is called the inflammatory response. And so
+
+243
+00:19:59,120 --> 00:20:04,880
+ such as pain and swelling is brought by molecules released upon injury or of the infection. And so
+
+244
+00:20:04,880 --> 00:20:10,640
+ again, this allows for the cells to come out. And like I said, blood vessels are leaky. So when I
+
+245
+00:20:10,640 --> 00:20:14,720
+ talked about this, capillaries are leaking. The reason why they're leaky is so that these white
+
+246
+00:20:14,720 --> 00:20:20,160
+ blood cells can get to where they need to go. And so there's chemical mediators that say, "Hey,
+
+247
+00:20:20,160 --> 00:20:25,360
+ we got an infection going on, especially if you have some break in the tissue or first line of
+
+248
+00:20:25,360 --> 00:20:30,880
+ defense." These things get in. These cells leave the blood vessels so they either work their way
+
+249
+00:20:30,880 --> 00:20:36,480
+ through the cell or through the cell gap junctions and they leak out into the system. And this is
+
+250
+00:20:36,480 --> 00:20:41,840
+ where the fluid comes in. So when we think about the inflammatory response, typically we get heat,
+
+251
+00:20:41,840 --> 00:20:49,120
+ redness, swelling, and pain. The heat is due to the vasodilation and that again brings out more
+
+252
+00:20:49,120 --> 00:20:55,040
+ white blood cells to the side of the infection. The redness is again due to the vasodilation and
+
+253
+00:20:55,040 --> 00:21:00,800
+ again the leakiness of the blood, so the redness. The heat also raising the temperature to kill the
+
+254
+00:21:00,800 --> 00:21:07,440
+ microbes because again microbes can be temperature sensitive. You get the leakiness so you get swelling
+
+255
+00:21:07,440 --> 00:21:12,720
+ which is the extracellular fluid. So the vessels leak out the fluid as well. And so you get swelling
+
+256
+00:21:12,720 --> 00:21:18,400
+ where that tissue is damaged. And then finally you get pain because that swelling and the vasodilation
+
+257
+00:21:18,400 --> 00:21:24,720
+ and all that hits the little nerves that are basically your pain receptors that respond to pain.
+
+258
+00:21:24,720 --> 00:21:32,000
+ And so that's why you're typically with the four things of inflammation is redness, swelling, pain,
+
+259
+00:21:32,000 --> 00:21:36,880
+ and heat. Those are the four classical signs. I'll do that again. Heat, redness, swelling,
+
+260
+00:21:36,880 --> 00:21:42,400
+ and pain. So those are the things and that's due to again the things being released and becoming
+
+261
+00:21:42,400 --> 00:21:48,480
+ into the site of the infection. So we see that going on. And again the enhanced blood flow
+
+262
+00:21:48,480 --> 00:21:55,120
+ delivers the antimicrobial peptides. The results in accumulation of PUSH. PUSH which is a rich
+
+263
+00:21:55,120 --> 00:22:00,160
+ in white blood cells, dead pathogens, and cell debris from damaged cells. And so again PUSH is a
+
+264
+00:22:00,160 --> 00:22:04,400
+ good thing because that means your cells are eating these things up and spinning them out and killing
+
+265
+00:22:04,400 --> 00:22:08,720
+ the stuff. So a lot of times you'll see especially with the skin scrape in that you may get some
+
+266
+00:22:08,720 --> 00:22:13,600
+ mousine and stuff. That's good because that means your cellular response is working well.
+
+267
+00:22:14,400 --> 00:22:19,680
+ It means you're getting the destruction of those cells, the pathogens, as well as the
+
+268
+00:22:19,680 --> 00:22:23,680
+ surrounding tissue and that. And so that's a good thing that's going on there. And so like I said,
+
+269
+00:22:23,680 --> 00:22:28,320
+ you may get swelling due to that increased amount of extracellular fluid and the pain that goes
+
+270
+00:22:28,320 --> 00:22:35,520
+ along with it not only due to the injury, but also due to the extra fluid and cells in there
+
+271
+00:22:35,520 --> 00:22:40,320
+ hitting the pain receptors. And so you see that as well. Now inflammation can be either
+
+272
+00:22:40,320 --> 00:22:45,680
+ local or systemic throughout the body. And again, systemic is not normally a good thing. You want
+
+273
+00:22:45,680 --> 00:22:51,360
+ it localized because it's good for fighting in a localized infection. If it's going systemic,
+
+274
+00:22:51,360 --> 00:22:56,320
+ then you tend to have more problems. Now one of the responses that's triggered is fever. And like I
+
+275
+00:22:56,320 --> 00:23:02,320
+ said, bacteria and that and pathogens tend to be temperature sensitive. So fever can be a good
+
+276
+00:23:02,320 --> 00:23:06,560
+ thing. So when you have a low-grade fever, that means your body's responding to something that's
+
+277
+00:23:06,560 --> 00:23:11,360
+ not supposed to be there. And that's normal. But when the fever gets too high, and again,
+
+278
+00:23:11,360 --> 00:23:16,160
+ this is when it's too much of a good thing, that can cause problems because then we can have cell
+
+279
+00:23:16,160 --> 00:23:20,400
+ problems, you know, our own issues with getting too high of a temperature. And then that's when you
+
+280
+00:23:20,400 --> 00:23:25,120
+ want to seek medical treatment. But if you have a low-grade fever, sometimes just keep the advil
+
+281
+00:23:25,120 --> 00:23:28,400
+ off to the side. If you can deal with it and that stuff and you know you're feeling it,
+
+282
+00:23:28,400 --> 00:23:34,800
+ your body's natural way to fight these infections by raising the temperature to kill these bacteria.
+
+283
+00:23:34,800 --> 00:23:39,680
+ Now there is something called septic shock. This is really when the body just gets all overwhelmed.
+
+284
+00:23:39,680 --> 00:23:44,480
+ It's just like, it's kind of like you if you had a lot to do and you don't even know where to start.
+
+285
+00:23:44,480 --> 00:23:48,960
+ And so it just piles up and you get so frustrated and it's overwhelmed that you're just like,
+
+286
+00:23:48,960 --> 00:23:53,120
+ I can't do anything because I just don't know what to do. And that's what the body does. So when you
+
+287
+00:23:53,120 --> 00:23:58,640
+ get this infection that starts triggering everything at once, the body just doesn't know how to respond
+
+288
+00:23:58,640 --> 00:24:04,800
+ and says it goes, I don't know what to do and just shuts down. And so that can be bad. And so that's
+
+289
+00:24:04,800 --> 00:24:10,080
+ what happens when you get this overwhelming infection due to an overwhelming inflammatory
+
+290
+00:24:10,080 --> 00:24:16,800
+ response. So it's the body going too high and too much of again, a systemic response to an
+
+291
+00:24:16,800 --> 00:24:22,160
+ infection. And so that can be bad as well. And then we hear a lot about chronic inflammation. And again,
+
+292
+00:24:22,160 --> 00:24:27,280
+ that can be a threat to human health. And so again, inflammation can be good because you can get
+
+293
+00:24:27,280 --> 00:24:33,360
+ progressive healing. And again, things like chemical ear intents, frostbite, cuts and lacerations
+
+294
+00:24:33,360 --> 00:24:38,560
+ are stabbing, trauma, allergic reactions, burns and infection, these are all good things because
+
+295
+00:24:38,560 --> 00:24:43,760
+ it can trigger healing. But if you have long term inflammation, it can be bad as well. So it can
+
+296
+00:24:43,760 --> 00:24:48,320
+ lead to cardiovascular disease again, causing inflammation, especially in the vessels, which
+
+297
+00:24:48,320 --> 00:24:54,400
+ can lead to fatty deposits, exposure of smooth muscle and other things that can lead to again,
+
+298
+00:24:54,400 --> 00:25:01,440
+ coronary artery disease. Some people have sought that inflammation may lead to autism. So inflammation
+
+299
+00:25:01,440 --> 00:25:06,720
+ in the brain can trigger those responses or maybe when during pregnancy and development.
+
+300
+00:25:06,720 --> 00:25:12,320
+ Rheumatoid arthritis, we know this is due to allergic responses in that autoimmune disease
+
+301
+00:25:12,320 --> 00:25:18,000
+ is progressive inflammation, where the body starts attacking itself, neurological disease. So things
+
+302
+00:25:18,000 --> 00:25:23,760
+ like MS and other things where the immune system starts to attack the immune system or not the
+
+303
+00:25:23,760 --> 00:25:29,440
+ immune system, but the nervous system. And so wears away at the myelin fibers. Alzheimer's
+
+304
+00:25:29,440 --> 00:25:35,760
+ is one of those things that again, they think is due to inflammation of the nervous system and
+
+305
+00:25:35,760 --> 00:25:41,600
+ then cancer as well. Because again, you get this outgrowing itself, a lack of response or
+
+306
+00:25:41,600 --> 00:25:46,560
+ surveillance. And so that can lead to problems as well. So inflammation can be good, but too
+
+307
+00:25:46,560 --> 00:25:51,120
+ much of a good thing can be bad. And so again, we want to keep this in check. And so we've heard
+
+308
+00:25:51,120 --> 00:25:55,440
+ about these things now, people having chronic inflammation. And again, there's a lot of drugs
+
+309
+00:25:55,440 --> 00:26:01,440
+ that lower that inflammation, drug like humera, which a lot of people are now taking for things
+
+310
+00:26:01,440 --> 00:26:05,920
+ like Crohn's disease and other things, which are all autoimmune diseases. And it's when the immune
+
+311
+00:26:05,920 --> 00:26:11,120
+ system is working too well or overacting and causing problems. And another one like that is
+
+312
+00:26:11,120 --> 00:26:16,560
+ allergies. So when you have allergies and everything else, and you get too over sensitive to go into
+
+313
+00:26:16,560 --> 00:26:21,680
+ anaphylactic shock, and that can be too, too much of a good thing. Again, more of a systemic response
+
+314
+00:26:21,680 --> 00:26:29,120
+ than just a localized response. Okay, and then again, invasion of the innate immunity,
+
+315
+00:26:29,120 --> 00:26:33,680
+ bad pathogens. And so adaptations have evolved in some pathogens that allow them to get into
+
+316
+00:26:33,680 --> 00:26:40,000
+ phagocytes. And so you can see here is a list of either bacteria or some parasitic fungi,
+
+317
+00:26:40,000 --> 00:26:45,280
+ or fungi or parasites, eukaryotic parasites that have worked their way in. And so what they do is
+
+318
+00:26:45,280 --> 00:26:50,800
+ they say, yeah, go ahead and eat me up. But what they can do is then survive infection and destruction.
+
+319
+00:26:50,800 --> 00:26:55,440
+ And so then they get transferred to other parts of the body, either by the monocytes,
+
+320
+00:26:55,440 --> 00:26:59,600
+ or they live in the monocytes protected from the rest of the immunity. So they kind of trick
+
+321
+00:26:59,600 --> 00:27:04,480
+ the system and hide by living inside the immune cells. So these guys have gotten smart in that
+
+322
+00:27:04,480 --> 00:27:11,040
+ stuff. And again, we know a number of different bacteria and viruses and other pathogens, eukaryotic
+
+323
+00:27:11,040 --> 00:27:16,560
+ pathogens that can do this as well. And again, you can see that where it again provides blocking
+
+324
+00:27:16,560 --> 00:27:21,680
+ of those things. And so it doesn't either doesn't get in, doesn't get eaten, or prevents blocking,
+
+325
+00:27:21,680 --> 00:27:25,440
+ or if they do get in, they can go and hide. And so that's the other thing as well, and then they
+
+326
+00:27:25,440 --> 00:27:33,120
+ can escape later on. So okay, just an idea of avoiding phagocytosis as well. All right,
+
+327
+00:27:33,120 --> 00:27:37,040
+ very short video, like I said, so the innate immunity is very easy. First line of defense,
+
+328
+00:27:37,040 --> 00:27:41,920
+ second line of defense. First line is your barriers. So your physical and chemical barriers to keep
+
+329
+00:27:41,920 --> 00:27:46,400
+ your protected. So that would be your skin, your mucous membranes, and the chemicals we produce on
+
+330
+00:27:46,400 --> 00:27:51,360
+ the outside. Think of any opening to the outside world as a way for a pathogen to get in. So your
+
+331
+00:27:51,360 --> 00:27:57,840
+ mouth, your nose, your ears, your eyes, your butt, again, rips in the skin, things like that,
+
+332
+00:27:57,840 --> 00:28:02,160
+ those are going to be protected. And so the areas that I talked about, the mouth, the nose, the ears,
+
+333
+00:28:02,160 --> 00:28:08,080
+ the eyes, the butt, your general system, those that'll have mucous membranes to trap and collect
+
+334
+00:28:08,080 --> 00:28:12,800
+ those things. So the mucous membranes are important because not only does secrete mucus to trap
+
+335
+00:28:12,800 --> 00:28:19,200
+ home microorganisms, but they also produce chemicals that destroy those as well. Okay. And so that's
+
+336
+00:28:19,200 --> 00:28:23,440
+ important. Second thing is the second line of defense. Those are really the white blood cells
+
+337
+00:28:23,440 --> 00:28:28,800
+ and the chemicals that they produce along with some of the other proteins that we have intracellularly.
+
+338
+00:28:28,800 --> 00:28:34,000
+ Now, I wouldn't say intracellular, but extracellularly, that will respond to the pathogens. And again,
+
+339
+00:28:34,000 --> 00:28:38,000
+ this all leads up to the third line of defense, which we're going to talk about next time.
+
+340
+00:28:38,000 --> 00:28:42,960
+ And again, what we looked at was the first and second line of defenses. We found in both plants
+
+341
+00:28:42,960 --> 00:28:48,240
+ and animals that have innate immunity. And again, as you work your way up to get more specialized
+
+342
+00:28:48,240 --> 00:28:52,800
+ immune systems and more of a third line of defense, which we'll talk about next time,
+
+343
+00:28:52,800 --> 00:28:57,760
+ again, we're born with these defenses. There's no specificity. So again, it doesn't matter if it's
+
+344
+00:28:57,760 --> 00:29:02,640
+ a virus or bacteria. It's going to recognize or what type of virus or bacteria. It's just going to
+
+345
+00:29:02,640 --> 00:29:07,920
+ go and attack, attack, attack. And again, we talked about the first and second lines and what they are.
+
+346
+00:29:07,920 --> 00:29:12,720
+ And again, there are pathogens that can escape these defenses. And so for higher vertebrates,
+
+347
+00:29:12,720 --> 00:29:17,440
+ like I said, we have an adaptive line, which we're going to talk about next time. And with that,
+
+348
+00:29:17,440 --> 00:29:21,760
+ we've talked about innate immunity. Hopefully you got a better understanding about that. If you do
+
+349
+00:29:21,760 --> 00:29:26,400
+ have questions about innate immunity and what it does or how it works, anything, please send me an
+
+350
+00:29:26,400 --> 00:29:31,600
+ email or we'll talk about in class. Thanks for watching and I'll talk to you next time.
+

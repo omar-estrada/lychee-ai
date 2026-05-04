@@ -1,0 +1,2268 @@
+1
+00:00:00,000 --> 00:00:05,680
+ Hey everyone, it's Dr. Marcon and this is chapter 10 on skeletal muscle tissue.
+
+2
+00:00:05,680 --> 00:00:08,520
+ So what is muscle?
+
+3
+00:00:08,520 --> 00:00:12,960
+ Muscle, it's derived from the Latin word for little mouse.
+
+4
+00:00:12,960 --> 00:00:18,760
+ We know that muscle is the primary tissue in the heart as well as the walls of hollow
+
+5
+00:00:18,760 --> 00:00:25,080
+ organs and we also have skeletal muscle tissue which makes up nearly half the body's mass.
+
+6
+00:00:25,080 --> 00:00:29,960
+ So with the heart we have our cardiac muscle tissue within the walls of hollow organs.
+
+7
+00:00:29,960 --> 00:00:34,240
+ We have smooth muscle tissue.
+
+8
+00:00:34,240 --> 00:00:39,200
+ We have different properties of muscle tissue, we have contractility.
+
+9
+00:00:39,200 --> 00:00:44,620
+ So myofilaments, these are filaments within the muscle, are responsible for shortening
+
+10
+00:00:44,620 --> 00:00:51,780
+ of muscle cells and we have two types of myofilaments, we have actin and myosin.
+
+11
+00:00:51,780 --> 00:00:57,960
+ Excitability, with this property nerve cells excite muscle cells causing electrical impulses
+
+12
+00:00:57,960 --> 00:01:02,760
+ to travel along the sarcolema.
+
+13
+00:01:02,760 --> 00:01:09,220
+ Extensibility, so contraction of a skeletal muscle stretches the opposing muscle.
+
+14
+00:01:09,220 --> 00:01:13,760
+ We also know that smooth muscle is stretched by substances within that hollow organ.
+
+15
+00:01:13,760 --> 00:01:19,140
+ For example, when we have food in our stomach this stretches the smooth muscle in the stomach
+
+16
+00:01:19,140 --> 00:01:22,480
+ as well as urine in the urinary bladder.
+
+17
+00:01:22,480 --> 00:01:26,400
+ The last property we'll talk about is elasticity.
+
+18
+00:01:26,400 --> 00:01:29,640
+ Muscle has the ability to recoil after being stretched.
+
+19
+00:01:29,640 --> 00:01:33,720
+ We talked about the different connective fibers or connective tissue fibers that are
+
+20
+00:01:33,720 --> 00:01:42,440
+ within muscle such as for example elastic tissue allowing for that recoil property.
+
+21
+00:01:42,440 --> 00:01:46,600
+ So just want to go over the terminology that is specific to muscle tissue.
+
+22
+00:01:46,600 --> 00:01:53,560
+ Whenever you see the prefixes myo or myes, this prefix means muscle, sarco.
+
+23
+00:01:53,560 --> 00:01:58,200
+ This is also another prefix pertaining to muscle tissue, sarco is a prefix meaning flesh.
+
+24
+00:01:58,200 --> 00:02:04,760
+ So for example, we have specific organelles for muscle tissue that relate to generalized
+
+25
+00:02:04,760 --> 00:02:06,080
+ organelles of cells.
+
+26
+00:02:06,080 --> 00:02:12,920
+ So with the sarcolema, the sarcolema is the plasma membrane of muscle cells.
+
+27
+00:02:12,920 --> 00:02:21,160
+ Sarcoplasm is the cytoplasm of muscle cells.
+
+28
+00:02:21,160 --> 00:02:24,200
+ We have different functions of muscle tissue.
+
+29
+00:02:24,200 --> 00:02:28,240
+ One of the main functions of course is to produce movement.
+
+30
+00:02:28,240 --> 00:02:34,600
+ Skeletal muscle is attached to skeletal bone and moves the body by moving the bones.
+
+31
+00:02:34,600 --> 00:02:35,600
+ Smooth muscle.
+
+32
+00:02:35,600 --> 00:02:36,600
+ Smooth muscle is important.
+
+33
+00:02:36,600 --> 00:02:39,720
+ We know we find them in the linings of the hollow organs.
+
+34
+00:02:39,720 --> 00:02:46,560
+ Smooth muscle squeezes fluids and other substances like a baby out of the uterus through the hollow
+
+35
+00:02:46,560 --> 00:02:51,440
+ organs.
+
+36
+00:02:51,440 --> 00:02:57,240
+ Smooth muscle tissue is also important because we can find them in the opening and closing
+
+37
+00:02:57,240 --> 00:02:58,840
+ of body passageways.
+
+38
+00:02:58,840 --> 00:03:02,000
+ We have muscles called sphincters.
+
+39
+00:03:02,000 --> 00:03:05,160
+ So these sphincters open and close body passageways.
+
+40
+00:03:05,160 --> 00:03:07,840
+ They basically function as vowels.
+
+41
+00:03:07,840 --> 00:03:16,400
+ They can open to allow passage of a substance and then contract to close the passageway.
+
+42
+00:03:16,400 --> 00:03:21,100
+ Muscle tissue also helps maintain posture and stabilize joints.
+
+43
+00:03:21,100 --> 00:03:24,420
+ This enables the body to remain sitting or standing.
+
+44
+00:03:24,420 --> 00:03:28,960
+ Also muscle tone helps stabilize many synovial joints.
+
+45
+00:03:28,960 --> 00:03:31,480
+ Muscle tissue is also important for heat generation.
+
+46
+00:03:31,480 --> 00:03:37,000
+ So muscle contractions help produce heat and helps with the homeostatic nature of the body
+
+47
+00:03:37,000 --> 00:03:42,440
+ helps maintain normal body temperature.
+
+48
+00:03:42,440 --> 00:03:46,600
+ So in the first unit, we talked about the different types of muscle tissue.
+
+49
+00:03:46,600 --> 00:03:49,080
+ We know there are three types of muscle tissue.
+
+50
+00:03:49,080 --> 00:03:54,120
+ We have skeletal muscle tissue, cardiac muscle tissue, and smooth muscle tissue.
+
+51
+00:03:54,120 --> 00:03:58,720
+ So in this chapter, we're going to talk about these different types of muscle tissue.
+
+52
+00:03:58,720 --> 00:04:04,000
+ We know what they look like under a microscope, but let's talk a little bit about each type
+
+53
+00:04:04,000 --> 00:04:05,000
+ of muscle tissue.
+
+54
+00:04:05,000 --> 00:04:09,520
+ So first, we'll talk about skeletal muscle tissue.
+
+55
+00:04:09,520 --> 00:04:16,200
+ Skeletal muscle tissue is packaged into skeletal muscles and makes up about 40% of our body
+
+56
+00:04:16,200 --> 00:04:17,200
+ weight.
+
+57
+00:04:17,200 --> 00:04:22,480
+ We know that the cells of skeletal muscle tissue are striated, meaning they have those
+
+58
+00:04:22,480 --> 00:04:25,880
+ alternating dark and light bands.
+
+59
+00:04:25,880 --> 00:04:30,000
+ We know that skeletal muscle is innervated by voluntary division of the nervous system,
+
+60
+00:04:30,000 --> 00:04:36,960
+ meaning we do have voluntary control over our skeletal muscle.
+
+61
+00:04:36,960 --> 00:04:40,200
+ The second type of muscle tissue is cardiac muscle tissue.
+
+62
+00:04:40,200 --> 00:04:43,880
+ We know that this is found only in the walls of the heart.
+
+63
+00:04:43,880 --> 00:04:50,160
+ Again, we'll see lovely striations of cardiac muscle tissue, however, unlike skeletal muscle,
+
+64
+00:04:50,160 --> 00:04:57,280
+ the cardiac muscle cells are branching, they're uni-nucleates, and they have structures where
+
+65
+00:04:57,280 --> 00:05:01,240
+ these cells interdigitate, and these are called intercalated discs.
+
+66
+00:05:01,240 --> 00:05:05,560
+ This kind of separates with regards to what they look like.
+
+67
+00:05:05,560 --> 00:05:09,380
+ It kind of differentiates cardiac muscle from skeletal muscle.
+
+68
+00:05:09,380 --> 00:05:15,280
+ Also one of the things that kind of differentiate cardiac muscle from skeletal muscle is that
+
+69
+00:05:15,280 --> 00:05:18,280
+ cardiac muscle contraction is involuntary.
+
+70
+00:05:18,280 --> 00:05:23,560
+ Again, we're not sitting here telling our heart to beat as we sit there.
+
+71
+00:05:23,560 --> 00:05:27,800
+ No, the cardiac muscle actually, there are cardiac centers within our brain.
+
+72
+00:05:27,800 --> 00:05:36,280
+ Also the cells within the heart are under, they have their own ability to contract on
+
+73
+00:05:36,280 --> 00:05:37,280
+ their own.
+
+74
+00:05:37,280 --> 00:05:41,080
+ Then the third type of muscle tissue is smooth muscle tissue.
+
+75
+00:05:41,080 --> 00:05:46,680
+ We know that this is located in the walls of hollow organs just by the name alone.
+
+76
+00:05:46,680 --> 00:05:52,800
+ We know that these cells do not have striations, and again, they are innervated by involuntary
+
+77
+00:05:52,800 --> 00:05:59,760
+ division of the nervous system, meaning they are under involuntary control.
+
+78
+00:05:59,760 --> 00:06:06,060
+ So with skeletal muscle, each muscle is an organ, consists mostly of muscle tissue.
+
+79
+00:06:06,060 --> 00:06:14,880
+ Skeletal muscle also contains connective tissue as well as blood vessels and nerves.
+
+80
+00:06:14,880 --> 00:06:19,680
+ Going over the gross anatomy of a skeletal muscle, it is made up of connective tissue
+
+81
+00:06:19,680 --> 00:06:21,880
+ and fascicles.
+
+82
+00:06:21,880 --> 00:06:27,920
+ We have shes of connective tissue that bind a skeletal muscle and is fibrous together.
+
+83
+00:06:27,920 --> 00:06:36,920
+ So the outermost covering or outermost sheath is known as the epimesium.
+
+84
+00:06:36,920 --> 00:06:43,440
+ Epimesium is dense regular connective tissue surrounding the entire muscle.
+
+85
+00:06:43,440 --> 00:06:45,880
+ The middle layer is the paramecium.
+
+86
+00:06:45,880 --> 00:06:51,560
+ So paramecium surrounds each fascicle, and we know that a fascicle is a group of muscle
+
+87
+00:06:51,560 --> 00:06:53,080
+ fibers.
+
+88
+00:06:53,080 --> 00:06:59,680
+ And surrounding each individual muscle fiber is the innermost layer, which is the endomesium.
+
+89
+00:06:59,680 --> 00:07:05,280
+ Endomesium is a fine sheath of connective tissue, wrapping each muscle cell or muscle
+
+90
+00:07:05,280 --> 00:07:06,280
+ fiber.
+
+91
+00:07:06,280 --> 00:07:13,720
+ So we have muscle fibers or individual muscle cells that come together and form a fascicle.
+
+92
+00:07:13,720 --> 00:07:17,440
+ Now we know that the individual muscle cells surrounded by endomesium.
+
+93
+00:07:17,440 --> 00:07:25,320
+ And then the groups of muscle fibers that form the fascicle is covered by paramecium.
+
+94
+00:07:25,320 --> 00:07:29,840
+ And a bunch of muscle fascicles make up an entire muscle.
+
+95
+00:07:29,840 --> 00:07:37,840
+ And this is surrounded by sheaths of connective tissue known as the epimesium, which is the
+
+96
+00:07:37,840 --> 00:07:44,640
+ outermost layer of connective tissue.
+
+97
+00:07:44,640 --> 00:07:51,480
+ So these connective tissue sheaths that surround the entire muscle or the epimesium is continuous
+
+98
+00:07:51,480 --> 00:07:53,700
+ with tendons.
+
+99
+00:07:53,700 --> 00:08:01,080
+ So when muscle fibers contract, a pull is exerted on all layers of connective tissue.
+
+100
+00:08:01,080 --> 00:08:03,520
+ And this forms a tendon.
+
+101
+00:08:03,520 --> 00:08:13,280
+ Sheaths provide elasticity and also carry blood vessels and nerves.
+
+102
+00:08:13,280 --> 00:08:19,680
+ So here we see a diagram of the gross anatomy of the skeletal muscle along with its connective
+
+103
+00:08:19,680 --> 00:08:21,600
+ tissue layer sheaths.
+
+104
+00:08:21,600 --> 00:08:30,780
+ So we know that an individual muscle fiber or muscle cell is surrounded by endomesium.
+
+105
+00:08:30,780 --> 00:08:32,920
+ That's the innermost lining.
+
+106
+00:08:32,920 --> 00:08:41,000
+ All these individual muscle fibers form a muscle fascicle.
+
+107
+00:08:41,000 --> 00:08:45,820
+ So the fascicle is surrounded by paramecium.
+
+108
+00:08:45,820 --> 00:08:52,240
+ So we see all these muscle fibers forming a fascicle.
+
+109
+00:08:52,240 --> 00:08:55,880
+ This fascicle is surrounded by paramecium.
+
+110
+00:08:55,880 --> 00:09:01,200
+ And then a bunch of fascicles will then form the actual skeletal muscle.
+
+111
+00:09:01,200 --> 00:09:07,880
+ And the covering for the entire muscle is epimesium.
+
+112
+00:09:07,880 --> 00:09:10,240
+ This is the outermost layer.
+
+113
+00:09:10,240 --> 00:09:23,280
+ And we know that epimesium and the connective tissue sheaths are continuous with a tendon.
+
+114
+00:09:23,280 --> 00:09:28,920
+ So each skeletal muscle is, with regards to nerves supply and blood supply, each skeletal
+
+115
+00:09:28,920 --> 00:09:36,000
+ muscle is supplied by branches of one nerve, one artery, and then one or more veins.
+
+116
+00:09:36,000 --> 00:09:41,640
+ Mirrors and vessels will branch repeatedly, and the smallest branches will serve individual
+
+117
+00:09:41,640 --> 00:09:46,720
+ muscle fibers or individual muscle cells.
+
+118
+00:09:46,720 --> 00:09:49,640
+ Now how are these muscles attached?
+
+119
+00:09:49,640 --> 00:09:55,200
+ So with regards to muscle attachments, most skeletal muscles run from one bone to another.
+
+120
+00:09:55,200 --> 00:10:01,280
+ So one bone will move while the other bone remains fixed.
+
+121
+00:10:01,280 --> 00:10:07,240
+ So the less movable attachment, this is known as the muscle's origin.
+
+122
+00:10:07,240 --> 00:10:13,120
+ Okay, so this is the less movable attachment of the skeletal muscle.
+
+123
+00:10:13,120 --> 00:10:18,280
+ The insertion of the skeletal muscle is the more movable attachment.
+
+124
+00:10:18,280 --> 00:10:26,160
+ So the skeletal muscle will insert onto a bone, and this bone is more movable, meaning it moves
+
+125
+00:10:26,160 --> 00:10:28,720
+ more than the origin.
+
+126
+00:10:28,720 --> 00:10:34,400
+ So the origin is the less movable attachment, the insertion of a skeletal muscle is the
+
+127
+00:10:34,400 --> 00:10:38,520
+ more movable attachment.
+
+128
+00:10:38,520 --> 00:10:41,600
+ Here we have an example of the brachialis muscle.
+
+129
+00:10:41,600 --> 00:10:47,480
+ We know that the origin of the brachialis muscle is along the shaft of the humerus.
+
+130
+00:10:47,480 --> 00:11:00,680
+ It will insert into the ulna, the ulna here we see is more medial, it has its attachments
+
+131
+00:11:00,680 --> 00:11:08,120
+ on the coronoid process, which is the proximal portion of the ulna.
+
+132
+00:11:08,120 --> 00:11:16,320
+ So because the humerus is the less movable attachment, this is known as the brachialis's
+
+133
+00:11:16,320 --> 00:11:23,920
+ origin, and the muscle or the muscle tenon will then attach to the proximal portion of
+
+134
+00:11:23,920 --> 00:11:26,800
+ the ulna or the coronoid process of the ulna.
+
+135
+00:11:26,800 --> 00:11:30,880
+ And we know that the ulna is the bone that actually ends up moving the most.
+
+136
+00:11:30,880 --> 00:11:36,680
+ So this is known as the insertion, this is by indirect attachment.
+
+137
+00:11:36,680 --> 00:11:43,000
+ So the brachialis has its origin on the humerus, the shaft of the humerus, and its insertion
+
+138
+00:11:43,000 --> 00:11:50,480
+ on the proximal portion of the ulna, and we know we can move the forearm closer to the
+
+139
+00:11:50,480 --> 00:11:51,480
+ humerus.
+
+140
+00:11:51,480 --> 00:11:57,480
+ So decreasing this angle between the ulna and the radius and the humerus, this is known
+
+141
+00:11:57,480 --> 00:11:59,840
+ as flexion.
+
+142
+00:11:59,840 --> 00:12:08,160
+ So decreasing this angle is flexion, and then increasing the angle between the two structures
+
+143
+00:12:08,160 --> 00:12:19,200
+ is known as extension, like extending your arm.
+
+144
+00:12:19,200 --> 00:12:25,120
+ So with regards to muscle attachments, muscle attached to origins and assertions by connective
+
+145
+00:12:25,120 --> 00:12:33,680
+ tissue, with the fleshy attachments, the connective tissues, fibers are short, indirect attachments,
+
+146
+00:12:33,680 --> 00:12:38,600
+ connective tissue forms, a tendon or aponeurosis.
+
+147
+00:12:38,600 --> 00:12:44,680
+ Bone markings present where tendons meet bones, I'm sorry, bone markings are present where
+
+148
+00:12:44,680 --> 00:12:45,680
+ tendons meet bones.
+
+149
+00:12:45,680 --> 00:12:50,560
+ So again, we talked about the different bony markings that can serve as attachment sites
+
+150
+00:12:50,560 --> 00:12:52,120
+ for either tendons or muscles.
+
+151
+00:12:52,120 --> 00:12:59,560
+ So these include tubercles, trochanters, and crests.
+
+152
+00:12:59,560 --> 00:13:06,160
+ So then we're going to talk about muscle fibers, the microscopic and functional anatomy of
+
+153
+00:13:06,160 --> 00:13:09,640
+ skeletal muscle tissue specifically, the skeletal muscle fiber.
+
+154
+00:13:09,640 --> 00:13:13,040
+ We know that the muscle fiber is also known as the muscle cell.
+
+155
+00:13:13,040 --> 00:13:16,880
+ The skeletal muscle fiber is the basic unit of skeletal muscle.
+
+156
+00:13:16,880 --> 00:13:19,200
+ These fibers are long and cylindrical.
+
+157
+00:13:19,200 --> 00:13:21,680
+ They are huge cells.
+
+158
+00:13:21,680 --> 00:13:26,980
+ Diameter of these cells are anywhere between 10 to 100 micrometers or microns.
+
+159
+00:13:26,980 --> 00:13:34,560
+ The length of these muscle fibers can go from several centimeters to dozens of centimeters.
+
+160
+00:13:34,560 --> 00:13:37,320
+ Each cell is formed by fusion of embryonic cells.
+
+161
+00:13:37,320 --> 00:13:42,680
+ We know that these cells are multi-nucleate, meaning they have many nuclei, and the nuclei
+
+162
+00:13:42,680 --> 00:13:46,680
+ are peripherally located.
+
+163
+00:13:46,680 --> 00:13:52,200
+ So here we see the microscopic anatomy of skeletal muscle fiber, and again, skeletal
+
+164
+00:13:52,200 --> 00:13:56,240
+ muscle fiber is also known as the muscle cell.
+
+165
+00:13:56,240 --> 00:14:07,120
+ So we have individual myofibrils that are basically just long rods within cytoplasm.
+
+166
+00:14:07,120 --> 00:14:15,960
+ So striations of the skeletal muscle are a result of the structure of these myofibrils.
+
+167
+00:14:15,960 --> 00:14:24,040
+ So we have myofibrils that make up the skeletal muscle cell or skeletal muscle fiber.
+
+168
+00:14:24,040 --> 00:14:30,640
+ And again, we have the sheath of connective tissues surrounding individual muscle fibers
+
+169
+00:14:30,640 --> 00:14:33,640
+ known as endo-museum.
+
+170
+00:14:33,640 --> 00:14:41,680
+ So this individual muscle fiber, we have the different organelles that make up this cell.
+
+171
+00:14:41,680 --> 00:14:42,920
+ We have the nuclei.
+
+172
+00:14:42,920 --> 00:14:43,920
+ We have the mitochondria.
+
+173
+00:14:43,920 --> 00:14:50,720
+ Again, there are lots of mitochondria in skeletal muscle fibers because they need more energy.
+
+174
+00:14:50,720 --> 00:14:57,440
+ And then we see the alternating striations of dark bands and light bands, dark bands.
+
+175
+00:14:57,440 --> 00:15:01,560
+ You know, there's the letter A in dark, so it represents an A band.
+
+176
+00:15:01,560 --> 00:15:04,440
+ And the light band has an I in it, so this represents an I band.
+
+177
+00:15:04,440 --> 00:15:10,040
+ And we'll talk about the different bands when we talk about the functional unit of the skeletal
+
+178
+00:15:10,040 --> 00:15:13,840
+ muscle tissue, which is the sarcomere in just a little bit.
+
+179
+00:15:13,840 --> 00:15:20,120
+ So here we see just a diagram of one individual muscle fiber, again made up of myofibrils and
+
+180
+00:15:20,120 --> 00:15:25,720
+ other organelles.
+
+181
+00:15:25,720 --> 00:15:32,680
+ So myofibrils, the striations of the skeletal muscle fiber is due to the internal structure
+
+182
+00:15:32,680 --> 00:15:34,920
+ of myofibrils.
+
+183
+00:15:34,920 --> 00:15:41,280
+ Myofibrils are long rods within the cytoplasm, make up about 80% of the cytoplasm, and are
+
+184
+00:15:41,280 --> 00:15:45,840
+ a specialized contractile organell found in muscle tissue.
+
+185
+00:15:45,840 --> 00:15:52,400
+ And these myofibrils are made up of long rows of repeating segments called sarcomeres.
+
+186
+00:15:52,400 --> 00:16:00,240
+ And the sarcomeres are the functional unit of skeletal muscle tissue.
+
+187
+00:16:00,240 --> 00:16:05,280
+ So a sarcomere, again, being the basic unit of contraction of skeletal muscle, has different
+
+188
+00:16:05,280 --> 00:16:06,480
+ elements to it.
+
+189
+00:16:06,480 --> 00:16:10,040
+ We have what's known as Z disks or the Z line.
+
+190
+00:16:10,040 --> 00:16:12,320
+ These are the boundaries of each sarcomere.
+
+191
+00:16:12,320 --> 00:16:18,320
+ It is then made up of different filaments, we have thin actin filaments that will extend
+
+192
+00:16:18,320 --> 00:16:21,360
+ from the Z disks toward the center of the sarcomere.
+
+193
+00:16:21,360 --> 00:16:24,040
+ And then we have our thick myosin filaments.
+
+194
+00:16:24,040 --> 00:16:28,240
+ These are located in the center of the sarcomere.
+
+195
+00:16:28,240 --> 00:16:36,440
+ And they, the ends overlap, the inner ends overlap with the ends of the thin filaments.
+
+196
+00:16:36,440 --> 00:16:43,920
+ And the thick myosin filaments contain ATPase enzymes, which is important for breaking down
+
+197
+00:16:43,920 --> 00:16:51,200
+ ATP into its components to release energy.
+
+198
+00:16:51,200 --> 00:16:58,120
+ The A bands, which are made up of the dark bands, make up the full length of the thick
+
+199
+00:16:58,120 --> 00:17:03,720
+ myosin filaments, and will also include the inner ends of the thin filaments.
+
+200
+00:17:03,720 --> 00:17:10,160
+ The H zone is the center part of the A band, where no thin filaments occur, so it's made
+
+201
+00:17:10,160 --> 00:17:13,080
+ up just of the thick myosin filaments.
+
+202
+00:17:13,080 --> 00:17:19,680
+ A bands and I bands reflect polarized light differently, so A bands are known as anisotropic
+
+203
+00:17:19,680 --> 00:17:24,800
+ or isi bands are isotropic.
+
+204
+00:17:24,800 --> 00:17:30,680
+ Now the M line, the M line is in the center of that H zone.
+
+205
+00:17:30,680 --> 00:17:35,480
+ So the M line contains tiny rods that will hold thick filaments together.
+
+206
+00:17:35,480 --> 00:17:39,800
+ And then the I band, that light band is the region where with only thin filaments, meaning
+
+207
+00:17:39,800 --> 00:17:44,960
+ there are no thick filaments within this region, and lies within two adjacent sarcomeres.
+
+208
+00:17:44,960 --> 00:17:51,080
+ So if we look at a picture of our sarcomere, we can see that we have the Z disks.
+
+209
+00:17:51,080 --> 00:17:57,520
+ So from Z disks to Z disks makes up one sarcomere, okay, so Z disks to Z disks.
+
+210
+00:17:57,520 --> 00:18:05,120
+ From the Z disk, we have the thin filaments that extend from this line or the Z line,
+
+211
+00:18:05,120 --> 00:18:14,360
+ and then they will extend and then overlap with the dark myosin thick filaments here.
+
+212
+00:18:14,360 --> 00:18:19,760
+ So these darker red lines, those are the thick myosin filaments, and you can see they can
+
+213
+00:18:19,760 --> 00:18:25,160
+ overlap with the center actin filaments.
+
+214
+00:18:25,160 --> 00:18:33,000
+ And the H zone is where only thick filaments occur, and within the H zone you have that
+
+215
+00:18:33,000 --> 00:18:38,800
+ M line that hold the thick filaments together.
+
+216
+00:18:38,800 --> 00:18:45,800
+ So the A band will go from the end of thick myosin filaments to another.
+
+217
+00:18:45,800 --> 00:18:51,360
+ It will contain areas where they overlap with thin filaments, however you reach the middle
+
+218
+00:18:51,360 --> 00:18:54,200
+ part which is the H zone where there are no thin filaments.
+
+219
+00:18:54,200 --> 00:18:58,920
+ And we can actually see this a little bit better in the next slide.
+
+220
+00:18:58,920 --> 00:19:01,120
+ So here we see one sarcomere.
+
+221
+00:19:01,120 --> 00:19:03,640
+ So here's a Z disk, here's the Z disk.
+
+222
+00:19:03,640 --> 00:19:09,360
+ So from Z disk to Z disk, this is one sarcomere, okay.
+
+223
+00:19:09,360 --> 00:19:16,480
+ And then extending from the Z line is a thin filament, this line in blue.
+
+224
+00:19:16,480 --> 00:19:18,760
+ So this is a thin filament.
+
+225
+00:19:18,760 --> 00:19:24,560
+ And we can see at some point that part of the thin filament will overlap with the thick
+
+226
+00:19:24,560 --> 00:19:27,820
+ myosin filament, okay.
+
+227
+00:19:27,820 --> 00:19:35,600
+ And then from the end of one thick filament to another, that makes the A band, which is
+
+228
+00:19:35,600 --> 00:19:37,400
+ the dark band.
+
+229
+00:19:37,400 --> 00:19:41,960
+ So let's actually draw this out, which I love to do.
+
+230
+00:19:41,960 --> 00:19:54,720
+ Okay, so from here to here, that's the A band that is made up of both thick and thin filaments,
+
+231
+00:19:54,720 --> 00:19:58,600
+ which makes it dark.
+
+232
+00:19:58,600 --> 00:20:05,000
+ And then we'll have a part of the A band where there are no thin filaments, so we can see
+
+233
+00:20:05,000 --> 00:20:07,240
+ the thin filament kind of ends here.
+
+234
+00:20:07,240 --> 00:20:18,920
+ So this zone right here, this is known as the H band, or the H region.
+
+235
+00:20:18,920 --> 00:20:27,720
+ So there are no thin filaments here, it's just dark myosin, or thick myosin filaments.
+
+236
+00:20:27,720 --> 00:20:33,080
+ And then in the center of this H band, we have the M line, and this is where the thick
+
+237
+00:20:33,080 --> 00:20:36,880
+ myosin filaments will attach, okay.
+
+238
+00:20:36,880 --> 00:20:42,720
+ So make sure you know the different structures of the sarcomere, what makes up the A band,
+
+239
+00:20:42,720 --> 00:20:47,840
+ what is within the H band, what is the M line, okay.
+
+240
+00:20:47,840 --> 00:20:59,720
+ So make sure to study that.
+
+241
+00:20:59,720 --> 00:21:01,960
+ So there are other structures within the sarcomere.
+
+242
+00:21:01,960 --> 00:21:07,120
+ We have titan, titan is a spring like molecule that will resist over stretching.
+
+243
+00:21:07,120 --> 00:21:11,920
+ Titan molecules will extend from the z-dist to thick filaments to the M line.
+
+244
+00:21:11,920 --> 00:21:16,080
+ Two functions of titan includes the whole of the thick filaments in place, and then unfolds
+
+245
+00:21:16,080 --> 00:21:21,120
+ when the muscle is stretched.
+
+246
+00:21:21,120 --> 00:21:28,840
+ So the sarco-plasmic reticulum is a specialized type of smooth endoplasmic reticulum.
+
+247
+00:21:28,840 --> 00:21:33,600
+ It's just basically the organelle, the same organelle within a generalized cell, but in
+
+248
+00:21:33,600 --> 00:21:35,880
+ muscle cells.
+
+249
+00:21:35,880 --> 00:21:40,440
+ So there are interconnecting tubules that surround each myofibril.
+
+250
+00:21:40,440 --> 00:21:45,000
+ Some tubules will form cross chimes called terminal cisterns.
+
+251
+00:21:45,000 --> 00:21:49,920
+ Cyterns occur in pairs on either side of a T tubule.
+
+252
+00:21:49,920 --> 00:21:56,160
+ So pairs of cisterns plus the T tubule actually makes up a triad.
+
+253
+00:21:56,160 --> 00:22:00,920
+ The sarco-plasmic reticulum contains calcium ions.
+
+254
+00:22:00,920 --> 00:22:02,440
+ Calcium ions are important.
+
+255
+00:22:02,440 --> 00:22:08,400
+ It's an important ion because they are released when muscle is simulated to contract.
+
+256
+00:22:08,400 --> 00:22:13,240
+ Calcium ions will then diffuse through the cytoplasm and help trigger the sliding filament
+
+257
+00:22:13,240 --> 00:22:16,760
+ mechanism, the video in which I asked you guys to watch.
+
+258
+00:22:16,760 --> 00:22:24,040
+ So basically calcium will bind to sites on the thin actin filaments to allow the thick
+
+259
+00:22:24,040 --> 00:22:31,800
+ myosin filaments to bind to the sites on the actin filament and then allow for contraction
+
+260
+00:22:31,800 --> 00:22:39,160
+ by movement of the thin filaments towards the center of the sarcomere.
+
+261
+00:22:39,160 --> 00:22:45,080
+ Now T tubules, these are deep invaginations of the sarcolema.
+
+262
+00:22:45,080 --> 00:22:50,920
+ And the triad again is that T tubule are flanked by two terminal cisterns and this structure
+
+263
+00:22:50,920 --> 00:22:57,220
+ is important because when we have the electrical signal coming from the nervous system for
+
+264
+00:22:57,220 --> 00:23:04,720
+ our muscle to contract, the electrical signal will then travel down the T tubules and then
+
+265
+00:23:04,720 --> 00:23:11,080
+ allow for basically the stimulation to release calcium ions.
+
+266
+00:23:11,080 --> 00:23:15,240
+ And then this will allow for contraction of the muscle.
+
+267
+00:23:15,240 --> 00:23:21,840
+ So here we see the sarcoplasmic reticulum and T tubules in the skeletal muscle fiber.
+
+268
+00:23:21,840 --> 00:23:31,040
+ So this white band right here, this is the T tubule and then surrounded by a pair of cisterns.
+
+269
+00:23:31,040 --> 00:23:33,520
+ Those are the, that makes up the triad.
+
+270
+00:23:33,520 --> 00:23:38,880
+ So once we have again a signal for contraction to occur, this signal will travel down the
+
+271
+00:23:38,880 --> 00:23:45,020
+ T tubules to then go along the tubules of the sarcoplasmic reticulum to allow for the
+
+272
+00:23:45,020 --> 00:23:52,040
+ release of calcium ions and then allowing for contraction to occur.
+
+273
+00:23:52,040 --> 00:23:55,320
+ There are two types, two major types of contraction.
+
+274
+00:23:55,320 --> 00:23:57,120
+ We have concentric contraction.
+
+275
+00:23:57,120 --> 00:24:01,920
+ This is when muscle will shorten to do work and then we have eccentric contraction.
+
+276
+00:24:01,920 --> 00:24:05,720
+ Basically the muscle will generate force as it lengthens.
+
+277
+00:24:05,720 --> 00:24:11,520
+ This muscle acts sort of as a break to help resist gravity.
+
+278
+00:24:11,520 --> 00:24:15,440
+ This is, for example, the down portion of a pushup.
+
+279
+00:24:15,440 --> 00:24:21,320
+ So that is an example of eccentric contraction.
+
+280
+00:24:21,320 --> 00:24:23,960
+ So this brings us to the mechanism of contraction.
+
+281
+00:24:23,960 --> 00:24:29,520
+ We have what's known as the sliding filament mechanism theory, which explains concentric
+
+282
+00:24:29,520 --> 00:24:31,200
+ contraction.
+
+283
+00:24:31,200 --> 00:24:38,600
+ So we have myosin heads, myosin heads contained or located on the thick filaments.
+
+284
+00:24:38,600 --> 00:24:44,000
+ These myosin heads will attach to thin filaments, receptors on the thin filaments at both ends
+
+285
+00:24:44,000 --> 00:24:46,600
+ of a sarcomere.
+
+286
+00:24:46,600 --> 00:24:52,920
+ The myosin heads on the thick filament will then pull the thin filaments towards the center
+
+287
+00:24:52,920 --> 00:24:54,900
+ of the sarcomere.
+
+288
+00:24:54,900 --> 00:25:00,240
+ Now while this is happening, the sarcomere does shorten, however the thin and thick filaments
+
+289
+00:25:00,240 --> 00:25:01,240
+ do not.
+
+290
+00:25:01,240 --> 00:25:06,600
+ They just slide past one another and don't actually shorten, they just move.
+
+291
+00:25:06,600 --> 00:25:11,420
+ So thin and thick filaments do not shorten, but the sarcomere length will.
+
+292
+00:25:11,420 --> 00:25:13,880
+ This is what causes contraction.
+
+293
+00:25:13,880 --> 00:25:19,480
+ So this whole mechanism is initiated by the release of calcium ions from the sarcoplasmic
+
+294
+00:25:19,480 --> 00:25:20,880
+ reticulum.
+
+295
+00:25:20,880 --> 00:25:27,200
+ And of course, this is an action that does require energy, so this mechanism is powered
+
+296
+00:25:27,200 --> 00:25:32,720
+ by ATP.
+
+297
+00:25:32,720 --> 00:25:38,120
+ So here we kind of see a close look at the different filaments that make up the sarcomere.
+
+298
+00:25:38,120 --> 00:25:45,300
+ So we have the thin actin filaments that have receptors for these kind of golf club leg
+
+299
+00:25:45,300 --> 00:25:46,300
+ structures.
+
+300
+00:25:46,300 --> 00:25:49,680
+ These are the myosin heads of the thick myosin filaments.
+
+301
+00:25:49,680 --> 00:25:57,360
+ So once calcium enters the scene with the release of an electrical stimulation from the
+
+302
+00:25:57,360 --> 00:26:02,680
+ nervous system, basically what happens is calcium will help.
+
+303
+00:26:02,680 --> 00:26:09,520
+ Help open the receptor sites for the myosin heads on the thin filaments.
+
+304
+00:26:09,520 --> 00:26:17,840
+ And using ATP, these myosin heads will then kind of pull the thin filament towards the
+
+305
+00:26:17,840 --> 00:26:24,200
+ center of the sarcomere, allowing for the two filaments to slide past one another, causing
+
+306
+00:26:24,200 --> 00:26:25,200
+ a contraction.
+
+307
+00:26:25,200 --> 00:26:30,320
+ So the myosin heads attach to act into the thin filaments, then pivot to pull the thin
+
+308
+00:26:30,320 --> 00:26:36,600
+ filaments inwards or towards the center of the sarcomere.
+
+309
+00:26:36,600 --> 00:26:43,260
+ So the contraction of these filaments or the sarcomere changes the striation pattern.
+
+310
+00:26:43,260 --> 00:26:49,840
+ When fully relaxed, the thin filaments will partially overlap the thick filaments.
+
+311
+00:26:49,840 --> 00:26:55,680
+ And then contraction occurs as the Z disks move closer together.
+
+312
+00:26:55,680 --> 00:27:00,800
+ The sarcomere length shortens, the I band will shorten, and the H zone.
+
+313
+00:27:00,800 --> 00:27:08,720
+ So the H zone where there were no thin filaments will actually disappear.
+
+314
+00:27:08,720 --> 00:27:12,120
+ However, the A band remains the same length.
+
+315
+00:27:12,120 --> 00:27:17,480
+ So the A band being from the end of the thick filament to the other.
+
+316
+00:27:17,480 --> 00:27:19,960
+ So A band remains the same length.
+
+317
+00:27:19,960 --> 00:27:20,960
+ Okay.
+
+318
+00:27:20,960 --> 00:27:24,640
+ So make sure you study this slide and kind of understand what happens to the different
+
+319
+00:27:24,640 --> 00:27:34,000
+ bands during contraction, which one shortens, which one stays the same, that kind of thing.
+
+320
+00:27:34,000 --> 00:27:38,800
+ So here is a picture of a fully relaxed sarcomere of a muscle fiber.
+
+321
+00:27:38,800 --> 00:27:44,440
+ We still have that appreciable H band where there are no thin filaments.
+
+322
+00:27:44,440 --> 00:27:48,400
+ We just have that M line where the thick filaments will attach.
+
+323
+00:27:48,400 --> 00:27:57,080
+ So no thin filaments here, and we see that the Z disks are an appropriate length.
+
+324
+00:27:57,080 --> 00:28:03,400
+ And we can see only a part of the thin filament, thin active filament partially overlaps the
+
+325
+00:28:03,400 --> 00:28:04,400
+ thick filament.
+
+326
+00:28:04,400 --> 00:28:11,240
+ However, when we go to a fully contracted sarcomere, we can see that this H band disappears because
+
+327
+00:28:11,240 --> 00:28:15,280
+ then the active filaments are being pulled towards that M line.
+
+328
+00:28:15,280 --> 00:28:17,960
+ So we no longer have that H band.
+
+329
+00:28:17,960 --> 00:28:23,240
+ We can see that the Z disks are being pulled closer together as well.
+
+330
+00:28:23,240 --> 00:28:27,440
+ However, notice how the A band length never changes.
+
+331
+00:28:27,440 --> 00:28:29,440
+ It still stays the same.
+
+332
+00:28:29,440 --> 00:28:30,440
+ Okay.
+
+333
+00:28:30,440 --> 00:28:35,480
+ And we can see that the thin filament is being pulled towards that center of the sarcomere.
+
+334
+00:28:35,480 --> 00:28:39,120
+ So make sure you understand what occurs during contraction again.
+
+335
+00:28:39,120 --> 00:28:45,480
+ And actually, I've included a link to the video on sliding filament mechanism to help
+
+336
+00:28:45,480 --> 00:28:48,980
+ you understand better that concept.
+
+337
+00:28:48,980 --> 00:28:53,000
+ So make sure you are comfortable with the information on that video.
+
+338
+00:28:53,000 --> 00:28:57,920
+ And if you have any questions, please don't hesitate to ask.
+
+339
+00:28:57,920 --> 00:29:07,760
+ So with regards to muscle extension, the muscle is stretched by a movement opposite that contracts
+
+340
+00:29:07,760 --> 00:29:09,560
+ it.
+
+341
+00:29:09,560 --> 00:29:12,800
+ We have muscle fiber length and force of contraction.
+
+342
+00:29:12,800 --> 00:29:21,820
+ So the greatest force produced is produced when a fiber starts out slightly stretched.
+
+343
+00:29:21,820 --> 00:29:29,320
+ Mice and heads can pull along the entire length of the thin filaments allowing for this contraction.
+
+344
+00:29:29,320 --> 00:29:33,320
+ Again, we talked about Titan.
+
+345
+00:29:33,320 --> 00:29:37,960
+ Just a spring-like molecule in the sarcomeres, which helps resist over stretching, will hold
+
+346
+00:29:37,960 --> 00:29:39,480
+ the thick filaments in place.
+
+347
+00:29:39,480 --> 00:29:48,460
+ Again, we have that A band made up of those thick filaments that do not lengthen or shorten.
+
+348
+00:29:48,460 --> 00:29:53,400
+ Titan will unfold when the muscle is stretched.
+
+349
+00:29:53,400 --> 00:29:57,640
+ So just a table in chapter 10 of your book showing the structure and organizational levels
+
+350
+00:29:57,640 --> 00:29:59,600
+ of skeletal muscle.
+
+351
+00:29:59,600 --> 00:30:02,160
+ So at the highest level, we have the organ.
+
+352
+00:30:02,160 --> 00:30:08,540
+ This is the muscle, again, the entire muscle being surrounded by that connective tissue
+
+353
+00:30:08,540 --> 00:30:11,400
+ sheath called the epimesium.
+
+354
+00:30:11,400 --> 00:30:19,400
+ We then have the muscle fascicle, which is a portion of the muscle.
+
+355
+00:30:19,400 --> 00:30:27,560
+ So within the muscle, we have many numbers of fascicles, and this is surrounded by paramecium.
+
+356
+00:30:27,560 --> 00:30:32,000
+ So we know that a muscle consists of hundreds, two thousands of muscle cells, plus connective
+
+357
+00:30:32,000 --> 00:30:36,600
+ tissue wrappings, the blood vessels and nerve fibers.
+
+358
+00:30:36,600 --> 00:30:40,760
+ The whole entire muscle, again, is covered by epimesium.
+
+359
+00:30:40,760 --> 00:30:47,900
+ The muscle fascicle surrounded by paramecium is a discrete bundle of muscle cells, a segregate
+
+360
+00:30:47,900 --> 00:30:54,640
+ from the rest of the muscle by, again, another connective tissue sheath.
+
+361
+00:30:54,640 --> 00:31:00,120
+ Muscle fascicles are made up of individual muscle fibers or muscle cells.
+
+362
+00:31:00,120 --> 00:31:08,040
+ These muscle fibers are surrounded by endo-museum, and then a muscle fiber is an elongated multinucleate
+
+363
+00:31:08,040 --> 00:31:15,280
+ cell, has striations that we saw in the histo slides.
+
+364
+00:31:15,280 --> 00:31:19,440
+ And then individual muscle cells or muscle fibers are surrounded by endo-museum.
+
+365
+00:31:19,440 --> 00:31:24,760
+ And then within the cell, we have organelles called myofibrils.
+
+366
+00:31:24,760 --> 00:31:31,880
+ So these are complex organelles containing myofilaments, such as our actinar myosin.
+
+367
+00:31:31,880 --> 00:31:39,920
+ Myofibrils are rod-like contractile organelles that occupy most of the muscle cell volume,
+
+368
+00:31:39,920 --> 00:31:46,960
+ composed of the structural units called sarcomeres that are arranged end-to-end, appear banded,
+
+369
+00:31:46,960 --> 00:31:52,640
+ and the bands of adjacent myofibrils are, of course, aligned.
+
+370
+00:31:52,640 --> 00:31:57,760
+ And then within the myofibrils, we have the structural unit, which is the sarcomere, again,
+
+371
+00:31:57,760 --> 00:32:02,620
+ a segment of myofibril, which will go from z-disc to z-disc.
+
+372
+00:32:02,620 --> 00:32:10,720
+ Again, this is the contractile unit composed of the myofilaments, actin and myosin, which
+
+373
+00:32:10,720 --> 00:32:12,720
+ are made up of contractile proteins.
+
+374
+00:32:12,720 --> 00:32:19,360
+ So we have the thick myosin filaments and the thin actin filaments.
+
+375
+00:32:19,360 --> 00:32:23,960
+ So here we see the myofilaments or filaments.
+
+376
+00:32:23,960 --> 00:32:30,000
+ Again, we have the thick filaments held by this end line.
+
+377
+00:32:30,000 --> 00:32:35,960
+ We have the H band here where we have no actin filaments or thin filaments.
+
+378
+00:32:35,960 --> 00:32:42,320
+ And then kind of overlapping, we have the thin actin filaments.
+
+379
+00:32:42,320 --> 00:32:49,240
+ So we have, again, two types of myofilaments, thick and thin, contained bundled depending
+
+380
+00:32:49,240 --> 00:32:50,720
+ on if they're thick or thin.
+
+381
+00:32:50,720 --> 00:32:57,920
+ The thick filaments have bundled myosin, whereas the thin filaments have bundled actin.
+
+382
+00:32:57,920 --> 00:33:03,080
+ And the sliding of the thin filaments past the thick filaments will produce muscle shortening
+
+383
+00:33:03,080 --> 00:33:06,400
+ or muscle contraction.
+
+384
+00:33:06,400 --> 00:33:12,280
+ We also have elastic filaments that are composed of titan molecules that maintain the organization
+
+385
+00:33:12,280 --> 00:33:19,820
+ of the A band and provide for that elastic recoil when muscle contraction ends.
+
+386
+00:33:19,820 --> 00:33:26,680
+ With regards to the innervation of the skeletal muscle, we have motor neurons that will innervate
+
+387
+00:33:26,680 --> 00:33:30,120
+ skeletal muscle tissue.
+
+388
+00:33:30,120 --> 00:33:32,280
+ We have structures within the motor neuron.
+
+389
+00:33:32,280 --> 00:33:34,720
+ So for example, we have a neuromuscular junction.
+
+390
+00:33:34,720 --> 00:33:40,080
+ This is the point where the nerve ending and the muscle fiber will meet.
+
+391
+00:33:40,080 --> 00:33:45,720
+ In the neuromuscular junction, we have structures, which is basically the end of an axon of
+
+392
+00:33:45,720 --> 00:33:50,480
+ a neuron known as terminal buttons.
+
+393
+00:33:50,480 --> 00:33:55,760
+ So terminal butons are located at the ends of axons and store neurotransmitters.
+
+394
+00:33:55,760 --> 00:34:00,120
+ And we'll learn about what neurotransmitters are, but basically neurotransmitters are sort
+
+395
+00:34:00,120 --> 00:34:10,040
+ of like hormones that will help send the chemical signal from the neuron to the muscle.
+
+396
+00:34:10,040 --> 00:34:16,760
+ So between the muscle fiber and the terminal butons at the neuromuscular junction, we have
+
+397
+00:34:16,760 --> 00:34:19,960
+ this space called the synaptic clef.
+
+398
+00:34:19,960 --> 00:34:25,760
+ The synaptic clef is the space between the axon terminal and the sarcolemma of the muscle
+
+399
+00:34:25,760 --> 00:34:29,400
+ fiber.
+
+400
+00:34:29,400 --> 00:34:36,360
+ So here we see the neuromuscular junction and the events that allow for stimulation to allow
+
+401
+00:34:36,360 --> 00:34:40,880
+ for muscle contraction to occur.
+
+402
+00:34:40,880 --> 00:34:43,560
+ So here are the events at the neuromuscular junction.
+
+403
+00:34:43,560 --> 00:34:46,800
+ So first we have a nerve impulse.
+
+404
+00:34:46,800 --> 00:34:52,160
+ This nerve impulse coming from the axon, it will stimulate the release of the neurotransmitter
+
+405
+00:34:52,160 --> 00:34:55,600
+ acetylcholine into the synaptic clef.
+
+406
+00:34:55,600 --> 00:35:00,320
+ So here we see the myelated axon, the motor neuron.
+
+407
+00:35:00,320 --> 00:35:05,960
+ Here we have our terminal butons that contain the neurotransmitter acetylcholine.
+
+408
+00:35:05,960 --> 00:35:11,840
+ So the electrical impulse will travel down the axon, the myelinated axon to the terminal
+
+409
+00:35:11,840 --> 00:35:19,760
+ buton at the neuromuscular junction which will then release the neurotransmitter into
+
+410
+00:35:19,760 --> 00:35:26,640
+ the synaptic clef and from there the neurotransmitter will bind to receptors onto the sarcolemma.
+
+411
+00:35:26,640 --> 00:35:32,560
+ So acetylcholine stimulates changes in the sarcolemma that excite the muscle fiber.
+
+412
+00:35:32,560 --> 00:35:37,240
+ So we have the release of calcium ions before that.
+
+413
+00:35:37,240 --> 00:35:44,080
+ So the stimulus coming from the axon or the neuron is carried down the T2 bills to initiate
+
+414
+00:35:44,080 --> 00:35:48,160
+ fiber contraction with the release of calcium.
+
+415
+00:35:48,160 --> 00:35:53,280
+ So enzymes in the synaptic clef will break down acetylcholine which will then kind of
+
+416
+00:35:53,280 --> 00:35:55,360
+ limit the action to a single muscle twitch.
+
+417
+00:35:55,360 --> 00:35:58,160
+ So you don't want a bunch of acetylcholine hanging out for too long.
+
+418
+00:35:58,160 --> 00:36:07,240
+ You just want one stimulus to occur and then once the stimulus has released a signal into
+
+419
+00:36:07,240 --> 00:36:19,640
+ the muscle fiber that will break down acetylcholine so that we only have a single muscle twitch.
+
+420
+00:36:19,640 --> 00:36:24,280
+ So we can see that the axons of the motor neurons will extend from the spinal cord to
+
+421
+00:36:24,280 --> 00:36:30,680
+ the muscle, there each axon will divide into a number of terminal butons that form neuromuscular
+
+422
+00:36:30,680 --> 00:36:35,800
+ junctions with muscle fibers that are scattered throughout the muscle and we can here see
+
+423
+00:36:35,800 --> 00:36:43,000
+ the that going on in this histo slide we can see branching axon of a motor unit and then
+
+424
+00:36:43,000 --> 00:36:52,400
+ terminal butons at neuromuscular junctions onto the muscle fibers.
+
+425
+00:36:52,400 --> 00:36:59,080
+ So different types of skeletal muscle fibers they are categorized according to two characteristics.
+
+426
+00:36:59,080 --> 00:37:06,040
+ First how they manufacture ATP which is our form of energy that we use to do work and
+
+427
+00:37:06,040 --> 00:37:09,320
+ then how quickly they contract.
+
+428
+00:37:09,320 --> 00:37:13,680
+ So the first type of fibers we're going to talk about are oxidative fibers.
+
+429
+00:37:13,680 --> 00:37:18,520
+ So oxidative fibers actually will produce ATP aerobically.
+
+430
+00:37:18,520 --> 00:37:24,040
+ What does that mean, aerobically means there needs to be the presence of oxygen and then
+
+431
+00:37:24,040 --> 00:37:31,040
+ we have glycolytic fibers, glycolytic fibers will produce ATP anaerobically so anaerobically
+
+432
+00:37:31,040 --> 00:37:37,240
+ meaning without oxygen but we do it they are able to produce ATP through glycolysis.
+
+433
+00:37:37,240 --> 00:37:44,080
+ So glycolysis is basically the breakdown of the stored form of glucose which is glycogen.
+
+434
+00:37:44,080 --> 00:37:51,520
+ So breaking down glycogen will help produce ATP which we use for energy.
+
+435
+00:37:51,520 --> 00:37:57,120
+ So we have oxidative fibers that produce ATP aeromically for these oxygen anaerobically
+
+436
+00:37:57,120 --> 00:38:05,280
+ glycolytic fibers will produce ATP by glycolysis.
+
+437
+00:38:05,280 --> 00:38:10,800
+ So these skeletal muscle fibers will then be divided into three classes.
+
+438
+00:38:10,800 --> 00:38:20,720
+ We have our slow oxidative fibers again oxidative requiring oxygen to produce ATP aeromically
+
+439
+00:38:20,720 --> 00:38:26,800
+ and then example of our slow oxidative fibers are our red slow oxidative fibers.
+
+440
+00:38:26,800 --> 00:38:29,440
+ Then we have fast glycolytic fibers.
+
+441
+00:38:29,440 --> 00:38:36,640
+ An example of this are the white fast glycolytic fibers which we'll talk about and then intermediate
+
+442
+00:38:36,640 --> 00:38:39,640
+ we have our fast oxidative fibers.
+
+443
+00:38:39,640 --> 00:38:47,160
+ So these are intermediate fibers again oxidative requiring oxygen glycolytic do not require
+
+444
+00:38:47,160 --> 00:38:55,480
+ oxygen rather produce ATP through anaerobic means via glycolysis.
+
+445
+00:38:55,480 --> 00:39:02,120
+ So first we'll talk about our slow oxidative fibers these are our red fibers they're red
+
+446
+00:39:02,120 --> 00:39:09,160
+ due to an abundant myoglobin they obtain energy from oxygen or aerobic metabolic reactions
+
+447
+00:39:09,160 --> 00:39:16,160
+ requiring oxygen they contain a large number of mitochondria and they are richly supplied
+
+448
+00:39:16,160 --> 00:39:24,440
+ with capillaries they are slow so it contracts slowly and are resistant to fatigue.
+
+449
+00:39:24,440 --> 00:39:28,160
+ These fibers are very small in diameter.
+
+450
+00:39:28,160 --> 00:39:35,480
+ So many of these fibers again are extremely resistant to fatigue as long as enough oxygen
+
+451
+00:39:35,480 --> 00:39:42,800
+ are as present deliver prolonged contractions these make up many of the fibers in our postural
+
+452
+00:39:42,800 --> 00:39:49,160
+ muscles of the lower back so these are the muscles that help maintain our posture.
+
+453
+00:39:49,160 --> 00:39:55,240
+ And these muscles must contract continuously to keep the spine straight and maintains posture
+
+454
+00:39:55,240 --> 00:40:04,840
+ however because they are thin slow oxidative fibers do not generate much power.
+
+455
+00:40:04,840 --> 00:40:11,280
+ Then we have our fast fast glycolytic fibers fast glycolytic fibers contain little myoglobin
+
+456
+00:40:11,280 --> 00:40:17,400
+ and few mitochondria they're about twice the diameter of slow oxidative fibers however
+
+457
+00:40:17,400 --> 00:40:23,500
+ they contain more myofilaments and generate more power and again depend on anaerobic pathways
+
+458
+00:40:23,500 --> 00:40:29,920
+ so they are able to make ATP through glycolysis or the breakdown of glycogen.
+
+459
+00:40:29,920 --> 00:40:37,400
+ Fast glycolytic fibers contract rapidly and tire quickly they are common in the muscles
+
+460
+00:40:37,400 --> 00:40:45,440
+ of the upper limbs which often can lift heavy objects but for brief periods.
+
+461
+00:40:45,440 --> 00:40:52,480
+ The next type of fiber which are are intermediates these are fast oxidative fibers fast oxidative
+
+462
+00:40:52,480 --> 00:40:57,680
+ fibers have an intermediate diameter they can track quickly like fast glycolytic fibers
+
+463
+00:40:57,680 --> 00:41:04,480
+ but are oxygen dependent they have a high myoglobin content and rich supply of capillaries and
+
+464
+00:41:04,480 --> 00:41:13,960
+ are somewhat fatigue resistant however they are more powerful than slow oxidative fibers
+
+465
+00:41:13,960 --> 00:41:17,860
+ they are abundant in muscles of the lower limbs which have to move the body for long
+
+466
+00:41:17,860 --> 00:41:21,840
+ periods of time.
+
+467
+00:41:21,840 --> 00:41:26,400
+ So for example muscle in the calf of the leg uses its glycolytic fibers to propel the body
+
+468
+00:41:26,400 --> 00:41:33,720
+ in short sprints so if we're talking about sprints, glycolytic fibers are more favorable
+
+469
+00:41:33,720 --> 00:41:41,520
+ whereas with fast oxidative fibers they are more favorable for long distance running and
+
+470
+00:41:41,520 --> 00:41:47,240
+ like we said before compared to slow oxidative fibers we know that slow oxidative fibers are
+
+471
+00:41:47,240 --> 00:41:55,560
+ actually more favorable for the muscles that maintain our posture or standing posture.
+
+472
+00:41:55,560 --> 00:42:01,320
+ So here is a table in your book that compares the different types of muscle in your body
+
+473
+00:42:01,320 --> 00:42:07,320
+ we have skeletal cardiac and smooth muscle it's a great table because it kind of bases
+
+474
+00:42:07,320 --> 00:42:14,160
+ the characteristics based on body location as well as what they look like histologically.
+
+475
+00:42:14,160 --> 00:42:19,360
+ So here we see body location of the three different types of muscles again skeletal muscle will
+
+476
+00:42:19,360 --> 00:42:27,040
+ see attached to bones or some facial muscles to the skin, cardiac muscle will only see
+
+477
+00:42:27,040 --> 00:42:32,480
+ in the walls of the heart and smooth muscle mostly in the walls of hollow organs such
+
+478
+00:42:32,480 --> 00:42:37,560
+ as the stomach, respiratory twos, bladder, blood vessels and uterus.
+
+479
+00:42:37,560 --> 00:42:44,280
+ And here we see a comparison of the different skeletal muscle or a different muscle tissue
+
+480
+00:42:44,280 --> 00:42:51,640
+ under histo slides that we saw in Unit 1 here we see these long parallel muscle fibers with
+
+481
+00:42:51,640 --> 00:42:57,960
+ striations we have peripherally located multinuclei and then cardiac muscle we see the branching
+
+482
+00:42:57,960 --> 00:43:05,760
+ of the cardiac muscle with the intercolated discs as well as striations and smooth muscle
+
+483
+00:43:05,760 --> 00:43:12,040
+ sort of looks like dense regular connected tissue but is different because we have fusiform
+
+484
+00:43:12,040 --> 00:43:17,140
+ type cells within this tissue and it's different from skeletal and cardiac muscle because there
+
+485
+00:43:17,140 --> 00:43:20,520
+ are no striations.
+
+486
+00:43:20,520 --> 00:43:27,360
+ Again I would study the different connective tissue components here it shows you within
+
+487
+00:43:27,360 --> 00:43:33,280
+ the different connective tissue components within the three types of muscle we saw the
+
+488
+00:43:33,280 --> 00:43:39,520
+ different layers in skeletal muscle we can see within cardiac muscle and a museum is
+
+489
+00:43:39,520 --> 00:43:46,160
+ predominant connective tissue that attach to, the endo museum is attached to the fiber
+
+490
+00:43:46,160 --> 00:43:51,260
+ skeleton of the heart so we can see the attachment of these cardiac muscle cells via the end
+
+491
+00:43:51,260 --> 00:43:55,360
+ of museum which will attach to that fiber skeleton.
+
+492
+00:43:55,360 --> 00:44:01,600
+ And then in smooth muscle again we'll see predominantly endo museum kind of bringing
+
+493
+00:44:01,600 --> 00:44:06,080
+ together the smooth muscle cells.
+
+494
+00:44:06,080 --> 00:44:13,720
+ Where we see a comparison of you know whether or not myofibrils are present or presence of
+
+495
+00:44:13,720 --> 00:44:19,120
+ myofibrils composed of sarcomeres yes we'll see that in skeletal and cardiac muscle but
+
+496
+00:44:19,120 --> 00:44:24,360
+ within cardiac the myofibrils are of irregular thickness and you do not see that in smooth
+
+497
+00:44:24,360 --> 00:44:30,560
+ muscle but there are actinomycin filaments that are present throughout smooth muscle.
+
+498
+00:44:30,560 --> 00:44:36,040
+ And then whether or not we have the presence of T-tubules and sites of invagination of
+
+499
+00:44:36,040 --> 00:44:41,880
+ course we'll see it in skeletal muscle we talked about that as well as we can see it
+
+500
+00:44:41,880 --> 00:44:48,280
+ in cardiac muscle we'll see a T-tubule one in each sarcomere at the z-discs however these
+
+501
+00:44:48,280 --> 00:44:53,880
+ are larger diameter than those of skeletal muscle and you will not find T-tubules in
+
+502
+00:44:53,880 --> 00:44:57,960
+ smooth muscle.
+
+503
+00:44:57,960 --> 00:45:02,960
+ And then other characteristics that we can kind of differentiate between the three including
+
+504
+00:45:02,960 --> 00:45:12,320
+ whether or not there's an elaborate sarcoplasmic reticulum using calcium for the calcium pulse
+
+505
+00:45:12,320 --> 00:45:17,080
+ or the source of calcium for the calcium pulse of course we'll find it in the sarcoplasmic
+
+506
+00:45:17,080 --> 00:45:20,000
+ reticulum in all three.
+
+507
+00:45:20,000 --> 00:45:24,480
+ Whether or not we have presence of gap junctions those structures that allow for communications
+
+508
+00:45:24,480 --> 00:45:29,440
+ between cells you won't find it in skeletal muscle but you will find it in cardiac as
+
+509
+00:45:29,440 --> 00:45:31,840
+ well as smooth muscle.
+
+510
+00:45:31,840 --> 00:45:38,160
+ And then whether or not these cells exhibit individual neuromuscular junctions yes in
+
+511
+00:45:38,160 --> 00:45:45,600
+ skeletal muscle and no for both cardiac and smooth.
+
+512
+00:45:45,600 --> 00:45:50,000
+ And then regulation of contraction whether it's voluntary or involuntary.
+
+513
+00:45:50,000 --> 00:45:55,240
+ We know that skeletal muscle tissue is the only muscle tissue that is under voluntary control
+
+514
+00:45:55,240 --> 00:46:01,100
+ versus cardiac and smooth which are both under involuntary control because we know that cardiac
+
+515
+00:46:01,100 --> 00:46:06,280
+ muscle it has its own intrinsic system of regulation.
+
+516
+00:46:06,280 --> 00:46:12,200
+ We'll talk about that when we get to the cardiovascular system with the pacemaker cells.
+
+517
+00:46:12,200 --> 00:46:17,840
+ Also we all have cardiac centers within our brain the autonomic nervous system that will
+
+518
+00:46:17,840 --> 00:46:25,680
+ also control cardiac muscle and again for smooth muscle under involuntary control.
+
+519
+00:46:25,680 --> 00:46:34,840
+ Energy so skeletal muscle utilizes both aerobic and anaerobic metabolism so it can have methods
+
+520
+00:46:34,840 --> 00:46:42,840
+ of obtaining ATP through either in conditions with or without oxygen for cardiac muscle
+
+521
+00:46:42,840 --> 00:46:49,640
+ oxygen of course is required and smooth muscle it's mostly or mainly aerobic meaning oxygen
+
+522
+00:46:49,640 --> 00:46:52,080
+ does have to be present.
+
+523
+00:46:52,080 --> 00:46:58,400
+ For disorders of muscle tissue muscle tissues experience few disorders the heart muscle
+
+524
+00:46:58,400 --> 00:47:03,360
+ of course is the exception there are many cardiovascular pathologies that we can talk
+
+525
+00:47:03,360 --> 00:47:07,360
+ about but we'll wait till the cardiovascular section.
+
+526
+00:47:07,360 --> 00:47:13,040
+ Skeletal muscle is remarkably resistant to infection unless of course you have a patient
+
+527
+00:47:13,040 --> 00:47:20,480
+ has diabetes that's prone to poor blood supply which can cause gangrene and some muscle tissue
+
+528
+00:47:20,480 --> 00:47:26,200
+ if there's an injury that isn't taken care of but for the most part skeletal muscle is
+
+529
+00:47:26,200 --> 00:47:31,800
+ resistant to infection smooth muscle well probably any problems will probably stem from external
+
+530
+00:47:31,800 --> 00:47:34,000
+ irritants.
+
+531
+00:47:34,000 --> 00:47:41,760
+ So we do have some pathologies that we can talk about for example muscular dystrophy.
+
+532
+00:47:41,760 --> 00:47:47,640
+ Muscular dystrophy is a group of inherited muscle destroying diseases the affected muscles
+
+533
+00:47:47,640 --> 00:47:54,760
+ will enlarge with fat and connective tissue which will then encourage muscles to degenerate
+
+534
+00:47:54,760 --> 00:48:00,520
+ or break down and there are different types of muscular dystrophy we have douchens muscular
+
+535
+00:48:00,520 --> 00:48:06,120
+ dystrophy and myotonic dystrophy.
+
+536
+00:48:06,120 --> 00:48:11,600
+ We also have myofacial pain syndrome this is when we have pain that is caused by tightened
+
+537
+00:48:11,600 --> 00:48:17,400
+ bands of muscle fibers then we have a condition that a lot of people that you might have heard
+
+538
+00:48:17,400 --> 00:48:24,320
+ about which is fibromyalgia this is a mysterious chronic pain syndrome that affects mostly women
+
+539
+00:48:24,320 --> 00:48:31,720
+ and some symptoms include fatigue sleep abnormality severe musculoskeletal pain and headache.
+
+540
+00:48:31,720 --> 00:48:38,520
+ Now notice these symptoms are not very specific to anyone disease so it's kind of hard to
+
+541
+00:48:38,520 --> 00:48:44,800
+ diagnose fibromyalgia because all these symptoms could be anything but usually if we have these
+
+542
+00:48:44,800 --> 00:48:52,840
+ symptoms plus severe musculoskeletal pain we can you know maybe rule in fibromyalgia.
+
+543
+00:48:52,840 --> 00:48:58,320
+ So talking about muscle tissues throughout life we know that muscle tissue develops from
+
+544
+00:48:58,320 --> 00:49:04,200
+ myoblast again myo being that prefix that means muscles, blast just an immature type
+
+545
+00:49:04,200 --> 00:49:11,240
+ of cell so myoblast will fuse to form skeletal muscle fibers and then we'll see by week 7
+
+546
+00:49:11,240 --> 00:49:15,360
+ skeletal muscles contract.
+
+547
+00:49:15,360 --> 00:49:21,240
+ So here we see our endodemoric mesoderm cells which will undergo cell division to increase
+
+548
+00:49:21,240 --> 00:49:27,960
+ in number and in large forming our myoblast several myoblast will fuse together to form
+
+549
+00:49:27,960 --> 00:49:35,800
+ a myotube and myotube is an immature multinucleate muscle fiber and we'll have satellite cells
+
+550
+00:49:35,800 --> 00:49:43,040
+ that kind of surround the myotube as the myotube matures it will mature into skeletal
+
+551
+00:49:43,040 --> 00:49:51,920
+ muscle fiber and here we can see a mature skeletal muscle fiber, cardiac muscle usually
+
+552
+00:49:51,920 --> 00:49:58,760
+ by around week 3 we can see the cardiac muscle start to pump blood.
+
+553
+00:49:58,760 --> 00:50:05,600
+ We talked about skeletal cells the last slide, satellite cells surround skeletal muscle fibers
+
+554
+00:50:05,600 --> 00:50:12,820
+ they resemble undifferentiated myoblast they will fuse into existing muscle fibers to help
+
+555
+00:50:12,820 --> 00:50:13,720
+ them grow.
+
+556
+00:50:13,720 --> 00:50:21,560
+ Now of course we'll see differences in amounts of skeletal muscle between males and females.
+
+557
+00:50:21,560 --> 00:50:29,960
+ For female skeletal muscle makes up approximately 36% of body mass and in males it makes up
+
+558
+00:50:29,960 --> 00:50:36,220
+ approximately 42% of body mass and this difference is usually due to the effect of
+
+559
+00:50:36,220 --> 00:50:38,880
+ androgens these are hormones in males.
+
+560
+00:50:38,880 --> 00:50:47,240
+ So males have more androgens that will affect percent body mass of skeletal muscle and of
+
+561
+00:50:47,240 --> 00:50:52,880
+ course with increased age we know that the amount of connective tissue increases in muscles
+
+562
+00:50:52,880 --> 00:50:58,160
+ but the number of muscle fibers decrease you know if you don't use it you lose it.
+
+563
+00:50:58,160 --> 00:51:05,060
+ So we have a loss of muscle mass with aging usually we have a decrease in muscle strength
+
+564
+00:51:05,060 --> 00:51:12,680
+ about 50% by 8 years old and then we have a condition known as sarcopenia, sarcopenia
+
+565
+00:51:12,680 --> 00:51:16,280
+ is just known as muscle wasting.
+
+566
+00:51:16,280 --> 00:51:23,440
+ So that's it for this chapter on skeletal muscle and yeah I'll be prepared for the quiz
+
+567
+00:51:23,440 --> 00:51:23,920
+ you guys.
+

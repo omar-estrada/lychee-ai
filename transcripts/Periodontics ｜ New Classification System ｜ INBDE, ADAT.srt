@@ -1,0 +1,1632 @@
+1
+00:00:00,000 --> 00:00:03,080
+ Hey everyone, Ryan here!
+
+2
+00:00:03,080 --> 00:00:07,480
+ This video is on a topic that many of you have been asking for.
+
+3
+00:00:07,480 --> 00:00:14,440
+ So some exciting things were happening at the Euro-Period9 conference in June of 2018.
+
+4
+00:00:14,440 --> 00:00:21,880
+ The American Academy of Peridontology, or the AAP, officially announced a new Peridontal
+
+5
+00:00:21,880 --> 00:00:23,880
+ classification system.
+
+6
+00:00:23,880 --> 00:00:29,200
+ And the guidelines had previously not been updated since 1999.
+
+7
+00:00:29,200 --> 00:00:31,320
+ So this is a pretty big deal.
+
+8
+00:00:31,320 --> 00:00:37,000
+ Additionally, the Integrated National Board dental exam is exclusively using this new
+
+9
+00:00:37,000 --> 00:00:38,980
+ classification system.
+
+10
+00:00:38,980 --> 00:00:44,280
+ So I'm here to cover it for you and help you feel comfortable using it to diagnose
+
+11
+00:00:44,280 --> 00:00:47,080
+ patient cases.
+
+12
+00:00:47,080 --> 00:00:51,960
+ So let's look at a brief history of Peridontal classifications.
+
+13
+00:00:51,960 --> 00:00:58,680
+ In the mid-1970s, we started with chronic marginal versus juvenile periodontitis.
+
+14
+00:00:58,680 --> 00:01:05,040
+ In the mid-1980s, that's changed to adult and juvenile periodontitis.
+
+15
+00:01:05,040 --> 00:01:10,240
+ And then shortly after, they added in more specific categories, like Type N through
+
+16
+00:01:10,240 --> 00:01:11,240
+ Type V.
+
+17
+00:01:11,240 --> 00:01:17,040
+ In the late 1990s, they introduced chronic and aggressive periodontitis, which we've
+
+18
+00:01:17,040 --> 00:01:24,440
+ used for roughly two decades, and then announced in 2017 and implemented in 2018, the staging
+
+19
+00:01:24,440 --> 00:01:29,600
+ and grading system is the newest one we have, and the one we'll spend the most time on in
+
+20
+00:01:29,600 --> 00:01:31,720
+ this video.
+
+21
+00:01:31,720 --> 00:01:39,360
+ So the major changes implemented at this conference is that there are now four main categories
+
+22
+00:01:39,360 --> 00:01:41,480
+ of disease processes.
+
+23
+00:01:41,480 --> 00:01:47,800
+ These are periodontal health and gingival diseases and conditions, periodontitis, period
+
+24
+00:01:47,800 --> 00:01:54,760
+ implant diseases and conditions, and periodontal manifestation of systemic diseases and developmental
+
+25
+00:01:54,760 --> 00:01:56,400
+ and acquired conditions.
+
+26
+00:01:56,400 --> 00:02:04,040
+ Now we're going to focus on the first three in this video in that order.
+
+27
+00:02:04,040 --> 00:02:06,800
+ So we start with periodontal health.
+
+28
+00:02:06,800 --> 00:02:12,960
+ Now if things get worse, that turns to gingivitis, and if things get worse still, that turns to
+
+29
+00:02:12,960 --> 00:02:14,520
+ periodontitis.
+
+30
+00:02:14,520 --> 00:02:20,080
+ Now periodontal health and gingival diseases only includes these first two, so let's focus
+
+31
+00:02:20,080 --> 00:02:22,920
+ on those to start with.
+
+32
+00:02:22,920 --> 00:02:29,000
+ The case definition of periodontal health is healthy, soft, and hard tissue surrounding
+
+33
+00:02:29,000 --> 00:02:30,760
+ the teeth.
+
+34
+00:02:30,760 --> 00:02:36,000
+ That being said, some amount of inflammation is acceptable because let's face it, no one's
+
+35
+00:02:36,000 --> 00:02:37,000
+ perfect.
+
+36
+00:02:37,000 --> 00:02:44,480
+ So localized, minimal, and delayed bleeding on probing at isolated sites is hard to avoid
+
+37
+00:02:44,480 --> 00:02:49,440
+ and may fall within the spectrum of clinical health.
+
+38
+00:02:49,440 --> 00:02:55,180
+ Now that could be minimal bleeding on probing at less than 10% of sites and probing depths
+
+39
+00:02:55,180 --> 00:02:57,480
+ at three millimeters or below.
+
+40
+00:02:57,480 --> 00:03:03,520
+ These things describe maybe one or two sites with some evidence of clinical inflammation,
+
+41
+00:03:03,520 --> 00:03:08,120
+ but generally overall this is a situation of health.
+
+42
+00:03:08,120 --> 00:03:13,680
+ Now this can happen on either an intact or a reduced periodontum, so let's define those
+
+43
+00:03:13,680 --> 00:03:14,960
+ real quick.
+
+44
+00:03:14,960 --> 00:03:21,560
+ An intact periodontum is one with no loss of periodontal tissue.
+
+45
+00:03:21,560 --> 00:03:29,640
+ A reduced periodontum is a periodontum with pre-existing loss of periodontal tissue,
+
+46
+00:03:29,640 --> 00:03:39,440
+ but and this is important, is not currently undergoing loss of bone or connective tissue.
+
+47
+00:03:39,440 --> 00:03:45,680
+ So reduced periodontum could be the result of hard toothbrush scrubbing leading to gingival
+
+48
+00:03:45,680 --> 00:03:50,640
+ recession or crown lengthening performed by a dentist.
+
+49
+00:03:50,640 --> 00:03:56,040
+ In these cases the patient could have no periodontitis history at all.
+
+50
+00:03:56,040 --> 00:04:00,680
+ These are things that were involving toothbrush scrubbing and crown lengthening performed by
+
+51
+00:04:00,680 --> 00:04:01,680
+ the dentist.
+
+52
+00:04:01,680 --> 00:04:06,000
+ So that patient may have a reduced periodontum and they never had periodontal disease at
+
+53
+00:04:06,000 --> 00:04:07,080
+ all.
+
+54
+00:04:07,080 --> 00:04:13,300
+ In this case, those types of patients that fall in this category have no increased risk
+
+55
+00:04:13,300 --> 00:04:15,600
+ of periodontitis.
+
+56
+00:04:15,600 --> 00:04:22,420
+ But reduced periodontum could also be the result of previous periodontitis that caused
+
+57
+00:04:22,420 --> 00:04:27,920
+ the clinical attachment loss, but now the condition is currently stable because we're
+
+58
+00:04:27,920 --> 00:04:31,000
+ in a situation of periodontal health.
+
+59
+00:04:31,000 --> 00:04:37,440
+ By the way, periodontal stability is characterized by successful treatment through control of
+
+60
+00:04:37,440 --> 00:04:42,720
+ local and systemic risk factors, resulting in bleeding on probing at less than 10% of
+
+61
+00:04:42,720 --> 00:04:51,320
+ sites and probing depths at 3mm or below, and there's no progressive periodontal destruction.
+
+62
+00:04:51,320 --> 00:04:58,040
+ So reduced periodontum, intact periodontum, both of those situations could be the result
+
+63
+00:04:58,040 --> 00:05:05,960
+ of, or could be, included in this realm of periodontal health.
+
+64
+00:05:05,960 --> 00:05:11,640
+ Now the case definition of gingivitis is clinical evidence of inflammation.
+
+65
+00:05:11,640 --> 00:05:18,480
+ And this involves things like erythema, redness, edema, this is localized swelling, and bleeding
+
+66
+00:05:18,480 --> 00:05:19,560
+ on probing.
+
+67
+00:05:19,560 --> 00:05:25,440
+ So now we have bleeding on probing at greater than or equal to 10% of sites.
+
+68
+00:05:25,440 --> 00:05:31,160
+ But those probing depths are still pretty controlled at 3mm or below.
+
+69
+00:05:31,160 --> 00:05:37,280
+ Stable periodontum, again, we're not seeing the progressive loss of alveolar bone and
+
+70
+00:05:37,280 --> 00:05:39,600
+ clinical attachment.
+
+71
+00:05:39,600 --> 00:05:44,100
+ This is defined as gingivitis.
+
+72
+00:05:44,100 --> 00:05:49,760
+ We're mostly focusing on the big change here is this part right here.
+
+73
+00:05:49,760 --> 00:05:54,200
+ Bleeding on probing and these clinical signs of inflammation that are occurring at more
+
+74
+00:05:54,200 --> 00:06:00,600
+ than just one or two sites, now it's either localized to the anterior region of the mouth
+
+75
+00:06:00,600 --> 00:06:05,680
+ or the posterior region of the mouth, or it's generalized to the entire mouth.
+
+76
+00:06:05,680 --> 00:06:10,800
+ Okay, so now let's move to periodontitis.
+
+77
+00:06:10,800 --> 00:06:16,000
+ So periodontitis is defined as the loss of periodontal tissue support due to microbially
+
+78
+00:06:16,000 --> 00:06:19,200
+ associated host-mediated inflammation.
+
+79
+00:06:19,200 --> 00:06:24,080
+ Now we're talking about deeper probing depths and we're also talking about the presence
+
+80
+00:06:24,080 --> 00:06:26,920
+ of interproximal attachment loss.
+
+81
+00:06:26,920 --> 00:06:30,460
+ So much of this is the same that we've known before.
+
+82
+00:06:30,460 --> 00:06:33,520
+ Without plaque, there is no disease.
+
+83
+00:06:33,520 --> 00:06:40,480
+ Plaque induces an inflammatory response and the body runs away as the bone and soft tissue
+
+84
+00:06:40,480 --> 00:06:44,000
+ attachment retreats away from that plaque.
+
+85
+00:06:44,000 --> 00:06:49,120
+ It's evaluated through the clinical attachment or the clinical evaluation, I should say, of
+
+86
+00:06:49,120 --> 00:06:54,520
+ attachment levels or the radiographic assessment of bone levels.
+
+87
+00:06:54,520 --> 00:07:01,920
+ And the key here is interproximal, that's an important word in this definition.
+
+88
+00:07:01,920 --> 00:07:06,560
+ So we're not talking so much about straight facial and straight lingual.
+
+89
+00:07:06,560 --> 00:07:12,440
+ We're focusing more on the attachment loss in the mesial and distal areas between the
+
+90
+00:07:12,440 --> 00:07:14,520
+ teeth.
+
+91
+00:07:14,520 --> 00:07:22,880
+ Okay, so for periodontitis classification, the new additions are staging and grading.
+
+92
+00:07:22,880 --> 00:07:25,240
+ So let's look at staging first.
+
+93
+00:07:25,240 --> 00:07:33,560
+ The stage is determined by the severity and the extent of disease at presentation.
+
+94
+00:07:33,560 --> 00:07:36,200
+ So this is a static measurement.
+
+95
+00:07:36,200 --> 00:07:40,440
+ At this moment in time, what is that patient's presentation?
+
+96
+00:07:40,440 --> 00:07:47,360
+ Now we'll look at things like severity, complexity, and extent and distribution and how all three
+
+97
+00:07:47,360 --> 00:07:51,760
+ of these work together to determine your stage.
+
+98
+00:07:51,760 --> 00:07:57,160
+ Now staging intends to classify the patient's disease based on the measurable amount of
+
+99
+00:07:57,160 --> 00:08:04,600
+ destroyed and/or damaged tissue as the result of periodontitis and to assess the specific
+
+100
+00:08:04,600 --> 00:08:11,040
+ factors that may attribute to the complexity of long-term case management.
+
+101
+00:08:11,040 --> 00:08:19,040
+ Staging is measured from one to four, that's from slight to severe.
+
+102
+00:08:19,040 --> 00:08:25,820
+ So the first thing you look at to determine staging is severity and severity is primarily
+
+103
+00:08:25,820 --> 00:08:32,120
+ based on interdental clinical attachment loss or CAL.
+
+104
+00:08:32,120 --> 00:08:38,640
+ CAL is measured from the CEJ, that's the Cemento enamel junction, to the base of the pocket.
+
+105
+00:08:38,640 --> 00:08:44,880
+ And your worst interproximal CAL, that's the biggest number, the greatest loss of attachment
+
+106
+00:08:44,880 --> 00:08:50,000
+ you have in the mouth, gives you your baseline stage.
+
+107
+00:08:50,000 --> 00:08:53,240
+ And again, this is not straight facial or straight lingual.
+
+108
+00:08:53,240 --> 00:08:57,040
+ We're talking about the areas in between the teeth.
+
+109
+00:08:57,040 --> 00:09:03,240
+ So if that worst interdental CAL is one or two millimeters, that defines a stage one,
+
+110
+00:09:03,240 --> 00:09:06,120
+ three or four, that's a stage two.
+
+111
+00:09:06,120 --> 00:09:12,720
+ If it's five or more, then we're automatically in stage three or stage four territory.
+
+112
+00:09:12,720 --> 00:09:19,160
+ If clinical attachment loss is not available, radiographic bone loss can be used as the
+
+113
+00:09:19,160 --> 00:09:21,560
+ proxy instead.
+
+114
+00:09:21,560 --> 00:09:27,200
+ And tooth loss, due to peridontitis, can shift the stage to a higher level.
+
+115
+00:09:27,200 --> 00:09:31,160
+ If that patient's loss to a certain amount of teeth, we could bump up a stage one or
+
+116
+00:09:31,160 --> 00:09:34,120
+ stage two to a stage three or stage four.
+
+117
+00:09:34,120 --> 00:09:41,720
+ And we'll talk more about those specifics when we get to specific examples.
+
+118
+00:09:41,720 --> 00:09:47,800
+ Complexity is primarily based on local factors, like probing depth, the nature of the bone
+
+119
+00:09:47,800 --> 00:09:53,240
+ loss of its horizontal or vertical, if there's forcation involvement, if there's occlusal
+
+120
+00:09:53,240 --> 00:09:57,680
+ trauma and bike collapse, just to name a few.
+
+121
+00:09:57,680 --> 00:10:03,880
+ And one or more of these complexity factors can shift the stage to a higher level.
+
+122
+00:10:03,880 --> 00:10:09,920
+ For example, if your largest probing pocket depth is five millimeters, it can upgrade
+
+123
+00:10:09,920 --> 00:10:17,160
+ a stage one to a stage two, or if you have probing pocket depth above six millimeters
+
+124
+00:10:17,160 --> 00:10:21,760
+ with forcation involvement, you can upgrade that to a stage three.
+
+125
+00:10:21,760 --> 00:10:26,440
+ And if you have secondary occlusal trauma and bike collapse, you could maybe even upgrade
+
+126
+00:10:26,440 --> 00:10:28,240
+ that patient to a stage four.
+
+127
+00:10:28,240 --> 00:10:32,720
+ So that's how complexity factors can work.
+
+128
+00:10:32,720 --> 00:10:38,440
+ There are also some special factors to consider if you have vertical bone loss at three millimeters
+
+129
+00:10:38,440 --> 00:10:44,400
+ or more, that puts them at an automatic stage three or four, forcation involvement, class
+
+130
+00:10:44,400 --> 00:10:49,840
+ two or class three, class two means you have a horizontal forcation that's greater than
+
+131
+00:10:49,840 --> 00:10:55,400
+ three millimeters, class three means that you have a through and through forcation involvement
+
+132
+00:10:55,400 --> 00:11:01,160
+ so you can pass that neighbors probe all the way through the forcation area.
+
+133
+00:11:01,160 --> 00:11:04,680
+ That's an automatic stage three or four as well.
+
+134
+00:11:04,680 --> 00:11:13,020
+ And if the patient has less than 20 teeth remaining, they're an automatic stage four.
+
+135
+00:11:13,020 --> 00:11:17,080
+ And the last thing that goes into staging is extent and distribution.
+
+136
+00:11:17,080 --> 00:11:25,160
+ And this is based on the percentage of teeth that are involved in that severity or complexity.
+
+137
+00:11:25,160 --> 00:11:31,560
+ So if the patient has a localized extent and distribution, that means that less than 30
+
+138
+00:11:31,560 --> 00:11:38,600
+ percent of their teeth are involved in that severity or complexity, generalized means
+
+139
+00:11:38,600 --> 00:11:43,920
+ that 30 percent or more of their teeth are involved at that severity.
+
+140
+00:11:43,920 --> 00:11:49,880
+ And a molar incisor pattern is a very specific pattern where only incisors and molars are
+
+141
+00:11:49,880 --> 00:11:50,880
+ included.
+
+142
+00:11:50,880 --> 00:11:56,200
+ And this is kind of our classic localized aggressive periodontitis.
+
+143
+00:11:56,200 --> 00:12:03,560
+ So to put this in a little bit more relevant perspective, if a patient has 32 teeth, that's
+
+144
+00:12:03,560 --> 00:12:11,160
+ all their teeth, including their wisdom teeth, then this 30 percent threshold is 10 teeth.
+
+145
+00:12:11,160 --> 00:12:16,160
+ So the cutoff for becoming generalized is 10 teeth being affected.
+
+146
+00:12:16,160 --> 00:12:21,520
+ If the patient had their wisdom teeth removed and they have 28 teeth, then this 30 percent
+
+147
+00:12:21,520 --> 00:12:29,340
+ threshold is at 8 teeth, so the cutoff for becoming generalized would be if 8 teeth were
+
+148
+00:12:29,340 --> 00:12:31,280
+ affected.
+
+149
+00:12:31,280 --> 00:12:37,560
+ And again, if molars and incisors are exclusively involved, we instead, we don't call it localized,
+
+150
+00:12:37,560 --> 00:12:42,360
+ we call it a molar incisor pattern to be even more specific.
+
+151
+00:12:42,360 --> 00:12:49,200
+ So since there's no longer aggressive periodontitis, that's no longer a thing, after this new classification
+
+152
+00:12:49,200 --> 00:12:52,480
+ system was announced, we call it molar incisor.
+
+153
+00:12:52,480 --> 00:12:58,240
+ So you take one of these three and add it to the stage as a descriptor, so you could
+
+154
+00:12:58,240 --> 00:13:07,160
+ call it localized stage three, or molar incisor stage four, for example.
+
+155
+00:13:07,160 --> 00:13:14,040
+ So to put it all together, you start with the most severe interdental cal and select the
+
+156
+00:13:14,040 --> 00:13:16,120
+ appropriate stage.
+
+157
+00:13:16,120 --> 00:13:21,480
+ If cal is not available, you do the same thing with radiographic bone loss.
+
+158
+00:13:21,480 --> 00:13:25,000
+ Then you look at the teeth lost due to periodontitis.
+
+159
+00:13:25,000 --> 00:13:29,200
+ If four or less, then you upgrade to stage three.
+
+160
+00:13:29,200 --> 00:13:32,480
+ If five or more, you upgrade to stage four.
+
+161
+00:13:32,480 --> 00:13:35,680
+ And then you look at the local complexity factors.
+
+162
+00:13:35,680 --> 00:13:40,240
+ So if there are factors that are appropriate to a patient like vertical bone loss greater
+
+163
+00:13:40,240 --> 00:13:46,360
+ than three millimeters, or less than 20 remaining teeth, you would upgrade to the appropriate
+
+164
+00:13:46,360 --> 00:13:47,840
+ stage.
+
+165
+00:13:47,840 --> 00:13:51,000
+ Stage one is slight severity.
+
+166
+00:13:51,000 --> 00:13:52,760
+ Stage two is moderate.
+
+167
+00:13:52,760 --> 00:13:55,760
+ Stage three and stage four are severe.
+
+168
+00:13:55,760 --> 00:14:04,880
+ And remember, there can only be one stage per patient, so use the most severe one.
+
+169
+00:14:04,880 --> 00:14:07,080
+ All right now, let's talk about the grade.
+
+170
+00:14:07,080 --> 00:14:12,640
+ So the grade is determined by the rate of disease progression, the responsiveness to
+
+171
+00:14:12,640 --> 00:14:17,000
+ therapy, and their overall assessment of risk.
+
+172
+00:14:17,000 --> 00:14:22,920
+ So this is based on longitudinal observation, the assessment of bone loss over time, and
+
+173
+00:14:22,920 --> 00:14:26,080
+ other risk factors like smoking and diabetes.
+
+174
+00:14:26,080 --> 00:14:32,760
+ So grading is a dynamic measurement, how things are changing over time.
+
+175
+00:14:32,760 --> 00:14:38,960
+ And it aims to indicate the rate of periodontitis progression, the responsiveness to their therapy,
+
+176
+00:14:38,960 --> 00:14:43,440
+ and potential impact on their systemic health.
+
+177
+00:14:43,440 --> 00:14:51,240
+ So this one is measured from A to C, from slow to rapid.
+
+178
+00:14:51,240 --> 00:14:54,320
+ Now thankfully, grading is a bit more straightforward.
+
+179
+00:14:54,320 --> 00:15:00,860
+ And clinicians should initially assume a grade of B, and then look for specific evidence
+
+180
+00:15:00,860 --> 00:15:07,840
+ to shift to either grade A or grade C. And just like in staging, the first row here is
+
+181
+00:15:07,840 --> 00:15:09,680
+ the most important.
+
+182
+00:15:09,680 --> 00:15:18,760
+ So we look at how an interdental cal or radiographic bone loss is changing over a period of five
+
+183
+00:15:18,760 --> 00:15:21,920
+ years.
+
+184
+00:15:21,920 --> 00:15:28,840
+ And so if it's more loss of attachment or bone loss or bone levels over this period of
+
+185
+00:15:28,840 --> 00:15:32,680
+ five years, we're favoring more towards a rapid disease progression.
+
+186
+00:15:32,680 --> 00:15:37,640
+ If there's not as much loss, we're more towards a slow rate of progression.
+
+187
+00:15:37,640 --> 00:15:44,480
+ Secondarily, we can look at percent of radiographic bone loss compared to age.
+
+188
+00:15:44,480 --> 00:15:52,120
+ So this would be like if you had a 50% bone loss for a 50-year-old patient.
+
+189
+00:15:52,120 --> 00:15:59,680
+ That would be a ratio of 50-50, which would be 1, and a ratio of 1 would put you in grade
+
+190
+00:15:59,680 --> 00:16:07,920
+ B. Now if you had 50% bone loss for a 25-year-old, that would be a ratio of 2, and put you at
+
+191
+00:16:07,920 --> 00:16:09,920
+ grade C.
+
+192
+00:16:09,920 --> 00:16:14,440
+ The case phenotype is talking about if the amount of plaque you see is consistent with
+
+193
+00:16:14,440 --> 00:16:16,320
+ the level of disease.
+
+194
+00:16:16,320 --> 00:16:23,000
+ So heavy biofilm deposits with low levels of destruction would be a grade A situation.
+
+195
+00:16:23,000 --> 00:16:28,020
+ If the destruction is consistent with the biofilm deposits, that would be grade B.
+
+196
+00:16:28,020 --> 00:16:35,000
+ And if the destruction you see exceeds the expectations given those biofilm deposits,
+
+197
+00:16:35,000 --> 00:16:40,900
+ that's suggestive of periods of rapid progression and/or early onset disease that would put
+
+198
+00:16:40,900 --> 00:16:44,240
+ you at a grade C situation.
+
+199
+00:16:44,240 --> 00:16:49,280
+ For smoking the more smoking you do, the more uncontrolled your diabetes is, those things
+
+200
+00:16:49,280 --> 00:16:53,000
+ are going to make the disease progress more rapidly.
+
+201
+00:16:53,000 --> 00:17:00,820
+ And CRP stands for C Reactive Protein, an elevated serum, C Reactive Protein, is a systemic
+
+202
+00:17:00,820 --> 00:17:06,920
+ marker of inflammation and a documented risk factor for cardiovascular disease and otherwise
+
+203
+00:17:06,920 --> 00:17:08,120
+ healthy people.
+
+204
+00:17:08,120 --> 00:17:14,320
+ So the more CRP you have, means you're at higher risk of a faster progressing disease.
+
+205
+00:17:14,320 --> 00:17:20,880
+ So grade A is slow, grade B is moderate, grade C is rapid.
+
+206
+00:17:20,880 --> 00:17:26,440
+ And just like with staging, you only give one grade per patient.
+
+207
+00:17:26,440 --> 00:17:33,200
+ But since it's dynamic, the grade might change over time as risk factors are modified, and
+
+208
+00:17:33,200 --> 00:17:39,280
+ the idea is to predict future progression, based on past progression, in the presence
+
+209
+00:17:39,280 --> 00:17:44,680
+ of these risk factors.
+
+210
+00:17:44,680 --> 00:17:51,840
+ So some other considerations, a peridontitis patient is a peridontitis patient for life,
+
+211
+00:17:51,840 --> 00:17:57,520
+ and patients should not return to the level of evaluation and maintenance identical to
+
+212
+00:17:57,520 --> 00:18:00,840
+ a patient who has never had peridontitis.
+
+213
+00:18:00,840 --> 00:18:07,360
+ So for someone who hasn't had peridontitis, they get an annual or twice a year exam and
+
+214
+00:18:07,360 --> 00:18:08,520
+ cleaning.
+
+215
+00:18:08,520 --> 00:18:14,880
+ For a patient who has peridontitis, they should always be treated with a certain level of scrutiny
+
+216
+00:18:14,880 --> 00:18:22,280
+ and maintenance in order that they don't relapse into a stage of progressive bone loss and
+
+217
+00:18:22,280 --> 00:18:25,160
+ connective tissue loss.
+
+218
+00:18:25,160 --> 00:18:33,160
+ And despite substantial research on aggressive peridontitis since that last 1999 workshop,
+
+219
+00:18:33,160 --> 00:18:38,400
+ there's currently insufficient evidence to consider aggressive and chronic peridontitis
+
+220
+00:18:38,400 --> 00:18:42,280
+ as to pathophysiologically distinct diseases.
+
+221
+00:18:42,280 --> 00:18:48,680
+ So that distinction is no more.
+
+222
+00:18:48,680 --> 00:18:51,920
+ Alright so let's have some fun and go over some cases.
+
+223
+00:18:51,920 --> 00:18:57,040
+ Now I designed this patient box to mimic what you'll see on the integrated board exam.
+
+224
+00:18:57,040 --> 00:19:00,960
+ So this could be part of a question prompt that you get.
+
+225
+00:19:00,960 --> 00:19:06,480
+ So for this case number one, we have a male who's 50 years old.
+
+226
+00:19:06,480 --> 00:19:11,160
+ Their chief complaint is I'm concerned about some of my front teeth that drift around.
+
+227
+00:19:11,160 --> 00:19:13,920
+ They smoke a half pack of cigarettes every day.
+
+228
+00:19:13,920 --> 00:19:20,760
+ They have minimal biofilm deposits, interdental cow that ranges from 2 to 8 millimeters.
+
+229
+00:19:20,760 --> 00:19:27,600
+ The 14 teeth have interdental cow that's greater than or equal to 5 millimeters.
+
+230
+00:19:27,600 --> 00:19:32,840
+ And then we have some clinical photos and a full mouth series of x-rays.
+
+231
+00:19:32,840 --> 00:19:39,560
+ So with all this information that we're given, we know this patient has some kind of peridontitis.
+
+232
+00:19:39,560 --> 00:19:42,120
+ So let's start with staging.
+
+233
+00:19:42,120 --> 00:19:46,440
+ The most severe interdental cow is 8.
+
+234
+00:19:46,440 --> 00:19:49,440
+ So this is greater than or equal to 5 millimeters.
+
+235
+00:19:49,440 --> 00:19:54,840
+ So we're automatically at a stage 3 or stage 4.
+
+236
+00:19:54,840 --> 00:20:02,320
+ We can see a couple areas where the radiographic bone loss is extending to the middle, certainly
+
+237
+00:20:02,320 --> 00:20:04,800
+ beyond the middle third of the root.
+
+238
+00:20:04,800 --> 00:20:10,960
+ And this confirms this severity of stage 3 or stage 4.
+
+239
+00:20:10,960 --> 00:20:14,520
+ Now his anterior teeth, he talks about this in his CC.
+
+240
+00:20:14,520 --> 00:20:19,040
+ The anterior teeth are moving and drifting around and that's an important statement.
+
+241
+00:20:19,040 --> 00:20:25,640
+ We can maybe see his upper left and scissor and these two upper left and scissor are flaring
+
+242
+00:20:25,640 --> 00:20:31,000
+ out and forward which is another sign of occlusal dysfunction, secondary to a peridontal
+
+243
+00:20:31,000 --> 00:20:32,000
+ problem.
+
+244
+00:20:32,000 --> 00:20:36,720
+ So that's going to bump us up to more of a stage 4 situation.
+
+245
+00:20:36,720 --> 00:20:43,800
+ And since 14 teeth are affected by this level of severity, that's more than 30%.
+
+246
+00:20:43,800 --> 00:20:47,080
+ That's higher than our threshold of 30%.
+
+247
+00:20:47,080 --> 00:20:50,800
+ So this is a generalized situation.
+
+248
+00:20:50,800 --> 00:20:56,800
+ Now for grading, we look at the rate of progression over time, which we don't have in this case.
+
+249
+00:20:56,800 --> 00:21:01,440
+ So the next thing we have to go on is the ratio of bone loss to age.
+
+250
+00:21:01,440 --> 00:21:10,800
+ And at our worst sites, we're probably at something like 70, 75% bone loss and so it
+
+251
+00:21:10,800 --> 00:21:17,120
+ be even worse in the lower anterior, so 75 is more than his age of 50.
+
+252
+00:21:17,120 --> 00:21:23,240
+ So our ratio is over 1, which would favor grade C. We also note that there's minimal
+
+253
+00:21:23,240 --> 00:21:28,880
+ plaque which is inconsistent with our state of disease, which is fairly severe.
+
+254
+00:21:28,880 --> 00:21:36,680
+ So that also favors a grade C. And he's smoking a half pack of cigarettes per day.
+
+255
+00:21:36,680 --> 00:21:43,840
+ A pack of cigarettes contains 20, so he's smoking 10 per day, which also puts him in
+
+256
+00:21:43,840 --> 00:21:50,400
+ that grade C. So let's review all of our findings we just talked about.
+
+257
+00:21:50,400 --> 00:21:55,200
+ Here's what we have for our staging, here's what we have for our grading.
+
+258
+00:21:55,200 --> 00:22:00,040
+ And remember that more than 30% of teeth were affected by this severity.
+
+259
+00:22:00,040 --> 00:22:10,360
+ So we would diagnose this patient with generalized stage four grade C periodontitis.
+
+260
+00:22:10,360 --> 00:22:15,640
+ Alright case number two, now this time we're given a periodontal chart so we can analyze
+
+261
+00:22:15,640 --> 00:22:18,520
+ the clinical attachment loss ourselves.
+
+262
+00:22:18,520 --> 00:22:22,920
+ Now of course if you want to, you can pause the video and work through these diagnoses
+
+263
+00:22:22,920 --> 00:22:30,000
+ by yourself first, otherwise I'll keep going and review these so we can go through them.
+
+264
+00:22:30,000 --> 00:22:36,120
+ Now if we do a quick scan, the worst interdental clinical attachment loss which is located
+
+265
+00:22:36,120 --> 00:22:41,280
+ in these four rows appears to be eight.
+
+266
+00:22:41,280 --> 00:22:44,640
+ There's an eight there and there's an eight there.
+
+267
+00:22:44,640 --> 00:22:50,000
+ So that automatically will put us at a stage three or stage four.
+
+268
+00:22:50,000 --> 00:22:55,360
+ Now the plus actually means that it's 10 or more but we don't count this one because
+
+269
+00:22:55,360 --> 00:22:57,920
+ it's not interdental.
+
+270
+00:22:57,920 --> 00:23:04,100
+ So again we look for how many teeth have an interdental cal that's five millimeters or
+
+271
+00:23:04,100 --> 00:23:09,680
+ more to determine the extent and a distribution of the disease.
+
+272
+00:23:09,680 --> 00:23:14,000
+ So we see an eight and a six, a six and a five.
+
+273
+00:23:14,000 --> 00:23:17,720
+ We have a four on this premolar.
+
+274
+00:23:17,720 --> 00:23:25,040
+ We have let's see a five that's not interdental but we have a four on that premolar as well.
+
+275
+00:23:25,040 --> 00:23:30,800
+ We have a couple of fours, threes, some sixs down here, a five and an eight by these molars.
+
+276
+00:23:30,800 --> 00:23:37,800
+ Looks like mostly molars are being affected here and the incisors are, they do have some
+
+277
+00:23:37,800 --> 00:23:41,440
+ callet two and three but they're not at that same severity.
+
+278
+00:23:41,440 --> 00:23:44,960
+ So I don't feel comfortable calling this a molar incisor pattern because it's really
+
+279
+00:23:44,960 --> 00:23:46,840
+ just molars that are affected.
+
+280
+00:23:46,840 --> 00:23:51,320
+ So this is definitely going to be considered a localized disease process.
+
+281
+00:23:51,320 --> 00:23:57,720
+ Those five millimeter or more cal numbers are all occurring by the molars.
+
+282
+00:23:57,720 --> 00:24:03,440
+ Okay, now we look for some other clues and we don't have any clinical photos or x-rays
+
+283
+00:24:03,440 --> 00:24:10,280
+ this time so we really have to rely on the information presented in the patient box.
+
+284
+00:24:10,280 --> 00:24:15,280
+ We see that she's an ex-smoker with a ten pack year history.
+
+285
+00:24:15,280 --> 00:24:20,520
+ One pack year means that she has smoked one pack a day for one year.
+
+286
+00:24:20,520 --> 00:24:27,880
+ So ten pack years means she's smoked one pack a day for ten years or she smoked a half pack
+
+287
+00:24:27,880 --> 00:24:34,040
+ a day for 20 years or she smoked two packs a day for five years.
+
+288
+00:24:34,040 --> 00:24:38,440
+ Any multiple of that, any equivalent of that could be possible.
+
+289
+00:24:38,440 --> 00:24:44,040
+ But the important thing is she's not smoking currently and she's also not a diabetic and
+
+290
+00:24:44,040 --> 00:24:49,320
+ she has heavy plaque that's maybe not quite indicative of the destruction that she has
+
+291
+00:24:49,320 --> 00:24:50,960
+ here in general.
+
+292
+00:24:50,960 --> 00:24:57,360
+ So all those things considered, we go to our summary and so she has things that are more
+
+293
+00:24:57,360 --> 00:25:02,480
+ in line with a stage three situation rather than a stage four.
+
+294
+00:25:02,480 --> 00:25:07,600
+ She's more in line with a grade A situation and we said that it was a localized.
+
+295
+00:25:07,600 --> 00:25:16,720
+ So we would call her a localized stage three grade A periodontitis patient.
+
+296
+00:25:16,720 --> 00:25:22,400
+ All right case number three, so there's no clinical attachment loss measured this time.
+
+297
+00:25:22,400 --> 00:25:25,840
+ So we need to go to the radiographs.
+
+298
+00:25:25,840 --> 00:25:31,120
+ Now we notice some things might stick out, this vertical bone loss distal to tooth number
+
+299
+00:25:31,120 --> 00:25:32,120
+ 28.
+
+300
+00:25:32,120 --> 00:25:35,280
+ There's some mesial and distal bone loss.
+
+301
+00:25:35,280 --> 00:25:42,000
+ The tooth number three, some on four, eight has a significant bony defect.
+
+302
+00:25:42,000 --> 00:25:47,240
+ And since premolars are involved here, we can't call this molar in size or pattern.
+
+303
+00:25:47,240 --> 00:25:51,920
+ But this would be a localized pattern because less than 30% of the teeth are affected to
+
+304
+00:25:51,920 --> 00:25:54,560
+ that level of severity.
+
+305
+00:25:54,560 --> 00:26:01,800
+ The bone loss at these sites is probably at worst about maybe 40 or 50%, so that'll put
+
+306
+00:26:01,800 --> 00:26:05,160
+ us automatically at a stage three or stage four.
+
+307
+00:26:05,160 --> 00:26:11,960
+ This patient only lost one tooth to periodontitis, that's tooth number 25, which favors stage
+
+308
+00:26:11,960 --> 00:26:13,360
+ three.
+
+309
+00:26:13,360 --> 00:26:19,360
+ There's no mention of masticatory dysfunction or occlusal trauma or drifting or flaring.
+
+310
+00:26:19,360 --> 00:26:21,920
+ That occlusion actually looks quite nice.
+
+311
+00:26:21,920 --> 00:26:26,720
+ So we're pretty comfortably in a stage three situation here.
+
+312
+00:26:26,720 --> 00:26:34,160
+ The 40 to 50% bone loss with age 60 puts us at a ratio slightly below one, so that looks
+
+313
+00:26:34,160 --> 00:26:36,760
+ like a grade B.
+
+314
+00:26:36,760 --> 00:26:40,400
+ And we have no other indicating factors listed here.
+
+315
+00:26:40,400 --> 00:26:46,800
+ And remember, we always assume grade B, unless we have sufficient evidence to change to A
+
+316
+00:26:46,800 --> 00:26:52,320
+ or C. So in this case, we don't, so we'll keep it at a grade B.
+
+317
+00:26:52,320 --> 00:26:59,640
+ So this patient is a localized stage three, grade B, periodontitis.
+
+318
+00:26:59,640 --> 00:27:03,920
+ Okay, and I have one more case for you guys.
+
+319
+00:27:03,920 --> 00:27:09,840
+ Case number four, and a few things about this one should stick out right away.
+
+320
+00:27:09,840 --> 00:27:10,840
+ No pun intended.
+
+321
+00:27:10,840 --> 00:27:15,080
+ Her first or her chief complaint is the first thing we look at.
+
+322
+00:27:15,080 --> 00:27:20,280
+ The gap between her two front teeth and that those two front teeth are starting to get
+
+323
+00:27:20,280 --> 00:27:21,280
+ loose.
+
+324
+00:27:21,280 --> 00:27:23,680
+ And now why might that be?
+
+325
+00:27:23,680 --> 00:27:28,560
+ Well, if you look at the clinical photos, you can appreciate how subtle, but there's
+
+326
+00:27:28,560 --> 00:27:33,800
+ some separation of those back teeth and these front teeth are banging together and there's
+
+327
+00:27:33,800 --> 00:27:37,920
+ undoubtedly some heavy contact on those incisors.
+
+328
+00:27:37,920 --> 00:27:43,520
+ And secondary occlusal trauma means that there's force on the teeth that usually they could
+
+329
+00:27:43,520 --> 00:27:50,280
+ handle, but in the presence of periodontal attachment loss, it becomes traumatic.
+
+330
+00:27:50,280 --> 00:27:55,680
+ And there's some good evidence for that happening here in this case.
+
+331
+00:27:55,680 --> 00:28:01,520
+ There's some significant bone loss mostly by the upper incisors and this lower molar
+
+332
+00:28:01,520 --> 00:28:02,880
+ for sure.
+
+333
+00:28:02,880 --> 00:28:09,400
+ They had to take vertical bite wings just to capture how significant that bone loss was.
+
+334
+00:28:09,400 --> 00:28:14,120
+ So this patient describes a molar incisor pattern.
+
+335
+00:28:14,120 --> 00:28:20,400
+ We have bone loss at the incisors and the molars exclusively.
+
+336
+00:28:20,400 --> 00:28:25,040
+ And I would classify this as stage four because of how significant that radiographic bone
+
+337
+00:28:25,040 --> 00:28:26,040
+ loss is.
+
+338
+00:28:26,040 --> 00:28:31,200
+ Again, we don't have clinical attachment to go off of, so we have to use bone loss on
+
+339
+00:28:31,200 --> 00:28:35,280
+ the radiographs as a stand in or proxy.
+
+340
+00:28:35,280 --> 00:28:42,840
+ As for her grating, she smokes less than 10 cigarettes a day, so that favors grade B.
+
+341
+00:28:42,840 --> 00:28:49,880
+ But she has uncontrolled diabetes because her HBA1C is above 7%.
+
+342
+00:28:49,880 --> 00:28:55,400
+ And just look at how much bone loss she has and look at her age, she's only 35 years old.
+
+343
+00:28:55,400 --> 00:29:00,300
+ So this is for sure more than 35% bone loss.
+
+344
+00:29:00,300 --> 00:29:07,360
+ So that radiographic bone loss to age ratio is greater than 1 in this case.
+
+345
+00:29:07,360 --> 00:29:13,360
+ So between the uncontrolled diabetes and the rate of disease progression, more things are
+
+346
+00:29:13,360 --> 00:29:18,600
+ favoring grade C than grade B in this case.
+
+347
+00:29:18,600 --> 00:29:27,400
+ So for her, I'd classify it as molar and size or stage four grade C periodontitis.
+
+348
+00:29:27,400 --> 00:29:34,520
+ And lastly, we have peri-implant diseases that go from peri-implant health to peri-implant
+
+349
+00:29:34,520 --> 00:29:38,160
+ mucositis to peri-implantitis.
+
+350
+00:29:38,160 --> 00:29:44,600
+ And risk factors and risk indicators for these disease processes include smoking, diabetes,
+
+351
+00:29:44,600 --> 00:29:52,240
+ poor oral hygiene, poor compliance with supportive care, excess cement, lack of keratinized mucosa
+
+352
+00:29:52,240 --> 00:29:59,600
+ around the implant, and peri-implantitis specifically, a history of previous peri-dontitis around
+
+353
+00:29:59,600 --> 00:30:00,600
+ natural teeth.
+
+354
+00:30:00,600 --> 00:30:08,520
+ There are also some genetic factors that can play a role in this progression.
+
+355
+00:30:08,520 --> 00:30:14,160
+ So peri-implant health involves the absence of visual signs of inflammation and bleeding
+
+356
+00:30:14,160 --> 00:30:16,360
+ on probing.
+
+357
+00:30:16,360 --> 00:30:21,800
+ Implant assessment should consist of visual evaluation, some probing that should be done
+
+358
+00:30:21,800 --> 00:30:28,280
+ at least once per year, evaluation of bleeding on probing of course, and evaluation of radiographic
+
+359
+00:30:28,280 --> 00:30:36,160
+ bone levels compared to a baseline bone level at implant restoration.
+
+360
+00:30:36,160 --> 00:30:41,960
+ It's not really possible to define healthy probing depths around implants, but in general,
+
+361
+00:30:41,960 --> 00:30:48,080
+ peri-implant probing depths should be less than or equal to 5 millimeters.
+
+362
+00:30:48,080 --> 00:30:53,360
+ And this is important that health is possible around implants with normal or reduced bone
+
+363
+00:30:53,360 --> 00:30:58,360
+ support, just like with healthy gingiva on a reduced peridontium.
+
+364
+00:30:58,360 --> 00:31:05,200
+ As long as you have an absence of progressive bone loss and no signs of inflammation, you
+
+365
+00:31:05,200 --> 00:31:07,960
+ can have peri-implant health.
+
+366
+00:31:07,960 --> 00:31:16,080
+ So this is the equivalent to our peri-dontal health that we saw before.
+
+367
+00:31:16,080 --> 00:31:21,200
+ Every implant mucusitis involves the presence of visual signs of inflammation and bleeding
+
+368
+00:31:21,200 --> 00:31:22,480
+ on probing.
+
+369
+00:31:22,480 --> 00:31:27,800
+ So these signs are things like swelling and redness that you can see here.
+
+370
+00:31:27,800 --> 00:31:33,240
+ Increasing probing depths compared to the baseline and absence of progressive marginal
+
+371
+00:31:33,240 --> 00:31:35,280
+ peri-implant bone loss.
+
+372
+00:31:35,280 --> 00:31:41,080
+ So basically this is like gingivitis, but around an implant.
+
+373
+00:31:41,080 --> 00:31:46,480
+ Ever since that tooth was extracted, this tissue is no longer called gingivia.
+
+374
+00:31:46,480 --> 00:31:48,040
+ It's called mucosa.
+
+375
+00:31:48,040 --> 00:31:54,480
+ Hence the name peri-implant mucusitis rather than peri-implant gingivitis, but you can
+
+376
+00:31:54,480 --> 00:31:59,440
+ think of it like gingivitis around an implant.
+
+377
+00:31:59,440 --> 00:32:02,200
+ And then the third one was peri-implant titus.
+
+378
+00:32:02,200 --> 00:32:06,320
+ This involves the presence of visual signs of inflammation and bleeding on probing.
+
+379
+00:32:06,320 --> 00:32:12,160
+ That's the same, increased probing depths compared to baseline, that's the same, and
+
+380
+00:32:12,160 --> 00:32:20,040
+ this is increased at one year post-implant restoration compared to whatever the baseline
+
+381
+00:32:20,040 --> 00:32:22,500
+ probing depth was.
+
+382
+00:32:22,500 --> 00:32:27,520
+ Now in the absence of a baseline recording, we're looking at probing depths that are six
+
+383
+00:32:27,520 --> 00:32:33,680
+ millimeters or more, and radiographic evidence of three millimeters of bone loss or more.
+
+384
+00:32:33,680 --> 00:32:40,520
+ In peri-implant titus, the big differentiating factor from peri-implant mucusitis is the
+
+385
+00:32:40,520 --> 00:32:45,320
+ presence of progressive marginal peri-implant bone loss.
+
+386
+00:32:45,320 --> 00:32:51,840
+ So this is really peri-dontitis around an implant because all these things are similar
+
+387
+00:32:51,840 --> 00:32:56,840
+ to what we see in a peri-dontitis situation that we're just talking about around implants
+
+388
+00:32:56,840 --> 00:33:00,640
+ instead of around natural teeth.
+
+389
+00:33:00,640 --> 00:33:03,800
+ Now putting it all together, I made this summary slide.
+
+390
+00:33:03,800 --> 00:33:09,680
+ The green x's means that you don't have one of these qualities, which is a good thing.
+
+391
+00:33:09,680 --> 00:33:15,560
+ The red check means that you do have one of these four qualities, which is a bad thing.
+
+392
+00:33:15,560 --> 00:33:20,360
+ So from health to mucusitis to peri-implant titus.
+
+393
+00:33:20,360 --> 00:33:27,560
+ So the big changes for this 2018 AAP new peri-dontal classification, we have a new classification
+
+394
+00:33:27,560 --> 00:33:33,440
+ of peri-dontitis, that's this multidimensional staging and greeting that we went over with
+
+395
+00:33:33,440 --> 00:33:37,120
+ the definitions and through four case examples.
+
+396
+00:33:37,120 --> 00:33:42,960
+ We have the consolidation of chronic and aggressive peri-dontitis into a single category.
+
+397
+00:33:42,960 --> 00:33:48,000
+ And we have the addition of these peri-implant diseases and conditions and the clarification
+
+398
+00:33:48,000 --> 00:33:54,920
+ of health and gingivitis on an intact versus a reduced peri-dontum with or without previous
+
+399
+00:33:54,920 --> 00:33:59,280
+ peri-dontitis history.
+
+400
+00:33:59,280 --> 00:34:03,620
+ Alright so that's it for this video guys, thank you so much for watching, please like
+
+401
+00:34:03,620 --> 00:34:08,520
+ this video if you enjoyed it and subscribe to this channel for more on dentistry.
+
+402
+00:34:08,520 --> 00:34:12,480
+ If you're interested in supporting this channel and what I do, please check out my Patreon
+
+403
+00:34:12,480 --> 00:34:13,480
+ page.
+
+404
+00:34:13,480 --> 00:34:16,960
+ Thank you to all of my patrons here for all of their support.
+
+405
+00:34:16,960 --> 00:34:22,200
+ You can unlock extras like access to my video slides to take notes on and practice questions
+
+406
+00:34:22,200 --> 00:34:23,680
+ for the board exams.
+
+407
+00:34:23,680 --> 00:34:26,560
+ So go check that out, the link is in the description.
+
+408
+00:34:26,560 --> 00:34:29,680
+ Thanks again for watching everyone and I'll see you in the next video.
+

@@ -1,0 +1,1436 @@
+1
+00:00:00,000 --> 00:00:11,280
+ Hey everyone, Ryan here, and welcome back to our oral medicine series.
+
+2
+00:00:11,280 --> 00:00:17,340
+ This video will be all about INR, bleeding, clotting, and all of the concepts that go along
+
+3
+00:00:17,340 --> 00:00:20,120
+ with those.
+
+4
+00:00:20,120 --> 00:00:23,440
+ So why is this important for us to discuss?
+
+5
+00:00:23,440 --> 00:00:28,600
+ Well beyond being a big topic on the board exam, a lot of procedures in dentistry cause
+
+6
+00:00:28,600 --> 00:00:35,560
+ bleeding, and usually that's not a problem, but in patients whose ability to control bleeding
+
+7
+00:00:35,560 --> 00:00:41,760
+ has been changed due to certain drugs or diseases, these same procedures could be potentially
+
+8
+00:00:41,760 --> 00:00:43,560
+ disastrous.
+
+9
+00:00:43,560 --> 00:00:48,160
+ So appropriate identification of these patients, and appropriate management of them while
+
+10
+00:00:48,160 --> 00:00:52,880
+ in the dental chair, will help mitigate those risks.
+
+11
+00:00:52,880 --> 00:01:00,520
+ So in this context, patients will fall somewhere on this spectrum between bleeding and clotting.
+
+12
+00:01:00,520 --> 00:01:06,000
+ If they're on blood thinners, they're going to tend toward bleeding, and if they're older,
+
+13
+00:01:06,000 --> 00:01:10,960
+ had a major surgery or hospitalization or sedentary or immobile, they're going to
+
+14
+00:01:10,960 --> 00:01:12,840
+ tend toward clotting.
+
+15
+00:01:12,840 --> 00:01:19,000
+ So just keep this spectrum in mind throughout this video.
+
+16
+00:01:19,000 --> 00:01:24,360
+ Before we can get to INR, platelets, and all of that, first we need to talk about how clotting
+
+17
+00:01:24,360 --> 00:01:26,160
+ happens.
+
+18
+00:01:26,160 --> 00:01:32,200
+ So let's say you get cut, and the blood vessels in that area are also injured as a result.
+
+19
+00:01:32,200 --> 00:01:37,320
+ Now to prevent your blood from just spilling out uncontrollably, there are four phases
+
+20
+00:01:37,320 --> 00:01:40,200
+ of the hemostasis process.
+
+21
+00:01:40,200 --> 00:01:42,840
+ This means stopping blood.
+
+22
+00:01:42,840 --> 00:01:49,000
+ The first phase is vascular, this involves vasoconstriction, where the affected vessels
+
+23
+00:01:49,000 --> 00:01:51,800
+ physically contract.
+
+24
+00:01:51,800 --> 00:01:58,080
+ Next is the platelet phase, which involves a platelet plug, where platelets rush to the
+
+25
+00:01:58,080 --> 00:02:03,600
+ area, and this is considered primary hemostasis.
+
+26
+00:02:03,600 --> 00:02:09,400
+ Next the third phase is coagulation, which involves a fibrin clot.
+
+27
+00:02:09,400 --> 00:02:15,240
+ It's this mesh of fibrin material that basically holds the platelet plug together.
+
+28
+00:02:15,240 --> 00:02:19,480
+ This is considered secondary hemostasis.
+
+29
+00:02:19,480 --> 00:02:22,280
+ And then finally we have the fibrinolytic phase.
+
+30
+00:02:22,280 --> 00:02:28,480
+ It involves plasmin, which is an enzyme in blood, that cuts the fibrin mesh and dissolves
+
+31
+00:02:28,480 --> 00:02:31,520
+ the clot after it's done its job.
+
+32
+00:02:31,520 --> 00:02:38,080
+ So primary hemostasis is all about platelets, secondary hemostasis is all about coagulation.
+
+33
+00:02:38,080 --> 00:02:43,240
+ Note that these are two entirely different things.
+
+34
+00:02:43,240 --> 00:02:50,760
+ So hemostasis as a whole relies on the proper function of blood vessels, platelets, and
+
+35
+00:02:50,760 --> 00:02:57,480
+ coagulation factors, all of which we'll talk more about.
+
+36
+00:02:57,480 --> 00:03:03,440
+ Bleeding disorders can be inherited via genetics or acquired via the environment.
+
+37
+00:03:03,440 --> 00:03:07,280
+ And there are hundreds of bleeding disorders that we could talk about, but of course that
+
+38
+00:03:07,280 --> 00:03:11,940
+ would take a really long time, and it's just beyond the scope of the dental board exam.
+
+39
+00:03:11,940 --> 00:03:15,320
+ So I'm going to focus on only the important ones.
+
+40
+00:03:15,320 --> 00:03:21,000
+ The vascular phase, as we just talked about, is our first step in hemostasis.
+
+41
+00:03:21,000 --> 00:03:25,840
+ So we will properly start with vascular wall defects.
+
+42
+00:03:25,840 --> 00:03:32,160
+ Thankfully, this is not a big deal for dental care, and patients with these defects rarely
+
+43
+00:03:32,160 --> 00:03:37,760
+ will have a severe bleeding episode after a tooth extraction.
+
+44
+00:03:37,760 --> 00:03:44,060
+ Marfan syndrome and Ehlers-Danlos syndrome affect connective tissue, which in turn affects
+
+45
+00:03:44,060 --> 00:03:45,960
+ the vascular wall.
+
+46
+00:03:45,960 --> 00:03:53,440
+ And then Ossler-Weberrendu syndrome, also known as hereditary hemorrhagic telangectasia,
+
+47
+00:03:53,440 --> 00:03:56,160
+ affects blood vessels more directly.
+
+48
+00:03:56,160 --> 00:04:02,140
+ So all three of these can compromise the integrity of the vascular wall, impacting that first
+
+49
+00:04:02,140 --> 00:04:05,920
+ phase of hemostasis.
+
+50
+00:04:05,920 --> 00:04:12,120
+ Management of these patients includes coordination with their hematologist, minimally invasive
+
+51
+00:04:12,120 --> 00:04:17,620
+ dentistry with good surgical technique, local hemostatic measures, which I'll talk more
+
+52
+00:04:17,620 --> 00:04:25,320
+ about in depth later in the video, and avoiding aspirin and other nonsteroidal anti-inflammatory
+
+53
+00:04:25,320 --> 00:04:26,320
+ drugs.
+
+54
+00:04:26,320 --> 00:04:30,400
+ We'll talk more about those later as well.
+
+55
+00:04:30,400 --> 00:04:36,520
+ The platelet pathway is the next phase of hemostasis, so let's talk about that one next.
+
+56
+00:04:36,520 --> 00:04:44,140
+ So how this works is we have an endothelium layer that lines the inside of each blood vessel,
+
+57
+00:04:44,140 --> 00:04:52,280
+ and endothelial damage causes the release of von Willebrande factor, VWF for short, from
+
+58
+00:04:52,280 --> 00:05:02,400
+ the endothelium, which then attaches to circulating platelets in purple, via glycoprotein 1B.
+
+59
+00:05:02,400 --> 00:05:09,240
+ So at this stage, the platelets are now adhered to the endothelium via this glycoprotein and
+
+60
+00:05:09,240 --> 00:05:10,680
+ von Willebrande factor.
+
+61
+00:05:10,680 --> 00:05:15,120
+ So that's the first step, adhesion.
+
+62
+00:05:15,120 --> 00:05:16,960
+ Next comes activation.
+
+63
+00:05:16,960 --> 00:05:23,160
+ So binding to the von Willebrande factor really excites these platelets, and so they get activated
+
+64
+00:05:23,160 --> 00:05:25,400
+ and grow these extensions.
+
+65
+00:05:25,400 --> 00:05:31,720
+ Not only that, but they secrete activators that include thromboxane A2 and adenosine
+
+66
+00:05:31,720 --> 00:05:39,280
+ diphosphate ADP, which further activate other circulating platelets, so it's this positive
+
+67
+00:05:39,280 --> 00:05:43,600
+ feedback loop effect.
+
+68
+00:05:43,600 --> 00:05:50,960
+ And now that the platelets are activated, they begin to express glycoprotein 2B/3A.
+
+69
+00:05:50,960 --> 00:05:57,080
+ Fibrinogen is also floating through the bloodstream and sticks to this glycoprotein complex like
+
+70
+00:05:57,080 --> 00:06:04,400
+ Velcro, and since Velcro is super sticky, the platelets begin sticking to each other,
+
+71
+00:06:04,400 --> 00:06:06,640
+ which is called aggregation.
+
+72
+00:06:06,640 --> 00:06:13,200
+ So keep in mind that as more and more platelets aggregate to each other, they also get activated,
+
+73
+00:06:13,200 --> 00:06:20,160
+ releasing more thromboxane A2 and ADP, and the positive feedback loop continues.
+
+74
+00:06:20,160 --> 00:06:26,960
+ Now I remember this step because aggregation, the word, has two of the same letters right
+
+75
+00:06:26,960 --> 00:06:32,640
+ next to each other to symbolize two platelets sticking to each other.
+
+76
+00:06:32,640 --> 00:06:38,020
+ The end result of primary hemostasis is a platelet plug composed of a whole bunch of
+
+77
+00:06:38,020 --> 00:06:46,040
+ platelets, fibrinogen and tethered to the endothelium via von Willebrand factor.
+
+78
+00:06:46,040 --> 00:06:51,440
+ So that's how it's supposed to work, but how can it go wrong?
+
+79
+00:06:51,440 --> 00:06:58,320
+ Well we have what's known as von Willebrand disease, which causes a deficiency in von
+
+80
+00:06:58,320 --> 00:07:05,960
+ Willebrand factor, affecting the ability of platelets to adhere to the vessel wall.
+
+81
+00:07:05,960 --> 00:07:12,560
+ Now it's the most common congenital bleeding disorder affecting about 1% of the population.
+
+82
+00:07:12,560 --> 00:07:21,920
+ So without that lime green starburst here, that initial step of adhesion cannot happen.
+
+83
+00:07:21,920 --> 00:07:28,640
+ And we didn't talk about this, but von Willebrand factor also acts as a carrier for coagulation
+
+84
+00:07:28,640 --> 00:07:30,200
+ factor 8.
+
+85
+00:07:30,200 --> 00:07:34,360
+ We'll get more into coagulation a little bit later, but just keep that in the back of your
+
+86
+00:07:34,360 --> 00:07:38,720
+ head that this condition affects both platelets and coagulation.
+
+87
+00:07:38,720 --> 00:07:41,480
+ So we'll see it again real soon.
+
+88
+00:07:41,480 --> 00:07:46,800
+ And we also have thrombocytopenia, this refers to low platelets.
+
+89
+00:07:46,800 --> 00:07:54,320
+ It's not technically a diagnosis, but rather the result of another disease or etiology.
+
+90
+00:07:54,320 --> 00:08:01,640
+ It can be drug induced, like drugs that are toxic to the bone marrow, or immune mediated.
+
+91
+00:08:01,640 --> 00:08:07,160
+ So it could be related to leukemia or HIV, for example.
+
+92
+00:08:07,160 --> 00:08:14,560
+ So a normal platelet count is somewhere between 150,000 to 450,000 platelets per microliter
+
+93
+00:08:14,560 --> 00:08:16,240
+ of blood.
+
+94
+00:08:16,240 --> 00:08:20,600
+ Less than this is considered thrombocytopenia.
+
+95
+00:08:20,600 --> 00:08:26,040
+ You have increased clinical bleeding when that's below 50,000, and then you can have
+
+96
+00:08:26,040 --> 00:08:31,400
+ spontaneous bleeding once that number hits below 20,000.
+
+97
+00:08:31,400 --> 00:08:36,040
+ And this is an example of what a platelet looks like compared to a bunch of red blood
+
+98
+00:08:36,040 --> 00:08:40,320
+ cells.
+
+99
+00:08:40,320 --> 00:08:44,840
+ The platelet pathway can also be disrupted on purpose.
+
+100
+00:08:44,840 --> 00:08:50,640
+ So patients may be treated with anti-platelet medications if they had a history of heart
+
+101
+00:08:50,640 --> 00:08:57,480
+ attack or placement of a coronary artery stent in order to prevent formation of unwanted
+
+102
+00:08:57,480 --> 00:08:59,200
+ platelet plugs.
+
+103
+00:08:59,200 --> 00:09:07,520
+ So, these medications are designed to interfere with one of those three A's, adhesion, activation,
+
+104
+00:09:07,520 --> 00:09:09,960
+ or aggregation.
+
+105
+00:09:09,960 --> 00:09:17,880
+ So aspirin inhibits the Cox-1 enzyme to prevent synthesis of thromboxane A2 in order
+
+106
+00:09:17,880 --> 00:09:22,400
+ to block activation, and this is irreversible.
+
+107
+00:09:22,400 --> 00:09:29,240
+ Now other NSAIDs, like ibuprofen, do the same thing but are reversible.
+
+108
+00:09:29,240 --> 00:09:38,240
+ Clopidogrel is a drug that competes with ADP at its receptor to block activation.
+
+109
+00:09:38,240 --> 00:09:45,800
+ And F6imab binds to the glycoprotein 2B3A complex to block aggregation.
+
+110
+00:09:45,800 --> 00:09:52,960
+ I remember this one because A and B are right next to each other in the drug name and so
+
+111
+00:09:52,960 --> 00:09:58,080
+ are B and A in this glycoprotein complex.
+
+112
+00:09:58,080 --> 00:10:05,560
+ So these are three examples of drugs that can disrupt the platelet pathway.
+
+113
+00:10:05,560 --> 00:10:07,920
+ And then we come to platelet testing.
+
+114
+00:10:07,920 --> 00:10:09,920
+ So why is this done?
+
+115
+00:10:09,920 --> 00:10:17,800
+ Well, a hematologist may want to run one of these tests in order to diagnose von Willebrand
+
+116
+00:10:17,800 --> 00:10:24,760
+ disease, or to check the status of thrombocytopenia, or maybe even to see how anti-platelet medications
+
+117
+00:10:24,760 --> 00:10:28,600
+ are working to name some examples.
+
+118
+00:10:28,600 --> 00:10:34,840
+ And next we have to ask, well how do we test for something like platelet number, quantity,
+
+119
+00:10:34,840 --> 00:10:37,720
+ or platelet function, quality?
+
+120
+00:10:37,720 --> 00:10:43,720
+ Well we can order a platelet count, that's where you have a blood sample taken, and as
+
+121
+00:10:43,720 --> 00:10:50,320
+ part of a complete blood count, the concentration of platelets in the blood sample is counted.
+
+122
+00:10:50,320 --> 00:10:55,680
+ So thrombocytopenia would be confirmed if platelets are low, again it tends to be common
+
+123
+00:10:55,680 --> 00:10:58,720
+ in HIV or leukemia patients.
+
+124
+00:10:58,720 --> 00:11:03,360
+ So this would of course be talking about quantity of platelets.
+
+125
+00:11:03,360 --> 00:11:09,400
+ An IV bleeding test involves making a cut in the patient's arm and then timing how long
+
+126
+00:11:09,400 --> 00:11:12,600
+ it takes for bleeding to stop.
+
+127
+00:11:12,600 --> 00:11:17,840
+ It has been used to screen for disorders of platelet function, like in the use of chronic
+
+128
+00:11:17,840 --> 00:11:24,960
+ NSAIDs, and platelet number, again thrombocytopenia, so it can be used to test either quantity
+
+129
+00:11:24,960 --> 00:11:26,520
+ or quality.
+
+130
+00:11:26,520 --> 00:11:32,280
+ Unfortunately, it's rather unreliable and no longer used.
+
+131
+00:11:32,280 --> 00:11:36,920
+ The peripheral blood smear involves looking under a microscope to see whether the cells
+
+132
+00:11:36,920 --> 00:11:42,560
+ look morphologically normal or not, so this will tell you about platelet quality.
+
+133
+00:11:42,560 --> 00:11:47,960
+ The platelet aggregation test checks how well your platelets clump together to form that
+
+134
+00:11:47,960 --> 00:11:48,960
+ plug.
+
+135
+00:11:48,960 --> 00:11:54,840
+ And then the platelet function analyzer, the PFA 100, is an instrument that measures platelet
+
+136
+00:11:54,840 --> 00:12:00,480
+ dependent coagulation under flow conditions, so it's better than the bleeding test but
+
+137
+00:12:00,480 --> 00:12:06,000
+ unfortunately it's not sensitive enough to rule out mild bleeding disorders, so neither
+
+138
+00:12:06,000 --> 00:12:14,920
+ the bleeding test nor PFA 100 are recommended as screening tests to be used by dentists.
+
+139
+00:12:14,920 --> 00:12:19,760
+ So patient considerations for platelet disorders are the same as they were for those vascular
+
+140
+00:12:19,760 --> 00:12:23,480
+ wall defects.
+
+141
+00:12:23,480 --> 00:12:28,400
+ And now we come to phase three of hemostasis, coagulation.
+
+142
+00:12:28,400 --> 00:12:34,640
+ So this is a table I put together for each coagulation factor in the coagulation cascade
+
+143
+00:12:34,640 --> 00:12:38,760
+ or pathway and where they're found in the body.
+
+144
+00:12:38,760 --> 00:12:43,480
+ We don't have time to talk through all of this but you can always refer back to it later.
+
+145
+00:12:43,480 --> 00:12:48,080
+ I thought it might be helpful to just have all this information clearly laid out.
+
+146
+00:12:48,080 --> 00:12:57,240
+ And note that a vast majority of these coagulation factors are synthesized in the liver.
+
+147
+00:12:57,240 --> 00:13:01,880
+ So here I have listed the factors involved by number.
+
+148
+00:13:01,880 --> 00:13:08,120
+ So how this works is each factor activates the factor below it.
+
+149
+00:13:08,120 --> 00:13:20,600
+ So for example, 12 would make 11, factor 11 turn into factor 11A, A for activated.
+
+150
+00:13:20,600 --> 00:13:28,400
+ And 11A would in turn make nine turn into nine A and so on.
+
+151
+00:13:28,400 --> 00:13:31,440
+ So you'd go down the cascade in that fashion.
+
+152
+00:13:31,440 --> 00:13:37,400
+ I don't have the A's listed because it just makes things way more complicated and busy
+
+153
+00:13:37,400 --> 00:13:39,600
+ than they have to be.
+
+154
+00:13:39,600 --> 00:13:45,360
+ So let's actually start at the bottom or the end of this coagulation cascade.
+
+155
+00:13:45,360 --> 00:13:53,480
+ So the clot is obviously the goal here and factor one is at the end of this cascade.
+
+156
+00:13:53,480 --> 00:13:57,320
+ And it's aptly named because it is number one.
+
+157
+00:13:57,320 --> 00:14:01,280
+ It's the most important factor of this pathway.
+
+158
+00:14:01,280 --> 00:14:06,360
+ If you go back to our table, one is fibrinogen.
+
+159
+00:14:06,360 --> 00:14:09,480
+ And fibrinogen may sound familiar.
+
+160
+00:14:09,480 --> 00:14:13,720
+ Well that's because fibrinogen is also in the platelet pathway.
+
+161
+00:14:13,720 --> 00:14:19,280
+ It was the Velcro responsible for aggregation of platelets to each other.
+
+162
+00:14:19,280 --> 00:14:26,560
+ So you may be wondering how does the body know where to activate this coagulation cascade?
+
+163
+00:14:26,560 --> 00:14:33,760
+ The answer is at the giant plug of platelets coated in a mesh of fibrinogen, the substrate
+
+164
+00:14:33,760 --> 00:14:36,920
+ for this entire cascade.
+
+165
+00:14:36,920 --> 00:14:41,360
+ And this is why our blood isn't just one giant clot.
+
+166
+00:14:41,360 --> 00:14:46,560
+ It only clots where we already have a platelet plug.
+
+167
+00:14:46,560 --> 00:14:47,920
+ Very very cool.
+
+168
+00:14:47,920 --> 00:14:50,560
+ So we have two separate pathways to start.
+
+169
+00:14:50,560 --> 00:14:58,600
+ We have intrinsic in red and extrinsic in green that converge on the common pathway in blue,
+
+170
+00:14:58,600 --> 00:15:01,320
+ which is shared between the two.
+
+171
+00:15:01,320 --> 00:15:09,520
+ And lastly for memory sake, factor ten or the roman numeral X is in the central location
+
+172
+00:15:09,520 --> 00:15:14,600
+ of all of these pathways because of course, if you've ever looked for berry treasure,
+
+173
+00:15:14,600 --> 00:15:16,920
+ X marks the spot.
+
+174
+00:15:16,920 --> 00:15:20,320
+ So let's start with the extrinsic pathway.
+
+175
+00:15:20,320 --> 00:15:23,440
+ This is outside the blood vessel.
+
+176
+00:15:23,440 --> 00:15:29,440
+ It's triggered by external trauma that causes blood to escape its vessel.
+
+177
+00:15:29,440 --> 00:15:35,240
+ And the damaged endothelium expresses tissue factor or thromboplastin.
+
+178
+00:15:35,240 --> 00:15:42,440
+ That's just another name for factor three, which jump starts this pathway.
+
+179
+00:15:42,440 --> 00:15:48,240
+ It's usually quicker than the intrinsic pathway as a side note.
+
+180
+00:15:48,240 --> 00:15:55,720
+ So three activates seven, which activates ten, and now we're back in the common pathway.
+
+181
+00:15:55,720 --> 00:16:05,980
+ So ten works with five to activate factor two, which activates factor one and thirteen.
+
+182
+00:16:05,980 --> 00:16:10,800
+ You can remember this because one is the smallest and thirteen is the largest number.
+
+183
+00:16:10,800 --> 00:16:13,440
+ So those two work together.
+
+184
+00:16:13,440 --> 00:16:18,120
+ Now we've talked at length about factor one, but now let's spend some time on factor two
+
+185
+00:16:18,120 --> 00:16:22,680
+ because well, it's the second most important factor in this list.
+
+186
+00:16:22,680 --> 00:16:25,040
+ It's called prothrombin.
+
+187
+00:16:25,040 --> 00:16:32,720
+ And when activated to factor two A, it becomes thrombin, which activates a bunch of other
+
+188
+00:16:32,720 --> 00:16:33,720
+ factors.
+
+189
+00:16:33,720 --> 00:16:46,080
+ It actually activates five and seven and eight, eleven, and even thirteen.
+
+190
+00:16:46,080 --> 00:16:52,800
+ Providing a positive feedback loop and even activating the intrinsic pathway up here.
+
+191
+00:16:52,800 --> 00:16:59,560
+ So when factor two gets involved, it's really speeding everything up.
+
+192
+00:16:59,560 --> 00:17:01,760
+ Now let's talk about the intrinsic pathway.
+
+193
+00:17:01,760 --> 00:17:07,200
+ This is inside the blood vessel, and you may be wondering, well, what's the deal with
+
+194
+00:17:07,200 --> 00:17:10,800
+ factor twelve, also called hagmin factor?
+
+195
+00:17:10,800 --> 00:17:13,360
+ It's not one of the ones activated by thrombin.
+
+196
+00:17:13,360 --> 00:17:17,080
+ Remember, thrombin only reached up to factor eleven.
+
+197
+00:17:17,080 --> 00:17:20,480
+ So what is factor twelve doing way up here?
+
+198
+00:17:20,480 --> 00:17:23,600
+ And how does it get activated initially?
+
+199
+00:17:23,600 --> 00:17:30,800
+ Well, trauma can expose collagen on the inside of blood vessels, which activates factor twelve.
+
+200
+00:17:30,800 --> 00:17:35,360
+ But it's not actually necessary for clotting to occur, because again, thrombin can start
+
+201
+00:17:35,360 --> 00:17:40,000
+ this pathway from factor eleven, and then it goes from there.
+
+202
+00:17:40,000 --> 00:17:42,560
+ What's nice is there is some order to this pathway.
+
+203
+00:17:42,560 --> 00:17:48,680
+ We start with twelve, then go to eleven, we skip ten and go down to nine, which is next
+
+204
+00:17:48,680 --> 00:17:52,280
+ to eight, and it lines up with seven over here.
+
+205
+00:17:52,280 --> 00:17:58,920
+ So there's some order in terms of counting down with numbers right next to each other.
+
+206
+00:17:58,920 --> 00:18:04,480
+ But of course, like with the platelet pathway, things can go wrong with the coagulation cascade.
+
+207
+00:18:04,480 --> 00:18:07,800
+ So let's talk about some clotting factor defects.
+
+208
+00:18:07,800 --> 00:18:15,400
+ So for inherited defects, we have, once again, as promised, Von Willebrand disease.
+
+209
+00:18:15,400 --> 00:18:21,440
+ So remember, as I mentioned before, Von Willebrand disease not only messes up platelets, but it
+
+210
+00:18:21,440 --> 00:18:28,720
+ also interferes with factor eight, so we have it on this slide as well.
+
+211
+00:18:28,720 --> 00:18:34,840
+ Next we have to talk about another big disease, hemophilia, which comes from the Greek meaning
+
+212
+00:18:34,840 --> 00:18:37,400
+ love to bleed.
+
+213
+00:18:37,400 --> 00:18:43,760
+ Now these people have a hereditary condition where they bleed easily because they are deficient
+
+214
+00:18:43,760 --> 00:18:47,040
+ in a certain clotting factor.
+
+215
+00:18:47,040 --> 00:18:53,720
+ Hemophilia A is by far the most common of the three hemophilias here, and it's autosomal
+
+216
+00:18:53,720 --> 00:18:59,240
+ X-linked recessive, therefore affecting mainly males.
+
+217
+00:18:59,240 --> 00:19:05,960
+ Also if local anesthesia is necessary for a patient with hemophilia A, there is an eighty
+
+218
+00:19:05,960 --> 00:19:13,560
+ percent chance that a patient with hemophilia A will develop a hematoma following an inferior
+
+219
+00:19:13,560 --> 00:19:20,000
+ alveolar nerve block injection without prior factor eight infusion.
+
+220
+00:19:20,000 --> 00:19:26,640
+ The hematoma could even be fatal if it accumulates in the media stinum and compromises the airway.
+
+221
+00:19:26,640 --> 00:19:34,720
+ So bottom line, stick with local infiltrations only in the mandible for these patients.
+
+222
+00:19:34,720 --> 00:19:43,680
+ So hemophilia A involves a deficiency in factor eight, A for eight, and then hemophilia B involves
+
+223
+00:19:43,680 --> 00:19:50,200
+ a deficiency in factor nine, hemophilia C involves a deficiency in factor eleven.
+
+224
+00:19:50,200 --> 00:19:54,800
+ And these two, you can remember go together, calling nine one one.
+
+225
+00:19:54,800 --> 00:19:57,280
+ So that's how I remember those.
+
+226
+00:19:57,280 --> 00:20:03,000
+ Also notice how all forms of hemophilia affect the intrinsic pathway.
+
+227
+00:20:03,000 --> 00:20:08,080
+ We have eight nine and eleven, which are all right next to each other in that intrinsic
+
+228
+00:20:08,080 --> 00:20:09,800
+ pathway.
+
+229
+00:20:09,800 --> 00:20:14,400
+ So that can also help you remember those.
+
+230
+00:20:14,400 --> 00:20:20,720
+ And then to finish off this list, we have two acquired disease processes.
+
+231
+00:20:20,720 --> 00:20:28,520
+ So vitamin K deficiency is the most common of all acquired coagulation disorders.
+
+232
+00:20:28,520 --> 00:20:37,960
+ Those two seven nine and ten are made in the liver and require vitamin K for their synthesis.
+
+233
+00:20:37,960 --> 00:20:44,960
+ So that's why they're specifically impacted if vitamin K is low.
+
+234
+00:20:44,960 --> 00:20:50,960
+ Liver dysfunction, like severe liver disease, can lead to deficiencies again in these vitamin
+
+235
+00:20:50,960 --> 00:20:56,200
+ K dependent coagulation factors, two seven nine and ten.
+
+236
+00:20:56,200 --> 00:21:01,000
+ I purposely listed some in number form and some in romanumeral form because they can
+
+237
+00:21:01,000 --> 00:21:04,300
+ be listed in either form on the board exam.
+
+238
+00:21:04,300 --> 00:21:07,960
+ So just get used to seeing them in both ways.
+
+239
+00:21:07,960 --> 00:21:14,000
+ There are other disease processes that we can put on this list like chronic kidney disease
+
+240
+00:21:14,000 --> 00:21:19,480
+ and autoimmune diseases, but these are the main ones that I wanted to cover that are
+
+241
+00:21:19,480 --> 00:21:24,880
+ most likely to appear on your board exam.
+
+242
+00:21:24,880 --> 00:21:31,440
+ Now just like with the platelet pathway, we have medications that can disrupt the coagulation
+
+243
+00:21:31,440 --> 00:21:34,560
+ cascade on purpose.
+
+244
+00:21:34,560 --> 00:21:41,600
+ So if you have someone who is a cloder and dangerously so, then one of these may be prescribed
+
+245
+00:21:41,600 --> 00:21:43,040
+ for that reason.
+
+246
+00:21:43,040 --> 00:21:48,640
+ Some examples include reducing the risk of heart attack or stroke, patients with atrial
+
+247
+00:21:48,640 --> 00:21:55,300
+ fibrillation, prosthetic heart valves, history of deep venous thrombosis blood clots and
+
+248
+00:21:55,300 --> 00:21:57,480
+ things like that.
+
+249
+00:21:57,480 --> 00:22:05,680
+ Now the next point I want to make absolutely crystal clear, anti-coagulants are different
+
+250
+00:22:05,680 --> 00:22:13,680
+ from anti-platelet medications that we talked about before because these drugs affect coagulation
+
+251
+00:22:13,680 --> 00:22:17,080
+ not the platelet pathway.
+
+252
+00:22:17,080 --> 00:22:25,000
+ For example, a ton of people refer to aspirin as an anti-coagulant, and that's not correct.
+
+253
+00:22:25,000 --> 00:22:31,080
+ Aspirin inhibits platelet activation by blocking Cox-1 and thromboxian A2 synthesis.
+
+254
+00:22:31,080 --> 00:22:37,640
+ Now while it is a blood thinner, aspirin does not affect the coagulation cascade at all,
+
+255
+00:22:37,640 --> 00:22:40,560
+ and so it's not an anti-coagulant.
+
+256
+00:22:40,560 --> 00:22:46,360
+ I threw out the category blood thinner, so both anti-platelets and anti-coagulants are
+
+257
+00:22:46,360 --> 00:22:50,840
+ blood thinners, they make someone more likely to bleed.
+
+258
+00:22:50,840 --> 00:22:54,680
+ Now here are the anti-coagulants.
+
+259
+00:22:54,680 --> 00:22:59,960
+ So warfarin blocks reduction recycling of vitamin K, which means that, once again, those
+
+260
+00:22:59,960 --> 00:23:06,000
+ factors that depend on vitamin K, 2, 7, 9, and 10 are hindered, which will definitely
+
+261
+00:23:06,000 --> 00:23:09,040
+ mess with clotting.
+
+262
+00:23:09,040 --> 00:23:17,040
+ Thrombin pulls thrombin and this thing called anti-thrombin together, which blocks factor
+
+263
+00:23:17,040 --> 00:23:18,040
+ 2 specifically.
+
+264
+00:23:18,040 --> 00:23:27,520
+ Epixaban, or Eliquis, directly inhibits factor 10A, and then Dabogatran binds to thrombin,
+
+265
+00:23:27,520 --> 00:23:34,640
+ which is factor 2A, at its active site, and inhibits it, so this is a direct thrombin
+
+266
+00:23:34,640 --> 00:23:45,520
+ inhibitor, while the other three examples are indirect thrombin inhibitors.
+
+267
+00:23:45,520 --> 00:23:51,680
+ Now like in the platelet section, there are tests that a hematologist can order to check
+
+268
+00:23:51,680 --> 00:23:56,040
+ on how this coagulation cascade is working.
+
+269
+00:23:56,040 --> 00:24:03,120
+ So let's talk about the activated partial thromboplastin time test first, or APTT.
+
+270
+00:24:03,120 --> 00:24:09,280
+ This measures the number of seconds it takes for a clot to form in a sample of blood after
+
+271
+00:24:09,280 --> 00:24:11,920
+ certain reagents are added to it.
+
+272
+00:24:11,920 --> 00:24:19,440
+ It's used to check the intrinsic system and common pathway, so it's also the best single
+
+273
+00:24:19,440 --> 00:24:24,160
+ screening test for coagulation disorders.
+
+274
+00:24:24,160 --> 00:24:30,080
+ It's used to test Von Willebrand disease, hemophilia, among many others.
+
+275
+00:24:30,080 --> 00:24:35,440
+ The normal range for this test is somewhere between 25 and 35 seconds.
+
+276
+00:24:35,440 --> 00:24:40,680
+ A shorter time means they are more towards the clotting end of the spectrum.
+
+277
+00:24:40,680 --> 00:24:47,760
+ A longer time means they are closer to the bleeding end of the spectrum.
+
+278
+00:24:47,760 --> 00:24:52,840
+ And then we have the prothrombin time test, or PT test.
+
+279
+00:24:52,840 --> 00:24:57,680
+ This one also measures how long it takes for a clot to form in a blood sample, but it's
+
+280
+00:24:57,680 --> 00:25:05,900
+ used almost exclusively for patients on Warfarin and is used to derive the INR, which is the
+
+281
+00:25:05,900 --> 00:25:11,600
+ international normalized ratio for a particular patient.
+
+282
+00:25:11,600 --> 00:25:16,040
+ All INR is a normalized PT.
+
+283
+00:25:16,040 --> 00:25:21,200
+ It's normalized for different lab materials from lab to lab.
+
+284
+00:25:21,200 --> 00:25:27,360
+ And how to remember that they are for patients on Warfarin is because the last three letters
+
+285
+00:25:27,360 --> 00:25:33,060
+ of the word Warfarin are INR, just in a different order.
+
+286
+00:25:33,060 --> 00:25:39,840
+ So the normal range for this test is somewhere between 11 and 15 seconds.
+
+287
+00:25:39,840 --> 00:25:49,840
+ The smaller the INR, that's indicating a clotter, the larger the INR that's indicating a bleeder.
+
+288
+00:25:49,840 --> 00:25:56,520
+ And just as an aside, the factors in red here are those vitamin K dependent factors that
+
+289
+00:25:56,520 --> 00:26:00,760
+ we talked about in this slide and this slide.
+
+290
+00:26:00,760 --> 00:26:06,440
+ So just to help you remember two, seven, nine, and ten, the nice thing is they're all right
+
+291
+00:26:06,440 --> 00:26:11,400
+ next to each other in that handy diagram.
+
+292
+00:26:11,400 --> 00:26:17,440
+ Alright the moment you've all been waiting for, let's dive more into INR.
+
+293
+00:26:17,440 --> 00:26:21,760
+ And this is a huge, huge part of the new board exam.
+
+294
+00:26:21,760 --> 00:26:27,440
+ So first, for all patients taking Warfarin, there are some precautions that should be
+
+295
+00:26:27,440 --> 00:26:28,800
+ taken.
+
+296
+00:26:28,800 --> 00:26:35,080
+ We want to avoid aspirin and all other NSAIDs, which can make bleeding risk higher.
+
+297
+00:26:35,080 --> 00:26:38,560
+ And we know now that's by messing with platelets.
+
+298
+00:26:38,560 --> 00:26:45,640
+ So Tylenol with or without codeine is suggested for pain control instead.
+
+299
+00:26:45,640 --> 00:26:53,480
+ We want to avoid metronidazol, erythromycin, and broad-spectrum antibiotics that can potentiate
+
+300
+00:26:53,480 --> 00:26:56,960
+ the anti-coagulation effect of Warfarin.
+
+301
+00:26:56,960 --> 00:27:05,400
+ Similarly, herbal supplements can make anti-coagulation more significant as well, can enhance the bleeding
+
+302
+00:27:05,400 --> 00:27:07,560
+ for that patient.
+
+303
+00:27:07,560 --> 00:27:14,120
+ Barbiturates and steroids actually antagonize the action of Warfarin.
+
+304
+00:27:14,120 --> 00:27:20,320
+ So those should be avoided in order to prevent the INR from getting too low toward the clotting
+
+305
+00:27:20,320 --> 00:27:22,160
+ side.
+
+306
+00:27:22,160 --> 00:27:29,000
+ For Warfarin patients undergoing surgery, local hemostatic measures should be taken.
+
+307
+00:27:29,000 --> 00:27:32,560
+ So this is what I was mentioning earlier on in the video.
+
+308
+00:27:32,560 --> 00:27:38,480
+ And these involve compressive packing and dressing to physically stop bleeding, extra
+
+309
+00:27:38,480 --> 00:27:46,400
+ sutures and primary closure over the surgical site were possible, a 4.8% tranexamic acid
+
+310
+00:27:46,400 --> 00:27:52,800
+ mouthwash which promotes clotting and topical thrombin which does the same.
+
+311
+00:27:52,800 --> 00:27:59,280
+ So clinical evidence suggests that the risk of bleeding out with a therapeutic INR is
+
+312
+00:27:59,280 --> 00:28:01,120
+ very, very small.
+
+313
+00:28:01,120 --> 00:28:05,080
+ In general, the risk of clotting outweighs the benefit.
+
+314
+00:28:05,080 --> 00:28:10,960
+ In other words, it's better to stay on those medications that favor the propensity to bleed
+
+315
+00:28:10,960 --> 00:28:16,600
+ rather than the propensity to clot without them which can be life threatening for certain
+
+316
+00:28:16,600 --> 00:28:18,160
+ patients.
+
+317
+00:28:18,160 --> 00:28:25,280
+ However, if a complex major oral surgery is planned where significant bleeding is likely,
+
+318
+00:28:25,280 --> 00:28:31,320
+ only then would modification of Warfarin therapy with a medical consultation be potentially
+
+319
+00:28:31,320 --> 00:28:33,120
+ necessary.
+
+320
+00:28:33,120 --> 00:28:36,520
+ So where exactly do we make that threshold?
+
+321
+00:28:36,520 --> 00:28:38,960
+ You might be wondering.
+
+322
+00:28:38,960 --> 00:28:46,840
+ So for an INR between 2 and 3, this is actually a great therapeutic range for many conditions
+
+323
+00:28:46,840 --> 00:28:52,600
+ like atrial fibrillation, deep venous thrombosis and pulmonary embolism.
+
+324
+00:28:52,600 --> 00:28:57,080
+ Generally, there are no bleeding concerns for patients in this range.
+
+325
+00:28:57,080 --> 00:29:01,640
+ And beyond the above considerations that we just talked about, you can proceed with
+
+326
+00:29:01,640 --> 00:29:04,300
+ any dental treatment.
+
+327
+00:29:04,300 --> 00:29:12,080
+ For an INR between 3 and 3.5, it may be desired for patients with a prosthetic heart valve,
+
+328
+00:29:12,080 --> 00:29:16,020
+ but it's a bit high for major complex surgeries.
+
+329
+00:29:16,020 --> 00:29:22,640
+ So if the patient is undergoing a simple minor oral surgery like a single tooth extraction,
+
+330
+00:29:22,640 --> 00:29:26,360
+ you can continue with treatment with the above considerations.
+
+331
+00:29:26,360 --> 00:29:32,520
+ But if it's a major oral surgery like a full arch extraction, then we want to defer treatment
+
+332
+00:29:32,520 --> 00:29:39,240
+ and refer to their medical doctor about changing the Warfarin dose temporarily and then retesting
+
+333
+00:29:39,240 --> 00:29:44,120
+ INR before proceeding with dental care.
+
+334
+00:29:44,120 --> 00:29:51,200
+ Now if the INR is greater than 3.5, no matter what is planned, the dentist should refer the
+
+335
+00:29:51,200 --> 00:29:56,760
+ patient to their doctor and request that the dosage be reduced to allow that INR to fall
+
+336
+00:29:56,760 --> 00:29:59,440
+ within a healthier therapeutic range.
+
+337
+00:29:59,440 --> 00:30:05,280
+ If the dose is reduced by the physician, it will take 3-5 days for the desired reduction
+
+338
+00:30:05,280 --> 00:30:06,560
+ to occur.
+
+339
+00:30:06,560 --> 00:30:12,400
+ The reduction should be confirmed by a new INR before the dental or surgical procedure,
+
+340
+00:30:12,400 --> 00:30:17,960
+ which should be scheduled within 2 days after that new INR.
+
+341
+00:30:17,960 --> 00:30:21,960
+ After the procedure is finished, and there are no complications in terms of bleeding
+
+342
+00:30:21,960 --> 00:30:29,080
+ or infection, then the physician should be contacted to resume the usual Warfarin dose.
+
+343
+00:30:29,080 --> 00:30:34,120
+ And at the end of the day, if you're ever unsure about any of these steps, consult with
+
+344
+00:30:34,120 --> 00:30:41,840
+ the patient's hematologist to ensure a safe tooth extraction.
+
+345
+00:30:41,840 --> 00:30:46,880
+ Lastly oral manifestations of people with any of the above that we just talked about, vascular
+
+346
+00:30:46,880 --> 00:30:52,360
+ wall defects, platelet disorders, or coagulation issues.
+
+347
+00:30:52,360 --> 00:30:57,360
+ So what we can see is easy or spontaneous gingerable bleeding.
+
+348
+00:30:57,360 --> 00:31:04,440
+ Oral tissues like the soft palate, tongue, and buccomucosa may show these little peteciae
+
+349
+00:31:04,440 --> 00:31:12,600
+ or maybe a larger echomoses, sometimes even you see jaundice, pallor, and ulcers.
+
+350
+00:31:12,600 --> 00:31:18,440
+ And lastly, hemorthrosis of the TMJ, that's bleeding into the jaw joint.
+
+351
+00:31:18,440 --> 00:31:26,880
+ This is a rare finding, but has been linked specifically to hemophilia.
+
+352
+00:31:26,880 --> 00:31:31,200
+ Alright so that's it for this video guys, thank you so much for watching.
+
+353
+00:31:31,200 --> 00:31:35,320
+ Please like this video if you enjoyed it and subscribe to this channel if you haven't
+
+354
+00:31:35,320 --> 00:31:38,160
+ already for much more on dentistry.
+
+355
+00:31:38,160 --> 00:31:42,440
+ If you'd like to support me, please check me out on my Patreon page.
+
+356
+00:31:42,440 --> 00:31:45,400
+ And thank you to all of my patrons for their support.
+
+357
+00:31:45,400 --> 00:31:49,720
+ You can unlock access to my video slides to take notes on them and practice questions
+
+358
+00:31:49,720 --> 00:31:54,440
+ for the board exams, so go check that out, the link will be in the description below.
+
+359
+00:31:54,440 --> 00:31:57,600
+ Thanks again for watching everyone, I'll see you in the next video.
+

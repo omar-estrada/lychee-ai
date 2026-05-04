@@ -1,0 +1,1416 @@
+1
+00:00:00,000 --> 00:00:06,900
+ Hey everyone, Ryan here and welcome to this series on orthodontics.
+
+2
+00:00:06,900 --> 00:00:11,300
+ So this is my personal favorite specialty since I'm currently studying orthodontics
+
+3
+00:00:11,300 --> 00:00:12,740
+ as a resident.
+
+4
+00:00:12,740 --> 00:00:15,580
+ We're going to cover a ton of great content.
+
+5
+00:00:15,580 --> 00:00:21,300
+ The board examiners combine orthodontics and pediatric dentistry into one category in
+
+6
+00:00:21,300 --> 00:00:26,720
+ their guidelines, but I think it's honestly more helpful to focus on each one individually.
+
+7
+00:00:26,720 --> 00:00:32,520
+ I've already made the Pediatric Dentistry Series, if you want to go check that out.
+
+8
+00:00:32,520 --> 00:00:37,320
+ So that being said, like all of my videos, I'm going to focus on the highest yield things
+
+9
+00:00:37,320 --> 00:00:42,420
+ that you need to know for the exam and my hope is that these videos will help you prepare
+
+10
+00:00:42,420 --> 00:00:49,780
+ for the board exam and also give you an overview for clinical application and general knowledge.
+
+11
+00:00:49,780 --> 00:00:54,080
+ So we're going to start by talking about growth and development and I like to think of growth
+
+12
+00:00:54,080 --> 00:00:57,680
+ and development as two sides of the same coin.
+
+13
+00:00:57,680 --> 00:01:03,820
+ They are two distinctly different things, but they work in harmony towards the same goal.
+
+14
+00:01:03,820 --> 00:01:08,680
+ So growth is all about an increase in size or number.
+
+15
+00:01:08,680 --> 00:01:12,520
+ An increase in size of cells is called hypertrophy.
+
+16
+00:01:12,520 --> 00:01:16,040
+ An increase in number of cells is called hyperplasia.
+
+17
+00:01:16,040 --> 00:01:21,880
+ And growth has to do with anatomic things, height, weight, length, width.
+
+18
+00:01:21,880 --> 00:01:24,600
+ They're all quantitative numbers.
+
+19
+00:01:24,600 --> 00:01:31,120
+ Now development is an increase in complexity or specialization of functions, and this is
+
+20
+00:01:31,120 --> 00:01:34,480
+ more physiological or behavioral.
+
+21
+00:01:34,480 --> 00:01:40,440
+ So it's more qualitative things, day-to-day function, how you learn, how you act and behave,
+
+22
+00:01:40,440 --> 00:01:42,000
+ and things like that.
+
+23
+00:01:42,000 --> 00:01:45,720
+ Growth and development follow three basic laws.
+
+24
+00:01:45,720 --> 00:01:51,040
+ There's a pattern, so their predictable changes in how a body will grow over time.
+
+25
+00:01:51,040 --> 00:01:56,580
+ There's general timing, ages where we expect growth and ages where we don't, but there's
+
+26
+00:01:56,580 --> 00:02:02,960
+ also some variability in how an individual person will grow and develop with time.
+
+27
+00:02:02,960 --> 00:02:07,880
+ So there's a pattern, timing, and variability.
+
+28
+00:02:07,880 --> 00:02:12,680
+ One such pattern is the cephalocaudal growth gradient.
+
+29
+00:02:12,680 --> 00:02:20,080
+ So this is saying that body parts closer to the cranium grow fast early on while body
+
+30
+00:02:20,080 --> 00:02:25,640
+ parts further from the cranium grow more later on.
+
+31
+00:02:25,640 --> 00:02:31,280
+ So another way to think of it is the brain is the trailblazer and everything else has
+
+32
+00:02:31,280 --> 00:02:33,400
+ to catch up later on.
+
+33
+00:02:33,400 --> 00:02:37,400
+ So we can see some examples of this phenomenon in these pictures.
+
+34
+00:02:37,400 --> 00:02:45,520
+ So two months in utero, this baby has a head that comprises 50% of its total length, but
+
+35
+00:02:45,520 --> 00:02:50,840
+ once we get to three to four months in utero, now the head only comprises 30%.
+
+36
+00:02:50,840 --> 00:02:58,160
+ At birth, the head is 25%, and then as an adult, the head is about 12% of the total height.
+
+37
+00:02:58,160 --> 00:03:03,560
+ You can also look at the upper limbs versus the lower limbs, so the upper limbs grow more
+
+38
+00:03:03,560 --> 00:03:09,240
+ earlier, and then the lower limbs have to catch up later on in life.
+
+39
+00:03:09,240 --> 00:03:12,040
+ The same can be said for the maxilla and the mandible.
+
+40
+00:03:12,040 --> 00:03:19,820
+ The maxilla will fully mature earlier than the mandible does because the maxilla is closer
+
+41
+00:03:19,820 --> 00:03:24,320
+ to the cranium.
+
+42
+00:03:24,320 --> 00:03:30,720
+ So one visual depiction of a typical growth pattern and timing of that pattern is the
+
+43
+00:03:30,720 --> 00:03:33,680
+ scammon's growth curves.
+
+44
+00:03:33,680 --> 00:03:41,760
+ So these growth curves show age on the x-axis in years and tissue size on the y-axis.
+
+45
+00:03:41,760 --> 00:03:48,040
+ So from top to bottom we have the lymphoid growth curve, so that's your immune tissues,
+
+46
+00:03:48,040 --> 00:03:53,920
+ the neural growth curve, so that's like your brain, then we have maxilla, mandible, general
+
+47
+00:03:53,920 --> 00:04:00,320
+ body tissues like bones and muscles, and then finally genital tissues on the bottom.
+
+48
+00:04:00,320 --> 00:04:07,600
+ So each of these has a unique pattern to it, and neural tissues, including the brain, grow
+
+49
+00:04:07,600 --> 00:04:15,160
+ rapidly after birth, the steepest of these curves, and then reach near adult size by
+
+50
+00:04:15,160 --> 00:04:20,680
+ about age 6 or 7, and then kind of levels out.
+
+51
+00:04:20,680 --> 00:04:28,720
+ Lymphoid tissues also grow rapidly, reaching twice their adult size by age 10, so note
+
+52
+00:04:28,720 --> 00:04:34,860
+ that this is a percent of adult size, and so we're actually surpassing what the lymphoid
+
+53
+00:04:34,860 --> 00:04:37,120
+ tissue mass will be as an adult.
+
+54
+00:04:37,120 --> 00:04:43,140
+ So we're way up here at about 10 years, and then they involute or shrink during the pubertal
+
+55
+00:04:43,140 --> 00:04:51,200
+ growth spurt to reach their final growth adult size at 100%.
+
+56
+00:04:51,200 --> 00:04:57,080
+ The genital tissues do not grow much at all until you hit the pubertal growth spurt, and
+
+57
+00:04:57,080 --> 00:05:03,040
+ then they rapidly increase to that 100% adult size.
+
+58
+00:05:03,040 --> 00:05:08,640
+ The general body tissues grow rapidly after birth, they kind of slow down in childhood,
+
+59
+00:05:08,640 --> 00:05:14,040
+ and then grow rapidly again during the pubertal growth spurt.
+
+60
+00:05:14,040 --> 00:05:19,400
+ And then finally we have the maxilla and mandible, and so the maxilla follows a bit closer to
+
+61
+00:05:19,400 --> 00:05:25,360
+ the neural growth curve, because it's closer to the brain, and the mandible follows more
+
+62
+00:05:25,360 --> 00:05:30,840
+ closer to the general growth curve, because it's further away from the brain.
+
+63
+00:05:30,840 --> 00:05:40,160
+ So we see that cephalocaudal growth gradient manifesting in these really neat growth curves.
+
+64
+00:05:40,160 --> 00:05:48,720
+ So notice how the lymphoid and genital curves after age 10, so if we mark off here and here,
+
+65
+00:05:48,720 --> 00:05:54,160
+ they kind of act opposite to each other, they're like mirror images, the lymphoid goes way
+
+66
+00:05:54,160 --> 00:06:00,240
+ down, and the genital goes way up during that growth spurt, and that's because as the concentration
+
+67
+00:06:00,240 --> 00:06:06,200
+ of sex hormones estrogen and testosterone increases, they drive the growth spurt, and
+
+68
+00:06:06,200 --> 00:06:11,520
+ this inhibits the further growth of lymphoid tissue, which actually begins to shrink, eventually
+
+69
+00:06:11,520 --> 00:06:15,200
+ reaching that normal adult size.
+
+70
+00:06:15,200 --> 00:06:21,120
+ So Scammons is one way, and we also have distant and velocity human growth curves to represent
+
+71
+00:06:21,120 --> 00:06:22,120
+ growth over time.
+
+72
+00:06:22,120 --> 00:06:25,560
+ So let's look at the distance curve first.
+
+73
+00:06:25,560 --> 00:06:30,680
+ Now pediatricians often keep track of their patient's growth with charts.
+
+74
+00:06:30,680 --> 00:06:34,760
+ The patient will stand against the wall, mark how tall they are, and that's your distance
+
+75
+00:06:34,760 --> 00:06:36,960
+ curve in black.
+
+76
+00:06:36,960 --> 00:06:42,760
+ It's showing how much size you've accumulated over time.
+
+77
+00:06:42,760 --> 00:06:46,120
+ So that's never really going to go down, it's only going to increase.
+
+78
+00:06:46,120 --> 00:06:51,800
+ The velocity curve in gray shows the rate of growth.
+
+79
+00:06:51,800 --> 00:06:57,040
+ So if you remember in physics, it's showing the slope of the distance curve.
+
+80
+00:06:57,040 --> 00:07:03,720
+ So if you have a big increase in a high slope in the beginning, that high slope is going
+
+81
+00:07:03,720 --> 00:07:08,160
+ to be indicated by the velocity curve being way up here.
+
+82
+00:07:08,160 --> 00:07:15,240
+ And then as that growth starts to taper off, our velocity curve shows that as well.
+
+83
+00:07:15,240 --> 00:07:23,120
+ And then once we get to that growth spurt at around 12, 13, 14, we can see an acceleration
+
+84
+00:07:23,120 --> 00:07:29,560
+ in growth and how the velocity increases to show that what's happening on the distance
+
+85
+00:07:29,560 --> 00:07:30,560
+ curve.
+
+86
+00:07:30,560 --> 00:07:36,320
+ So the distance curve tracks actual height each year while the velocity curve tracks the
+
+87
+00:07:36,320 --> 00:07:46,440
+ change in height which allows you to more easily observe growth velocity like the growth spurt.
+
+88
+00:07:46,440 --> 00:07:51,400
+ So these are specific velocity curves for boys and girls.
+
+89
+00:07:51,400 --> 00:07:59,120
+ And it shows that girls hit their growth spurt earlier and mature earlier than boys do in
+
+90
+00:07:59,120 --> 00:08:00,320
+ general.
+
+91
+00:08:00,320 --> 00:08:04,800
+ And boys mature more and later on in their lifetime.
+
+92
+00:08:04,800 --> 00:08:09,280
+ So the average peak growth for girls is at around age 12.
+
+93
+00:08:09,280 --> 00:08:15,160
+ That peak growth time for boys is at around age 14 a little bit later.
+
+94
+00:08:15,160 --> 00:08:21,760
+ Generally, the earlier your peak growth is, that means the shorter duration that growth
+
+95
+00:08:21,760 --> 00:08:27,120
+ spurt will be and the less overall growth that you will see.
+
+96
+00:08:27,120 --> 00:08:32,480
+ So we looked at some growth patterns and we talked about some of the things that happen
+
+97
+00:08:32,480 --> 00:08:36,920
+ with specific tissues and humans and boys and girls.
+
+98
+00:08:36,920 --> 00:08:40,440
+ Now let's talk more about timing of growth.
+
+99
+00:08:40,440 --> 00:08:44,920
+ So there are a number of different things you can go off of to determine how mature someone
+
+100
+00:08:44,920 --> 00:08:45,920
+ is.
+
+101
+00:08:45,920 --> 00:08:51,520
+ The easiest thing would be to go up their chronologic age because everybody knows their age.
+
+102
+00:08:51,520 --> 00:08:58,040
+ But that's often not a good indicator of maturity because there's variability.
+
+103
+00:08:58,040 --> 00:09:01,360
+ Some people mature early, some people mature late.
+
+104
+00:09:01,360 --> 00:09:07,040
+ So we have other things to help us judge just how mature that person is.
+
+105
+00:09:07,040 --> 00:09:09,400
+ One of those things is dental age.
+
+106
+00:09:09,400 --> 00:09:15,600
+ And this is based on their state of dental development, how many primary teeth they have,
+
+107
+00:09:15,600 --> 00:09:20,600
+ how many primary teeth have exfoliated, how many permanent teeth have come in.
+
+108
+00:09:20,600 --> 00:09:25,560
+ But this is unfortunately a pretty poor indicator of maturity.
+
+109
+00:09:25,560 --> 00:09:31,400
+ The next thing we have is skeletal age, and this can be measured by two methods.
+
+110
+00:09:31,400 --> 00:09:39,160
+ One of them is the CVM staging, which is the cervical vertebral maturation.
+
+111
+00:09:39,160 --> 00:09:46,560
+ So you take a cephalometric x-ray, you look at how their cervical vertebrae are shaped
+
+112
+00:09:46,560 --> 00:09:51,120
+ on that cephalometric, and that gives you an indication of how mature that individual
+
+113
+00:09:51,120 --> 00:09:52,840
+ might be.
+
+114
+00:09:52,840 --> 00:09:58,440
+ The other popular method is not as popular in any more, it is called the hand-risk method,
+
+115
+00:09:58,440 --> 00:10:04,680
+ where you take an actual x-ray of that person's hand and you can look at the finger bones
+
+116
+00:10:04,680 --> 00:10:09,360
+ and the wrist bones and see how those are developing to determine someone's maturity.
+
+117
+00:10:09,360 --> 00:10:13,920
+ This is a better indicator of maturity, but not the best.
+
+118
+00:10:13,920 --> 00:10:21,160
+ So biologic or developmental age is based on certain markers of maturation, like we can
+
+119
+00:10:21,160 --> 00:10:28,280
+ see here, menarchy or first menstruation, which occurs just after the peak velocity
+
+120
+00:10:28,280 --> 00:10:29,280
+ of growth.
+
+121
+00:10:29,280 --> 00:10:35,880
+ Also, you can go off secondary sex characteristics like facial hair, and this is the best indicator
+
+122
+00:10:35,880 --> 00:10:40,080
+ of an individual's growth status and maturity.
+
+123
+00:10:40,080 --> 00:10:43,960
+ So we kind of go from worst to best in this list.
+
+124
+00:10:43,960 --> 00:10:49,880
+ All right, so now let's talk about how does growth actually happen.
+
+125
+00:10:49,880 --> 00:10:54,400
+ So we have growth sites, and we have growth centers.
+
+126
+00:10:54,400 --> 00:10:59,280
+ So a site is any area where growth is occurring.
+
+127
+00:10:59,280 --> 00:11:07,040
+ A center is a site of growth, so growth is occurring also at centers, but they also have
+
+128
+00:11:07,040 --> 00:11:11,600
+ the ability to grow independently on their own.
+
+129
+00:11:11,600 --> 00:11:16,280
+ So growth centers kind of have a mind of their own, and they can control their own growth,
+
+130
+00:11:16,280 --> 00:11:21,480
+ and sometimes even control the growth of other growth sites.
+
+131
+00:11:21,480 --> 00:11:27,240
+ As far as craniofacial structures go, most of the things we're going to be talking about
+
+132
+00:11:27,240 --> 00:11:28,440
+ are sites.
+
+133
+00:11:28,440 --> 00:11:33,200
+ The only true growth center is a synchondrosis.
+
+134
+00:11:33,200 --> 00:11:39,000
+ Sutures, surfaces, and the mandibular condyles are all sites.
+
+135
+00:11:39,000 --> 00:11:43,880
+ And we'll talk more about this a little bit later.
+
+136
+00:11:43,880 --> 00:11:48,600
+ So there are two main modes of growth.
+
+137
+00:11:48,600 --> 00:11:55,880
+ The first one is endochondrial ossification, which I equate with interstitial growth.
+
+138
+00:11:55,880 --> 00:12:04,920
+ So this is growth from the inside, and it results in an increase in length of bones.
+
+139
+00:12:04,920 --> 00:12:12,000
+ So we start with an embryonic cartilage model or template that grows first, and is eventually
+
+140
+00:12:12,000 --> 00:12:15,520
+ replaced by bone.
+
+141
+00:12:15,520 --> 00:12:19,360
+ So we have this zone of resting cartilage.
+
+142
+00:12:19,360 --> 00:12:25,400
+ We're looking at an epiphyseal plate here, and the zone of resting cartilage is at the
+
+143
+00:12:25,400 --> 00:12:28,400
+ very end of this bone.
+
+144
+00:12:28,400 --> 00:12:35,240
+ So we're looking at an epiphysis, and this is the very end of that bone.
+
+145
+00:12:35,240 --> 00:12:41,120
+ So the resting cartilage will have these small little chondrocytes, and they're really hard
+
+146
+00:12:41,120 --> 00:12:48,560
+ to see here, but they're just these little tiny condrocyte cells nestled in cartilage.
+
+147
+00:12:48,560 --> 00:12:52,280
+ Then we have this zone of proliferation.
+
+148
+00:12:52,280 --> 00:12:58,800
+ And so we're getting hyperplasia, rapid mitotic division, and it results in these columns of
+
+149
+00:12:58,800 --> 00:13:04,240
+ cells that are parallel with the direction of growth.
+
+150
+00:13:04,240 --> 00:13:08,400
+ And this is contributing to that increase in length.
+
+151
+00:13:08,400 --> 00:13:13,720
+ Then we get to the zone of maturation, where we see hypertrophy.
+
+152
+00:13:13,720 --> 00:13:19,280
+ The cells are starting to get bigger, but the walls of the cells are getting thinner.
+
+153
+00:13:19,280 --> 00:13:26,200
+ Then we get to the zone of calcified cartilage, or calcification, where mineral is deposited,
+
+154
+00:13:26,200 --> 00:13:28,160
+ and the condrocytes are actually destroyed.
+
+155
+00:13:28,160 --> 00:13:33,120
+ You can note that there are kind of outlines that are missing nuclei.
+
+156
+00:13:33,120 --> 00:13:39,280
+ So now we have some dead cells, but with the beginnings of calcification and mineralization.
+
+157
+00:13:39,280 --> 00:13:47,080
+ And then finally, we have the zone of ossification, where these empty spaces are invaded by capillaries
+
+158
+00:13:47,080 --> 00:13:49,680
+ that form centers of ossification.
+
+159
+00:13:49,680 --> 00:13:56,440
+ They dump off these progenitor cells that become osteoblasts that can secrete osteoid, which
+
+160
+00:13:56,440 --> 00:13:59,040
+ eventually becomes bone.
+
+161
+00:13:59,040 --> 00:14:06,480
+ So an endochondrosification bone develops from a pre-existing cartilage model, and it's under
+
+162
+00:14:06,480 --> 00:14:09,720
+ more direct genetic control.
+
+163
+00:14:09,720 --> 00:14:16,560
+ So we see this in epiphyseal plates of long bones, synchondroses of the cranial base,
+
+164
+00:14:16,560 --> 00:14:22,440
+ and also in the condular cartilage of the mandible.
+
+165
+00:14:22,440 --> 00:14:28,440
+ Now the other one here is the intramembranous ossification.
+
+166
+00:14:28,440 --> 00:14:33,640
+ And this I equate with oppositional growth or mesenchymal growth.
+
+167
+00:14:33,640 --> 00:14:41,160
+ And so this is growth from the outside, and it results in an increase in thickness or diameter.
+
+168
+00:14:41,160 --> 00:14:47,920
+ So now we're looking at the sides of the bone, and as you get more circumferential lamella
+
+169
+00:14:47,920 --> 00:14:53,160
+ laid down along the outside, you get more diameter.
+
+170
+00:14:53,160 --> 00:15:00,520
+ And at the same time, bone is being resorbed by osteoclasts in the center, from the inside
+
+171
+00:15:00,520 --> 00:15:02,400
+ in the medullary cavity.
+
+172
+00:15:02,400 --> 00:15:07,600
+ So the bone growth stays proportional throughout childhood and adolescence.
+
+173
+00:15:07,600 --> 00:15:14,000
+ So here osteoblasts are secreting their osteoid matrix directly within the connective tissue
+
+174
+00:15:14,000 --> 00:15:20,240
+ lining, and then it calcifies without any intermediate cartilage at all.
+
+175
+00:15:20,240 --> 00:15:27,280
+ So here bone develops from fibrous connective tissue, and it's influenced more from environmental
+
+176
+00:15:27,280 --> 00:15:29,680
+ forces like stresses.
+
+177
+00:15:29,680 --> 00:15:35,760
+ So this is what happens at your sutures or on the surfaces of the cranial vault, the
+
+178
+00:15:35,760 --> 00:15:39,040
+ maxilla, and other craniofacial structures.
+
+179
+00:15:39,040 --> 00:15:43,040
+ So we'll talk more about those specifics in a little bit, but I just wanted to lay the
+
+180
+00:15:43,040 --> 00:15:50,440
+ foundation for endochondral, which you can kind of piece apart to mean within cartilage
+
+181
+00:15:50,440 --> 00:15:53,360
+ and intermembranous within the membrane.
+
+182
+00:15:53,360 --> 00:16:00,520
+ Those are two big, the two big modes of bone growth.
+
+183
+00:16:00,520 --> 00:16:07,320
+ Now there are three different mechanisms that have been proposed for growth, and no one theory
+
+184
+00:16:07,320 --> 00:16:10,920
+ explains all of craniofacial growth control.
+
+185
+00:16:10,920 --> 00:16:15,960
+ So we kind of have to consider all three of these working in concert.
+
+186
+00:16:15,960 --> 00:16:19,560
+ So Harry Sitcher came up with the suture theory.
+
+187
+00:16:19,560 --> 00:16:27,960
+ This is where direct genetic control determines how bone is going to grow, and bone will determine
+
+188
+00:16:27,960 --> 00:16:35,200
+ its own growth, and sutures act as growth centers that push stuff apart.
+
+189
+00:16:35,200 --> 00:16:42,000
+ This one is mostly debunked as false, because we know that the growing brain pushes skull
+
+190
+00:16:42,000 --> 00:16:46,920
+ bones apart, and new bone is laid down at the sutures in response.
+
+191
+00:16:46,920 --> 00:16:53,240
+ So sutures aren't really -- they're more so reactive, they're not really proactive.
+
+192
+00:16:53,240 --> 00:16:59,920
+ So their growth sites, they're not growth centers, as Harry Sitcher pointed out.
+
+193
+00:16:59,920 --> 00:17:05,240
+ The James Scott came up with the cartilage theory, and this posits that epigenetic growth
+
+194
+00:17:05,240 --> 00:17:10,960
+ control has cartilage pushing and pulling stuff apart.
+
+195
+00:17:10,960 --> 00:17:16,760
+ So in the cartilage theory, cartilage is the growth center that determines growth,
+
+196
+00:17:16,760 --> 00:17:20,160
+ and bone simply follows along.
+
+197
+00:17:20,160 --> 00:17:23,040
+ Now this one definitely has some truth to it.
+
+198
+00:17:23,040 --> 00:17:29,760
+ If we look at this example of a condler fracture, condler fractures usually happen on the condler
+
+199
+00:17:29,760 --> 00:17:35,920
+ neck, on the side opposite to the side of impact, and then that disconnected condyle
+
+200
+00:17:35,920 --> 00:17:45,040
+ gets pulled away, it gets absorbed, and then 75% of the time it regenerates, and 25% of
+
+201
+00:17:45,040 --> 00:17:50,080
+ the time it doesn't, leading to growth problems like jaw asymmetry.
+
+202
+00:17:50,080 --> 00:17:56,320
+ But how could it regenerate by itself if it didn't have some kind of intrinsic control?
+
+203
+00:17:56,320 --> 00:18:03,520
+ So perhaps there is some truth that cartilage has some intrinsic growth potential.
+
+204
+00:18:03,520 --> 00:18:09,400
+ And then Melvin Moss came up with the functional matrix theory, and this is where this is governed
+
+205
+00:18:09,400 --> 00:18:11,880
+ by environmental growth control.
+
+206
+00:18:11,880 --> 00:18:18,960
+ So chewing, speaking, and other functions cause the nasal and oral cavities to get bigger,
+
+207
+00:18:18,960 --> 00:18:25,360
+ which serve as the primary determinants of growth for the maxilla and the mandible.
+
+208
+00:18:25,360 --> 00:18:33,320
+ So here the soft tissue matrix determines growth, and bone and cartilage follow that.
+
+209
+00:18:33,320 --> 00:18:37,960
+ So there's really good evidence for this, and it's what we use before to disprove the
+
+210
+00:18:37,960 --> 00:18:44,400
+ suture theory, that the growing brain, which is a soft tissue, pushes those skull bones
+
+211
+00:18:44,400 --> 00:18:50,960
+ apart, and the sutures are reacting to that pressure and laying down bone between those
+
+212
+00:18:50,960 --> 00:18:53,360
+ skull bones.
+
+213
+00:18:53,360 --> 00:18:59,920
+ So all three theories, even though suture theory is mostly disproved, work in concert
+
+214
+00:18:59,920 --> 00:19:07,760
+ to describe the different mechanisms by which the craniofacial structures grow.
+
+215
+00:19:07,760 --> 00:19:13,440
+ So some pretty cool stuff, and here are the five main regions of the cranium in face.
+
+216
+00:19:13,440 --> 00:19:22,120
+ We have the cranial vault, the cranial base, the nasomaxillary complex, the mandible, and
+
+217
+00:19:22,120 --> 00:19:27,560
+ then the two dentoalveolar processes supporting the teeth, and we'll go through how each
+
+218
+00:19:27,560 --> 00:19:32,920
+ of those grows specifically.
+
+219
+00:19:32,920 --> 00:19:38,880
+ So the cranial vault is the top part of the skull that encases the brain.
+
+220
+00:19:38,880 --> 00:19:47,920
+ At birth, the cranial bones are widely separated by this loose connective tissue called fontanels.
+
+221
+00:19:47,920 --> 00:19:53,440
+ So these wide spaces enable delivery of the baby through the birth canal.
+
+222
+00:19:53,440 --> 00:20:00,600
+ Now, bone is laid down along the membranes of these bones, and that eventually will shrink
+
+223
+00:20:00,600 --> 00:20:04,040
+ down these spaces, at which point they're called sutures.
+
+224
+00:20:04,040 --> 00:20:10,160
+ So sutures are thinner spaces that separate the cranial bones in childhood, adolescence,
+
+225
+00:20:10,160 --> 00:20:14,200
+ and then they eventually fuse later in adult life.
+
+226
+00:20:14,200 --> 00:20:20,000
+ So as the brain grows, these cranial bones are being pushed apart.
+
+227
+00:20:20,000 --> 00:20:25,800
+ And so in order to keep this space from opening wider and wider, new bone is being laid down
+
+228
+00:20:25,800 --> 00:20:31,560
+ along these membranes, and that will occur at these sutures.
+
+229
+00:20:31,560 --> 00:20:36,680
+ So this is an example of intermembranous ossification.
+
+230
+00:20:36,680 --> 00:20:42,120
+ Intermembranous results in an increase in diameter, so the entire skull is getting wider
+
+231
+00:20:42,120 --> 00:20:48,440
+ and wider, and the bone will be filling in at the fontanels and sutures to keep up with
+
+232
+00:20:48,440 --> 00:20:50,400
+ the growing brain.
+
+233
+00:20:50,400 --> 00:20:57,840
+ But also, you have direct apposition of bone outside of the skull and resorption or removal
+
+234
+00:20:57,840 --> 00:20:59,960
+ of bone from the inside.
+
+235
+00:20:59,960 --> 00:21:04,080
+ So if we go back to this image, you can imagine that in addition to what's happening at the
+
+236
+00:21:04,080 --> 00:21:11,200
+ sutures, new bone is being laid down at the outside, which we call apposition, and bone
+
+237
+00:21:11,200 --> 00:21:16,880
+ is being removed from the inside, which is called resorption.
+
+238
+00:21:16,880 --> 00:21:22,080
+ So we're getting intermembranous ossification not only at the sutures, but also at the surfaces
+
+239
+00:21:22,080 --> 00:21:24,400
+ as well.
+
+240
+00:21:24,400 --> 00:21:31,840
+ The cranial base consists of the ethmoid, sphenoid, and occipital bones at the base of
+
+241
+00:21:31,840 --> 00:21:32,840
+ the skull.
+
+242
+00:21:32,840 --> 00:21:35,720
+ Now these three bones are initially cartilage.
+
+243
+00:21:35,720 --> 00:21:43,000
+ They're part of the chondro cranium in the fetus, and they later transform into bone.
+
+244
+00:21:43,000 --> 00:21:50,360
+ Now we're left, though, with three bands of cartilage that stick around that are important
+
+245
+00:21:50,360 --> 00:21:55,640
+ growth centers called synchondroses.
+
+246
+00:21:55,640 --> 00:22:02,680
+ So each synchondrosus acts like a two-sided epiphyseal plate that we saw before, so you
+
+247
+00:22:02,680 --> 00:22:10,440
+ can imagine that there's this really tiny thin zone of resting cartilage in the center,
+
+248
+00:22:10,440 --> 00:22:17,400
+ and then maturing cartilage is being pushed out in either direction in order to expand
+
+249
+00:22:17,400 --> 00:22:19,680
+ the bone at that zone.
+
+250
+00:22:19,680 --> 00:22:26,760
+ So these bones are being literally split apart from each other by the synchondrosus, which
+
+251
+00:22:26,760 --> 00:22:33,400
+ continues to grow and increases the length of this structure.
+
+252
+00:22:33,400 --> 00:22:38,560
+ So this is, of course, an example of endocondrel ossification, because we're dealing with a
+
+253
+00:22:38,560 --> 00:22:41,080
+ cartilage model.
+
+254
+00:22:41,080 --> 00:22:45,000
+ The intersphenoid synchondrosus will fuse and close first.
+
+255
+00:22:45,000 --> 00:22:52,840
+ It's about inactive at by age three, sphenoid ethmoid by age seven, and spheno occipital
+
+256
+00:22:52,840 --> 00:22:59,000
+ is the last one to become inactive.
+
+257
+00:22:59,000 --> 00:23:00,640
+ Next let's talk about the maxilla.
+
+258
+00:23:00,640 --> 00:23:10,200
+ So growth occurs at the sutures, posterior and superior to the nasomexillary complex
+
+259
+00:23:10,200 --> 00:23:16,360
+ at its connections to the cranial vault and the cranial base.
+
+260
+00:23:16,360 --> 00:23:25,040
+ So this area right here is this cranial base that we looked at right here.
+
+261
+00:23:25,040 --> 00:23:29,960
+ It's kind of like a mid sagittal slice of the skull, and that's that component right
+
+262
+00:23:29,960 --> 00:23:30,960
+ there.
+
+263
+00:23:30,960 --> 00:23:35,400
+ The cranial vault is, of course, this part right here.
+
+264
+00:23:35,400 --> 00:23:42,880
+ And so we're getting a position of bone at these sutures, because soft tissue, that's
+
+265
+00:23:42,880 --> 00:23:50,440
+ the nasal and oral cavities which are expanding, are pulling this maxilla downward and forward
+
+266
+00:23:50,440 --> 00:23:53,960
+ away from the cranial base.
+
+267
+00:23:53,960 --> 00:24:02,640
+ Simultaneously, there's also surface remodeling that includes resorption of bone anteriorly,
+
+268
+00:24:02,640 --> 00:24:10,660
+ an opposition of bone inferiorly at the palate, and then also at the alveolar ridges as the
+
+269
+00:24:10,660 --> 00:24:12,800
+ teeth erupt down.
+
+270
+00:24:12,800 --> 00:24:19,880
+ There's also addition of bone at the tuberosity posteriorly to make room for the second and
+
+271
+00:24:19,880 --> 00:24:22,720
+ third molars.
+
+272
+00:24:22,720 --> 00:24:27,640
+ So the ultimate result of all of this is a downward and forward translation of the maxilla
+
+273
+00:24:27,640 --> 00:24:31,520
+ away from the cranial base.
+
+274
+00:24:31,520 --> 00:24:34,000
+ The mandible has some interesting steps to it.
+
+275
+00:24:34,000 --> 00:24:42,960
+ So it develops in the embryo just lateral to the cartilage of the first pharyngeal arch,
+
+276
+00:24:42,960 --> 00:24:46,520
+ which is called meckles cartilage.
+
+277
+00:24:46,520 --> 00:24:51,000
+ But the confusing part is that this is not endocondrel growth.
+
+278
+00:24:51,000 --> 00:24:54,960
+ So meckles cartilage isn't being replaced by bone.
+
+279
+00:24:54,960 --> 00:25:03,320
+ And the mandible, which is here, just happens to be created intermembranously right next
+
+280
+00:25:03,320 --> 00:25:05,600
+ to it.
+
+281
+00:25:05,600 --> 00:25:12,800
+ So meckles cartilage actually will disintegrate and contribute to the malleus, anchus, and
+
+282
+00:25:12,800 --> 00:25:15,120
+ sphenomandibular ligament.
+
+283
+00:25:15,120 --> 00:25:21,600
+ Now meanwhile, while this is going on, we have the condler cartilage, which develops
+
+284
+00:25:21,600 --> 00:25:31,120
+ independently and later fuses with the developing mandibular ramus at about four months in utero.
+
+285
+00:25:31,120 --> 00:25:35,440
+ So here we have the condler cartilage.
+
+286
+00:25:35,440 --> 00:25:40,840
+ And here is the part that we were looking at right over here.
+
+287
+00:25:40,840 --> 00:25:49,240
+ So although the cone-shaped cartilage is replaced by bone eventually, its upper end will persist
+
+288
+00:25:49,240 --> 00:25:52,400
+ as a site for growth.
+
+289
+00:25:52,400 --> 00:25:58,400
+ That condler cartilage we will see in the next slide.
+
+290
+00:25:58,400 --> 00:26:06,960
+ So that mandibular condler cartilage proliferates and is transformed into bone as the mandible
+
+291
+00:26:06,960 --> 00:26:13,040
+ grows downward and forward, again away from the cranial base.
+
+292
+00:26:13,040 --> 00:26:19,920
+ So both jaws are being moved downward and forward, but by totally different modes or
+
+293
+00:26:19,920 --> 00:26:20,920
+ mechanisms.
+
+294
+00:26:20,920 --> 00:26:27,520
+ And this creates a gap between the two jaws into which the teeth can erupt.
+
+295
+00:26:27,520 --> 00:26:33,680
+ Now in addition to this endochondral ossification occurring at the condler cartilage, we're
+
+296
+00:26:33,680 --> 00:26:40,360
+ also getting surface opposition, which occurs along the posterior surface of the ramus to
+
+297
+00:26:40,360 --> 00:26:44,440
+ try to match and keep up with what the condyle is doing.
+
+298
+00:26:44,440 --> 00:26:53,400
+ You also get some opposition at the coronoid process as well as a little bit at the chin.
+
+299
+00:26:53,400 --> 00:26:59,040
+ Surface resorption occurs along the anterior surface of the ramus, which makes room for
+
+300
+00:26:59,040 --> 00:27:05,720
+ the second and the third molars to erupt, which is opposite with what was happening at
+
+301
+00:27:05,720 --> 00:27:12,680
+ the maxilla where we had a position to give room for the second and third molars.
+
+302
+00:27:12,680 --> 00:27:18,360
+ Whereas here we have to take bone away in order to free up a row for those second and
+
+303
+00:27:18,360 --> 00:27:21,800
+ third molars to erupt.
+
+304
+00:27:21,800 --> 00:27:30,440
+ Now just like the maxilla, you also get alveolar bone growth vertically as the teeth erupt
+
+305
+00:27:30,440 --> 00:27:33,880
+ into position.
+
+306
+00:27:33,880 --> 00:27:42,200
+ So we're getting in the mandible a mix of endochondral ossification and intermembranous
+
+307
+00:27:42,200 --> 00:27:44,120
+ ossification.
+
+308
+00:27:44,120 --> 00:27:52,400
+ Now as the mandible grows, it can stay at the same angle or it can tend to rotate because
+
+309
+00:27:52,400 --> 00:27:55,280
+ it has this axis at the condyle.
+
+310
+00:27:55,280 --> 00:28:03,840
+ So it can either rotate open in this direction or closed in this direction.
+
+311
+00:28:03,840 --> 00:28:10,360
+ So an average growth rotation is where the condler growth roughly is equal to the amount
+
+312
+00:28:10,360 --> 00:28:12,320
+ of molar eruption.
+
+313
+00:28:12,320 --> 00:28:19,300
+ So the mandible truly just grows downward and forward at roughly the same orientation as
+
+314
+00:28:19,300 --> 00:28:21,760
+ you can see here.
+
+315
+00:28:21,760 --> 00:28:30,080
+ Now if we have a closing rotation or counterclockwise growth, that means that the growth of the
+
+316
+00:28:30,080 --> 00:28:38,060
+ condyle is greatly exceeding the amount of molar eruption that we're seeing.
+
+317
+00:28:38,060 --> 00:28:47,400
+ So that would lead to a shorter, lower anterior face height and a skeletal deep bite tendency.
+
+318
+00:28:47,400 --> 00:28:52,800
+ The opposite is opening rotation or clockwise growth.
+
+319
+00:28:52,800 --> 00:28:59,600
+ This is where the condyl or growth is less than the amount of molar eruption leading to
+
+320
+00:28:59,600 --> 00:29:08,640
+ a long anterior face height and skeletal anterior open bite tendency.
+
+321
+00:29:08,640 --> 00:29:12,360
+ So here's a summary of everything that we talked about.
+
+322
+00:29:12,360 --> 00:29:20,600
+ The cranial vault, and we'll kind of focus mostly on this row here, mesenchymal is synonymous
+
+323
+00:29:20,600 --> 00:29:22,480
+ with intermembranous.
+
+324
+00:29:22,480 --> 00:29:27,840
+ So we're seeing intermembranous growth at the sutures in the surfaces, because there's
+
+325
+00:29:27,840 --> 00:29:31,080
+ no cartilage in the cranial vault.
+
+326
+00:29:31,080 --> 00:29:35,520
+ The cranial base, we see endocondral growth at the synchondroses.
+
+327
+00:29:35,520 --> 00:29:41,800
+ We also have a nominal amount of intermembranous growth that happens laterally to make the cranial
+
+328
+00:29:41,800 --> 00:29:45,600
+ base grow wider, but don't worry too much about that part.
+
+329
+00:29:45,600 --> 00:29:52,200
+ The maxilla has purely intermembranous growth that's at both sutures and the surfaces directly
+
+330
+00:29:52,200 --> 00:29:54,920
+ – again, no cartilage here.
+
+331
+00:29:54,920 --> 00:30:01,800
+ And the mandible, we mostly get intermembranous growth at its surfaces, but we're also getting
+
+332
+00:30:01,800 --> 00:30:06,880
+ endocondral growth at that condyle, which is pushing that mandible downward and forward,
+
+333
+00:30:06,880 --> 00:30:11,200
+ which is a very important growth mechanism.
+
+334
+00:30:11,200 --> 00:30:16,240
+ And of course, there are no sutures in the mandible, so that intermembranous growth is
+
+335
+00:30:16,240 --> 00:30:20,120
+ purely at the surfaces.
+
+336
+00:30:20,120 --> 00:30:24,420
+ The last high yield fact that I want to cover is a general trend.
+
+337
+00:30:24,420 --> 00:30:28,760
+ Now we talked about all the different regions of the cranium in the face, and each of those
+
+338
+00:30:28,760 --> 00:30:32,880
+ skull bones exists in three planes of space.
+
+339
+00:30:32,880 --> 00:30:39,160
+ There's width, length, and height, or more commonly referred to as transverse, anterior
+
+340
+00:30:39,160 --> 00:30:42,640
+ posterior, or AP, and vertical.
+
+341
+00:30:42,640 --> 00:30:45,600
+ And these will come up all throughout the series.
+
+342
+00:30:45,600 --> 00:30:53,760
+ But generally, the transverse dimension stops growing first at around age 10 to 12, then
+
+343
+00:30:53,760 --> 00:31:03,000
+ AP at 14 to 16, and finally vertical at 18 to 20, or even further on into later adult
+
+344
+00:31:03,000 --> 00:31:04,000
+ life.
+
+345
+00:31:04,000 --> 00:31:09,720
+ There are exceptions to this, but this is the general overarching trend that drives many
+
+346
+00:31:09,720 --> 00:31:15,560
+ treatment decisions that we'll cover later in the series.
+
+347
+00:31:15,560 --> 00:31:20,280
+ So that's it for this video, thank you so much for watching, please like this video if
+
+348
+00:31:20,280 --> 00:31:25,640
+ you enjoyed it, and consider subscribing to this channel for more on dentistry.
+
+349
+00:31:25,640 --> 00:31:29,920
+ If you're interested in supporting this channel and what I do, please check out my Patreon
+
+350
+00:31:29,920 --> 00:31:35,120
+ page, a huge thank you to all of my patrons for all of their support.
+
+351
+00:31:35,120 --> 00:31:40,120
+ You can unlock extras like access to my video slides to take notes on, and practice questions
+
+352
+00:31:40,120 --> 00:31:42,960
+ for the board exams with explained answers.
+
+353
+00:31:42,960 --> 00:31:46,120
+ So go check that out, the link is in the description.
+
+354
+00:31:46,120 --> 00:31:49,080
+ Thanks again for watching everyone, I'll see you in the next video.
+

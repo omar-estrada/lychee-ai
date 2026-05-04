@@ -1,0 +1,1804 @@
+1
+00:00:00,000 --> 00:00:07,480
+ Hey everyone, Ryan here and welcome back to our orthodontic series.
+
+2
+00:00:07,480 --> 00:00:13,760
+ So you may have noticed that we have a diagnosis and treatment planning video in most of our
+
+3
+00:00:13,760 --> 00:00:17,640
+ series for the different topics of the clinical board exam.
+
+4
+00:00:17,640 --> 00:00:22,640
+ And that's on purpose because it's really a staple in the health professions.
+
+5
+00:00:22,640 --> 00:00:27,840
+ We figure out what the problem is, we plan out how to fix it, and then we do our best
+
+6
+00:00:27,840 --> 00:00:29,080
+ to fix it.
+
+7
+00:00:29,080 --> 00:00:33,060
+ And that's what diagnosis and treatment planning is all about.
+
+8
+00:00:33,060 --> 00:00:36,960
+ In orthodontics though, it looks a little bit different.
+
+9
+00:00:36,960 --> 00:00:42,720
+ So the full name of this specialty is orthodontics and dentofacial orthopedics.
+
+10
+00:00:42,720 --> 00:00:48,380
+ So it's not only about straightening teeth, but also correcting malformations of the face.
+
+11
+00:00:48,380 --> 00:00:55,760
+ So it really boils down to bare basics, broad spectrum, both the teeth and the face.
+
+12
+00:00:55,760 --> 00:01:01,200
+ Dr. Profit, Dr. Ackerman, and Dr. Sarver are known for redefining what orthodontics
+
+13
+00:01:01,200 --> 00:01:06,380
+ was all about in the context of the soft tissue paradigm.
+
+14
+00:01:06,380 --> 00:01:12,560
+ So the objectives of orthodontic treatment under this paradigm can be viewed as macroesthetics,
+
+15
+00:01:12,560 --> 00:01:19,020
+ a beautiful face, miniesthetics, a beautiful smile, and microesthetics zooming all the
+
+16
+00:01:19,020 --> 00:01:22,320
+ way in for beautiful teeth.
+
+17
+00:01:22,320 --> 00:01:28,440
+ Now, Dr. Ackerman and Dr. Profit went even further to represent five major characteristics
+
+18
+00:01:28,440 --> 00:01:32,120
+ of an orthodontic patient via a Venn diagram.
+
+19
+00:01:32,120 --> 00:01:35,560
+ So let's unpack what this is talking about.
+
+20
+00:01:35,560 --> 00:01:41,680
+ When diagnosing a patient, we can place our findings into these five categories, facial
+
+21
+00:01:41,680 --> 00:01:49,240
+ proportions and aesthetics, alignment and symmetry, transverse, anterior, which I'll
+
+22
+00:01:49,240 --> 00:01:53,440
+ be referring to as AP for short and vertical.
+
+23
+00:01:53,440 --> 00:01:59,800
+ Now I would normally go through each one of these in more detail one at a time, but it
+
+24
+00:01:59,800 --> 00:02:04,800
+ was challenging putting this material together because there's so much overlap among these
+
+25
+00:02:04,800 --> 00:02:10,080
+ five categories as you can see in the Venn diagram.
+
+26
+00:02:10,080 --> 00:02:15,160
+ They are not clean cut categories, so instead keep these in the back of your mind and as
+
+27
+00:02:15,160 --> 00:02:21,280
+ we go through the steps of an orthodontic exam, we'll fit things among one or more of
+
+28
+00:02:21,280 --> 00:02:23,680
+ these categories.
+
+29
+00:02:23,680 --> 00:02:28,920
+ So remember we said before that orthodontics is all about the teeth and the face, and so
+
+30
+00:02:28,920 --> 00:02:36,080
+ if we really boil it down to the bare basics, our exam is focused on the teeth as part of
+
+31
+00:02:36,080 --> 00:02:40,280
+ an intraoral exam and the face as part of an extra oral exam.
+
+32
+00:02:40,280 --> 00:02:47,080
+ Then we also get some additional information from radiographs, particularly the cephalometric.
+
+33
+00:02:47,080 --> 00:02:51,600
+ So let's go through each one of these one at a time.
+
+34
+00:02:51,600 --> 00:02:54,840
+ So let's start with the teeth.
+
+35
+00:02:54,840 --> 00:03:00,880
+ So malocclusion is a very broad term, it refers to a bad bite.
+
+36
+00:03:00,880 --> 00:03:06,080
+ Malocclusion is not a disease, but a variation from what is considered ideal.
+
+37
+00:03:06,080 --> 00:03:12,080
+ Now one of the most common factors of a malocclusion is some element of crowding.
+
+38
+00:03:12,080 --> 00:03:18,160
+ The teeth being bunched up together like people in a crowd instead of straight along a nice
+
+39
+00:03:18,160 --> 00:03:19,160
+ arc.
+
+40
+00:03:19,160 --> 00:03:24,840
+ 15% of adolescents and adults have severe crowding, much more than that are going to have some
+
+41
+00:03:24,840 --> 00:03:32,720
+ degree of mild to moderate crowding, and then some percentage of the population has spacing.
+
+42
+00:03:32,720 --> 00:03:39,440
+ And we talked in the last video about crowding being a math problem between two size and
+
+43
+00:03:39,440 --> 00:03:41,120
+ arch size.
+
+44
+00:03:41,120 --> 00:03:48,080
+ And we can think of it in the context of etiology that crowding carries a genetic predisposition.
+
+45
+00:03:48,080 --> 00:03:55,480
+ There's some genetic predisposition to a discrepancy between two size and arch size.
+
+46
+00:03:55,480 --> 00:04:03,840
+ For etiology specifics, malocclusion has an unknown cause in about 60% of cases.
+
+47
+00:04:03,840 --> 00:04:10,160
+ The known cause is only in 5% of cases, and then that leaves 30% to 35% of the population
+
+48
+00:04:10,160 --> 00:04:13,320
+ with a normal occlusion.
+
+49
+00:04:13,320 --> 00:04:20,960
+ So if we move to the Edward-Angle molar classification, we have four main categories here.
+
+50
+00:04:20,960 --> 00:04:29,480
+ So the first is normal class 1 occlusion, that's at 30% to 35% we saw in the last slide.
+
+51
+00:04:29,480 --> 00:04:39,280
+ A normal class 1 occlusion in the angle classification means that the mesial buccal cusp of the maxillary
+
+52
+00:04:39,280 --> 00:04:47,320
+ first molar occludes with the mesial buccal groove of the mandibular first molar, and
+
+53
+00:04:47,320 --> 00:04:55,080
+ the teeth are aligned along this line of occlusion that goes for both the maxillary and the mandibular
+
+54
+00:04:55,080 --> 00:04:57,520
+ arches.
+
+55
+00:04:57,520 --> 00:05:03,760
+ For a class 1 maloclusion, which is the most common one up here, we have that same angle
+
+56
+00:05:03,760 --> 00:05:10,520
+ class 1 molar relationship where that mesial buccal cusp occludes with the buccal groove
+
+57
+00:05:10,520 --> 00:05:17,560
+ of the lower molar, but this time the teeth don't align along that line of occlusion
+
+58
+00:05:17,560 --> 00:05:25,560
+ and there's some amount of crowding, or perhaps spacing, some misalignment, rotated teeth,
+
+59
+00:05:25,560 --> 00:05:27,400
+ etc.
+
+60
+00:05:27,400 --> 00:05:34,520
+ For a class 2 maloclusion, that means that the upper molar is too far forward and/or
+
+61
+00:05:34,520 --> 00:05:37,480
+ the lower molar is too far back.
+
+62
+00:05:37,480 --> 00:05:44,480
+ Another way to think about it is that the maxillary arch is displaced measly or anteriorly.
+
+63
+00:05:44,480 --> 00:05:51,920
+ The teeth may or may not be incorrectly aligned, even if they were perfectly straight and this
+
+64
+00:05:51,920 --> 00:05:57,520
+ was the molar relationship, we would call it a class 2 occlusion.
+
+65
+00:05:57,520 --> 00:06:04,240
+ Now we have subdivision 1 and subdivision 2 for the class 2 maloclusions.
+
+66
+00:06:04,240 --> 00:06:10,560
+ And 1 means that the upper incisors are flared forward or proclined.
+
+67
+00:06:10,560 --> 00:06:17,640
+ So these front teeth are either flared like this, they're proclined out, and we usually
+
+68
+00:06:17,640 --> 00:06:24,560
+ have some element of excess over a jet, we'll talk more about that in the next slide.
+
+69
+00:06:24,560 --> 00:06:30,600
+ Subdivision 2 is where the upper incisors are more upright, more like they're pictured
+
+70
+00:06:30,600 --> 00:06:32,720
+ in this image.
+
+71
+00:06:32,720 --> 00:06:38,000
+ They're standing up a little bit straighter, they're retroclined, they're upright.
+
+72
+00:06:38,000 --> 00:06:42,840
+ So in this case you may or may not have this excess over jet in the front, but you will
+
+73
+00:06:42,840 --> 00:06:48,240
+ have some element of excess over bite.
+
+74
+00:06:48,240 --> 00:06:56,000
+ In class 3 maloclusion, the upper molar is too far back and/or the lower molar is too
+
+75
+00:06:56,000 --> 00:06:58,040
+ far forward.
+
+76
+00:06:58,040 --> 00:07:04,060
+ Another way to think about this is that the maxillary arch is displaced posteriorly, again
+
+77
+00:07:04,060 --> 00:07:09,560
+ like class 2, the teeth may or may not be incorrectly aligned.
+
+78
+00:07:09,560 --> 00:07:15,520
+ This is the rarest form of maloclusion of these categories.
+
+79
+00:07:15,520 --> 00:07:20,680
+ So now we can talk about incisor overlap, and I know I've thrown out these terms over jet
+
+80
+00:07:20,680 --> 00:07:27,280
+ and over bite throughout the series, now we finally get to unpack what exactly these mean.
+
+81
+00:07:27,280 --> 00:07:37,400
+ So over jet is defined as the horizontal overlap of incisors measured from the labial surface
+
+82
+00:07:37,400 --> 00:07:43,480
+ of the lower incisor to the labial surface of the upper incisor.
+
+83
+00:07:43,480 --> 00:07:48,760
+ So this image actually doesn't portray this accurately, the arrow should actually be going
+
+84
+00:07:48,760 --> 00:07:51,000
+ all the way up here.
+
+85
+00:07:51,000 --> 00:07:58,760
+ So normally the incisors, or I should say the upper incisors overlap the lower incisors
+
+86
+00:07:58,760 --> 00:08:03,240
+ just by the thickness of their incisal edge.
+
+87
+00:08:03,240 --> 00:08:08,560
+ So if the upper incisor is coupled with or butting up right against this lower incisor
+
+88
+00:08:08,560 --> 00:08:15,800
+ as it should, they're contacting each other, the over jet should be about 2 to 3 millimeters,
+
+89
+00:08:15,800 --> 00:08:22,640
+ which is just this amount, this thickness of the upper incisal edge.
+
+90
+00:08:22,640 --> 00:08:30,160
+ So this image is of course depicting an excess over jet, class 2 incisors, particularly what
+
+91
+00:08:30,160 --> 00:08:34,800
+ we would expect in a subdivision 1 malocclusion.
+
+92
+00:08:34,800 --> 00:08:40,160
+ The opposite of that is called reverse over jet, where the lower incisors are actually
+
+93
+00:08:40,160 --> 00:08:42,760
+ out in front of the upper incisors.
+
+94
+00:08:42,760 --> 00:08:51,080
+ That would be a class 3 incisor relationship, excess is much more prevalent than reverse.
+
+95
+00:08:51,080 --> 00:08:59,800
+ For overbite, that means the vertical overlap of the incisors, this is measured from incisal
+
+96
+00:08:59,800 --> 00:09:04,480
+ edge to incisal edge.
+
+97
+00:09:04,480 --> 00:09:12,520
+ So normally the lower incisors should again contact the lingual surface of the upper incisors
+
+98
+00:09:12,520 --> 00:09:19,440
+ but it should be at or above the singular, so somewhere in this region.
+
+99
+00:09:19,440 --> 00:09:24,600
+ This would create an overbite of about 1 to 2 millimeters.
+
+100
+00:09:24,600 --> 00:09:31,160
+ So this image is showing somewhat of a deep bite, which means we have excess overbite.
+
+101
+00:09:31,160 --> 00:09:37,680
+ The opposite of this is if we have some amount of vertical space between the upper and lower
+
+102
+00:09:37,680 --> 00:09:41,720
+ incisal edges, which is called open bite.
+
+103
+00:09:41,720 --> 00:09:47,920
+ Deep bite is much more prevalent than open bite.
+
+104
+00:09:47,920 --> 00:09:49,920
+ Next we have cross bites.
+
+105
+00:09:49,920 --> 00:09:56,880
+ So the first is anterior cross bite, and this refers to the maxillary anterior teeth being
+
+106
+00:09:56,880 --> 00:10:01,040
+ lingual to the mandibular anterior teeth.
+
+107
+00:10:01,040 --> 00:10:06,680
+ So actually another way to refer to this is reverse over jet, just like we talked about
+
+108
+00:10:06,680 --> 00:10:15,200
+ in the last slide, where those lower incisors are out in front of the upper incisors.
+
+109
+00:10:15,200 --> 00:10:18,620
+ Poster cross bite is a little bit more complex.
+
+110
+00:10:18,620 --> 00:10:27,280
+ This refers to some mismatch in horizontal overlap of the back teeth.
+
+111
+00:10:27,280 --> 00:10:36,280
+ So we know that the upper teeth should sit just outside the bottom teeth, overlapping,
+
+112
+00:10:36,280 --> 00:10:38,960
+ kind of like a lid on a box.
+
+113
+00:10:38,960 --> 00:10:45,880
+ So if we're looking at the upper teeth, those upper molars are configured like this, and
+
+114
+00:10:45,880 --> 00:10:52,520
+ the lower molars should be just inside so that the lingual cusps of the upper molars
+
+115
+00:10:52,520 --> 00:10:57,800
+ are occluding in the central fossa of those lower molars.
+
+116
+00:10:57,800 --> 00:11:03,240
+ Poster cross bite means that this is somehow messed up, and we'll look at those two situations
+
+117
+00:11:03,240 --> 00:11:04,240
+ here.
+
+118
+00:11:04,240 --> 00:11:11,160
+ So lingual posterior cross bite, which is the more typical example when we say posterior
+
+119
+00:11:11,160 --> 00:11:17,880
+ cross bite, is when the maxillary posterior teeth are lingual to the mandibular teeth.
+
+120
+00:11:17,880 --> 00:11:20,520
+ That's what we see in this example.
+
+121
+00:11:20,520 --> 00:11:26,600
+ They're located too far lingual relative to where those mandibular teeth are.
+
+122
+00:11:26,600 --> 00:11:31,680
+ So they still interlock, but they're in the wrong configuration.
+
+123
+00:11:31,680 --> 00:11:37,920
+ The other example of posterior cross bite, which is less common, is buckle posterior
+
+124
+00:11:37,920 --> 00:11:38,920
+ cross bite.
+
+125
+00:11:38,920 --> 00:11:43,440
+ And that's where the maxillary posterior teeth are buckle to the mandibular teeth.
+
+126
+00:11:43,440 --> 00:11:46,160
+ And that's what we see in this example.
+
+127
+00:11:46,160 --> 00:11:48,080
+ So they're completely buckle.
+
+128
+00:11:48,080 --> 00:11:55,040
+ This is sometimes called a brody or a scissor bite where those upper teeth sit fully outside
+
+129
+00:11:55,040 --> 00:12:06,720
+ the lower teeth, and it can be really disrupt normal function with chewing specifically.
+
+130
+00:12:06,720 --> 00:12:10,280
+ So let's talk a little bit about the Bolton analysis.
+
+131
+00:12:10,280 --> 00:12:18,440
+ So this measures tooth size discrepancy by comparing the upper and the lower teeth.
+
+132
+00:12:18,440 --> 00:12:23,880
+ So there are accepted ratios between how wide the top teeth and how wide the bottom teeth
+
+133
+00:12:23,880 --> 00:12:30,240
+ should be relative to each other, in order to get them to fit together properly, again,
+
+134
+00:12:30,240 --> 00:12:36,040
+ to be the upper lid that fits snugly on the lower box.
+
+135
+00:12:36,040 --> 00:12:38,720
+ So we can have two mismatches here.
+
+136
+00:12:38,720 --> 00:12:45,840
+ The teeth can either be too large, and that's usually on the lower arch where teeth are
+
+137
+00:12:45,840 --> 00:12:51,360
+ either the incisors, maybe some premolars, somewhere that teeth are just generally a little
+
+138
+00:12:51,360 --> 00:12:58,440
+ bit too large, and they may require interproximal reduction or IPR.
+
+139
+00:12:58,440 --> 00:13:03,960
+ So this refers to slenderizing the teeth, just a fraction of a millimeter between the
+
+140
+00:13:03,960 --> 00:13:10,640
+ proximal contacts with a strip to gain some miniscule but important amount of space.
+
+141
+00:13:10,640 --> 00:13:14,720
+ Again, that's usually done on the lower incisors.
+
+142
+00:13:14,720 --> 00:13:20,200
+ The teeth can also be too small, and they may require build-ups.
+
+143
+00:13:20,200 --> 00:13:24,120
+ These could be in composite, veneers or crowns.
+
+144
+00:13:24,120 --> 00:13:28,080
+ And the most common example of this are peg laterals.
+
+145
+00:13:28,080 --> 00:13:32,800
+ They don't even have to be quite this small, but they can be just slightly smaller than
+
+146
+00:13:32,800 --> 00:13:39,080
+ normal, and your bulletin analysis where you measure all the mesiodistal widths and compare
+
+147
+00:13:39,080 --> 00:13:45,880
+ them with one another, could reveal that you have small upper lateral incisors, smaller
+
+148
+00:13:45,880 --> 00:13:55,520
+ premolars, and you may want to consider build-ups to fit together properly.
+
+149
+00:13:55,520 --> 00:14:00,240
+ So next, let's talk about the facial exam.
+
+150
+00:14:00,240 --> 00:14:03,360
+ So the face is really interesting.
+
+151
+00:14:03,360 --> 00:14:10,320
+ There are some proportions that we expect in a "ideal configuration."
+
+152
+00:14:10,320 --> 00:14:17,440
+ So we can break the face up into vertical thirds, three roughly equal regions.
+
+153
+00:14:17,440 --> 00:14:26,000
+ The upper third goes from the hairline to the glabella, which is the most prominent part
+
+154
+00:14:26,000 --> 00:14:28,200
+ of the forehead.
+
+155
+00:14:28,200 --> 00:14:33,440
+ The middle third is from glabella to subnasality, which is the point just below the base of
+
+156
+00:14:33,440 --> 00:14:41,400
+ the nose, and the lower third goes from subnasality to menton, which is the bottom of the chin.
+
+157
+00:14:41,400 --> 00:14:47,880
+ Now the measurement of the upper face can often be difficult due to variability in the
+
+158
+00:14:47,880 --> 00:14:54,880
+ hairline, but the good news is we can't change this dimension as orthodontist anyway, so that's
+
+159
+00:14:54,880 --> 00:14:58,920
+ probably the least important of the three.
+
+160
+00:14:58,920 --> 00:15:04,480
+ The most important is, of course, this lower third, asymmetrical growth of the mandible,
+
+161
+00:15:04,480 --> 00:15:08,840
+ will show in the lower third, and this is where we have the most influence.
+
+162
+00:15:08,840 --> 00:15:16,840
+ Ideally, in this lower third, the upper lip area composes the upper third of that lower
+
+163
+00:15:16,840 --> 00:15:23,200
+ third, and the lower lip and chin compose the lower two thirds of that lower facial third.
+
+164
+00:15:23,200 --> 00:15:28,560
+ So we can even break that one further into smaller thirds.
+
+165
+00:15:28,560 --> 00:15:36,520
+ In a horizontal dimension, we can break the face into transverse fifths, so five roughly
+
+166
+00:15:36,520 --> 00:15:40,080
+ equal regions, and this is when it gets really cool.
+
+167
+00:15:40,080 --> 00:15:45,640
+ So the middle fifth goes from inner campus to inner campus.
+
+168
+00:15:45,640 --> 00:15:48,320
+ Campus means corner of the eye.
+
+169
+00:15:48,320 --> 00:15:56,120
+ The medial two fifths go from inner campus to outer campus, so for her right and the left,
+
+170
+00:15:56,120 --> 00:16:02,520
+ then the outer two fifths go from outer campus to the lateral helix of the ear, that outer
+
+171
+00:16:02,520 --> 00:16:11,400
+ most portion of the ear, and then the vertical line from the inner campus point should be
+
+172
+00:16:11,400 --> 00:16:18,080
+ coincident with the outer base, so that's the sides of the nose.
+
+173
+00:16:18,080 --> 00:16:23,840
+ So that line should be coincident with the sides of the nose, which it is in this case,
+
+174
+00:16:23,840 --> 00:16:30,120
+ and not only that, but the vertical line from the outer campus should be coincident with
+
+175
+00:16:30,120 --> 00:16:37,280
+ the gonial angles of the mandible, that part of the corner of the jawline there.
+
+176
+00:16:37,280 --> 00:16:45,840
+ And then the mid-pupillary distance, this is from pupil to pupil, should be the same
+
+177
+00:16:45,840 --> 00:16:54,000
+ distance and perfectly correlated with the commissures or the corners of the mouth.
+
+178
+00:16:54,000 --> 00:16:59,000
+ So if we were to draw lines down from there, they would be coincident with the corners
+
+179
+00:16:59,000 --> 00:17:01,480
+ of the mouth.
+
+180
+00:17:01,480 --> 00:17:10,600
+ So a cool way to remember these transverse fifths is going from right to left, we have
+
+181
+00:17:10,600 --> 00:17:16,520
+ an ear, an eye, the nose, an eye, an ear.
+
+182
+00:17:16,520 --> 00:17:21,280
+ So if you remember an ear, eye, nose, eye, ear, you can probably piece together what
+
+183
+00:17:21,280 --> 00:17:26,760
+ all those fifths are in relationship to each other and to the locations of the face.
+
+184
+00:17:26,760 --> 00:17:34,280
+ So pretty cool, breaking down the face into thirds and fifths.
+
+185
+00:17:34,280 --> 00:17:37,760
+ So next let's talk a little bit about skeletal classification.
+
+186
+00:17:37,760 --> 00:17:43,040
+ So we talked about molar classification, we talked about how the incisors can be related
+
+187
+00:17:43,040 --> 00:17:44,040
+ to each other.
+
+188
+00:17:44,040 --> 00:17:46,960
+ Those were dental classifications.
+
+189
+00:17:46,960 --> 00:17:54,480
+ Now we're talking about skeletal classification and skeletal malclusions, how the jaws are
+
+190
+00:17:54,480 --> 00:17:57,080
+ related to each other.
+
+191
+00:17:57,080 --> 00:18:04,520
+ So in class one, skeletal occlusion, we're talking about the jaws being well related
+
+192
+00:18:04,520 --> 00:18:06,960
+ to n vertical.
+
+193
+00:18:06,960 --> 00:18:12,320
+ This is a vertical line dropped down from nazion, which we'll talk about later in the
+
+194
+00:18:12,320 --> 00:18:15,360
+ video when we get to cephalometrics.
+
+195
+00:18:15,360 --> 00:18:22,600
+ For now, this n vertical line is shown by this vertical red line out in front.
+
+196
+00:18:22,600 --> 00:18:29,080
+ So whereas dental classification has to do with the anterior posterior relationship of
+
+197
+00:18:29,080 --> 00:18:33,360
+ upper teeth to lower teeth, usually for smaller.
+
+198
+00:18:33,360 --> 00:18:39,720
+ Clinical classification has to do with anterior relationship of the upper jaw to the lower
+
+199
+00:18:39,720 --> 00:18:41,640
+ jaw.
+
+200
+00:18:41,640 --> 00:18:49,280
+ So in class two, skeletal mal occlusion, we have a prognathic or pertrusive maxilla, where
+
+201
+00:18:49,280 --> 00:18:52,000
+ the maxilla sticks out too far.
+
+202
+00:18:52,000 --> 00:18:59,240
+ Or we have a retronathic or retrusive mandible, where that is too far back from the n vertical
+
+203
+00:18:59,240 --> 00:19:03,880
+ line, or we can have a combination of both.
+
+204
+00:19:03,880 --> 00:19:10,240
+ I included these two terms because retronathic, retrusive, and prognathic, protrusive are
+
+205
+00:19:10,240 --> 00:19:16,280
+ sometimes used interchangeably, and they're basically synonymous.
+
+206
+00:19:16,280 --> 00:19:19,640
+ For class three, we have the opposite problems.
+
+207
+00:19:19,640 --> 00:19:28,240
+ We have either a prognathic mandible, or a retronathic, or retrusive maxilla, or some
+
+208
+00:19:28,240 --> 00:19:31,360
+ combination of both.
+
+209
+00:19:31,360 --> 00:19:39,440
+ These are not exact numbers here, but class two, generally, we have about 10% of people
+
+210
+00:19:39,440 --> 00:19:42,440
+ who have a pertrusive maxilla.
+
+211
+00:19:42,440 --> 00:19:47,760
+ About 85% have this retronathic mandible, that's the most common problem that leaves
+
+212
+00:19:47,760 --> 00:19:51,160
+ about 5% that have a combination of both.
+
+213
+00:19:51,160 --> 00:20:01,200
+ And for class three, we have this is 60% for retrusive maxilla, that's the most common.
+
+214
+00:20:01,200 --> 00:20:07,480
+ And then for prognathic mandible, that's about 20% of those patients, and then that leaves
+
+215
+00:20:07,480 --> 00:20:10,160
+ about 20% that have a combination of both.
+
+216
+00:20:10,160 --> 00:20:14,080
+ Again, those numbers are not too too important for the board exam.
+
+217
+00:20:14,080 --> 00:20:20,200
+ What's probably most important here is that the retrusive elements are the most common
+
+218
+00:20:20,200 --> 00:20:22,680
+ for both of those malocclusions.
+
+219
+00:20:22,680 --> 00:20:28,800
+ All right, so we can continue to look from the profile view, this time looking more
+
+220
+00:20:28,800 --> 00:20:30,200
+ at soft tissues.
+
+221
+00:20:30,200 --> 00:20:33,440
+ So this is all about facial convexity.
+
+222
+00:20:33,440 --> 00:20:40,400
+ We're looking at the facial plane formed by glabella, to subnase alley, to soft tissue
+
+223
+00:20:40,400 --> 00:20:49,240
+ pagonion, which is the chin point, the most anterior portion of the chin in soft tissue.
+
+224
+00:20:49,240 --> 00:20:55,140
+ I believe I touched on these before, but just to confirm, glabella is the area of the forehead.
+
+225
+00:20:55,140 --> 00:21:00,280
+ That's typically most prominent, it's between the eyebrows, and the subnase alley is the
+
+226
+00:21:00,280 --> 00:21:01,680
+ base of the nose.
+
+227
+00:21:01,680 --> 00:21:08,120
+ So for the facial convexity, we're basically drawing line segments from these three points
+
+228
+00:21:08,120 --> 00:21:13,080
+ and seeing how straight of a line that would be.
+
+229
+00:21:13,080 --> 00:21:21,040
+ So for a straight profile, those line segments between glabella, base of nose, and chin point
+
+230
+00:21:21,040 --> 00:21:23,160
+ are going to basically form a straight line.
+
+231
+00:21:23,160 --> 00:21:28,360
+ You can see a straight line here, and the subnase alley is a little bit in front of that, but
+
+232
+00:21:28,360 --> 00:21:34,280
+ that's hardly a few degrees off of that straight line.
+
+233
+00:21:34,280 --> 00:21:40,000
+ So anything that's generally under 10 degrees of a slight inclination, we're going to call
+
+234
+00:21:40,000 --> 00:21:41,640
+ a straight profile.
+
+235
+00:21:41,640 --> 00:21:49,480
+ That's usually coincident with a class one occlusion, skeletal, and dental occlusions.
+
+236
+00:21:49,480 --> 00:21:56,120
+ So a convex profile is where these line segments would form a convex curve.
+
+237
+00:21:56,120 --> 00:22:00,600
+ Maybe the subnase alley is way out here, and/or maybe the chin points way back there.
+
+238
+00:22:00,600 --> 00:22:04,440
+ And of course, it doesn't have to be that severe, but anything that's a little bit more
+
+239
+00:22:04,440 --> 00:22:08,400
+ than a 10 degree inclination, we're going to call convex.
+
+240
+00:22:08,400 --> 00:22:12,160
+ It's usually coincident with a class two maloclusion.
+
+241
+00:22:12,160 --> 00:22:17,000
+ Then concave is where the line segments form, a concave curve.
+
+242
+00:22:17,000 --> 00:22:22,600
+ So subnase alley might be back, chin point may be forward, something like that.
+
+243
+00:22:22,600 --> 00:22:29,480
+ And that's usually coincident with a class three occlusion.
+
+244
+00:22:29,480 --> 00:22:34,240
+ So facial divergence is rarely tested, but sometimes it does come up.
+
+245
+00:22:34,240 --> 00:22:38,460
+ It's similar to facial convexity, but it is slightly different.
+
+246
+00:22:38,460 --> 00:22:42,120
+ So I want to go over that discrepancy.
+
+247
+00:22:42,120 --> 00:22:50,240
+ So facial divergence refers to inclination of the lower face relative to where the forehead
+
+248
+00:22:50,240 --> 00:22:52,040
+ is.
+
+249
+00:22:52,040 --> 00:22:58,960
+ So a straight or no facial divergence or straight divergence, I guess you could say, is very
+
+250
+00:22:58,960 --> 00:23:01,960
+ similar to what we just talked about with facial convexity.
+
+251
+00:23:01,960 --> 00:23:08,200
+ This is you're going to drop a vertical line down from glabella and subnase alley and chin
+
+252
+00:23:08,200 --> 00:23:11,880
+ point are very close to that line.
+
+253
+00:23:11,880 --> 00:23:19,560
+ Posterior divergent means that the entire line dropped down from the forehead to the
+
+254
+00:23:19,560 --> 00:23:21,640
+ chin goes posteriorly.
+
+255
+00:23:21,640 --> 00:23:29,080
+ So subnase alley is a little bit more posterior and chin points even more posterior.
+
+256
+00:23:29,080 --> 00:23:33,280
+ Interior divergent means we drop that same line down, but this time subnase alley is
+
+257
+00:23:33,280 --> 00:23:37,640
+ a little bit more forward and chin points even more forward.
+
+258
+00:23:37,640 --> 00:23:40,440
+ So it's not quite the same as convexity.
+
+259
+00:23:40,440 --> 00:23:46,560
+ This is talking about everything is kind of moving posteriorly when we go up to down.
+
+260
+00:23:46,560 --> 00:23:51,520
+ Everything is moving anteriorly as we go from up to down.
+
+261
+00:23:51,520 --> 00:23:57,120
+ Now the nice part about this is that this does usually fit with a class two maloclusion,
+
+262
+00:23:57,120 --> 00:24:07,880
+ as you could see, and this would usually coincide with a class three maloclusion.
+
+263
+00:24:07,880 --> 00:24:13,560
+ Now we can zoom in a little bit more on profile and talk about specific angles that are formed
+
+264
+00:24:13,560 --> 00:24:16,040
+ in the soft tissue.
+
+265
+00:24:16,040 --> 00:24:22,360
+ So the nasolabial angle is formed between the columnella of the nose, that's this bottom
+
+266
+00:24:22,360 --> 00:24:29,840
+ part of the nose here that separates the two nostrils and the philtrum.
+
+267
+00:24:29,840 --> 00:24:33,480
+ That's that vertical indentation of the upper lip.
+
+268
+00:24:33,480 --> 00:24:35,240
+ And that makes sense.
+
+269
+00:24:35,240 --> 00:24:40,160
+ This is nasophore nose and labial for lip.
+
+270
+00:24:40,160 --> 00:24:44,720
+ So this angle should be approximately 90 degrees.
+
+271
+00:24:44,720 --> 00:24:51,000
+ It's determined by a bunch of different things, AP position of the maxilla, AP position of
+
+272
+00:24:51,000 --> 00:24:58,040
+ the upper incisors, and particularly vertical position of the nasal tip, like if the nose
+
+273
+00:24:58,040 --> 00:25:05,680
+ is upturned in a younger child, that can make this nasolabial angle a lot larger.
+
+274
+00:25:05,680 --> 00:25:10,480
+ But there's quite a bit of range that is perfectly acceptable here.
+
+275
+00:25:10,480 --> 00:25:17,160
+ The thickness of the upper lip could also contribute to nasolabial angle.
+
+276
+00:25:17,160 --> 00:25:24,920
+ Going down, mentolabial angle is between the lower lip and the chin.
+
+277
+00:25:24,920 --> 00:25:28,080
+ So mento for chin, labial for lip.
+
+278
+00:25:28,080 --> 00:25:31,880
+ This should be around 120 degrees.
+
+279
+00:25:31,880 --> 00:25:40,000
+ This one's affected by lower incisor position and vertical height of the lower facial third.
+
+280
+00:25:40,000 --> 00:25:46,760
+ It's sometimes also called a mentolabial fold or mentolabial sulcus.
+
+281
+00:25:46,760 --> 00:25:50,880
+ And lastly we have the cervicomental angle.
+
+282
+00:25:50,880 --> 00:25:59,560
+ This one goes from menton, which is base of the chin again, to our point, or reflex point,
+
+283
+00:25:59,560 --> 00:26:03,800
+ as a depth of the throat, and then to the base of the neck.
+
+284
+00:26:03,800 --> 00:26:07,320
+ This one again, well this one has a pretty large range.
+
+285
+00:26:07,320 --> 00:26:12,720
+ It goes from 90 degrees to up to 120 degrees.
+
+286
+00:26:12,720 --> 00:26:23,440
+ Other considerations of this one are gender, soft tissue sag from aging and body weight.
+
+287
+00:26:23,440 --> 00:26:30,840
+ Alright so lips are arguably, if we're talking about the soft tissue paradigm, the most important
+
+288
+00:26:30,840 --> 00:26:38,800
+ soft tissue consideration of a modern orthodontist, outside of the gingiva and the peridontal tissues.
+
+289
+00:26:38,800 --> 00:26:47,600
+ So how I remember the lips are the three P's, that's position, posture and proportions.
+
+290
+00:26:47,600 --> 00:26:56,880
+ So for lip position, we draw a line that's tangent to the nose and the chin.
+
+291
+00:26:56,880 --> 00:27:04,280
+ So this line right here, tangent to both of those two points, is called rickett line,
+
+292
+00:27:04,280 --> 00:27:06,600
+ or aesthetic line.
+
+293
+00:27:06,600 --> 00:27:13,520
+ So the lower lip should be on this line and the upper lip should be slightly behind the
+
+294
+00:27:13,520 --> 00:27:15,200
+ line.
+
+295
+00:27:15,200 --> 00:27:23,960
+ If both of your lips are ahead of the line, they're considered prominent or protrusive.
+
+296
+00:27:23,960 --> 00:27:28,920
+ If they're behind the line, they're considered retrusive.
+
+297
+00:27:28,920 --> 00:27:34,080
+ So that's a quick and dirty way of judging AP position of the lips.
+
+298
+00:27:34,080 --> 00:27:41,140
+ Note that this is not very useful if the nose and/or chin are excessively large.
+
+299
+00:27:41,140 --> 00:27:47,560
+ This is most useful for patients in their adolescent ears.
+
+300
+00:27:47,560 --> 00:27:57,080
+ So for lip posture, our second P, we're looking for lip competence at rest.
+
+301
+00:27:57,080 --> 00:28:04,080
+ So we have three to four millimeters of separation at rest, which we see here, and mantelis strain
+
+302
+00:28:04,080 --> 00:28:06,600
+ on closure.
+
+303
+00:28:06,600 --> 00:28:11,920
+ So this means that in order for them to get a lip seal, they would have to strain their
+
+304
+00:28:11,920 --> 00:28:18,080
+ mantelis muscle, so we can see all erased the drawing, so you can appreciate that amount
+
+305
+00:28:18,080 --> 00:28:22,800
+ of muscle strain of the mantelis.
+
+306
+00:28:22,800 --> 00:28:29,160
+ So the muscles have to tighten up to get the lips to seal over the teeth.
+
+307
+00:28:29,160 --> 00:28:34,880
+ So the combination of separation at rest and having to strain that mantelis to get the
+
+308
+00:28:34,880 --> 00:28:38,200
+ lips to close is lip incompetence.
+
+309
+00:28:38,200 --> 00:28:43,920
+ Lip competence means that the lips can form a seal over the teeth at rest without any
+
+310
+00:28:43,920 --> 00:28:46,760
+ amount of strain.
+
+311
+00:28:46,760 --> 00:28:51,880
+ For lip proportions, we're simply looking at their dimension.
+
+312
+00:28:51,880 --> 00:28:58,080
+ Are they thick and full, or are they thin and flat?
+
+313
+00:28:58,080 --> 00:29:03,800
+ How much vermilion, the actual lip tissue, do they display?
+
+314
+00:29:03,800 --> 00:29:08,800
+ So this one considers kind of all three planes of space.
+
+315
+00:29:08,800 --> 00:29:13,960
+ There's an AP component, a vertical component, and probably even a transverse component.
+
+316
+00:29:13,960 --> 00:29:18,440
+ For posture, this is pretty much a vertical issue.
+
+317
+00:29:18,440 --> 00:29:23,520
+ For position, it's pretty much an AP issue.
+
+318
+00:29:23,520 --> 00:29:29,160
+ So those are the three P's of the lips.
+
+319
+00:29:29,160 --> 00:29:38,040
+ Incisor display refers to how much of the incisors show, either at rest or on smile.
+
+320
+00:29:38,040 --> 00:29:43,920
+ So incisor display at rest, we're looking for about two to four millimeters being aesthetically
+
+321
+00:29:43,920 --> 00:29:46,160
+ pleasing.
+
+322
+00:29:46,160 --> 00:29:50,160
+ So this is a little bit of the incisor showing.
+
+323
+00:29:50,160 --> 00:29:56,160
+ Again, if you're at rest, maybe your lips are touching, you have lip seal, that's acceptable
+
+324
+00:29:56,160 --> 00:29:57,840
+ as well.
+
+325
+00:29:57,840 --> 00:30:04,720
+ On smile, we want all of the upper incisors to show with about one to two millimeters
+
+326
+00:30:04,720 --> 00:30:07,760
+ of gingiva above them.
+
+327
+00:30:07,760 --> 00:30:14,720
+ So that's not including the papilla area, we want some little bit amount of gingiva showing
+
+328
+00:30:14,720 --> 00:30:20,640
+ above those teeth, that's a youthful look.
+
+329
+00:30:20,640 --> 00:30:27,160
+ Any more than two millimeters is considered a gummy smile by the lay person.
+
+330
+00:30:27,160 --> 00:30:36,800
+ About 75% of the incisors showing on smile is considered the minimum acceptable amount.
+
+331
+00:30:36,800 --> 00:30:38,480
+ And finally, buckle quarters.
+
+332
+00:30:38,480 --> 00:30:45,320
+ So this refers to the dark space between the maxillary posterior teeth and the corner of
+
+333
+00:30:45,320 --> 00:30:46,920
+ the mouth upon smile.
+
+334
+00:30:46,920 --> 00:30:52,680
+ So that's this amount of negative space.
+
+335
+00:30:52,680 --> 00:30:59,160
+ Sometimes it's referred to if you have a collapsed narrow arch form, it can result in a lot of
+
+336
+00:30:59,160 --> 00:31:07,080
+ shadowing negative space referred to as wide buckle quarters.
+
+337
+00:31:07,080 --> 00:31:12,480
+ Having treatment that involves lateral expansion of the premolars and molars into this space
+
+338
+00:31:12,480 --> 00:31:19,480
+ can improve the transverse smile dimension and create a more medium or even narrow buckle
+
+339
+00:31:19,480 --> 00:31:25,320
+ quarters if there is minimal dark space in those corners of the mouth.
+
+340
+00:31:25,320 --> 00:31:33,240
+ So a broad arch will result in narrow buckle quarters while a narrow arch will result in
+
+341
+00:31:33,240 --> 00:31:39,560
+ wide buckle quarters.
+
+342
+00:31:39,560 --> 00:31:46,880
+ And the last part we'll talk about are cephalometrics, which look at both the teeth and the face
+
+343
+00:31:46,880 --> 00:31:50,640
+ in a very unique perspective.
+
+344
+00:31:50,640 --> 00:31:57,040
+ So the lateral cephalometric gives us a lot of information about a patient's heart tissue
+
+345
+00:31:57,040 --> 00:32:02,760
+ as well as soft tissue structures from the profile view.
+
+346
+00:32:02,760 --> 00:32:10,280
+ So I've marked a bunch of cephalometric landmarks here that we can go over together.
+
+347
+00:32:10,280 --> 00:32:13,520
+ So our first one we'll talk about is this one back here.
+
+348
+00:32:13,520 --> 00:32:22,520
+ It's not very commonly used but it's called the Bolton Point and that's BO for short.
+
+349
+00:32:22,520 --> 00:32:30,080
+ It's the highest point in the upward curvature of the occipital bone around the center of
+
+350
+00:32:30,080 --> 00:32:40,640
+ this gigantic frame and magnum where the spinal cord runs from the brain down here.
+
+351
+00:32:40,640 --> 00:32:47,640
+ Next we have the Bayesion, which is this point right here, that's BA for short.
+
+352
+00:32:47,640 --> 00:32:54,600
+ And the Bayesion is the lowest point of the anterior margin of the foramen magnum and it
+
+353
+00:32:54,600 --> 00:33:05,120
+ points towards the dens or the odontoid process which is right here of c2, that's the axis
+
+354
+00:33:05,120 --> 00:33:06,120
+ of the vertebrae.
+
+355
+00:33:06,120 --> 00:33:10,080
+ We'll talk a little bit more about vertebrae in a little bit.
+
+356
+00:33:10,080 --> 00:33:18,400
+ The next point is the Articulari ar for short and that's right here, that's the intersection
+
+357
+00:33:18,400 --> 00:33:25,040
+ between the zygomatic arch which is running here and the posterior border of the ramus.
+
+358
+00:33:25,040 --> 00:33:30,580
+ Note that there's actually, you can see both Ramai, you can see one here and then one further
+
+359
+00:33:30,580 --> 00:33:37,520
+ back here and this means that the patient was either there's some degree of asymmetry
+
+360
+00:33:37,520 --> 00:33:42,480
+ between the right and left sides or probably more possible.
+
+361
+00:33:42,480 --> 00:33:48,400
+ The patient wasn't positioned properly in the imaging unit.
+
+362
+00:33:48,400 --> 00:33:53,720
+ So in that case we just split the difference between the left and right sides and we pick
+
+363
+00:33:53,720 --> 00:33:57,440
+ in the middle of those two projections.
+
+364
+00:33:57,440 --> 00:34:04,200
+ Next point is the Purion which is up here, PO for short and that's the highest point
+
+365
+00:34:04,200 --> 00:34:13,520
+ of the external auditory meatus, that's the outer ear opening and this part is the ear
+
+366
+00:34:13,520 --> 00:34:18,240
+ rod of the cephalometric machine.
+
+367
+00:34:18,240 --> 00:34:27,560
+ So we would imagine that's pretty close to Purion which is the outer ear hole in the skull.
+
+368
+00:34:27,560 --> 00:34:36,840
+ So next let's go to this one, that's Condillion CO and it's the most posterior and superior
+
+369
+00:34:36,840 --> 00:34:40,840
+ point on the outline of the condler head.
+
+370
+00:34:40,840 --> 00:34:47,360
+ The condyle can be pretty tough to see in a cephalometric.
+
+371
+00:34:47,360 --> 00:34:55,520
+ Next we'll go over here, this is the Terego maxillary fissure PTM and that's the base
+
+372
+00:34:55,520 --> 00:35:02,920
+ of this fissure, it's often a teardrop shape that runs along the back of the maxilla.
+
+373
+00:35:02,920 --> 00:35:09,000
+ A bunch of vessels and nerves run in and out of that fissure.
+
+374
+00:35:09,000 --> 00:35:16,480
+ Next we'll go up here, this is Cella S for short, it's the midpoint of the Cella Terseca
+
+375
+00:35:16,480 --> 00:35:22,640
+ which is the saddle in which the pituitary gland lives.
+
+376
+00:35:22,640 --> 00:35:30,560
+ This point over here is Orbitale, that's the lowest point on the inferior margin of the
+
+377
+00:35:30,560 --> 00:35:34,000
+ orbit where the eye lives.
+
+378
+00:35:34,000 --> 00:35:44,240
+ Up here is Nazion or N and that's the anterior point on the intersection between the nasal
+
+379
+00:35:44,240 --> 00:35:50,280
+ bone down here and the frontal bone up here.
+
+380
+00:35:50,280 --> 00:35:56,800
+ You can almost appreciate the little suture running here between those two bones which
+
+381
+00:35:56,800 --> 00:36:00,200
+ is pretty cool.
+
+382
+00:36:00,200 --> 00:36:10,880
+ Alright next let's go here, this point is the anterior nasal spine and that's the sharp
+
+383
+00:36:10,880 --> 00:36:17,200
+ projection of the maxilla anteriorly and then we have the posterior nasal spine which is
+
+384
+00:36:17,200 --> 00:36:27,320
+ usually right below the PTM and that's the sharp projection of the palatine bones posteriorly.
+
+385
+00:36:27,320 --> 00:36:31,840
+ That's where that hard palate ends.
+
+386
+00:36:31,840 --> 00:36:41,880
+ Right here we have A point and that's the innermost portion, innermost point on the contour of
+
+387
+00:36:41,880 --> 00:36:48,360
+ the maxilla, that's the innermost point on the contour of the maxillary bone.
+
+388
+00:36:48,360 --> 00:36:54,440
+ Likewise we have the B point which again is the innermost point on the contour of the
+
+389
+00:36:54,440 --> 00:36:58,360
+ mandibular bone.
+
+390
+00:36:58,360 --> 00:37:06,280
+ Down here we have three right up next to each other, this one is Pagonion, that's the most
+
+391
+00:37:06,280 --> 00:37:11,320
+ anterior point of the chin, you may remember we had a soft tissue Pagonion which is the
+
+392
+00:37:11,320 --> 00:37:15,480
+ soft tissue counterpoint to this hard tissue landmark.
+
+393
+00:37:15,480 --> 00:37:24,220
+ Down here we have menton which is ME for short, that's the most inferior point on the chin,
+
+394
+00:37:24,220 --> 00:37:28,080
+ again we have the soft tissue menton which we talked about before when we were talking
+
+395
+00:37:28,080 --> 00:37:36,000
+ about facial thirds and other things and the point between Pagonion and menton is called
+
+396
+00:37:36,000 --> 00:37:41,840
+ Nafion and GN are the letters there.
+
+397
+00:37:41,840 --> 00:37:49,360
+ Gonian is back here, that's G-O, that's the midpoint on the contour connecting the Ramis
+
+398
+00:37:49,360 --> 00:37:57,000
+ and the body of the mandible and I believe that's all the points we have here.
+
+399
+00:37:57,000 --> 00:38:05,640
+ Other structures to point out we have the frontal sinus up here, the ethmoid air cells,
+
+400
+00:38:05,640 --> 00:38:12,440
+ we have the maxillary sinus this gigantic thing here, the sphenoid sinus, the mastoid
+
+401
+00:38:12,440 --> 00:38:24,840
+ air cells, here is C1 which is the atlas, C2 with the dens running up here, that's the
+
+402
+00:38:24,840 --> 00:38:34,440
+ axis, we have C3, C4 and we can keep going down, this is the hyoid bone right in here,
+
+403
+00:38:34,440 --> 00:38:41,880
+ the epiglottis here and of course we can appreciate the soft tissue profile with the nose, the
+
+404
+00:38:41,880 --> 00:38:49,040
+ lips and the chin, so lots of stuff to get from a cephalometric x-ray and some really
+
+405
+00:38:49,040 --> 00:38:57,200
+ cool stuff there, here's a summary of everything that we just talked about, so from those points
+
+406
+00:38:57,200 --> 00:39:03,160
+ we can gather some important information like reference planes that connect two of those
+
+407
+00:39:03,160 --> 00:39:10,240
+ points together, for example we could connect cella and nazion and get the SN plane which
+
+408
+00:39:10,240 --> 00:39:18,400
+ represents the anterior cranial base, if we connect poorion and orbitally we get what's
+
+409
+00:39:18,400 --> 00:39:24,960
+ called the frankfort horizontal plane, which is an incredibly important reference plane,
+
+410
+00:39:24,960 --> 00:39:32,200
+ if we connect ANS and PNS we get the palatal plane, if we connect lower six which is the
+
+411
+00:39:32,200 --> 00:39:39,360
+ cusp tip of the lower first molar and lower one, the incisal edge of the lower incisor,
+
+412
+00:39:39,360 --> 00:39:44,400
+ we get a occlusal plane and if we connect gonion and nafion we get the mandibular plane
+
+413
+00:39:44,400 --> 00:39:50,040
+ which is another really, really important reference plane, the sussuni analysis states
+
+414
+00:39:50,040 --> 00:39:57,920
+ that all five of these reference planes should intersect at around the back of the head,
+
+415
+00:39:57,920 --> 00:40:04,160
+ the occiput of the head, if they intersect earlier the patient is considered hyperdivergent,
+
+416
+00:40:04,160 --> 00:40:10,220
+ if they intersect later they're considered hypo-divergent, just one example of how these
+
+417
+00:40:10,220 --> 00:40:18,760
+ reference planes can be used diagnostically, so probably the most important use of the
+
+418
+00:40:18,760 --> 00:40:24,920
+ cephalometric is a cephalometric analysis, this is used to evaluate the relationship
+
+419
+00:40:24,920 --> 00:40:32,360
+ of the jaws and the dental units to each other, this used to be done on acetate paper, but
+
+420
+00:40:32,360 --> 00:40:38,600
+ today we use computer software and mark all of those landmarks we just went over and
+
+421
+00:40:38,600 --> 00:40:45,400
+ in the software would develop a tracing from which you can gather all these linear and
+
+422
+00:40:45,400 --> 00:40:52,520
+ angular measurements, these measurements allow you to evaluate the relationship of the jaws
+
+423
+00:40:52,520 --> 00:40:58,240
+ and the teeth to each other and the cranial base, to which everything is attached, and
+
+424
+00:40:58,240 --> 00:41:07,080
+ you would compare your patient to numerical norms for their age, racial, and ethnic groups,
+
+425
+00:41:07,080 --> 00:41:16,920
+ so sna is a very common angular measurement, this is the angle from cella to nazion to
+
+426
+00:41:16,920 --> 00:41:24,040
+ a point, and it represents the relationship of the maxilla to the cranial base, a bigger
+
+427
+00:41:24,040 --> 00:41:32,760
+ angle means that the maxilla is further forward, a smaller angle means that the maxilla is
+
+428
+00:41:32,760 --> 00:41:42,760
+ further back, snb, cella to nazion to b point refers to the relationship of the mandible
+
+429
+00:41:42,760 --> 00:41:48,440
+ to the cranial base, a bigger angle means the mandibles more forward, smaller angle means
+
+430
+00:41:48,440 --> 00:41:54,920
+ the mandibles further back, and then a and b kind of combines those two together, and
+
+431
+00:41:54,920 --> 00:42:03,000
+ this instead looks at the relationship of the maxilla to the mandible, and this is the one
+
+432
+00:42:03,000 --> 00:42:11,520
+ that comes up on the board exam quite frequently, so we go from a point to nazion to b point,
+
+433
+00:42:11,520 --> 00:42:20,680
+ and this angle is very, very small, if we're at around zero degrees, or below, we're in
+
+434
+00:42:20,680 --> 00:42:26,680
+ the negatives, that is considered a class three skeletal malocclusion, is again, we're talking
+
+435
+00:42:26,680 --> 00:42:34,080
+ about the jaw units, we're not looking specifically at what the teeth are doing, so zero or below
+
+436
+00:42:34,080 --> 00:42:41,680
+ class three, around two degrees is considered normal, four degrees or above is considered
+
+437
+00:42:41,680 --> 00:42:49,160
+ class two, so this is what will most likely come up on the board exam, they'll give you
+
+438
+00:42:49,160 --> 00:42:54,960
+ an angle, and if it's zero or below class three, four or above class two, and if it's
+
+439
+00:42:54,960 --> 00:43:02,440
+ somewhere between zero and four, that's a normal class one skeletal relationship, and
+
+440
+00:43:02,440 --> 00:43:09,120
+ the last diagnostic thing we can do with cephalometrics is to superimpose them, so we superimpose
+
+441
+00:43:09,120 --> 00:43:16,980
+ or overlap cephalometric tracings from different time points on top of each other to see what
+
+442
+00:43:16,980 --> 00:43:24,120
+ has changed, so this could be to evaluate growth changes over time, or to see what the effects
+
+443
+00:43:24,120 --> 00:43:32,600
+ of treatment were, either orthodontics or orthonathic surgery. All right, so that's
+
+444
+00:43:32,600 --> 00:43:37,080
+ it for this video, thank you so much for watching everyone, I know it was a long one, but there's
+
+445
+00:43:37,080 --> 00:43:41,600
+ a lot of good information in there, and I wanted to make sure we included all of it,
+
+446
+00:43:41,600 --> 00:43:46,120
+ so please like this video if you enjoyed it, and subscribe to this channel for much more
+
+447
+00:43:46,120 --> 00:43:51,120
+ on dentistry, if you're interested in supporting this channel and what I do, please check out
+
+448
+00:43:51,120 --> 00:43:57,120
+ my Patreon page, thank you to all of my patrons for all of their support, you can unlock extras
+
+449
+00:43:57,120 --> 00:44:03,080
+ like access to my video slides to take notes on, and practice questions for the board exams,
+
+450
+00:44:03,080 --> 00:44:07,860
+ so go check that out, the link is in the description, thanks again for watching everyone, I'll see
+
+451
+00:44:07,860 --> 00:44:08,800
+ you in the next video.
+

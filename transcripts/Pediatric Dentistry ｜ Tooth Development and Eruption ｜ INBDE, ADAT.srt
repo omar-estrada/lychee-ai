@@ -1,0 +1,1316 @@
+1
+00:00:00,000 --> 00:00:09,040
+ Hey everyone, Ryan here and welcome to this brand new series on pediatric dentistry.
+
+2
+00:00:09,040 --> 00:00:15,420
+ Now pediatric dentistry is multidisciplinary in nature and it encompasses a wide range
+
+3
+00:00:15,420 --> 00:00:17,720
+ of the other specialties.
+
+4
+00:00:17,720 --> 00:00:22,360
+ So these videos, if you're watching them after some of my other series, may provide
+
+5
+00:00:22,360 --> 00:00:27,560
+ some helpful overlap and review with some of the other sections.
+
+6
+00:00:27,560 --> 00:00:33,280
+ Now with that in mind, pediatric dentistry is certainly not the same as adult dentistry
+
+7
+00:00:33,280 --> 00:00:39,080
+ because kids and primary teeth present some unique challenges and we need to talk about
+
+8
+00:00:39,080 --> 00:00:41,000
+ what those are.
+
+9
+00:00:41,000 --> 00:00:46,520
+ So we're going to cover a lot of great topics in this series and it's definitely one of
+
+10
+00:00:46,520 --> 00:00:49,400
+ the most requested as of recently.
+
+11
+00:00:49,400 --> 00:00:55,520
+ The board examiners combine orthodontics and pediatric dentistry into one category and
+
+12
+00:00:55,520 --> 00:01:00,480
+ their guidelines but I think it's honestly more helpful to focus on each one of those
+
+13
+00:01:00,480 --> 00:01:06,120
+ individually so that's why I'm going to have a separate series for each of them.
+
+14
+00:01:06,120 --> 00:01:11,020
+ So that being said, like all my videos, I'm going to focus only on the highest yield things
+
+15
+00:01:11,020 --> 00:01:13,200
+ that you need to know for the board exam.
+
+16
+00:01:13,200 --> 00:01:18,240
+ My hope is that these videos will help you prepare for it and also give you a nice overview
+
+17
+00:01:18,240 --> 00:01:23,280
+ for clinical application and general knowledge.
+
+18
+00:01:23,280 --> 00:01:29,660
+ So with that, let's get started and talk about odontogenesis or tooth development.
+
+19
+00:01:29,660 --> 00:01:35,640
+ And this is honestly a very complex topic but I'm excited to boil it down in the most
+
+20
+00:01:35,640 --> 00:01:38,800
+ simplified way possible for you.
+
+21
+00:01:38,800 --> 00:01:44,840
+ Now tooth development is dependent on both genetic control and also environmental factors
+
+22
+00:01:44,840 --> 00:01:51,960
+ like nutrition, trauma, infection, or even excess fluoride intake during tooth formation
+
+23
+00:01:51,960 --> 00:01:56,880
+ and we'll talk more about these environmental factors and developmental disturbances and
+
+24
+00:01:56,880 --> 00:02:01,360
+ anomalies in the following video.
+
+25
+00:02:01,360 --> 00:02:07,040
+ So this is a really nice schematic showing the different developing layers and the different
+
+26
+00:02:07,040 --> 00:02:11,080
+ stages from beginning to erupted tooth.
+
+27
+00:02:11,080 --> 00:02:15,680
+ Now we're going to talk about all of these in detail and I'm definitely going to focus
+
+28
+00:02:15,680 --> 00:02:22,040
+ on the bud, the cap, and the bell stages which are nice to remember because each of those
+
+29
+00:02:22,040 --> 00:02:29,040
+ is corresponding to the shape that the enamel organ is assuming in each one of those stages.
+
+30
+00:02:29,040 --> 00:02:37,840
+ So let's talk about each one in detail starting with thickening or initiation.
+
+31
+00:02:37,840 --> 00:02:44,280
+ So initiation starts six weeks in utero and this is referring to how long the fetus has
+
+32
+00:02:44,280 --> 00:02:47,160
+ been developing in the womb.
+
+33
+00:02:47,160 --> 00:02:50,200
+ So there are a couple of layers that we have to address here.
+
+34
+00:02:50,200 --> 00:02:58,360
+ The oral epithelium is the outer layer of the developing mouth and this has both an upper
+
+35
+00:02:58,360 --> 00:03:07,360
+ and a lower arch form that referring to the upper and the lower part of the eventual and
+
+36
+00:03:07,360 --> 00:03:09,880
+ ultimate mouth.
+
+37
+00:03:09,880 --> 00:03:17,800
+ The dental lamina is a thickening of this oral epithelium and the first evidence of
+
+38
+00:03:17,800 --> 00:03:20,960
+ a forming or budding tooth.
+
+39
+00:03:20,960 --> 00:03:26,840
+ Now this image is a two-dimensional cross section so imagine that the thickened area
+
+40
+00:03:26,840 --> 00:03:34,360
+ is going both into the screen and coming out of the screen to create a whole row of thickened
+
+41
+00:03:34,360 --> 00:03:40,920
+ oral epithelium where individual teeth will eventually pinch off from.
+
+42
+00:03:40,920 --> 00:03:48,320
+ The ectomecin chime is this thick underlying purple layer and that signals the overlying
+
+43
+00:03:48,320 --> 00:03:54,800
+ oral epithelium to proliferate into the dental lamina.
+
+44
+00:03:54,800 --> 00:04:00,880
+ Now the oral epithelium and the dental lamina are both derived from the ectoderm.
+
+45
+00:04:00,880 --> 00:04:07,280
+ The ectomecin chime is also derived from the ectoderm but more specifically the neural crest.
+
+46
+00:04:07,280 --> 00:04:13,600
+ It's called the ectomecin chime because it's derived from the ectoderm indirectly but it
+
+47
+00:04:13,600 --> 00:04:20,200
+ develops into tissue that is physiologically similar to mesenchymal tissue or mesoderm
+
+48
+00:04:20,200 --> 00:04:22,840
+ derived tissue.
+
+49
+00:04:22,840 --> 00:04:28,760
+ Failure in this very first step can lead to major issues either the tooth is completely
+
+50
+00:04:28,760 --> 00:04:34,200
+ missing or we get an extra tooth.
+
+51
+00:04:34,200 --> 00:04:41,360
+ The next stage is the bud stage and this begins eight weeks in utero so two weeks later.
+
+52
+00:04:41,360 --> 00:04:51,000
+ Here the dental lamina is quickly growing and invades into the underlying mesenchym.
+
+53
+00:04:51,000 --> 00:04:58,800
+ So these proliferating areas of the dental lamina are pinching off to produce these buds
+
+54
+00:04:58,800 --> 00:05:04,240
+ and these buds are called dental placodes.
+
+55
+00:05:04,240 --> 00:05:05,720
+ Now this is really important.
+
+56
+00:05:05,720 --> 00:05:14,440
+ All primary teeth and permanent molars arise directly from this dental lamina.
+
+57
+00:05:14,440 --> 00:05:24,080
+ So they look exactly as the schematic is showing here but permanent incisors, canines and premolars
+
+58
+00:05:24,080 --> 00:05:26,880
+ arise from their primary predecessor.
+
+59
+00:05:26,880 --> 00:05:28,320
+ So what does that mean?
+
+60
+00:05:28,320 --> 00:05:34,120
+ Well a secondary bud pinches off from the first bud so imagine there's a separate smaller
+
+61
+00:05:34,120 --> 00:05:42,720
+ bud coming off right around there and that goes through the same stages from this point
+
+62
+00:05:42,720 --> 00:05:48,400
+ forward to develop the permanent teeth except for the molars.
+
+63
+00:05:48,400 --> 00:05:54,560
+ Now in this make sense because these are all succedaneous teeth or teeth that eventually
+
+64
+00:05:54,560 --> 00:06:01,560
+ replace a primary tooth whereas all of the primary teeth and the permanent molars have
+
+65
+00:06:01,560 --> 00:06:03,480
+ no teeth that they're replacing.
+
+66
+00:06:03,480 --> 00:06:07,800
+ They're the first ones in their respective regions to come into the mouth.
+
+67
+00:06:07,800 --> 00:06:15,520
+ So I find that that's the best way to remember this concept and to keep that information straight.
+
+68
+00:06:15,520 --> 00:06:22,700
+ Now additionally the mesenchym is also beginning to condense underneath the bud and that's
+
+69
+00:06:22,700 --> 00:06:30,120
+ what these dark blue, dark purple dots are showing that this tissue is starting to condense
+
+70
+00:06:30,120 --> 00:06:32,920
+ directly underneath that bud.
+
+71
+00:06:32,920 --> 00:06:38,660
+ Here in the bud stage again results in congenitally missing teeth where the budding process doesn't
+
+72
+00:06:38,660 --> 00:06:47,560
+ occur at all or supernumerate teeth where we have excessive budding happening.
+
+73
+00:06:47,560 --> 00:06:53,240
+ Alright next we have the cap stage and this happens 9 weeks in utero.
+
+74
+00:06:53,240 --> 00:06:59,280
+ So the cap stage is also known as proliferation and it's when the bud continues to grow and
+
+75
+00:06:59,280 --> 00:07:05,160
+ proliferate while also differentiating into some new layers.
+
+76
+00:07:05,160 --> 00:07:13,440
+ Now each dental plaque code shown here grows and indents to form the enamel organ.
+
+77
+00:07:13,440 --> 00:07:17,680
+ So this is now called the enamel organ.
+
+78
+00:07:17,680 --> 00:07:22,040
+ And the enamel organ will ultimately create the enamel.
+
+79
+00:07:22,040 --> 00:07:25,560
+ Now we're not anywhere close to that stage yet but just keep that in the back of your
+
+80
+00:07:25,560 --> 00:07:26,960
+ head.
+
+81
+00:07:26,960 --> 00:07:33,360
+ The enamel organ consists of various very important layers to remember.
+
+82
+00:07:33,360 --> 00:07:38,560
+ The first is the OEE or outer enamel epithelium.
+
+83
+00:07:38,560 --> 00:07:45,000
+ And this is the outer cell layer so it's what I'm highlighting right here.
+
+84
+00:07:45,000 --> 00:07:48,520
+ I'll try to get these in a couple different colors for you.
+
+85
+00:07:48,520 --> 00:07:55,520
+ The next layer is the inner enamel epithelium and that is the inner cell layer so that's
+
+86
+00:07:55,520 --> 00:08:01,320
+ going to be this part right there.
+
+87
+00:08:01,320 --> 00:08:10,600
+ And next we have the stelate reticulum which are the cells between the OEE and the IEE.
+
+88
+00:08:10,600 --> 00:08:16,520
+ So that's all of this stuff all in here.
+
+89
+00:08:16,520 --> 00:08:23,800
+ And finally we have the enamel knot which are these little areas of focal thickening.
+
+90
+00:08:23,800 --> 00:08:32,320
+ I kind of covered it up but there are these points or peaks along this inner enamel epithelium
+
+91
+00:08:32,320 --> 00:08:36,600
+ that eventually determine where the cusp tips will be.
+
+92
+00:08:36,600 --> 00:08:42,520
+ And they're also the signaling centers for the developing tooth.
+
+93
+00:08:42,520 --> 00:08:49,520
+ Now that condensed mesenchyme that we were talking about before aggregates and now it
+
+94
+00:08:49,520 --> 00:08:55,960
+ finally forms its own entity and it's called the dental papilla.
+
+95
+00:08:55,960 --> 00:09:03,720
+ So essentially the dental papilla is now wearing this enamel organ as a sort of cap.
+
+96
+00:09:03,720 --> 00:09:10,400
+ The dental papilla will ultimately create and become the dentin and the pulp.
+
+97
+00:09:10,400 --> 00:09:16,720
+ Again as with the other things in italicized font here that's just an ultimate goal but
+
+98
+00:09:16,720 --> 00:09:22,880
+ we're not anywhere close to that point yet in the tooth development process.
+
+99
+00:09:22,880 --> 00:09:29,440
+ So the dental follicle is the sac that surrounds the enamel organ and the dental papilla.
+
+100
+00:09:29,440 --> 00:09:37,040
+ So you can think of it like this black outline that encircles this entire enamel organ and
+
+101
+00:09:37,040 --> 00:09:40,560
+ underlying dental papilla.
+
+102
+00:09:40,560 --> 00:09:46,660
+ So again the dental papilla is wearing the enamel organ as its cap and the dental follicle
+
+103
+00:09:46,660 --> 00:09:49,080
+ surrounds it all.
+
+104
+00:09:49,080 --> 00:09:58,520
+ Failure in this process could result in congenitally missing or supernumerate teeth if it occurs
+
+105
+00:09:58,520 --> 00:10:06,320
+ early on but more likely you're going to see a cyst, odontoma, germination or fusion or
+
+106
+00:10:06,320 --> 00:10:14,280
+ dentindente depending on the amount of cell differentiation that has occurred.
+
+107
+00:10:14,280 --> 00:10:20,160
+ Alright next we have the bell stage and this one begins 11 weeks in utero and there are
+
+108
+00:10:20,160 --> 00:10:25,160
+ two components or two phases in the bell stage.
+
+109
+00:10:25,160 --> 00:10:32,320
+ The first is called histodifferentiation, histo meaning tissue and this is where we get
+
+110
+00:10:32,320 --> 00:10:38,680
+ differentiation and transformation of those layers we were talking about into distinct
+
+111
+00:10:38,680 --> 00:10:48,040
+ cell types that will be responsible for secreting our final tooth tissue hence the name here.
+
+112
+00:10:48,040 --> 00:10:57,880
+ So the cells of the inner enamel epithelium differentiate into ameloblasts whereas the
+
+113
+00:10:57,880 --> 00:11:05,440
+ cells of the dental papilla differentiate into odontoblasts all of which are tall and
+
+114
+00:11:05,440 --> 00:11:07,600
+ columnar in shape.
+
+115
+00:11:07,600 --> 00:11:11,320
+ Now I matched the colors here it might be a little bit hard to see I apologize they're
+
+116
+00:11:11,320 --> 00:11:19,200
+ very thin but that darker tan layer is the ameloblasts which were part of the IEE and
+
+117
+00:11:19,200 --> 00:11:25,800
+ then this part that kind of burgundy color thin layer are the odontoblasts that outer
+
+118
+00:11:25,800 --> 00:11:31,020
+ portion of the dental papilla right up against that IEE.
+
+119
+00:11:31,020 --> 00:11:37,160
+ So that junction right there is going to be the eventual dentin enamel junction, the
+
+120
+00:11:37,160 --> 00:11:41,680
+ DEJ of that tooth.
+
+121
+00:11:41,680 --> 00:11:47,120
+ Now this makes sense because ameloblasts are secreting enamel and the odontoblasts are
+
+122
+00:11:47,120 --> 00:11:53,400
+ going to be secreting dentin which is consistent with what we saw in the previous slide.
+
+123
+00:11:53,400 --> 00:11:59,400
+ Now defects in this process of histodifferentiation can cause amelogenesis imperfecta where you
+
+124
+00:11:59,400 --> 00:12:06,320
+ get abnormal enamel formation you get this yellow brown discoloration or dentinogenesis
+
+125
+00:12:06,320 --> 00:12:12,640
+ imperfecta where you get abnormal dentin formation or this brown greatest coloration and again
+
+126
+00:12:12,640 --> 00:12:17,000
+ this all makes sense because of what is happening during this stage.
+
+127
+00:12:17,000 --> 00:12:22,280
+ So hopefully you can draw those connections and really help to lock this into your brain.
+
+128
+00:12:22,280 --> 00:12:30,040
+ The second phase is called morpho differentiation, morpho meaning form, structure, shape.
+
+129
+00:12:30,040 --> 00:12:36,600
+ This is where we determine the size and the shape of the eventual tooth crown.
+
+130
+00:12:36,600 --> 00:12:41,920
+ Now of course this is also happening simultaneously with histodifferentiation hence why I have the
+
+131
+00:12:41,920 --> 00:12:47,880
+ same time period of 11 weeks in utero for the bell stage.
+
+132
+00:12:47,880 --> 00:12:53,680
+ So it makes sense that a failure in a stage that's all about determining shape and size
+
+133
+00:12:53,680 --> 00:13:01,240
+ are going to have shape and size abnormalities like peg laterals, macrodontia, and a couple
+
+134
+00:13:01,240 --> 00:13:06,240
+ more that we'll talk about in our next video.
+
+135
+00:13:06,240 --> 00:13:08,800
+ So next we have apposition.
+
+136
+00:13:08,800 --> 00:13:15,080
+ Now an apposition happening 14 weeks in utero, first we're going to have those odontoblasts
+
+137
+00:13:15,080 --> 00:13:24,040
+ secreting a dentin matrix of collagen which then signals the amule blasts to secrete an
+
+138
+00:13:24,040 --> 00:13:28,020
+ enamel matrix of amuleogenin.
+
+139
+00:13:28,020 --> 00:13:34,120
+ Then after the enamel starts being produced the cervical loop jumps into the action and
+
+140
+00:13:34,120 --> 00:13:37,840
+ root development starts to take place.
+
+141
+00:13:37,840 --> 00:13:43,480
+ Now the cervical loop is where the IEE and the OEE layers meet.
+
+142
+00:13:43,480 --> 00:13:51,720
+ So that's going to be right at this point here where that outer enamel epithelium and
+
+143
+00:13:51,720 --> 00:13:57,940
+ that inner enamel epithelium now amule blasts joins together and here's the point on this
+
+144
+00:13:57,940 --> 00:13:58,940
+ side here.
+
+145
+00:13:58,940 --> 00:14:08,000
+ So our cervical loop going circumferentially around the developing tooth bell.
+
+146
+00:14:08,000 --> 00:14:13,800
+ So this part, the cervical loop elongates and grows down.
+
+147
+00:14:13,800 --> 00:14:16,720
+ So it's growing down in this direction.
+
+148
+00:14:16,720 --> 00:14:22,160
+ And it forms an extension called hertz epithelial root sheath.
+
+149
+00:14:22,160 --> 00:14:25,080
+ We'll just call it hertz for short.
+
+150
+00:14:25,080 --> 00:14:32,040
+ And this stimulates odontoblasts to secrete radicular dentin which is dentin as part of
+
+151
+00:14:32,040 --> 00:14:34,080
+ the root.
+
+152
+00:14:34,080 --> 00:14:40,200
+ Now hertz eventually disintegrates leaving behind little clusters of cells called the
+
+153
+00:14:40,200 --> 00:14:47,800
+ epithelial rests of ballastae that stay present in the ultimate periodontal ligament.
+
+154
+00:14:47,800 --> 00:14:56,480
+ It's just a vestigial structure as part of the developing tooth.
+
+155
+00:14:56,480 --> 00:15:03,680
+ Now the stellate reticulum that's this part here between the IEE and the OEE collapses
+
+156
+00:15:03,680 --> 00:15:10,800
+ and deflates kind of like a popped balloon and the outer and inner enamel epithelium meet
+
+157
+00:15:10,800 --> 00:15:17,800
+ together and lay along the top of the enamel matrix that's beginning to form.
+
+158
+00:15:17,800 --> 00:15:27,080
+ And the combination of the deflated IEE and OEE becomes the reduced enamel epithelium.
+
+159
+00:15:27,080 --> 00:15:33,400
+ And that kind of protects the tooth as it erupts and eventually it'll form the junctional
+
+160
+00:15:33,400 --> 00:15:38,920
+ epithelium part of the gingiva.
+
+161
+00:15:38,920 --> 00:15:45,480
+ And then what remains of the dental papilla will eventually become the pulp.
+
+162
+00:15:45,480 --> 00:15:51,960
+ Now disturbances in this step where we're getting a position or initial laying down of
+
+163
+00:15:51,960 --> 00:15:58,320
+ these matrices, you could get like trauma in the stage.
+
+164
+00:15:58,320 --> 00:16:03,800
+ If you get trauma to a primary tooth, you could disrupt the cells while they're laying
+
+165
+00:16:03,800 --> 00:16:06,520
+ down these initial matrix layers.
+
+166
+00:16:06,520 --> 00:16:12,360
+ So say you have the primary teeth are erupted in the mouth and those permanent teeth are
+
+167
+00:16:12,360 --> 00:16:17,360
+ currently going through a position at those secondary buds.
+
+168
+00:16:17,360 --> 00:16:22,200
+ And if you knock a primary tooth, you can actually disrupt those ameloblasts, let's say, cause
+
+169
+00:16:22,200 --> 00:16:24,160
+ some ameloblasts injury.
+
+170
+00:16:24,160 --> 00:16:31,160
+ And this can result in localized areas of enamel hypoplasia called Turner's hypoplasia.
+
+171
+00:16:31,160 --> 00:16:39,640
+ And again, we'll talk about that more in the next video if you're curious about that.
+
+172
+00:16:39,640 --> 00:16:47,280
+ Alright, and we're almost done here, maturation is also known as calcification or mineralization.
+
+173
+00:16:47,280 --> 00:16:53,120
+ And this one takes place at various time points for different teeth.
+
+174
+00:16:53,120 --> 00:16:59,400
+ But important to know, this is by far the longest stage of tooth development and it involves
+
+175
+00:16:59,400 --> 00:17:04,960
+ finally the deposition of the ultimate enamel and dentin.
+
+176
+00:17:04,960 --> 00:17:09,440
+ We're in opposition, we're just kind of laying down those initial matrices, and now we're
+
+177
+00:17:09,440 --> 00:17:15,320
+ talking about transforming those into the final tooth structure.
+
+178
+00:17:15,320 --> 00:17:21,760
+ So the calcification process begins at the cusp tips and incisal edges where those enamel
+
+179
+00:17:21,760 --> 00:17:26,400
+ knots were and proceeds in a cervical direction.
+
+180
+00:17:26,400 --> 00:17:33,000
+ Now it takes two years for a primary tooth crown on average and four to five years on
+
+181
+00:17:33,000 --> 00:17:38,280
+ average for a permanent tooth crown to complete this maturation process.
+
+182
+00:17:38,280 --> 00:17:41,800
+ And that's not even including the root, it takes quite a few more years for the root
+
+183
+00:17:41,800 --> 00:17:42,800
+ to finish developing.
+
+184
+00:17:42,800 --> 00:17:46,400
+ So this is a really, really long process.
+
+185
+00:17:46,400 --> 00:17:53,560
+ And now that explains why these disturbances, these defects rather, are so common because
+
+186
+00:17:53,560 --> 00:17:56,240
+ the critical time period is much longer here.
+
+187
+00:17:56,240 --> 00:17:59,800
+ There's a lot more time for something to go wrong.
+
+188
+00:17:59,800 --> 00:18:06,780
+ So disturbances like localized infection and trauma can result in hypocalcification or
+
+189
+00:18:06,780 --> 00:18:10,080
+ hypomineralization, those are those white spots.
+
+190
+00:18:10,080 --> 00:18:16,440
+ You can get fluoresis if you have excessive systemic fluoride ingestion.
+
+191
+00:18:16,440 --> 00:18:22,200
+ And fluoride ingestion greater than one PBM can affect ameloblasts.
+
+192
+00:18:22,200 --> 00:18:28,400
+ So it causes a defective enamel matrix and a modelled enamel appearance.
+
+193
+00:18:28,400 --> 00:18:35,360
+ Now this is going to be affecting children from their second trimester, a week 14 in
+
+194
+00:18:35,360 --> 00:18:38,480
+ utero, through eight years old.
+
+195
+00:18:38,480 --> 00:18:44,300
+ And that's the period while the teeth are forming 16 years if you count the wisdom teeth.
+
+196
+00:18:44,300 --> 00:18:47,520
+ Now adults are not affected.
+
+197
+00:18:47,520 --> 00:18:50,560
+ Tetracycline staining is kind of similar.
+
+198
+00:18:50,560 --> 00:18:56,800
+ Tetracycline taken as an antibiotic can also cause intrinsic staining.
+
+199
+00:18:56,800 --> 00:19:04,280
+ And it's also going to affect those same children from second trimester or week 14 through
+
+200
+00:19:04,280 --> 00:19:07,420
+ eight years old while the teeth are forming.
+
+201
+00:19:07,420 --> 00:19:11,840
+ But what's different here is that tetracycline doesn't mess up the enamel.
+
+202
+00:19:11,840 --> 00:19:18,960
+ It binds to calcium and gets incorporated into the hydroxyapatite crystals in the dentin
+
+203
+00:19:18,960 --> 00:19:20,400
+ layer.
+
+204
+00:19:20,400 --> 00:19:27,360
+ So fluoresis messes up enamel, tetracycline stains the dentin.
+
+205
+00:19:27,360 --> 00:19:32,160
+ And something very important to think about all this stuff with the defects is that the
+
+206
+00:19:32,160 --> 00:19:42,760
+ later the disturbance occurs along this development process, the more minor the defect is, right?
+
+207
+00:19:42,760 --> 00:19:47,200
+ We were talking about before with thickening and the bud stage if something went wrong,
+
+208
+00:19:47,200 --> 00:19:51,800
+ we might just not have a tooth at all or we might end up with an extra tooth or teeth.
+
+209
+00:19:51,800 --> 00:19:55,240
+ But if it happens a little bit later, well, we might get lucky and just have a little
+
+210
+00:19:55,240 --> 00:19:56,760
+ white spot on there.
+
+211
+00:19:56,760 --> 00:20:03,800
+ So it depends on when it occurs, how major that ultimate effect will be.
+
+212
+00:20:03,800 --> 00:20:10,040
+ So a summary, we have our tooth germ, which includes the enamel organ, dental papilla,
+
+213
+00:20:10,040 --> 00:20:17,960
+ dental follicle, follicle, and here are all the cells and cell layers and the materials
+
+214
+00:20:17,960 --> 00:20:23,200
+ that are eventually produced by the cells of these certain layers.
+
+215
+00:20:23,200 --> 00:20:27,240
+ So that will be an awesome reference for you.
+
+216
+00:20:27,240 --> 00:20:33,560
+ And I really hope this has helped you kind of understand the complex, but also really
+
+217
+00:20:33,560 --> 00:20:38,520
+ cool atontogenesis process.
+
+218
+00:20:38,520 --> 00:20:44,720
+ Now for some other important dates to know, these are approximate calcification dates
+
+219
+00:20:44,720 --> 00:20:47,360
+ for the primary teeth.
+
+220
+00:20:47,360 --> 00:20:53,840
+ And I've arranged them ideally for the best and easiest memorization for you.
+
+221
+00:20:53,840 --> 00:21:00,000
+ And also to know here, the calcification of primary tooth roots is normally completed
+
+222
+00:21:00,000 --> 00:21:02,840
+ at around three to four years of age.
+
+223
+00:21:02,840 --> 00:21:08,120
+ This is talking about the crowns and when they're starting to calcify.
+
+224
+00:21:08,120 --> 00:21:14,000
+ Now here's a handy memorization tool that'll really help you remember this info.
+
+225
+00:21:14,000 --> 00:21:22,840
+ The central incisors kind of using ortho-language here, they're the As we call them, the lateral
+
+226
+00:21:22,840 --> 00:21:30,600
+ incisors are the Bs, canines are the Cs, first the primary first molars are the Ds and second
+
+227
+00:21:30,600 --> 00:21:32,880
+ molars are the Es.
+
+228
+00:21:32,880 --> 00:21:40,120
+ Now with that context, if you remember A, D, B, C, E, all you have to remember is you
+
+229
+00:21:40,120 --> 00:21:46,400
+ start with 14, that's our lucky number of 14 weeks of age in utero, and you just add
+
+230
+00:21:46,400 --> 00:21:49,840
+ one number down the rows here.
+
+231
+00:21:49,840 --> 00:21:55,160
+ So if you remember A, D, B, C, E, you just have to remember 14 and add one down the row.
+
+232
+00:21:55,160 --> 00:22:00,400
+ And that corresponds to the calcification start dates for these primary teeth.
+
+233
+00:22:00,400 --> 00:22:07,080
+ So super cool, hope you can remember that and it can help you remember these calcification
+
+234
+00:22:07,080 --> 00:22:08,080
+ dates.
+
+235
+00:22:08,080 --> 00:22:12,040
+ Now I have another handy memorization tool that'll help you with the permanent teeth
+
+236
+00:22:12,040 --> 00:22:13,680
+ as well.
+
+237
+00:22:13,680 --> 00:22:21,760
+ In here I'm also using ortho-language one, the one referring to the central incisors and
+
+238
+00:22:21,760 --> 00:22:26,880
+ then two, three, four, five, six, seven going down the row.
+
+239
+00:22:26,880 --> 00:22:33,920
+ So here is a little bit more on the approximate side, but this is all you'll need to know for
+
+240
+00:22:33,920 --> 00:22:34,920
+ the board exam.
+
+241
+00:22:34,920 --> 00:22:40,680
+ So if you can keep this straight, it'll definitely be hopefully next to you a couple of questions.
+
+242
+00:22:40,680 --> 00:22:50,320
+ So for this, remember, six, one, L2, that's lower two or lower lateral incisors, three,
+
+243
+00:22:50,320 --> 00:22:53,120
+ up or two, four, five, seven.
+
+244
+00:22:53,120 --> 00:22:57,440
+ So if you can remember this, then all you need to know is you start with zero and then
+
+245
+00:22:57,440 --> 00:22:59,720
+ you add six for every row.
+
+246
+00:22:59,720 --> 00:23:07,360
+ So you go zero, six, 12, 18, 24, 30, and this represents this information in the table.
+
+247
+00:23:07,360 --> 00:23:13,920
+ So between this and this, you have a lot of great information if they asked you anything
+
+248
+00:23:13,920 --> 00:23:19,840
+ about calcification dates, you have right there everything that you need to know.
+
+249
+00:23:19,840 --> 00:23:24,320
+ So hopefully that's a blessing for you and you can use that to help make studying a little
+
+250
+00:23:24,320 --> 00:23:27,080
+ bit easier.
+
+251
+00:23:27,080 --> 00:23:31,160
+ Now after the tooth is developed and calcified, what happens next?
+
+252
+00:23:31,160 --> 00:23:34,560
+ Well it needs to erupt into the mouth and this is the last thing we'll talk about in
+
+253
+00:23:34,560 --> 00:23:35,560
+ the video.
+
+254
+00:23:35,560 --> 00:23:40,040
+ Now I have a separate video covering this, but I really love this memory tool and I can't
+
+255
+00:23:40,040 --> 00:23:42,560
+ help but share it with you guys here too.
+
+256
+00:23:42,560 --> 00:23:47,800
+ I got this from another guy on YouTube and I think it's a brilliant way to remember eruption
+
+257
+00:23:47,800 --> 00:23:56,720
+ sequence for the primary teeth, this in the lowercase nxi, and the permanent teeth, this
+
+258
+00:23:56,720 --> 00:23:58,640
+ uppercase main.
+
+259
+00:23:58,640 --> 00:24:05,360
+ So these two words or whatever you want to call them are really great to help you remember
+
+260
+00:24:05,360 --> 00:24:08,680
+ eruption dates and sequence.
+
+261
+00:24:08,680 --> 00:24:11,160
+ So first let's talk about the primary teeth.
+
+262
+00:24:11,160 --> 00:24:16,360
+ Now all the eruption times I use are straight from the ADA website.
+
+263
+00:24:16,360 --> 00:24:21,080
+ So these numbers here are in months.
+
+264
+00:24:21,080 --> 00:24:25,360
+ And there is some discrepancy here but this is what I really urge you to remember for
+
+265
+00:24:25,360 --> 00:24:30,440
+ the board exams because every tooth erupts within a range.
+
+266
+00:24:30,440 --> 00:24:35,640
+ Normally it's within a six month time period, but for the board exam it's much more practical
+
+267
+00:24:35,640 --> 00:24:41,360
+ I think to remember a single number for each tooth rather than a range that they could possibly
+
+268
+00:24:41,360 --> 00:24:43,240
+ erupt in.
+
+269
+00:24:43,240 --> 00:24:49,760
+ Even more important than the number is the order that these teeth normally erupt in.
+
+270
+00:24:49,760 --> 00:24:57,880
+ So how we remember this is the word or phrase nxi all in lowercase.
+
+271
+00:24:57,880 --> 00:25:03,480
+ And by drawing those three letters one straight to the next you get the sequence of eruption
+
+272
+00:25:03,480 --> 00:25:06,480
+ of the primary teeth.
+
+273
+00:25:06,480 --> 00:25:14,560
+ And before I start I'll just explain these are the centrals, the laterals, the canines,
+
+274
+00:25:14,560 --> 00:25:18,400
+ the first primary molars and the second primary molars.
+
+275
+00:25:18,400 --> 00:25:26,040
+ Alright, so if we start right here with this lower central incisor we draw our lowercase
+
+276
+00:25:26,040 --> 00:25:34,800
+ n, we draw our x like this and then we skip over here and we finish with our i at the
+
+277
+00:25:34,800 --> 00:25:37,040
+ end.
+
+278
+00:25:37,040 --> 00:25:44,520
+ So after doing that you'll see that we went straight in order here from six months to
+
+279
+00:25:44,520 --> 00:25:52,080
+ twenty six months and if you need additional help remembering the numbers you can remember
+
+280
+00:25:52,080 --> 00:26:01,200
+ we have six, sixteen and twenty six all ending in six giving you reference points for this
+
+281
+00:26:01,200 --> 00:26:07,920
+ entire sequence, so I think that's really really cool to be able to draw that out quickly
+
+282
+00:26:07,920 --> 00:26:13,120
+ and to write those letters and to have all that information at your disposal in just
+
+283
+00:26:13,120 --> 00:26:15,640
+ a few seconds.
+
+284
+00:26:15,640 --> 00:26:18,400
+ And next we'll talk about the permanent teeth.
+
+285
+00:26:18,400 --> 00:26:23,320
+ So all the eruption times here are again straight from the ADA website but this time they're
+
+286
+00:26:23,320 --> 00:26:26,480
+ all in years.
+
+287
+00:26:26,480 --> 00:26:31,440
+ Now these teeth also tend to erupt within a six month window but again I would learn
+
+288
+00:26:31,440 --> 00:26:38,560
+ a single number for the board exam and focus most importantly on the sequence of eruption.
+
+289
+00:26:38,560 --> 00:26:45,080
+ So how we remember this one is the word main all in uppercase and by drawing those four
+
+290
+00:26:45,080 --> 00:26:52,880
+ letters separately starting with the i this will get you the sequence of eruption.
+
+291
+00:26:52,880 --> 00:26:59,200
+ So we start and I will show you guys what all these mean this is the central and our
+
+292
+00:26:59,200 --> 00:27:04,600
+ permanent teeth, central incisors, lateral incisors, canines, first premolars, second
+
+293
+00:27:04,600 --> 00:27:10,640
+ premolars, first molars, second molars and we even have the third molars in there.
+
+294
+00:27:10,640 --> 00:27:17,080
+ So we start with our i and we start with the lower first molar and we draw the i like this,
+
+295
+00:27:17,080 --> 00:27:23,640
+ we jump back over to the central incisor the lower central incisor and we draw our m up
+
+296
+00:27:23,640 --> 00:27:27,000
+ down up down.
+
+297
+00:27:27,000 --> 00:27:34,920
+ Alright now we jump over here and our a is a little bit weird, we go up over down and
+
+298
+00:27:34,920 --> 00:27:40,600
+ we have to finish our a so we go up like this and then we jump over to the lower second
+
+299
+00:27:40,600 --> 00:27:47,040
+ molar and we only have one place to put our n and it's just like that.
+
+300
+00:27:47,040 --> 00:27:54,520
+ So by starting in those areas, we get our sequence of eruption and I think it's just
+
+301
+00:27:54,520 --> 00:28:01,480
+ so cool that there's a word that goes with it, it's uppercase which has to do with the
+
+302
+00:28:01,480 --> 00:28:06,600
+ permanent teeth, it just works out so well and I'm just really impressed with this method
+
+303
+00:28:06,600 --> 00:28:11,400
+ and I think it's just super super helpful to know for the board exam.
+
+304
+00:28:11,400 --> 00:28:15,900
+ Now some other general facts that I have listed here that are really great for eruption, usually
+
+305
+00:28:15,900 --> 00:28:22,080
+ mandibular teeth erupt before maxillary teeth, generally teeth in females erupt earlier than
+
+306
+00:28:22,080 --> 00:28:28,600
+ those same teeth in males and in both males and females, tooth eruptions should occur symmetrically
+
+307
+00:28:28,600 --> 00:28:30,320
+ in both jaws.
+
+308
+00:28:30,320 --> 00:28:37,240
+ So if you have a lower left first premolar that's erupting, that lower right first premolar
+
+309
+00:28:37,240 --> 00:28:41,640
+ should also be erupting or within a couple months of erupting.
+
+310
+00:28:41,640 --> 00:28:46,360
+ If it's not then we then we're suspecting maybe the tooth is missing or it's impacted
+
+311
+00:28:46,360 --> 00:28:48,640
+ or something's going on.
+
+312
+00:28:48,640 --> 00:28:57,640
+ And finally something that I call the 2-3 rule and teeth normally erupt with 2/3 of their
+
+313
+00:28:57,640 --> 00:29:05,320
+ roots having been developed, then after that point the root takes about 2-3 more years
+
+314
+00:29:05,320 --> 00:29:10,440
+ after initial eruption to complete its root development.
+
+315
+00:29:10,440 --> 00:29:14,240
+ So the 2-3 rule works for both aspects of the root.
+
+316
+00:29:14,240 --> 00:29:19,320
+ The tooth will erupt when 2/3 of the root is developed and the root takes about 2-3 more
+
+317
+00:29:19,320 --> 00:29:23,680
+ years after initial eruption to complete developing.
+
+318
+00:29:23,680 --> 00:29:29,320
+ Alright so that's it for this video, thank you so much for watching guys, I really hope
+
+319
+00:29:29,320 --> 00:29:34,880
+ you enjoyed learning about tooth development, calcification and eruption sequences.
+
+320
+00:29:34,880 --> 00:29:38,080
+ A lot of high yield stuff in this video and I hope it helped.
+
+321
+00:29:38,080 --> 00:29:42,880
+ If you're interested in supporting my channel, please check out my Patreon page, a huge thank
+
+322
+00:29:42,880 --> 00:29:49,960
+ you to Michael Raja, Rabbi Boyd, Leonela Bungar, David Jaden, Yannet, Nicole, Isabella
+
+323
+00:29:49,960 --> 00:29:55,840
+ Caldis, Ali Benjdier, Jacob K and all of my other patrons for their support.
+
+324
+00:29:55,840 --> 00:29:59,960
+ You can unlock extras like access to these video slides if you want to take notes on
+
+325
+00:29:59,960 --> 00:30:04,400
+ them and practice questions for the board exam, so go check that out, the link is in
+
+326
+00:30:04,400 --> 00:30:06,240
+ the description below.
+
+327
+00:30:06,240 --> 00:30:09,680
+ Please like this video if you enjoyed it, subscribe to the channel if you haven't already
+
+328
+00:30:09,680 --> 00:30:14,120
+ and share it with your friends so more people can learn from mental dental.
+
+329
+00:30:14,120 --> 00:30:17,160
+ Thanks again for watching everyone and I'll see you in the next video.
+

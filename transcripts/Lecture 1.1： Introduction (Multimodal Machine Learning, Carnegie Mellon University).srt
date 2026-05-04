@@ -1,0 +1,2708 @@
+1
+00:00:00,000 --> 00:00:12,440
+ Okay. Welcome everyone. This is the largest we ever had for this course of multimodal machine
+
+2
+00:00:12,440 --> 00:00:22,680
+ learning. I'm very excited to start this new semester. This is probably about sixth time
+
+3
+00:00:22,680 --> 00:00:28,240
+ we teach this course, but we made some changes this year. This would be the first time that
+
+4
+00:00:28,240 --> 00:00:35,280
+ this course is recorded completely remotely, it's done completely remotely. If at any point
+
+5
+00:00:35,280 --> 00:00:42,920
+ you have a question, I very welcome questions. Since it is a very large group of people,
+
+6
+00:00:42,920 --> 00:00:52,120
+ what I will ask each of you is to type questions. This will work much better. So type any questions.
+
+7
+00:00:52,120 --> 00:01:01,480
+ We have the TAs who are monitoring this. They may, in fact, answer directly the question
+
+8
+00:01:01,480 --> 00:01:12,040
+ if it is via chat, or if not, then it will notify me and we can address that. So I want
+
+9
+00:01:12,040 --> 00:01:21,560
+ to start right now. This season, we have five TAs that are going to work with us for this
+
+10
+00:01:21,560 --> 00:01:28,120
+ and I'm very happy to have all five that were handpicked to be people who have experience
+
+11
+00:01:28,120 --> 00:01:34,760
+ in multimodal either by taking this course and or doing research directly on this topic.
+
+12
+00:01:34,760 --> 00:01:42,840
+ Paul is TA and at the same time will be guest lecturer on a few lectures, specifically reinforcement
+
+13
+00:01:42,840 --> 00:01:48,040
+ learning and I'm very excited that he accepted to give a few of these lectures. The rest of
+
+14
+00:01:48,040 --> 00:01:52,760
+ time will be me giving lectures and at the end we'll have a few more guest lecturer.
+
+15
+00:01:52,760 --> 00:02:00,920
+ We have Prakhar, also Martin, Shikib and Torsten. I think at least right now we have Martin and
+
+16
+00:02:00,920 --> 00:02:11,720
+ Paul who are somewhere in that list of 120 plus people who are currently on this. So yeah,
+
+17
+00:02:11,720 --> 00:02:19,480
+ so today my goal is first to share my passion about multimodal. I'm definitely passionate on
+
+18
+00:02:19,480 --> 00:02:25,880
+ this topic and you will see it through my lecture. I want to give you a definition of multimodal,
+
+19
+00:02:25,880 --> 00:02:33,560
+ what is multimodal, a historical view and also share these five technical challenges
+
+20
+00:02:33,560 --> 00:02:38,600
+ that are involved in many of the multimodal research and give you details on the syllabus.
+
+21
+00:02:40,360 --> 00:02:45,480
+ What is multimodal? And normally at this point I will try to get answers from you
+
+22
+00:02:45,480 --> 00:02:55,880
+ and I did not manage to get the Paul's functionative zoom to work right now so it would be without
+
+23
+00:02:55,880 --> 00:03:02,680
+ the Paul. But what is multimodal? What is a definition? Sometimes we can think of multimodal
+
+24
+00:03:02,680 --> 00:03:10,040
+ as from a mathematical perspective, a multimodal could be seen in fact one of the first
+
+25
+00:03:10,040 --> 00:03:15,000
+ although not the first one but one of the first definition of multimodal was really
+
+26
+00:03:15,000 --> 00:03:24,360
+ multimodal distribution, multimodal mode of a distribution like the peak. But often when we
+
+27
+00:03:24,360 --> 00:03:33,000
+ think of multimodal it is a lot more related to sensory modalities, the sound, the touch
+
+28
+00:03:33,960 --> 00:03:43,000
+ and the speech, what you see and so all of these are the sensory. I myself have done a lot of research
+
+29
+00:03:43,000 --> 00:03:51,880
+ over the years on a part of this which is the subset of these modalities although I'm excited
+
+30
+00:03:51,880 --> 00:03:59,880
+ in multimodal machine learning in general. I have focused myself on the subset of them
+
+31
+00:03:59,880 --> 00:04:06,520
+ and three of them that we will be focusing a lot more in this course but in general that
+
+32
+00:04:06,520 --> 00:04:15,640
+ are very central to communication. I call them the 3v of communication, verbal, vocal and visual,
+
+33
+00:04:15,640 --> 00:04:26,040
+ what you see, how you say it and also the visual, the behavior. So verbal, the words,
+
+34
+00:04:26,040 --> 00:04:33,800
+ how you phrase them but also the intent behind the words are very important. The vocal is one
+
+35
+00:04:33,800 --> 00:04:42,280
+ part is the process, the process is related to what you say, the words, how you say the words,
+
+36
+00:04:42,280 --> 00:04:47,800
+ that's one aspect but there's also what's called vocal expression like a laughter or a
+
+37
+00:04:47,800 --> 00:04:58,360
+ pause fillers, all of these are part of vocal, they're kind of the nonverbal aspect of visual.
+
+38
+00:04:58,360 --> 00:05:07,880
+ So this is one aspect of this and then the third one is visual, the gestures, the B gestures like
+
+39
+00:05:07,880 --> 00:05:15,080
+ I'm doing body language, other proximics in the virtual world mean almost something different.
+
+40
+00:05:16,120 --> 00:05:21,160
+ And if you ask me one of the important QI look in all communication is I guess,
+
+41
+00:05:21,160 --> 00:05:27,560
+ it's a very important Q both from communication perspective but also conclusively when you're
+
+42
+00:05:27,560 --> 00:05:35,000
+ talking and thinking. Finally facial expression very important, so that these are three examples
+
+43
+00:05:35,000 --> 00:05:40,760
+ in a second I'm going to give you a much larger number of that but before I give in the specific
+
+44
+00:05:40,760 --> 00:05:45,800
+ of different modalities there's a difference between, you've heard maybe the term sometimes
+
+45
+00:05:45,800 --> 00:05:55,240
+ multimodal and multimedia and you're like oh what's the difference, a modality and a medium
+
+46
+00:05:55,240 --> 00:06:00,840
+ are different, all the very related, the modality is the way in which something happened in this
+
+47
+00:06:00,840 --> 00:06:08,520
+ experience, this is in the sense almost the content of it, the medium is the mean in the way it is
+
+48
+00:06:08,520 --> 00:06:15,560
+ stored and communicated, so you can see there is a big relationship in this audio being
+
+49
+00:06:15,560 --> 00:06:22,600
+ a medium you could say and the vocal being a modality, over the years multimodal and multimedia
+
+50
+00:06:22,600 --> 00:06:29,000
+ had so much overlap that people started using the terms back and forth and so you will see them use
+
+51
+00:06:29,000 --> 00:06:35,240
+ multimedia and multimodal but I just wanted to give you originally how these came from and when
+
+52
+00:06:35,240 --> 00:06:40,680
+ you think of multimodal you have to think of multidisciplinary, this is something that comes
+
+53
+00:06:40,680 --> 00:06:49,000
+ from many different fields all bringing together and in a sense it's almost AI coming together
+
+54
+00:06:49,000 --> 00:06:55,000
+ because there's the speech, the vision, the language, there's also maybe the tactile and the robotics,
+
+55
+00:06:55,000 --> 00:07:01,640
+ there's the aspect of learning and there are applications and knowledge to gain from medical
+
+56
+00:07:01,640 --> 00:07:10,520
+ and psychology, so I mentioned natural language, visual and auditory or verbal, visual and vocal,
+
+57
+00:07:10,520 --> 00:07:18,840
+ there's also the touch, if you look at these days we also have to do sensors, a lot of sensors to
+
+58
+00:07:18,840 --> 00:07:28,200
+ the cell phone, you have in medical field EEG and you also have infrared cameras sometimes in some
+
+59
+00:07:28,200 --> 00:07:34,600
+ sensors and we also have MRI, the course as I mentioned we'll focus on language and vision
+
+60
+00:07:34,600 --> 00:07:42,280
+ as two of the building blocks for a lot of our examples but a lot of the work we talk about
+
+61
+00:07:42,280 --> 00:07:51,320
+ will in fact also have application other modalities and as often as possible I will try to bring these
+
+62
+00:07:51,960 --> 00:08:01,480
+ other example modalities in there, so the historical view I just want because sometimes you talk
+
+63
+00:08:01,480 --> 00:08:09,320
+ with students and sometimes we with the world of archive and we kind of think that the science
+
+64
+00:08:09,320 --> 00:08:18,280
+ everything that's more than five or ten years old is too old to read so I would like to think of
+
+65
+00:08:18,280 --> 00:08:23,640
+ multimodal as something that really evolved over the years and I think there's a lot of value in
+
+66
+00:08:23,640 --> 00:08:31,560
+ looking behind, looking at previous work, from my experience in multimodal, from my study of it,
+
+67
+00:08:31,560 --> 00:08:40,280
+ there's four eras of multimodal, there is the era of behavioral, a lot of the work there was
+
+68
+00:08:40,280 --> 00:08:46,920
+ psychology and inspiring communication, inspired, I will give you one a few example on this very
+
+69
+00:08:46,920 --> 00:08:52,280
+ interesting work, I strongly suggest to look at some of this early work and then there's something
+
+70
+00:08:52,280 --> 00:08:59,880
+ magic in late, in middle of late 80s where suddenly it's no more just looking at multimodal behavior
+
+71
+00:08:59,880 --> 00:09:06,200
+ from maybe a psychological or linguistic perspective but certainly looking at computational
+
+72
+00:09:06,200 --> 00:09:13,640
+ approach, one of them is looking at individual speech recognition and sometime in 2000 and I
+
+73
+00:09:13,640 --> 00:09:21,400
+ give you like probably one of the reasons for that but there's a switch where it's not just looking
+
+74
+00:09:21,400 --> 00:09:28,760
+ at a human in a computer but suddenly multimodal look at multiple people and their social interaction
+
+75
+00:09:28,760 --> 00:09:37,240
+ and so there is a lot of emphasis in social interaction and in 2010-ish then there's a suddenly move
+
+76
+00:09:38,360 --> 00:09:44,200
+ in looking at those neural architecture, like the renewal of neural architectures that started
+
+77
+00:09:44,200 --> 00:09:51,880
+ almost 2006-2007 but really had a big grasp around 2010. The course is focusing a lot more on that
+
+78
+00:09:51,880 --> 00:10:00,520
+ part but I think it's healthy to look at it more generally as well so if you have to read one and
+
+79
+00:10:00,520 --> 00:10:09,160
+ it's hard to pick only one person to read but if you had to look at this era and he's done work
+
+80
+00:10:09,160 --> 00:10:16,520
+ in the 1990s but I'm just putting someone 80s, David McNeal, I love his work very much on language
+
+81
+00:10:16,520 --> 00:10:24,760
+ and gesture and he's done a lot of interesting work that looking at gesture are in fact a display
+
+82
+00:10:24,760 --> 00:10:32,920
+ of people's thoughts and so it's more than just something that I accompany the speech it is a clear
+
+83
+00:10:32,920 --> 00:10:40,120
+ deputation of the thoughts and there's a very interesting debate around language and gestures
+
+84
+00:10:40,120 --> 00:10:46,760
+ around there and our own faculty here at CMU just think I said work very closely with David
+
+85
+00:10:46,760 --> 00:10:54,600
+ McNeal back in the days. I will say there's this magic moment where suddenly we went from
+
+86
+00:10:55,640 --> 00:11:06,760
+ we went from psychological linguistic to psychology and linguistic to more
+
+87
+00:11:06,760 --> 00:11:12,600
+ computational approach and I think one of these is that really sparked interest is the megahertz
+
+88
+00:11:12,600 --> 00:11:19,000
+ effect. I'm going to play the videos maybe some of you have seen in the past the megahertz effect
+
+89
+00:11:19,000 --> 00:11:25,240
+ so you have to listen and watch the video so if you're looking at something at the same time
+
+90
+00:11:25,240 --> 00:11:31,800
+ it's not going to work so this time you need to look at the video and listen I'm going to play
+
+91
+00:11:31,800 --> 00:11:38,600
+ two flips and you have to see if you hear something different in both cases.
+
+92
+00:11:49,000 --> 00:11:58,040
+ Okay so this was the first slip so hopefully you heard something repeated over and over it sounds
+
+93
+00:11:58,040 --> 00:12:05,240
+ really simple. I'm going to play it again not the same clip a second clip and listen if you hear
+
+94
+00:12:05,240 --> 00:12:25,880
+ something different. What's really interesting for the few of you who didn't bother to even look
+
+95
+00:12:25,880 --> 00:12:32,120
+ at it you probably in fact heard the same thing both times and the reason for that is it's exactly
+
+96
+00:12:32,120 --> 00:12:40,200
+ the same audio clip it's exactly the same audio clip in both cases the only difference is the video
+
+97
+00:12:40,200 --> 00:12:47,320
+ in both of them. In one case you probably the first one heard something closer to bah bah bah
+
+98
+00:12:47,320 --> 00:12:55,320
+ and the second is pa pa pa. So you can see that suddenly it's very exciting something like oh my
+
+99
+00:12:55,320 --> 00:13:02,760
+ god we were doing all this work on speech recognition there was an interesting work in the 80s on this
+
+100
+00:13:02,760 --> 00:13:10,440
+ and like but then and like oh but maybe the old reason that this was not working well it was that
+
+101
+00:13:10,440 --> 00:13:18,280
+ we needed to have both I'll do a video together and that's why in the the next space is computational
+
+102
+00:13:18,280 --> 00:13:24,040
+ I think suddenly it what drove a lot of it one of the thing not the only thing but one of the
+
+103
+00:13:24,040 --> 00:13:31,000
+ main thing that drove the computational era is this audio visual speech recognition this idea that
+
+104
+00:13:31,000 --> 00:13:40,520
+ to recognize things you need to be able to look and hear and look at the same time one thing that
+
+105
+00:13:40,520 --> 00:13:48,200
+ was interesting during this era is that it turned out that although it is effectively helping it looks
+
+106
+00:13:48,200 --> 00:13:55,160
+ like audio and visual could help together in a few cases it turned out in the case of speech
+
+107
+00:13:55,160 --> 00:14:02,520
+ recognition there's a lot of redundancy both signals are encoding the same thing which is great
+
+108
+00:14:02,520 --> 00:14:08,440
+ which made things in fact more robust and so one of the things to take home for all the research on
+
+109
+00:14:08,440 --> 00:14:15,240
+ other videos or speech recognition is that sometimes bringing the two modalities together the goal
+
+110
+00:14:15,240 --> 00:14:22,680
+ may be to have something more robust and you can have redundant information in both modality
+
+111
+00:14:22,680 --> 00:14:29,240
+ you could have also complementary like you need to have both modalities to be able to infer
+
+112
+00:14:29,240 --> 00:14:38,280
+ like the far far far but in in most cases you can also find that only one modality may be sufficient
+
+113
+00:14:39,240 --> 00:14:45,480
+ now at the same time when this old work happened in audio visual speech recognition in the world
+
+114
+00:14:45,480 --> 00:14:51,880
+ of human computer interaction there's suddenly a lot of interest in multimodal because human
+
+115
+00:14:51,880 --> 00:14:58,120
+ how will a human ever interact with the computer it should be the same way as the human interact
+
+116
+00:14:58,120 --> 00:15:03,960
+ with each other and human interact with each other with two multiple modalities so there's a lot of
+
+117
+00:15:03,960 --> 00:15:10,200
+ interest at this point to build computers now these days we almost see it as a reality coming up
+
+118
+00:15:10,200 --> 00:15:18,040
+ with these different interphase Alexa being one of them but now we have these assistants
+
+119
+00:15:18,040 --> 00:15:24,360
+ but there we're talking about more than 20 plus years ago there was already this dream of this and
+
+120
+00:15:24,360 --> 00:15:29,960
+ one of the a sub dream of that was effective computing where it's not only you talk with the
+
+121
+00:15:29,960 --> 00:15:36,760
+ robot but there's also the aspect of emotion and feeling that will be able to perceive and generate
+
+122
+00:15:36,760 --> 00:15:44,840
+ and model and if you wonder why emotions emotions are key to decision making there's a lot of work
+
+123
+00:15:44,840 --> 00:15:51,400
+ in this and a lot of literature on this topic but if for decision making emotions are key
+
+124
+00:15:51,400 --> 00:15:56,040
+ but they are also key for other things like sharing emotion sharing how you're feeling so
+
+125
+00:15:56,040 --> 00:16:03,880
+ their emotions are important a different aspect the the third thing there was multimedia these
+
+126
+00:16:03,880 --> 00:16:09,080
+ happen all around the same time a little bit later I will see multimedia computing multimedia
+
+127
+00:16:09,080 --> 00:16:16,600
+ computing was the idea of all of these video that was being created digitally and can we understand
+
+128
+00:16:16,600 --> 00:16:22,920
+ its content so that we cannot just we don't we don't just research thing based on keywords
+
+129
+00:16:22,920 --> 00:16:29,800
+ but we can use the content of the video and it was a very big landmark project that was almost 15
+
+130
+00:16:29,800 --> 00:16:38,120
+ years at Carnegie Mellon Alex Hoffman was one of the co-PI on this so this is fun this is great
+
+131
+00:16:38,120 --> 00:16:44,280
+ because at that point it was the beginning of the internet now it sounds so obvious with things like
+
+132
+00:16:44,280 --> 00:16:49,480
+ YouTube or even Facebook and other platform that we want to search videos but this was really at
+
+133
+00:16:49,480 --> 00:16:54,680
+ the beginning of it and so they want to look at the content inside the video the speech image
+
+134
+00:16:54,680 --> 00:17:03,400
+ and the language in it so this is 2000 and then suddenly we go ahead and it's what I would call
+
+135
+00:17:03,400 --> 00:17:10,760
+ the interaction era at this point we want to model human-human interaction as well and one
+
+136
+00:17:10,760 --> 00:17:19,240
+ landmark project I will say is the AMI project in early 2000 they recorded meetings moving together
+
+137
+00:17:20,200 --> 00:17:26,680
+ people talking to each other so it was no more just human computer and it was a lot more
+
+138
+00:17:26,680 --> 00:17:33,960
+ looking at people how they interact together there was a follow-up to that also with faculty
+
+139
+00:17:33,960 --> 00:17:44,600
+ at CMU chill by the way if you know Ben Joe from Montreal's and his brother Sammy was in fact on
+
+140
+00:17:44,600 --> 00:17:50,760
+ the AMI project I think it was as opposed back in the days I think he was recently at Google if I
+
+141
+00:17:50,760 --> 00:17:59,960
+ remember correctly um Sammy so just to give an example another very big important one for everybody
+
+142
+00:17:59,960 --> 00:18:07,320
+ who has an iPhone you know about Siri but Siri came from this multimodal project that it was a
+
+143
+00:18:07,320 --> 00:18:14,360
+ darker-funded project called Kalo about this personal assistant this whole idea of bringing information
+
+144
+00:18:14,360 --> 00:18:21,560
+ together and around the same time social signal processing although the term itself started in
+
+145
+00:18:21,560 --> 00:18:27,720
+ the US it had a big momentum in Europe around that time so a lot of very interesting project
+
+146
+00:18:27,720 --> 00:18:37,000
+ and then suddenly and then suddenly we come into the deep learning and why is the deep learning era
+
+147
+00:18:37,000 --> 00:18:43,240
+ so important for multimodal because there's some landmark work and I listed some of them
+
+148
+00:18:43,240 --> 00:18:51,800
+ that landmark work but really the key enabler why suddenly the way we went from multimodal research
+
+149
+00:18:51,800 --> 00:18:57,480
+ before to a brand new paradigm of multimodal research it is from at least four different
+
+150
+00:18:57,480 --> 00:19:03,720
+ reasons the first two I I will say generic reason for many research topics and the last two I think
+
+151
+00:19:03,720 --> 00:19:09,400
+ I'm a little bit more specific the first one is that suddenly that we had a much larger number
+
+152
+00:19:09,400 --> 00:19:14,920
+ of multimodal data set I talk about the AMI data set there's a lot of other one
+
+153
+00:19:14,920 --> 00:19:20,200
+ I do visual emotional challenges being other example but suddenly there's a move towards
+
+154
+00:19:20,200 --> 00:19:25,320
+ much larger data set so that's one point and the other point that you probably heard
+
+155
+00:19:25,320 --> 00:19:31,560
+ often and over and over is also about faster computer and GPUs that allowed us to revisit
+
+156
+00:19:32,680 --> 00:19:40,440
+ theories and models back from the 90s and restarted them now in this larger scale
+
+157
+00:19:40,440 --> 00:19:48,280
+ scenarios and so yes these were definitely very important but I think what really made the
+
+158
+00:19:48,280 --> 00:19:55,800
+ difference is two things if you think of multimodal and specifically look at language vision and maybe
+
+159
+00:19:55,800 --> 00:20:04,760
+ audio as well vision is was a very high dimensional and and many modalities have the same issue
+
+160
+00:20:04,760 --> 00:20:13,320
+ very high dimensional and the way to represent it was I've always been somewhat of a challenge
+
+161
+00:20:13,320 --> 00:20:20,040
+ there are some very interesting features that were like more local in space like CIF feature back in
+
+162
+00:20:20,040 --> 00:20:27,880
+ 2000 but suddenly with neural representation and the revisiting of convolutional suddenly you take
+
+163
+00:20:27,880 --> 00:20:35,080
+ these very high dimensional representation and put them in a one vector or one representation
+
+164
+00:20:35,080 --> 00:20:41,560
+ that is much smaller that allowed to take both the spatial information and the texture
+
+165
+00:20:41,560 --> 00:20:48,120
+ information and encode that in that one vector so that was very nice that happened one landmark
+
+166
+00:20:48,120 --> 00:20:55,720
+ paper in 2011 if I remember correctly and around the same time a lot of interesting approaches that
+
+167
+00:20:55,720 --> 00:21:03,000
+ were studied in the past about a distributional hypothesis meaning the meaning of a word can be
+
+168
+00:21:03,000 --> 00:21:09,320
+ approximated by the words surrounding it got revisited by researchers around the world but
+
+169
+00:21:09,320 --> 00:21:15,080
+ specifically by Google researchers was one of the landmark word with word to back and so then
+
+170
+00:21:15,080 --> 00:21:23,480
+ you could take what was very discreet very discreet elements like a word and suddenly you were able
+
+171
+00:21:23,480 --> 00:21:29,960
+ to encode them into something that like a vector representation some people would call the word
+
+172
+00:21:29,960 --> 00:21:37,400
+ to back vectors so now we had something that was very discreet and we can put it in a vector
+
+173
+00:21:37,400 --> 00:21:42,680
+ representation we have an image that was high dimensional you can put it in a vector and then
+
+174
+00:21:42,680 --> 00:21:48,840
+ in speech I would say these there was a lot of work in the past and they had already found
+
+175
+00:21:48,840 --> 00:21:55,080
+ very useful representations that could already be used although there you see some newer one
+
+176
+00:21:55,080 --> 00:22:00,680
+ recently but they're still already at a good understanding looking at the frequency domain
+
+177
+00:22:00,680 --> 00:22:08,360
+ looking at spectrogram or if and how people are hearing and looking at MFCC so all these modalities
+
+178
+00:22:08,360 --> 00:22:15,640
+ now are all on the same similar and they're not exactly the same space because you have to remember
+
+179
+00:22:15,640 --> 00:22:22,440
+ the kind of noise you see in an image is very different from the kind of noise you see in words
+
+180
+00:22:22,440 --> 00:22:29,640
+ like in a word you may have a mistake in the way something has been transcribed or something like
+
+181
+00:22:29,640 --> 00:22:35,880
+ this but in the words we're talking about pixel change of textures so very different model of noise
+
+182
+00:22:35,880 --> 00:22:41,400
+ and so it's not that these space are equivalent but they are a lot closer so we went from very
+
+183
+00:22:41,400 --> 00:22:49,000
+ heterogeneous to less heterogeneous it's still different space but they are a lot a bit closer
+
+184
+00:22:49,000 --> 00:22:54,680
+ and so that really brought in the multimodal deep learning and some of the polar papers
+
+185
+00:22:54,680 --> 00:22:59,560
+ to try to study these and that's what we're going to study in this course today
+
+186
+00:23:00,840 --> 00:23:08,920
+ so when we study multimodal you're probably wondering like is it why do I do study multimodal
+
+187
+00:23:08,920 --> 00:23:16,280
+ machine learning why not just studying machine learning I mean if it's in the name and probably
+
+188
+00:23:16,280 --> 00:23:23,160
+ everything we study in machine learning is exactly what we need in multimodal when we started teaching
+
+189
+00:23:23,160 --> 00:23:31,480
+ this course and I like more than six years ago the goal was to study what exists in machine learning
+
+190
+00:23:31,480 --> 00:23:37,800
+ and what exists in multimodal research and try to identify what is the core challenges what other
+
+191
+00:23:37,800 --> 00:23:44,760
+ core technical challenges in multimodal that have been understudied in machine learning it doesn't
+
+192
+00:23:44,760 --> 00:23:53,160
+ mean they're never studied but they've been kind of understudied in machine learning and so we identified
+
+193
+00:23:53,160 --> 00:23:59,720
+ five of these core challenges and I'm going to highlight them during this lecture today and
+
+194
+00:23:59,720 --> 00:24:05,960
+ we're going to use it as a structure for this course we're going to go way beyond that eventually
+
+195
+00:24:05,960 --> 00:24:12,600
+ because this survey for example was a survey of three years ago so but it's interesting if you do
+
+196
+00:24:12,600 --> 00:24:19,400
+ a survey and you talk about taxonomy of research it's interesting that although the there's a lot
+
+197
+00:24:19,400 --> 00:24:25,640
+ of new papers that came in the taxonomy some of it is still very relevant these days and a lot of
+
+198
+00:24:25,640 --> 00:24:31,320
+ it is still relevant I think we can always expand it's a good starting point I think when you're
+
+199
+00:24:31,320 --> 00:24:40,120
+ studying multimodal so let me go in this and study what those core challenges are right now I'm not
+
+200
+00:24:40,120 --> 00:24:45,640
+ going to give I'm going to give another view and we're going to spend the next 15 weeks together
+
+201
+00:24:45,640 --> 00:24:52,680
+ looking in the details and looking at state of the eye that way go go beyond that so but two of
+
+202
+00:24:52,680 --> 00:25:00,600
+ the core challenges I think for many problems but also for multimodal is how do you bring verbal
+
+203
+00:25:00,600 --> 00:25:08,120
+ vocal and visual and at a first level is very important and I think everybody who's used or
+
+204
+00:25:08,120 --> 00:25:14,520
+ work nowadays days with deep neural representation or networks really understand the challenge of
+
+205
+00:25:14,520 --> 00:25:22,040
+ representation learning and so I think there's some very key aspect that are true for in general
+
+206
+00:25:22,040 --> 00:25:29,560
+ of representation learning but in multimodal I'm going to share with you a few core challenges
+
+207
+00:25:29,560 --> 00:25:37,000
+ related to representation if you ask me why does this one challenge that is very multimodal is
+
+208
+00:25:37,000 --> 00:25:42,120
+ alignment and I'm going to give a little bit more a little bit more details in a second looking at
+
+209
+00:25:42,120 --> 00:25:49,640
+ synchrony but let me talk about multimodal and I have a dream and I had this dream for a while
+
+210
+00:25:49,640 --> 00:26:00,040
+ and this dream is that I could learn a representation where if I say I like it or I'm a happy face or
+
+211
+00:26:00,040 --> 00:26:07,640
+ joyful tone that the representation will encode that the similarity or if I'm tense or if I'm
+
+212
+00:26:07,640 --> 00:26:16,440
+ or if I'm surprised that these will be able that my representation will encode that at some level
+
+213
+00:26:16,440 --> 00:26:23,240
+ and this is a dream that I had for a while and I will say we're a lot closer to that but back in
+
+214
+00:26:23,240 --> 00:26:30,440
+ the days this dream comes as more than 15 years old this dream but what happened in this 2010-11
+
+215
+00:26:30,440 --> 00:26:38,040
+ and plus is that suddenly that dream become a lot more reality and what what happened is that they
+
+216
+00:26:38,040 --> 00:26:47,400
+ people were suddenly bold to learn joint representation representation where you see an object is a visual
+
+217
+00:26:47,400 --> 00:26:54,520
+ representation and then you see you you see you see some language associated with this so maybe a
+
+218
+00:26:54,520 --> 00:27:04,520
+ red car or a enthusiastic per speaker or some so you have a kind of a description and so you have
+
+219
+00:27:04,520 --> 00:27:12,040
+ some kind of paired data and so a Georgia representation allows you to learn this one space where both
+
+220
+00:27:12,040 --> 00:27:18,840
+ of them will live together and that sounded like almost impossible before but now with this work
+
+221
+00:27:18,840 --> 00:27:24,840
+ and now we're seeing a lot more of that we got this we got to see these joint representation see
+
+222
+00:27:24,840 --> 00:27:31,640
+ very important milestone and one of the example I'm going to show in the next slide is here's what
+
+223
+00:27:31,640 --> 00:27:39,400
+ they did and I love it and I always talk about this one example is that they learn back in the days
+
+224
+00:27:40,040 --> 00:27:46,760
+ they learn to a pair of datasets where you have pair image and description and they learn a joint
+
+225
+00:27:46,760 --> 00:27:53,720
+ representation a representation could be just a vector and what's great by having it joint is
+
+226
+00:27:53,720 --> 00:28:01,240
+ that suddenly you can take any sentence and and if the model was successful in training you can
+
+227
+00:28:01,240 --> 00:28:07,560
+ take any of these sentences and encode it pass it through to your model and suddenly get your
+
+228
+00:28:07,560 --> 00:28:13,560
+ representation your vector and you could do it similarly with any image and both will be in the
+
+229
+00:28:13,560 --> 00:28:20,680
+ same space in the same kind of representation and what can you do if you do this is great what did
+
+230
+00:28:20,680 --> 00:28:27,240
+ they do they did and they train the model and then they test and then what they do they take an image
+
+231
+00:28:27,240 --> 00:28:34,600
+ of a blue car blue car and then they go and encode it like kind of get a vector out of it with their
+
+232
+00:28:34,600 --> 00:28:41,240
+ model that they had trained another data and then they take the word blue and then they also encode
+
+233
+00:28:41,240 --> 00:28:47,160
+ it and then they create the word red and also encode it and then they do have it metric which is
+
+234
+00:28:47,160 --> 00:28:54,840
+ beautiful the blue car the image of a blue car minus blue plus red you get a new vector and then
+
+235
+00:28:54,840 --> 00:29:00,280
+ you can sample from that like your nearest neighbor like looking you know all of the training data
+
+236
+00:29:01,000 --> 00:29:06,040
+ or you could have a calibration data set for that and that's really interesting that suddenly you
+
+237
+00:29:06,040 --> 00:29:13,240
+ get images of red car you could do it for colors and then they did it for day and night so you take
+
+238
+00:29:13,240 --> 00:29:22,360
+ a palace and then do it at night flying and plus sailing so although and we're going to discuss
+
+239
+00:29:22,360 --> 00:29:29,880
+ these issues I mean it doesn't mean that arithmetic is true every time there's cases this will fail
+
+240
+00:29:29,880 --> 00:29:36,040
+ but just the fact that it worked in some cases was very exciting I think this was for me a big
+
+241
+00:29:36,040 --> 00:29:43,800
+ relevant relation so so then suddenly you have the chance to have multimodal representation so
+
+242
+00:29:43,800 --> 00:29:51,160
+ representation the challenge can be formalized as learning how to represent and summarize multimodal
+
+243
+00:29:51,160 --> 00:29:59,000
+ data in a way that explored the complementarity and redundancy if you remember in audiovisual
+
+244
+00:29:59,000 --> 00:30:05,320
+ speech recognition they turned out there's a lot of redundancy between the two between what I say
+
+245
+00:30:05,320 --> 00:30:14,040
+ and my lips there's a lot like my visor my phoneme what you hear are similar to my visor more like my
+
+246
+00:30:14,040 --> 00:30:20,680
+ lips contour so this is redundancy and you want to take advantage of that redundancy maybe to be
+
+247
+00:30:20,680 --> 00:30:27,240
+ more efficient and more robust but you also want to do complementarity like the mega effect if two
+
+248
+00:30:27,240 --> 00:30:33,880
+ things by themselves are not sufficient like and you need to bring them together when you think of
+
+249
+00:30:33,880 --> 00:30:42,600
+ representation many people think of joint representation you take two modalities and you force them
+
+250
+00:30:42,600 --> 00:30:50,120
+ together in one representation one vector space there is and I would like to make you think a
+
+251
+00:30:50,120 --> 00:30:56,760
+ little bit outside the box a little bit with coordinated representation that's a different way to think a
+
+252
+00:30:56,760 --> 00:31:03,160
+ little bit about representation learning where instead of bringing everything together what you
+
+253
+00:31:03,160 --> 00:31:09,960
+ will do is bring each of them so language you have that representation and then you will have
+
+254
+00:31:09,960 --> 00:31:16,760
+ visual and you you have its own space and instead of forcing them to be in the same one you will
+
+255
+00:31:16,760 --> 00:31:23,080
+ keep them but you're going to coordinate a subspace a sub part of it you're going to coordinate
+
+256
+00:31:23,080 --> 00:31:30,280
+ and coordination you should see it as a spectrum coordination is that as a spectrum between that
+
+257
+00:31:30,280 --> 00:31:37,480
+ so what do I mean is that at one end the coordination is so strong that they are equal you're forcing
+
+258
+00:31:37,480 --> 00:31:43,560
+ it to be language representation being called to visual representation that's one end of it sorry
+
+259
+00:31:43,560 --> 00:31:49,400
+ at that point it's mostly a joint representation at the other end they're separate representation
+
+260
+00:31:49,400 --> 00:31:55,240
+ you don't coordinate at all and then you have a spectrum in between one example is you could say
+
+261
+00:31:55,240 --> 00:32:00,680
+ I'm not going to make them equal but I'm going to make them correlated so it's not as much as
+
+262
+00:32:00,680 --> 00:32:07,960
+ they call but close an example of that is CCA canonical correlation analysis you could use that
+
+263
+00:32:07,960 --> 00:32:14,440
+ or you could go and say from all my representation I'm going to bring together only a subset of each
+
+264
+00:32:14,440 --> 00:32:20,040
+ representation there's some items I want very close to each other and for the rest I will let you
+
+265
+00:32:20,040 --> 00:32:28,440
+ let each modality separate and let them by themselves and we'll study different version of these coordinated
+
+266
+00:32:28,440 --> 00:32:37,960
+ representation as I mentioned one thing that is core to multi model is alignment like synchrony
+
+267
+00:32:37,960 --> 00:32:44,920
+ I talk and speak and gesture at the same time you want to be able to align speech and gesture as
+
+268
+00:32:44,920 --> 00:32:54,280
+ an example when I say it's very specific to to multi model alignment is in fact what I the generic
+
+269
+00:32:54,280 --> 00:33:05,880
+ term is multi view multiple view of the same data so multi model it could be seen as a specialization
+
+270
+00:33:05,880 --> 00:33:15,080
+ of multi view learning where the the views are modalities but another way of multi view is to
+
+271
+00:33:15,080 --> 00:33:23,320
+ also look at multilingual multiple languages these are all multi view problems multi model
+
+272
+00:33:23,320 --> 00:33:30,280
+ multilingual and so that's why if some of you have studied machine translation you will see the
+
+273
+00:33:30,280 --> 00:33:37,240
+ problem of alignment because this is a multi view you want to be in alignment you want to be able to
+
+274
+00:33:37,240 --> 00:33:45,400
+ have elements of one modality like words or objects and be able to align them together and
+
+275
+00:33:45,400 --> 00:33:51,480
+ synchronize and align them some people will say when its language and images will save them to
+
+276
+00:33:51,480 --> 00:33:58,200
+ ground them as an example and when you do this there's two types of alignment there's the problem
+
+277
+00:33:58,200 --> 00:34:06,920
+ of explicit alignment or implicit alignment explicit alignment means your goal your last function your
+
+278
+00:34:06,920 --> 00:34:15,080
+ your task is to align thing together let's say I give you a corpora with a bunch of images and a
+
+279
+00:34:15,080 --> 00:34:22,520
+ bunch of text and I say match them together or a video and a cooking recipe it's a video of the
+
+280
+00:34:22,520 --> 00:34:32,360
+ recipe and a cooking I want to align that or a wiki like to do do it yourself video and the
+
+281
+00:34:32,360 --> 00:34:37,880
+ instruction that kind of alignment that's explicit alignment the last function what you're optimizing
+
+282
+00:34:37,880 --> 00:34:45,000
+ is going to be the alignment in many cases the alignment is just an intermediate step like the
+
+283
+00:34:45,000 --> 00:34:50,680
+ the real last function may be another task it may be about generating text from an image
+
+284
+00:34:50,680 --> 00:34:56,360
+ and so you go from the image to generating text and in the middle as a latent process
+
+285
+00:34:56,360 --> 00:35:01,880
+ you do implicit and for people who work on this topic the example of that would be an
+
+286
+00:35:01,880 --> 00:35:09,320
+ attention model will be an example of implicit or latent alignment these days we talk about
+
+287
+00:35:09,320 --> 00:35:16,920
+ self attention and transformers will all be in this thread but there's often cases where you go is
+
+288
+00:35:16,920 --> 00:35:23,160
+ I give you two videos and I want to align them together that's probably the most visual of the
+
+289
+00:35:23,160 --> 00:35:30,040
+ example I could give so here's a you have very these videos originally were a different time
+
+290
+00:35:30,040 --> 00:35:36,760
+ number of different granularity they're not exactly the same but you're doing your best match to
+
+291
+00:35:36,760 --> 00:35:44,840
+ align them and you could I could have give you an image and you say hey the task is to align every
+
+292
+00:35:44,840 --> 00:35:52,520
+ words with every object or every possible word that you can with any object in the image but in
+
+293
+00:35:52,520 --> 00:36:00,680
+ many cases the alignment is not explicit but really the task is just the generation of language
+
+294
+00:36:00,680 --> 00:36:07,880
+ and implicitly as a latent state you would do it so this is representation and we're we will
+
+295
+00:36:07,880 --> 00:36:15,000
+ spend about two full weeks four lectures on representation I think we have at least two lectures on alignment
+
+296
+00:36:15,640 --> 00:36:24,120
+ these are very very core aspect of the course but then from there there's a branch from alignment
+
+297
+00:36:24,120 --> 00:36:29,560
+ there's a branch you either you always almost always have representation almost always have
+
+298
+00:36:29,560 --> 00:36:36,600
+ alignment but then there's a branch are you doing translation or are you doing fusion there are
+
+299
+00:36:36,600 --> 00:36:42,600
+ few examples where both are happening at the same time but it's it's it's often and their translation
+
+300
+00:36:42,600 --> 00:36:49,320
+ and fusion is about what is your loss function what is your loss function in the case of translation
+
+301
+00:36:49,320 --> 00:36:56,440
+ what what is are you trying to do and translation is translating from one modality to another
+
+302
+00:36:56,440 --> 00:37:05,400
+ for example translating from an image to text like for image captioning fusion the loss function
+
+303
+00:37:05,400 --> 00:37:11,560
+ is not creating generating one of the modality in the case of fusion you bring all the modalities
+
+304
+00:37:11,560 --> 00:37:19,080
+ together to be able to infer something else something high level like the recognizing the emotion or
+
+305
+00:37:19,080 --> 00:37:27,880
+ detecting an event in the video so the fusion will be different and will bring different approaches
+
+306
+00:37:27,880 --> 00:37:35,160
+ than translation so let me talk about translation at first and then talk about fusion translation
+
+307
+00:37:35,160 --> 00:37:41,800
+ the landmark and we'll talk a little bit more on tuesday about this but one of really the landmark
+
+308
+00:37:41,800 --> 00:37:53,080
+ work on translation was image captioning and i discussed that more on on on tuesday um but there's
+
+309
+00:37:53,080 --> 00:37:58,600
+ more than that there's different type of translations and one of them that i like quite a bit is this
+
+310
+00:37:58,600 --> 00:38:06,840
+ example in this example what you will see is on the uh i don't know if it's right or left for you but
+
+311
+00:38:06,840 --> 00:38:13,880
+ on one side the input side what you have is from the video we're only going to get the transcript of
+
+312
+00:38:13,880 --> 00:38:21,400
+ what has been said and the audio stream like the acoustic the vocal of the prosody only take that
+
+313
+00:38:21,400 --> 00:38:28,440
+ and the goal is to generate the behaviors and the behaviors the visual gesture you want to generate
+
+314
+00:38:28,440 --> 00:38:33,560
+ you're going to want to generate two types the speaking gesture if someone is talking what what
+
+315
+00:38:33,560 --> 00:38:41,480
+ does it look like and the second one is if someone is listening what are their gestures and so in
+
+316
+00:38:41,480 --> 00:38:47,720
+ this video that i'm about to play um when you see the virtual human the appearance of the virtual
+
+317
+00:38:47,720 --> 00:38:53,880
+ human was designed to look a lot like the movie that that's that's manually done and the placement
+
+318
+00:38:53,880 --> 00:38:58,600
+ and the viewing goal was manually done but the gesture themselves of the virtual human are
+
+319
+00:38:58,600 --> 00:39:03,640
+ all automatic uh from the system so it's a nice example uh to death them
+
+320
+00:39:03,640 --> 00:39:12,200
+ look sorry you snotty little bastard you're honored like to ask for a recess i might
+
+321
+00:39:12,200 --> 00:39:17,880
+ like an answer to the question judge the court will wait for an answer if lieutenant kendrick gave
+
+322
+00:39:17,880 --> 00:39:25,400
+ an order that sontayaga wasn't to be touched and why did he have to be transferred colonel
+
+323
+00:39:25,400 --> 00:39:30,520
+ lieutenant kendrick order the code red didn't he because that's what you told lieutenant kendrick to
+
+324
+00:39:30,520 --> 00:39:36,440
+ do um yeah when it went bad you cut these guys loose you're on her you're on her you're on her
+
+325
+00:39:36,440 --> 00:39:41,560
+ you've got your blog book there can't be worse a doc studio something to you colonel jessie give
+
+326
+00:39:41,560 --> 00:39:47,400
+ you water the code red you don't have to answer that question i'll answer the question you want
+
+327
+00:39:47,400 --> 00:39:54,760
+ answers i think i'm entitled you want answer what the truth you can't handle the truth i love that
+
+328
+00:39:54,760 --> 00:40:04,200
+ movie very much uh um uh so yes uh this this was an example uh and this is a little bit old but now
+
+329
+00:40:04,200 --> 00:40:11,240
+ you see a lot of these renewal um there is a speech to gesture and different project it's really
+
+330
+00:40:11,240 --> 00:40:17,960
+ interesting to see all this work uh going but the translation is you take something text and speech
+
+331
+00:40:17,960 --> 00:40:26,600
+ and be able to generate from that um the other so when i think of translation what it is is the
+
+332
+00:40:26,600 --> 00:40:35,240
+ process of changing data from one modality to another but also keep the link and so and this uh where
+
+333
+00:40:35,240 --> 00:40:40,120
+ the translation relationship can often be open and dead and subjective and that's one thing we'll
+
+334
+00:40:40,120 --> 00:40:46,680
+ discuss also on tursday is one of the big challenge with translation which is true i i told you
+
+335
+00:40:46,680 --> 00:40:53,400
+ alignment is related to multimodal and multi-view which is also related to machine translation
+
+336
+00:40:54,280 --> 00:41:01,400
+ but but this is true from any translation like language to language or also like speech generation
+
+337
+00:41:01,400 --> 00:41:08,200
+ these are all translation problem and they all come with the big challenge of evaluation
+
+338
+00:41:08,200 --> 00:41:14,200
+ will be a big challenge when you do any translation so when you look at the translation two ways or
+
+339
+00:41:14,200 --> 00:41:20,760
+ two approaches maybe the slightly older way would be but also very interesting way and i think you
+
+340
+00:41:20,760 --> 00:41:27,640
+ should visit it's kind of more the non-parametric way of looking at translation where i have uh
+
+341
+00:41:27,640 --> 00:41:35,880
+ a test time i'm going to look at like example from my uh training and maybe to like the more the
+
+342
+00:41:35,880 --> 00:41:41,400
+ classic the most classic of these will be nearest neighbor that's the most classic non-parametric
+
+343
+00:41:41,400 --> 00:41:47,880
+ model but the translation there's a lot of interesting work in parametric approaches trying to reduce
+
+344
+00:41:47,880 --> 00:41:54,120
+ the number of parameters sometime also and see generalization between training and testing so
+
+345
+00:41:54,120 --> 00:42:01,080
+ these are two example let me show one last example this one is my work is or work not my work as you
+
+346
+00:42:01,080 --> 00:42:07,240
+ know students are the one doing the work but i'm very excited about this work about translating
+
+347
+00:42:08,280 --> 00:42:17,720
+ from language to motion uh so i i i i'm uh originally i spent seven years of uh in uh essentialist and
+
+348
+00:42:17,720 --> 00:42:23,560
+ i had the mini dream at that point that i could take a movie script and create a first version of
+
+349
+00:42:23,560 --> 00:42:29,640
+ the movie just by looking at the movie script and so you can see the description the actor move
+
+350
+00:42:29,640 --> 00:42:37,320
+ and jog or the person step forward then turn around and move forward again let me play it again
+
+351
+00:42:38,760 --> 00:42:43,800
+ just to be sure oh i think there's a problem with the animation i apologize for that uh
+
+352
+00:42:43,800 --> 00:42:53,800
+ anyway so this is an example i will fix this for the slide um the other uh so this is translation
+
+353
+00:42:53,800 --> 00:43:00,680
+ but there is also the aspect of fusion where you bring the information and try to infer something
+
+354
+00:43:00,680 --> 00:43:08,200
+ novel something new uh something about the sentiment maybe over time so fusion is probably
+
+355
+00:43:08,200 --> 00:43:17,800
+ the oldest of the the challenges uh in fact when i started my phg a long time ago um if you ask
+
+356
+00:43:17,800 --> 00:43:25,000
+ what was multimodal research at this point you could almost summarize it with early fusion
+
+357
+00:43:25,000 --> 00:43:31,720
+ and late fusion and then the question was just which of the two did you use early fusion oh
+
+358
+00:43:31,720 --> 00:43:37,800
+ oh what did you try late fusion or you try late fusion did you try early fusion so it was very early
+
+359
+00:43:37,800 --> 00:43:44,600
+ but now these days with with the portfolio is much larger but it's still really interesting early
+
+360
+00:43:44,600 --> 00:43:52,680
+ fusion the idea is that the modalities are going to be concatenated early on and then your model
+
+361
+00:43:52,680 --> 00:43:59,560
+ is going to learn hopefully how to bring these together so you're kind of making it uh with the
+
+362
+00:43:59,560 --> 00:44:08,200
+ hypothesis that you can't build uh you can't uh train or learn your process unless you bring
+
+363
+00:44:08,200 --> 00:44:14,520
+ it up early on so that means that there's some very low level you should use early fusion when
+
+364
+00:44:14,520 --> 00:44:22,600
+ there's some very low level multimodal uh phenomena happening that there is something very like people
+
+365
+00:44:22,600 --> 00:44:29,320
+ are just increasing their voice and moving at the same time very low level the late fusion is
+
+366
+00:44:29,320 --> 00:44:37,800
+ the idea that i need to do some processing internally in in one from each modality before i try to make
+
+367
+00:44:37,800 --> 00:44:44,040
+ my fusion uh and if i try to do it too early and and you have to remember that at this point the
+
+368
+00:44:44,040 --> 00:44:50,440
+ data sets were much smaller that that's part of the reason uh you had this so now these days there's
+
+369
+00:44:50,440 --> 00:44:57,000
+ a lot more approaches uh to do that uh in the course a lot of the course will be on deep neural
+
+370
+00:44:57,000 --> 00:45:02,920
+ architectures and all that it's variance but we're also going to discuss uh kernel based
+
+371
+00:45:02,920 --> 00:45:08,360
+ approaches and the part that i personally like very much is graphical models i love their
+
+372
+00:45:08,360 --> 00:45:14,520
+ interpretability also the fact that you can bring them in knowledge into these architectures so
+
+373
+00:45:14,520 --> 00:45:23,000
+ i think it's good to visit them as well the last challenge that i want to discuss is co-learning
+
+374
+00:45:24,280 --> 00:45:34,120
+ the intuition behind co-learning uh the the main intuition there is that um we talked up to now
+
+375
+00:45:34,120 --> 00:45:39,640
+ about all of these problems where we bring all this uh multi-modal information together or that
+
+376
+00:45:39,640 --> 00:45:46,200
+ we're translating it but there are cases where the problem the most interesting or at least for
+
+377
+00:45:46,200 --> 00:45:53,160
+ that person the most interesting problem is unimodal it's possible the problem is unimodal by itself
+
+378
+00:45:53,160 --> 00:46:00,040
+ let's say it's um object detection in an image i want to detect the best possible detector and
+
+379
+00:46:00,040 --> 00:46:05,720
+ the most generalizable to any kind of label uh class label or object labels
+
+380
+00:46:05,720 --> 00:46:13,640
+ so it's a very unimodal problem but maybe there is something from other modalities
+
+381
+00:46:13,640 --> 00:46:22,520
+ that could help me at training time to be better in my task in my unimodal task i'm going to use
+
+382
+00:46:22,520 --> 00:46:30,840
+ multi-modal information at the training time to help me and so that at test time i'm best i'm better
+
+383
+00:46:30,840 --> 00:46:38,360
+ or better best and these co-learning cases are usually the most useful when there's an issue with
+
+384
+00:46:38,360 --> 00:46:48,200
+ where there's a problem with the limited amount of data and so maybe there's not as much data
+
+385
+00:46:48,200 --> 00:46:54,840
+ annotated yet for my task and so that's why you will see them a lot more as few-shot learning
+
+386
+00:46:54,840 --> 00:47:02,760
+ kind of scenarios so this is co-learning and you could imagine doing it both way language could
+
+387
+00:47:02,760 --> 00:47:12,360
+ help vision but vision could also help language and then suddenly you have this uh two-way co-learning
+
+388
+00:47:12,360 --> 00:47:20,040
+ and this has a name and that was in the multi-view setting this was called co-training uh so co-training
+
+389
+00:47:20,040 --> 00:47:26,600
+ with uh Tom Mitchell being one of the co-author of the original paper so so these are example of
+
+390
+00:47:26,600 --> 00:47:33,720
+ co-learning and the big challenge with co-learning is when you have this second modality helping you
+
+391
+00:47:33,720 --> 00:47:41,480
+ is how much pairing how strong do you know that this second modality is linked with that first
+
+392
+00:47:41,480 --> 00:47:48,680
+ modality how strong is that link that pair pair data and for people who do machine translation
+
+393
+00:47:48,680 --> 00:47:54,920
+ you know also like do you have a pair very strong pairing where almost every word you know what
+
+394
+00:47:54,920 --> 00:48:02,360
+ other word uh is in the other language or which sentence and these uh the translation or you could
+
+395
+00:48:02,360 --> 00:48:10,200
+ have it like what's could be called non-parallel or what i personally prior weekly parallel is is
+
+396
+00:48:10,200 --> 00:48:18,120
+ the idea that you have maybe a corpus of language sentences and a corpus of french sentences english
+
+397
+00:48:18,120 --> 00:48:24,120
+ and french sentences and then but you don't have exactly which one is which one but you know that
+
+398
+00:48:24,120 --> 00:48:30,120
+ they're related so that's weak and you have the same in months modal you have a bunch of images
+
+399
+00:48:30,120 --> 00:48:35,480
+ and and you're the text and you have just only at maybe at the corpus so you have a spectrum
+
+400
+00:48:35,480 --> 00:48:44,520
+ again of being very strongly paired to weekly spare and so one example for that is how do you
+
+401
+00:48:44,520 --> 00:48:54,920
+ learn language embedding so i'm talking right now and how do i encode my words into something that
+
+402
+00:48:54,920 --> 00:49:05,480
+ would be useful maybe for emotion recognition and so the idea here is that i will i want to learn
+
+403
+00:49:05,480 --> 00:49:12,760
+ this and if i have infinite amount of data i have a large amount of corpus i think probably you can
+
+404
+00:49:12,760 --> 00:49:20,760
+ do it just from language itself but and and for text corpus like written corpus there's been a lot
+
+405
+00:49:20,760 --> 00:49:26,360
+ of it but for spoken there's maybe let's say fewer of this there's still quite a bit but let's say
+
+406
+00:49:26,360 --> 00:49:32,920
+ for the purpose of the example let's suppose there are few of it a few of it so then i would say but
+
+407
+00:49:32,920 --> 00:49:39,240
+ when i speak there it's not only about my language but it's also about my gesture it's also my tone
+
+408
+00:49:39,240 --> 00:49:45,400
+ of words so can i use it during training this extra information to be able to prove but at test
+
+409
+00:49:45,400 --> 00:49:51,960
+ time i'm only gonna have i will only have language so the trick here is i'm going to use the the idea
+
+410
+00:49:51,960 --> 00:49:58,920
+ of translation where i do end up taking from the verb ball and i will translate it in an
+
+411
+00:49:58,920 --> 00:50:05,320
+ intermediate representation that will be used to finally generate the visual and so this is supposed
+
+412
+00:50:05,320 --> 00:50:11,880
+ paired data but i will also do it with what's called a cyclic loss which they say not only did i
+
+413
+00:50:11,880 --> 00:50:17,800
+ take something like today was a great day and try to generate the visual but that needs to be able
+
+414
+00:50:17,800 --> 00:50:24,600
+ to regenerate what was originally there and the reason for that i want to do that is is that
+
+415
+00:50:24,600 --> 00:50:30,600
+ internally that intermediate representation i need to be sure that it contains everything
+
+416
+00:50:30,600 --> 00:50:38,120
+ that was in today i don't want to lose anything that's there and see if i was to do only the one way
+
+417
+00:50:38,120 --> 00:50:44,040
+ i may end up having an intermediate representation that's a lot closer to my target and there's some
+
+418
+00:50:44,040 --> 00:50:49,000
+ interesting work on this that shows that often these intermediate representation
+
+419
+00:50:49,000 --> 00:50:55,400
+ are closer to the target than the source but if i putting the cyclic and suddenly you have this
+
+420
+00:50:55,400 --> 00:51:02,200
+ so to be sure that they also look very much like the input and then at test time what's really nice
+
+421
+00:51:02,200 --> 00:51:08,600
+ is that you can forget about the multi model and maybe on a small data set train for this on the
+
+422
+00:51:08,600 --> 00:51:13,800
+ task like sentiment analysis or anything and what was really interesting in the results of this is
+
+423
+00:51:13,800 --> 00:51:21,560
+ that this work almost as much as a multi model like having multi model both at training and testing
+
+424
+00:51:21,560 --> 00:51:30,520
+ so that was really interesting so this is the high level view of five i these are not the unique
+
+425
+00:51:30,520 --> 00:51:36,840
+ and i really welcome your feedback when you think about it and one of the reading assignment
+
+426
+00:51:36,840 --> 00:51:44,760
+ will be this survey paper not all of it we're splitting in two but yeah think about this like
+
+427
+00:51:44,760 --> 00:51:51,400
+ what are the interesting challenges and this is a draft of the taxonomy that came from this
+
+428
+00:51:51,400 --> 00:51:58,920
+ example of what are the sub challenges in multi model research and what's great with multi model
+
+429
+00:51:58,920 --> 00:52:05,960
+ research is that these examples are applicable with many applications up to now i may have emphasized
+
+430
+00:52:05,960 --> 00:52:12,600
+ a lot more affect and emotion partially it is a good part of our research in my group isn't that
+
+431
+00:52:12,600 --> 00:52:20,760
+ topic but if you ask me what really started the renewal the new part of multi model is really the
+
+432
+00:52:20,760 --> 00:52:29,960
+ aspect of what some people would call language and vision research and so looking at media description
+
+433
+00:52:29,960 --> 00:52:36,840
+ as an example is like how image captioning or video captioning and visual question answering
+
+434
+00:52:36,840 --> 00:52:43,800
+ there's also have been very good and very strong work that if anything started earlier if you ask me
+
+435
+00:52:43,800 --> 00:52:51,160
+ i will say affect recognition had been there for a while uh and multimedia had done a lot of work
+
+436
+00:52:51,160 --> 00:53:00,360
+ and and there was a quite a renewal also there and in affect uh with the 2010 one multi model
+
+437
+00:53:00,360 --> 00:53:07,800
+ and media description although you can find some example as early as 2001 for image captioning
+
+438
+00:53:07,800 --> 00:53:14,920
+ it really started it had a big boost in 2010 11 so so this is what we are there we're here for this
+
+439
+00:53:14,920 --> 00:53:22,920
+ kind of course that's our goal for this so my goal is to spend the next i don't know 15 20 minutes
+
+440
+00:53:22,920 --> 00:53:29,560
+ to also go through the course syllabus and also share with you what we believe is going to be a
+
+441
+00:53:29,560 --> 00:53:37,480
+ very engaging way of studying this research so for this i really want to go for the course
+
+442
+00:53:37,480 --> 00:53:45,800
+ syllabus but also share with you or vision just a second or vision for this uh because
+
+443
+00:53:45,800 --> 00:53:52,920
+ we want this to make it engaging and i know with the world of being virtual and remote it can be
+
+444
+00:53:52,920 --> 00:54:01,240
+ challenging so the three main paradigm for this course and although the grades uh maybe not reflecting
+
+445
+00:54:01,240 --> 00:54:07,240
+ all the importance of each of them but the but the i think all three of them are equally important
+
+446
+00:54:07,240 --> 00:54:12,280
+ but from a grading perspective you're going to see one of them is clearly bigger and this is a
+
+447
+00:54:12,280 --> 00:54:17,960
+ personal choice in designing this course but i think all three of them are really important one is
+
+448
+00:54:17,960 --> 00:54:24,440
+ course lecture participation and just in the in general the course lecture i'm talking i'm talking
+
+449
+00:54:24,440 --> 00:54:33,640
+ a lot and that's part of lecturing and i'm going to share with you um our view of how to assess
+
+450
+00:54:33,640 --> 00:54:41,160
+ the course participation in this and we call them lecture highlights and i'm going to talk
+
+451
+00:54:41,160 --> 00:54:47,880
+ about it in a little bit the goal was to not overwhelm you with extra homeworks but still have a way
+
+452
+00:54:47,880 --> 00:54:54,600
+ to be sure that you both listen and understand the lectures and more importantly if you have also
+
+453
+00:54:54,600 --> 00:55:00,120
+ questions about the lectures that you're able to share those questions so we're going to talk
+
+454
+00:55:00,120 --> 00:55:06,840
+ about how exactly we evaluate this the other aspect is this this course one thing i should
+
+455
+00:55:06,840 --> 00:55:16,040
+ mention this course is best suited for student in their third semester this is the best uh third
+
+456
+00:55:16,040 --> 00:55:22,280
+ third and plus third four five six seven ten i don't know if any of you are in the 10 semester
+
+457
+00:55:22,280 --> 00:55:30,760
+ but yeah third semester is definitely the best first semester is possible uh and i'm going to
+
+458
+00:55:30,760 --> 00:55:37,560
+ discuss another bit but a lot of this course is the idea that you not only going to learn the basic
+
+459
+00:55:37,560 --> 00:55:42,920
+ and the core about multi-model machine learning but i really want you also to understand and and
+
+460
+00:55:42,920 --> 00:55:48,920
+ really understand and explore the the state of the art on this topic and so that's why i'm
+
+461
+00:55:48,920 --> 00:55:55,000
+ calling it's a little bit more of an advanced course um so the reading assignment is one of the
+
+462
+00:55:55,000 --> 00:56:02,520
+ learning paradigm for that and and we we taught a lot about it the initial version was let's have
+
+463
+00:56:02,520 --> 00:56:10,280
+ every student read 30 papers this semester i don't see your facial expressions but i i can
+
+464
+00:56:10,280 --> 00:56:17,080
+ imagine that would be a lot so what we decided to make it more interactive is to create within the
+
+465
+00:56:17,080 --> 00:56:24,600
+ group what we call study groups these will be about nine or ten students uh working together
+
+466
+00:56:24,600 --> 00:56:30,840
+ so that they can learn together and how it is is that we're going to give every uh for every reading
+
+467
+00:56:30,840 --> 00:56:36,920
+ assignment we're going to give three papers and each student will have one of the paper and then
+
+468
+00:56:36,920 --> 00:56:43,720
+ they they're going to learn about they will learn about the other papers by uh by helping each other
+
+469
+00:56:43,720 --> 00:56:52,200
+ through some kind of chat base uh or some uh uh discussion forum to to help each other so we're
+
+470
+00:56:52,200 --> 00:56:58,600
+ giving the details in a little bit but reading the state of the art uh papers is important and i
+
+471
+00:56:58,600 --> 00:57:07,480
+ think that's one of the learning paradigm the core of this is the course project i i value very much
+
+472
+00:57:07,480 --> 00:57:14,040
+ a practical learning and getting you to learn at this and i'm we're going to scaffold this problem
+
+473
+00:57:14,040 --> 00:57:24,440
+ because this is a very big piece um one big warning for anybody on their first semester and graduate
+
+474
+00:57:24,440 --> 00:57:31,400
+ study or undergrad student i have a warning uh for you uh and that may be true for uh later but
+
+475
+00:57:31,400 --> 00:57:37,960
+ it's usually specifically for first year students or undergrad it's sometime uh we're really homework
+
+476
+00:57:37,960 --> 00:57:45,480
+ driven like a homework deadline is on friday we start on wednesday or tursday the homework and then
+
+477
+00:57:45,480 --> 00:57:54,280
+ two days you crank it and that's enough that's not that will not be true for this class uh there is
+
+478
+00:57:54,280 --> 00:58:00,680
+ i've been very careful to reduce the number of homework but each homework this grade this course
+
+479
+00:58:00,680 --> 00:58:08,680
+ project you can't just wait until two days before and and you need to start two weeks three weeks
+
+480
+00:58:08,680 --> 00:58:14,280
+ in advance to work and that's why these are team projects so you work and you should plan to work
+
+481
+00:58:14,280 --> 00:58:20,840
+ and meet with your team at the minimum once a week uh for the rest of the semester to really get
+
+482
+00:58:20,840 --> 00:58:27,320
+ things going i'm going to give more details but of course project the goal at the end of it is to
+
+483
+00:58:27,320 --> 00:58:35,800
+ create research that potentially could be submitted in a conference like icml uh or any of the
+
+484
+00:58:35,800 --> 00:58:43,960
+ conferences you want now i i know when i say icml oh my god my grade is gonna will be based on me
+
+485
+00:58:43,960 --> 00:58:54,120
+ having an icml paper accepted no no no the goal is to explore research only work maybe 15 20 percent
+
+486
+00:58:54,120 --> 00:59:01,800
+ of the time so uh but exploration you learn a lot through that and then you can move and move so
+
+487
+00:59:01,800 --> 00:59:09,640
+ your grade is not going to be based on like accuracy level or how good you are no uh the base is the
+
+488
+00:59:09,640 --> 00:59:15,960
+ idea of doing the research and understanding why it works and why it does not work and we'll
+
+489
+00:59:15,960 --> 00:59:21,720
+ discuss a little bit that we're going to really help you scaffold the whole process so this is
+
+490
+00:59:21,720 --> 00:59:27,400
+ the idea of the course project at the high level but we're going to go in more details in a second
+
+491
+00:59:27,400 --> 00:59:34,040
+ but uh what i wanted to share is like this course is designed don't take this class if you can't
+
+492
+00:59:34,040 --> 00:59:41,000
+ read attentively 10 papers that's the bare minimum i'm not gonna go i will not go lower than this
+
+493
+00:59:41,000 --> 00:59:49,560
+ right this is the lowest i'm able to go and still have a very stimulating paper course um 10 papers
+
+494
+00:59:49,560 --> 00:59:54,280
+ that you learn if you may have questions about it that's why you have a study group you don't need
+
+495
+00:59:54,280 --> 00:59:58,840
+ to read these paper and understand everything right away were you gonna work together for that
+
+496
+00:59:59,640 --> 01:00:05,240
+ but you need to read them and take the time more than reading like in diagonal you really need to
+
+497
+01:00:05,240 --> 01:00:11,720
+ read in-depth 10 papers enough to read them to explain it to your friends uh to your other people
+
+498
+01:00:11,720 --> 01:00:17,640
+ in your study groups you should have a minimum aspect of machine learning you should know
+
+499
+01:00:17,640 --> 01:00:25,160
+ you should have taken one of the machine learning course here at the CMU or before that
+
+500
+01:00:26,040 --> 01:00:31,800
+ and within most of the latest machine learning there's often an aspect of deep neural network
+
+501
+01:00:31,800 --> 01:00:38,200
+ so you should have done some experience like with like pytorch or something like this if you had
+
+502
+01:00:38,200 --> 01:00:44,920
+ none of this this can be a challenging course for you it's not impossible but it is um uh more
+
+503
+01:00:44,920 --> 01:00:51,320
+ challenging uh and you have to be motivated to try something new and get a very high quality
+
+504
+01:00:51,320 --> 01:00:58,440
+ course project because that's the the cornerstone of this so we spent a lot of time over the last
+
+505
+01:00:58,440 --> 01:01:04,280
+ six years to kind of define what would be a good way to scaffold the course project to make it
+
+506
+01:01:04,280 --> 01:01:15,400
+ good and easy but also simulating so we made it in uh four main steps um so one is a pre-proposal
+
+507
+01:01:15,400 --> 01:01:21,960
+ this is very soon so you already have a homework on tuesday and and it's due for next tuesday
+
+508
+01:01:21,960 --> 01:01:27,560
+ so uh next tuesday what i'm going to talk about it in a little bit but the goal is in two weeks from
+
+509
+01:01:27,560 --> 01:01:33,720
+ now you already have your team and we're going to help you finding teammates we have a really cool
+
+510
+01:01:33,720 --> 01:01:41,480
+ thing uh on tuesday uh next week uh fun thing we're going to try also for teammates but by
+
+511
+01:01:41,480 --> 01:01:48,040
+ by by um by two weeks from now you know which data set you want to work on you know which task
+
+512
+01:01:48,040 --> 01:01:53,000
+ you're likely to work on and which teammates it's possible that you may not have teammates and
+
+513
+01:01:53,000 --> 01:01:59,080
+ then we'll help you but most of you expect like at least 90 percent to have teams hopefully 100
+
+514
+01:01:59,080 --> 01:02:07,000
+ percent but if not we'll help you um whoops sorry for the cursor um the then next milestone almost
+
+515
+01:02:07,000 --> 01:02:14,680
+ a month later is the proposal at that point you had your team and uh you will do you will do your
+
+516
+01:02:14,680 --> 01:02:21,000
+ your proposal like like that's what i'm want to work on and there's two things that are needed for
+
+517
+01:02:21,000 --> 01:02:29,880
+ there one is a literature review so often i see students working on a topic they found one paper
+
+518
+01:02:29,880 --> 01:02:36,200
+ oh that's so cool let me do this this and this with that one paper no i want you to take the time
+
+519
+01:02:36,200 --> 01:02:43,640
+ read about it read other papers gather at least 10 12 maybe 15 papers around this so that's that's
+
+520
+01:02:43,640 --> 01:02:50,120
+ what you need to and then at that point you're gonna you will look at your data set and start doing
+
+521
+01:02:50,120 --> 01:02:58,120
+ unimodal analysis on this just to see what the data looks like too often i see people they're like
+
+522
+01:02:58,120 --> 01:03:04,520
+ this is a data set i downloaded it i ran the code of someone else and i made a small modification
+
+523
+01:03:04,520 --> 01:03:09,880
+ but people sometimes don't take the time to look at the data itself so i think it's very
+
+524
+01:03:09,880 --> 01:03:18,200
+ important so that's the first step the key aspect after that is the midterm at that point you will
+
+525
+01:03:18,200 --> 01:03:25,560
+ implement state-of-the-art in that field uh at least one may be depending on the size of your
+
+526
+01:03:25,560 --> 01:03:31,960
+ team maybe two or three of these models you will implement them but the goal of implementing them
+
+527
+01:03:31,960 --> 01:03:37,640
+ is not just to get like accuracy and all this what i really want is do error analysis
+
+528
+01:03:37,640 --> 01:03:44,280
+ like really understand why are they not working what makes it like that would give you ideas
+
+529
+01:03:44,280 --> 01:03:51,560
+ to where to go with this and so that is really important that's a key thing and finally the
+
+530
+01:03:51,560 --> 01:03:58,200
+ fun part is like okay i have the state-of-the-art i know the previous work i know my data
+
+531
+01:03:58,200 --> 01:04:05,480
+ now let me try two or three new ideas depending on the size of your group maybe up to four ideas
+
+532
+01:04:05,480 --> 01:04:11,800
+ but yeah let's go new ideas i mean some of them most of them are not going to work but let's try
+
+533
+01:04:11,800 --> 01:04:16,760
+ that's what research is about and that's what the last part of the project is so i'm very excited
+
+534
+01:04:16,760 --> 01:04:24,200
+ about this um some guideline we strongly suggest it's another requirement but it strongly suggests
+
+535
+01:04:24,200 --> 01:04:31,640
+ to have two modalities in your data language and vision and visual the reason for that is the course
+
+536
+01:04:31,640 --> 01:04:37,080
+ has a big component around that and also the community has done a lot of work around that so
+
+537
+01:04:37,080 --> 01:04:43,400
+ so i will suggest now if you realize there's some other days that that don't have it it is
+
+538
+01:04:43,400 --> 01:04:50,920
+ possible uh to go beyond that let's say self-driving cars or uh i don't know brain imaging or something
+
+539
+01:04:50,920 --> 01:04:59,400
+ but but let or acoustic or audio but talk with your TA uh about this or about the instructors
+
+540
+01:04:59,400 --> 01:05:06,760
+ about me and the TA's the teams three four and five and i strongly suggest teams of four and five
+
+541
+01:05:06,760 --> 01:05:13,080
+ we saw them as working the best we try for a while teams of one you know what happens with the team
+
+542
+01:05:13,080 --> 01:05:18,440
+ of one the team of one is mostly someone who do already their own research and they end up like
+
+543
+01:05:18,440 --> 01:05:25,560
+ just tweaking it for this course that does happen unfortunately and also what's really nice with the
+
+544
+01:05:25,560 --> 01:05:31,800
+ the team is that you're gonna you will brainstorm together i get ideas so it's really good dynamic
+
+545
+01:05:31,800 --> 01:05:37,960
+ we found that three four and five were some of the most productive team and also we we have
+
+546
+01:05:37,960 --> 01:05:46,040
+ we'll have almost 120 students so um we also need to scale uh with this uh the project should
+
+547
+01:05:46,040 --> 01:05:51,800
+ explore something novel on the modeling side these are the three two or three or four ideas
+
+548
+01:05:51,800 --> 01:05:58,200
+ that you will explore and that there's a lot of beautiful deadlines coming out at the end of this
+
+549
+01:05:58,200 --> 01:06:03,800
+ class uh i i forgot knackel if you're gonna make it that's that's a little bit tight but they will
+
+550
+01:06:03,800 --> 01:06:12,040
+ be i ACL hkai icml if you wait a little but longer icmi face and gesture the triple yeah yeah there's
+
+551
+01:06:12,040 --> 01:06:17,800
+ a lot of very interesting so on thursday i'm going to share some ideas also some existing
+
+552
+01:06:17,800 --> 01:06:27,880
+ projects that were done um and uh we will share some gpu resources um for you uh it's not infinite
+
+553
+01:06:27,880 --> 01:06:34,680
+ these resources um but we're um we'll share some of it um so you can do your project so
+
+554
+01:06:35,720 --> 01:06:42,760
+ in the short term there are four other deadlines before the main big deadline of uh in two weeks
+
+555
+01:06:42,760 --> 01:06:48,520
+ next on thursday i'm going to share some multi-model data set and topics and application
+
+556
+01:06:48,520 --> 01:06:55,480
+ now you have a homework to do either you do it on friday before the labor day we can or you do it
+
+557
+01:06:55,480 --> 01:07:03,480
+ during the labor day weekend uh but on tuesday what i need from each of you is your data set preference
+
+558
+01:07:03,480 --> 01:07:07,880
+ your project preference what what do you want to work on what is the topic we're going to share
+
+559
+01:07:07,880 --> 01:07:14,200
+ the instruction via piazza really soon for that um if you are and i'm going to talk about the waitlist
+
+560
+01:07:14,200 --> 01:07:19,720
+ in a little bit later uh but that if you're on the waitlist i strongly suggest that you still
+
+561
+01:07:19,720 --> 01:07:26,520
+ submit uh this if you really want to take the class you also submit your project preference
+
+562
+01:07:27,400 --> 01:07:34,520
+ to that we are sure that we get everyone uh in this thursday we're gonna we'll have a really
+
+563
+01:07:34,520 --> 01:07:40,680
+ front team formation um if you already have your team you already know these other people i won't
+
+564
+01:07:40,680 --> 01:07:47,480
+ work with um you're you're you don't have to join but we'll have this uh it's called gaterton
+
+565
+01:07:47,480 --> 01:07:55,560
+ we're gonna have this gaterton uh to to help with team formation and then by wednesday you should
+
+566
+01:07:55,560 --> 01:08:03,240
+ have your team you should have this and then the task it is important a qual contribution i want
+
+567
+01:08:03,240 --> 01:08:12,040
+ all of you to work on this and you are the best to help us monitor this so if early on at the
+
+568
+01:08:12,040 --> 01:08:21,320
+ proposal you see that there was a this is confidential a lot of time when someone is not participating as
+
+569
+01:08:21,320 --> 01:08:27,400
+ much is that there's another factor it's very rare that someone is not participating just because
+
+570
+01:08:27,400 --> 01:08:33,800
+ they don't want to or something there's often other factors so the earlier you tell us the earlier we
+
+571
+01:08:33,800 --> 01:08:40,360
+ can contact them and then work with them and often we find great solution and then things goes well
+
+572
+01:08:40,360 --> 01:08:46,680
+ afterward but don't wait for the final by the time it's the final this is not the time to tell us hey
+
+573
+01:08:46,680 --> 01:08:54,600
+ this person never helped this is late so do it early on here's how we we uh we uh we uh put the
+
+574
+01:08:54,600 --> 01:09:02,600
+ schedule for uh the lectures the introduction for this week and the next two weeks after that
+
+575
+01:09:02,600 --> 01:09:09,960
+ are both the basic where the basic building block both on the learning side for week two and on
+
+576
+01:09:09,960 --> 01:09:18,120
+ the unimodal side for week three and then week four and five will be a lot more about representation
+
+577
+01:09:18,120 --> 01:09:23,400
+ and we're gonna we'll start touching a little bit alignment but a lot more on representation
+
+578
+01:09:23,400 --> 01:09:34,120
+ finally week six no lectures because this is the first big deadline and we will use the lecture
+
+579
+01:09:34,120 --> 01:09:40,440
+ time to help you if you have any questions but I really want to work you you work hard on your
+
+580
+01:09:40,440 --> 01:09:50,600
+ at this point week so we these are the intermediate deadlines that comes with it week seven is when
+
+581
+01:09:50,600 --> 01:09:57,160
+ we continue alignment and start looking at other things other than the deep neural architectures
+
+582
+01:09:57,800 --> 01:10:04,520
+ so we're going to look at the probabilistic graphical models uh we'll look at different variants of
+
+583
+01:10:04,520 --> 01:10:10,920
+ neural architectures and also reinforcement learning we'll do fusion and new directions
+
+584
+01:10:10,920 --> 01:10:17,240
+ that every year there's some new things and we're packing quite a bit in that and then we have the
+
+585
+01:10:17,240 --> 01:10:22,280
+ midterm it's a few weeks before Thanksgiving and there at that point if you remember you're
+
+586
+01:10:22,280 --> 01:10:30,360
+ implementing the uh presentation the midterm presentation by the way all of the proposal
+
+587
+01:10:30,360 --> 01:10:36,440
+ presentation midterm presentation and final presentation there these deadlines comes in two
+
+588
+01:10:36,440 --> 01:10:43,480
+ parts a report and a presentation itself the report it goes directly to the TA and I and we're
+
+589
+01:10:43,480 --> 01:10:50,280
+ gonna we're gonna we will grade it and give you a lot of feedback but also for the proposal
+
+590
+01:10:51,160 --> 01:10:57,400
+ for the presentation we will use beer feedback we will get feedback from other students
+
+591
+01:10:57,400 --> 01:11:04,200
+ as well for there so for this we'll get other feedback from other students to give you about
+
+592
+01:11:04,200 --> 01:11:13,640
+ your project and the TAs one thing I did not mention each team for their project you will have one TA
+
+593
+01:11:13,640 --> 01:11:19,800
+ which is going to be which will be your primary TA meet as often as you want with your TA
+
+594
+01:11:19,800 --> 01:11:27,080
+ they love working with students on their projects at the minimum you will meet at least three times
+
+595
+01:11:27,080 --> 01:11:35,480
+ at the minimum with each with your primary TA one should be after uh which will be after your
+
+596
+01:11:35,480 --> 01:11:42,920
+ pre-proposal another one which will be around that week after your proposal and another one after
+
+597
+01:11:42,920 --> 01:11:49,240
+ your midterm around that time so it's really important to meet with them as often as you can
+
+598
+01:11:49,240 --> 01:11:54,920
+ and we're also going to create some kind of discussion groups on the on the CADDA if you have
+
+599
+01:11:54,920 --> 01:12:01,880
+ questions and just want to talk with your team and to you there's we have we're we're lucky to
+
+600
+01:12:01,880 --> 01:12:08,120
+ have guest lectures and we're living a lot more space in the last few weeks because the course
+
+601
+01:12:08,120 --> 01:12:16,680
+ project is very central to this and the final project is June Friday so the course grades 16
+
+602
+01:12:16,680 --> 01:12:23,400
+ percent for the lecture participation the reading assignment we're going to give more details about
+
+603
+01:12:23,400 --> 01:12:31,400
+ these two and then the core of it is on the course project itself so what do I mean by lecture
+
+604
+01:12:31,400 --> 01:12:40,120
+ participation and we we spend a lot of time on this to make it useful a training you and also
+
+605
+01:12:40,120 --> 01:12:46,200
+ hopefully don't take too much time so starting next week you don't have to do it for this lecture
+
+606
+01:12:46,200 --> 01:12:53,320
+ and next lecture but starting week number two you will have for every lectures and there's a
+
+607
+01:12:53,320 --> 01:12:59,400
+ total of 20 of these lectures because we have a few time like Thanksgiving and others where there's
+
+608
+01:12:59,400 --> 01:13:07,720
+ no lectures explicitly for the 20 main lectures you have to take what's called a highlight what is
+
+609
+01:13:07,720 --> 01:13:14,360
+ the highlight of that lecture and the highlight the idea is for every 30 minutes or the first 30
+
+610
+01:13:14,360 --> 01:13:21,160
+ minute the next 30 minute and the last 20 minutes ish so it can sometimes I go over so like 20
+
+611
+01:13:21,160 --> 01:13:28,520
+ ish minutes for each of these segments what is the main take home message what is the one sentence
+
+612
+01:13:28,520 --> 01:13:35,320
+ take home message so if you see it should not take so long you should have maybe that google form
+
+613
+01:13:35,320 --> 01:13:42,760
+ it's most likely a google form and just every 30 minutes just write the main or what I would suggest
+
+614
+01:13:42,760 --> 01:13:48,360
+ have another document and just put all your notes when I talk like what is the important thing so
+
+615
+01:13:48,360 --> 01:13:55,080
+ you can revisit later and just write one take home message this take home message cannot be just
+
+616
+01:13:55,080 --> 01:14:03,080
+ keywords that you got from the lecture slides okay it's like the take away cannot be a multimodal
+
+617
+01:14:03,080 --> 01:14:12,440
+ representation or like it should be a full sentence like like a full long sentence of it or a few like
+
+618
+01:14:12,440 --> 01:14:21,880
+ two or three sentences but um optionally what we we realize is we also will have a place for you
+
+619
+01:14:21,880 --> 01:14:30,040
+ to ask questions because it's 120 students it can be very hard for you to ask questions during the
+
+620
+01:14:30,040 --> 01:14:38,520
+ lectures so you can ask question there in this form and any question that we're gonna the deadline
+
+621
+01:14:38,520 --> 01:14:45,080
+ is 42 hours after the lecture so everybody and that also allow you if you're traveling or something
+
+622
+01:14:45,080 --> 01:14:54,680
+ you have 42 hours from the end of the scheduled time so 450 p.m. so you have until 10 40 a.m.
+
+623
+01:14:55,160 --> 01:15:03,240
+ on Thursday to and if it is the Thursday lecture you have 10 40m on Saturday to watch the lecture
+
+624
+01:15:03,240 --> 01:15:11,800
+ and fill that form what we will do is we will grade this little highlight which will be very
+
+625
+01:15:11,800 --> 01:15:19,160
+ lenient as long as it's a summary you can copy we will check if you're too close from other students
+
+626
+01:15:19,720 --> 01:15:29,000
+ so be careful on that but but but the idea also if you write the questions we will do our best to
+
+627
+01:15:29,000 --> 01:15:35,720
+ answer as many of them now we don't know this is the first time we do this if we end up with 2000
+
+628
+01:15:35,720 --> 01:15:41,400
+ answers or not that I don't know how many I don't know if we're gonna be able to so we're we're
+
+629
+01:15:41,400 --> 01:15:48,360
+ looking at option to look at popular and questions to answer them but we'll do as much as we can to
+
+630
+01:15:48,360 --> 01:15:55,480
+ answer them either on Piazza or during the next lecture if for some reason we did not manage to
+
+631
+01:15:55,480 --> 01:16:03,320
+ answer your question at any point in time use Piazza to ask any other follow-up questions this is the
+
+632
+01:16:03,320 --> 01:16:11,640
+ place to use that so this is lecture highlight the reading assignment as I said we really wanted
+
+633
+01:16:11,640 --> 01:16:18,360
+ you to learn a lot while doing as little work as possible not that's not exactly that but I didn't
+
+634
+01:16:18,360 --> 01:16:23,560
+ want you to read three papers you're always welcome to read all three of them I really hope you can
+
+635
+01:16:23,560 --> 01:16:31,640
+ but at the minimum I want you to read one in depth enough that you are able to create a summary
+
+636
+01:16:31,640 --> 01:16:39,640
+ and answer questions from the other students and so the idea here you have a study group of nine
+
+637
+01:16:39,640 --> 01:16:45,640
+ or ten students I think that we created them already or they will be created soon on Piazza
+
+638
+01:16:45,640 --> 01:16:54,200
+ and then you will have a discussion on the Piazza about the papers and so you can use this discussion
+
+639
+01:16:54,200 --> 01:16:59,880
+ for two four two things one is ask question about the paper you read because maybe because you
+
+640
+01:16:59,880 --> 01:17:08,360
+ have other people who read it and then the other one is is to ask question about the other papers
+
+641
+01:17:08,360 --> 01:17:15,720
+ that they're for the first week we're trying something we are not forcing people we're not
+
+642
+01:17:15,720 --> 01:17:22,040
+ assigning people on papers what it means is we you have a study group of nine or ten people
+
+643
+01:17:22,040 --> 01:17:30,200
+ and we will let it to you to pick whichever paper you want with the hope that it is uniformly
+
+644
+01:17:30,200 --> 01:17:38,280
+ distributed if it does not work then the backup is we will assign people randomly to papers and then
+
+645
+01:17:38,280 --> 01:17:46,200
+ you can help each other so we're trying your first version so the idea here is the grade will be
+
+646
+01:17:46,200 --> 01:17:52,520
+ about the reading assignment like your summary that you created and also the discussion we expect
+
+647
+01:17:52,520 --> 01:17:59,640
+ that you at least participated twice you have details instructions for the lecture ally and the
+
+648
+01:17:59,640 --> 01:18:06,600
+ reading assignment really soon on Piazza so the last part of this is I'm going to give you the
+
+649
+01:18:06,600 --> 01:18:15,640
+ pointers because nowadays days it's impossible to get we use canvas in a very limited way I will say
+
+650
+01:18:17,000 --> 01:18:32,680
+ so so the the canvas okay next okay we'll be okay yeah I will tell you about this answer
+
+651
+01:18:32,680 --> 01:18:41,400
+ oh there was a question recently I got but I will answer that in a second so the the canvas is zoom
+
+652
+01:18:41,400 --> 01:18:47,480
+ and piazza and great scope all of it the links are there and also all the recorded sessions
+
+653
+01:18:47,480 --> 01:18:54,600
+ will be on the canvas it will be in something called panacto recordings we'll put them as soon
+
+654
+01:18:54,600 --> 01:19:03,160
+ as we can within a few hours of the class also zoom is what we use now for all the line
+
+655
+01:19:03,160 --> 01:19:10,040
+ and panacto is for the offline version so the panacto is what we'll use for that
+
+656
+01:19:10,760 --> 01:19:17,320
+ and the both the links are both are on canvas in Piazza this is probably the core of what we
+
+657
+01:19:17,320 --> 01:19:23,480
+ will use we'll use Piazza for any announcement any questions you have and then the reading
+
+658
+01:19:23,480 --> 01:19:33,720
+ assignment also we'll use that as well like the study groups will put on the project instruction
+
+659
+01:19:33,720 --> 01:19:42,360
+ and course syllabus the great scope is what we use to when you have your project assignment
+
+660
+01:19:42,360 --> 01:19:50,280
+ reports this is where you will submit this and we also created external course website
+
+661
+01:19:50,280 --> 01:19:57,080
+ this one has a lot of the same information as you see on Piazza but this is a course website that
+
+662
+01:19:57,080 --> 01:20:03,480
+ is accessible by all students and also there's a version of the lectures that will be put there
+
+663
+01:20:03,720 --> 01:20:10,840
+ this is a version of the lecture with being sure that any personal information anything
+
+664
+01:20:10,840 --> 01:20:17,000
+ that could be linked by any current student will be removed and then to be sure that external
+
+665
+01:20:17,000 --> 01:20:23,560
+ course the the external course version is only the thing that that's me talking about things
+
+666
+01:20:24,120 --> 01:20:34,360
+ that's that's what they're okay and I know there is currently about 70 plus people on the waitlist
+
+667
+01:20:34,360 --> 01:20:41,400
+ and a lot of you wants to be in the course the good news is that there will be the spring semester
+
+668
+01:20:41,400 --> 01:20:47,160
+ we have a new edition of the multimodal machine learning previously if you didn't get it in the
+
+669
+01:20:47,160 --> 01:20:54,200
+ fall you had to wait the next fall the next year you're not in this will be teaching the multimodal
+
+670
+01:20:54,200 --> 01:20:59,320
+ machine learning I will not be teaching but I will probably do want to guess lecture I'm sure
+
+671
+01:20:59,320 --> 01:21:04,040
+ but the spring so if it's the same course it's probably going to be a better version
+
+672
+01:21:04,040 --> 01:21:10,760
+ because you bring some new version new new ideas to this so spring if you can do it
+
+673
+01:21:12,280 --> 01:21:20,280
+ we have the version in this so the last slide I have the two last slides I have right now no
+
+674
+01:21:20,280 --> 01:21:29,640
+ this is the last slide so for do you have one homework we're gonna we will post the the details
+
+675
+01:21:29,640 --> 01:21:39,720
+ soon but yes one homework is a project preferences you'll get more you'll get more details in a little
+
+676
+01:21:39,720 --> 01:21:47,960
+ bit about this probably on cad it will be different here on cadza but you have to do this by Tuesday
+
+677
+01:21:47,960 --> 01:21:54,520
+ and we will have more details about the topics and everything there
+

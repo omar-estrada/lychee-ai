@@ -1,0 +1,1656 @@
+1
+00:00:00,000 --> 00:00:07,880
+ High class, we're on to the last system of the semester, the endocrine system.
+
+2
+00:00:07,880 --> 00:00:12,840
+ Now the endocrine system, you've seen little bits of it throughout the semester and this
+
+3
+00:00:12,840 --> 00:00:19,200
+ is going to put everything hopefully together so you understand what the endocrine system
+
+4
+00:00:19,200 --> 00:00:21,160
+ is.
+
+5
+00:00:21,160 --> 00:00:27,960
+ First of all, you must know that the endocrine system works closely with the nervous system
+
+6
+00:00:27,960 --> 00:00:34,520
+ to maintain that all important homeostasis and we're going to compare the nervous system
+
+7
+00:00:34,520 --> 00:00:40,280
+ and the endocrine system to just so you get it clear in your mind.
+
+8
+00:00:40,280 --> 00:00:49,560
+ Also by now you should know the difference between an endocrine versus exocrine gland.
+
+9
+00:00:49,560 --> 00:01:01,280
+ Hercrine, C-R-I-N-E, means secretion, so both exocrine and endocrine glands secrete something.
+
+10
+00:01:01,280 --> 00:01:06,480
+ Endocrine glands secrete hormones into the blood.
+
+11
+00:01:06,480 --> 00:01:08,160
+ They are ductless.
+
+12
+00:01:08,160 --> 00:01:11,960
+ They secrete their hormones into the blood.
+
+13
+00:01:11,960 --> 00:01:19,400
+ Exocrine glands have ducts and that's where they secrete their secretions into ducts.
+
+14
+00:01:19,400 --> 00:01:28,800
+ We say endocrine glands or endocrine cells release hormones into the blood.
+
+15
+00:01:28,800 --> 00:01:33,000
+ What are hormones?
+
+16
+00:01:33,000 --> 00:01:36,240
+ Hormones are chemical messengers.
+
+17
+00:01:36,240 --> 00:01:44,280
+ Hm, you've heard that term before when we talked about neurotransmitters, neurotransmitters
+
+18
+00:01:44,280 --> 00:01:46,720
+ being chemical messengers.
+
+19
+00:01:46,720 --> 00:01:51,240
+ These are chemical messengers also.
+
+20
+00:01:51,240 --> 00:02:00,080
+ These chemical messengers, aka hormones, travel in the blood to reach their target organs,
+
+21
+00:02:00,080 --> 00:02:03,200
+ their target cells.
+
+22
+00:02:03,200 --> 00:02:06,600
+ What are target organs and target cells?
+
+23
+00:02:06,600 --> 00:02:15,720
+ When we say a hormone has a specific target organ or target cell, it means that that those
+
+24
+00:02:15,720 --> 00:02:26,040
+ target cells have to have a receptor to that specific hormone in order for that cell to
+
+25
+00:02:26,040 --> 00:02:31,320
+ have a response to that specific hormone.
+
+26
+00:02:31,320 --> 00:02:40,200
+ A hormone can only interact with a target cell that has a receptor to it.
+
+27
+00:02:40,200 --> 00:02:47,720
+ Very, very important that you understand that.
+
+28
+00:02:47,720 --> 00:02:56,120
+ Here is just a simple drawing showing you that endocrine cell that is making its hormone,
+
+29
+00:02:56,120 --> 00:03:03,800
+ releasing the hormone into the blood where it is carried throughout the body to its target
+
+30
+00:03:03,800 --> 00:03:06,320
+ cells.
+
+31
+00:03:06,320 --> 00:03:14,920
+ These cells must have a receptor for that specific hormone to have some kind of action
+
+32
+00:03:14,920 --> 00:03:19,480
+ that is going to take place.
+
+33
+00:03:19,480 --> 00:03:23,440
+ Simple concept, just remember that.
+
+34
+00:03:23,440 --> 00:03:31,560
+ We are going to briefly go over this chart, which is kind of important to understand comparing
+
+35
+00:03:31,560 --> 00:03:35,040
+ the endocrine and the nervous system.
+
+36
+00:03:35,040 --> 00:03:44,160
+ We talked about the nervous system, they released their chemical transmitter that causes a nerve
+
+37
+00:03:44,160 --> 00:03:49,960
+ impulse, action potential, between the neuron and its target cell.
+
+38
+00:03:49,960 --> 00:03:56,040
+ We are using those same kind of words when we talk about the endocrine system.
+
+39
+00:03:56,040 --> 00:04:02,680
+ The endocrine system releases its chemical messenger, the hormone, into the blood and
+
+40
+00:04:02,680 --> 00:04:09,800
+ hormones are going to their target cells throughout the body.
+
+41
+00:04:09,800 --> 00:04:18,040
+ Where does a neuron release its neurotransmitter?
+
+42
+00:04:18,040 --> 00:04:25,880
+ Remember, other neurons, muscle cells, skeletal, smooth cardiac, and glands.
+
+43
+00:04:25,880 --> 00:04:33,400
+ That you should remember, always, hormones, they are going to react with any cell in the
+
+44
+00:04:33,400 --> 00:04:38,160
+ body that has a receptor for that hormone.
+
+45
+00:04:38,160 --> 00:04:44,680
+ The response time in the nervous system is milliseconds.
+
+46
+00:04:44,680 --> 00:04:50,760
+ Usually milliseconds, action potential, release a neurotransmitter, you have a response.
+
+47
+00:04:50,760 --> 00:04:59,860
+ With the endocrine system, the response time to those hormones is going to be longer.
+
+48
+00:04:59,860 --> 00:05:04,800
+ It's usually going to be minutes to hours to have a response time, much slower response
+
+49
+00:05:04,800 --> 00:05:08,360
+ time.
+
+50
+00:05:08,360 --> 00:05:14,840
+ The effects of the stimulation from the nervous system, you probably remember this, contraction
+
+51
+00:05:14,840 --> 00:05:22,440
+ of muscles, skeletal, smooth, and cardiac, and secretion from all types of glands, endocrine
+
+52
+00:05:22,440 --> 00:05:26,760
+ and exocrine glands.
+
+53
+00:05:26,760 --> 00:05:33,720
+ The effects of the stimulation of the hormone on its target cells, it is going to be varied,
+
+54
+00:05:33,720 --> 00:05:37,840
+ is going to be a little more complex.
+
+55
+00:05:37,840 --> 00:05:45,120
+ It is going to be changing the metabolic activity in those target cells.
+
+56
+00:05:45,120 --> 00:05:53,960
+ We'll skip down to the duration of response in the nervous system.
+
+57
+00:05:53,960 --> 00:06:01,600
+ It is fast, short, terminated quickly, it's over, whereas the duration of response with
+
+58
+00:06:01,600 --> 00:06:07,000
+ hormones is going to be, it can be long lasting.
+
+59
+00:06:07,000 --> 00:06:13,160
+ It's usually going to be days, two weeks, even months, continuing after the stimulus
+
+60
+00:06:13,160 --> 00:06:17,160
+ that hormone is removed.
+
+61
+00:06:17,160 --> 00:06:24,480
+ Just a quick comparison, make sure you understand how these are alike, but different in the way
+
+62
+00:06:24,480 --> 00:06:32,400
+ they react with their chemical messengers and their target cells.
+
+63
+00:06:32,400 --> 00:06:39,760
+ When you look at the functions of the endocrine system, and you just read through these functions,
+
+64
+00:06:39,760 --> 00:06:45,940
+ regulation of the internal environment, metabolism and energy balance, cardiac and smooth muscle
+
+65
+00:06:45,940 --> 00:06:54,080
+ contraction, regulation of the immune system, regulation of glandular secretions, that sounds
+
+66
+00:06:54,080 --> 00:07:03,660
+ much like the functions of the nervous system also, maintenance of homeostasis, growth and
+
+67
+00:07:03,660 --> 00:07:07,080
+ development and reproduction.
+
+68
+00:07:07,080 --> 00:07:15,360
+ Also much like the nervous system, a lot of this is autonomic nervous system, so just
+
+69
+00:07:15,360 --> 00:07:24,440
+ to reinforce that concept that the endocrine system is working closely with your nervous
+
+70
+00:07:24,440 --> 00:07:25,440
+ system.
+
+71
+00:07:25,440 --> 00:07:32,980
+ The endocrine system consists of endocrine glands that secrete hormones and endocrine
+
+72
+00:07:32,980 --> 00:07:37,080
+ cells that secrete hormones.
+
+73
+00:07:37,080 --> 00:07:45,840
+ When you talk about pure endocrine glands, they are referring to the only function of
+
+74
+00:07:45,840 --> 00:07:50,040
+ these glands is to make and secrete hormones.
+
+75
+00:07:50,040 --> 00:07:51,040
+ That is their job.
+
+76
+00:07:51,040 --> 00:07:54,000
+ They have no secondary job.
+
+77
+00:07:54,000 --> 00:08:08,160
+ The pure endocrine glands in your body are going to be the pituitary gland.
+
+78
+00:08:08,160 --> 00:08:12,640
+ Now the pituitary gland, you've seen it before.
+
+79
+00:08:12,640 --> 00:08:21,760
+ This is in that little cella tersica that you learned so long ago in the sphenoid bone.
+
+80
+00:08:21,760 --> 00:08:29,760
+ We are going to be talking about the pituitary gland at length and all the hormones it secrete.
+
+81
+00:08:29,760 --> 00:08:33,080
+ Another pure endocrine gland is the thyroid gland.
+
+82
+00:08:33,080 --> 00:08:41,440
+ Now the thyroid gland sits right below the thyroid cartilage in the neck, so the thyroid
+
+83
+00:08:41,440 --> 00:08:50,640
+ gland, a pure endocrine gland and then you're going to have this gland, the parathyroid gland.
+
+84
+00:08:50,640 --> 00:08:58,600
+ This parathyroid gland is behind the thyroid gland.
+
+85
+00:08:58,600 --> 00:09:03,280
+ Para means around, around what, the thyroid gland.
+
+86
+00:09:03,280 --> 00:09:09,560
+ These parathyroid glands, there are these tiny little dots.
+
+87
+00:09:09,560 --> 00:09:14,920
+ These are making parathyroid hormone.
+
+88
+00:09:14,920 --> 00:09:17,320
+ These are tiny little guys.
+
+89
+00:09:17,320 --> 00:09:24,280
+ These are on the back side of the thyroid gland, itty-bitty.
+
+90
+00:09:24,280 --> 00:09:26,240
+ These are itty-bitty.
+
+91
+00:09:26,240 --> 00:09:29,680
+ The next pure endocrine gland are the adrenal glands.
+
+92
+00:09:29,680 --> 00:09:33,800
+ Adrenal glands, you've seen adrenal glands before.
+
+93
+00:09:33,800 --> 00:09:39,360
+ They sit on top of the kidneys.
+
+94
+00:09:39,360 --> 00:09:45,080
+ And then of course the pineal gland that you learned when we're doing the nervous system,
+
+95
+00:09:45,080 --> 00:09:52,120
+ the pineal gland up in the diencephalon, it is making the hormone melatonin.
+
+96
+00:09:52,120 --> 00:09:55,560
+ Those are your pure endocrine glands.
+
+97
+00:09:55,560 --> 00:10:03,560
+ When we talk about other organs that contain endocrine cells, it means these organs have
+
+98
+00:10:03,560 --> 00:10:08,720
+ another job other than just making hormones.
+
+99
+00:10:08,720 --> 00:10:10,600
+ The pancreas.
+
+100
+00:10:10,600 --> 00:10:17,040
+ We talked about the pancreas.
+
+101
+00:10:17,040 --> 00:10:21,360
+ It's both an endocrine and an exocrine gland, so we'll be talking about the hormones of
+
+102
+00:10:21,360 --> 00:10:29,640
+ the pancreas again, glucagon and insulin, but it also is an exocrine gland.
+
+103
+00:10:29,640 --> 00:10:37,080
+ The hypothalamus, we'll talk about that at length, the hypothalamus actually makes hormones.
+
+104
+00:10:37,080 --> 00:10:46,840
+ In addition to all these other jobs that it has in the nervous system, the gonads, obviously
+
+105
+00:10:46,840 --> 00:10:54,960
+ the gonads in the male testes and the ovaries in the female, they make their own sex hormones,
+
+106
+00:10:54,960 --> 00:10:59,040
+ but they have other functions than making sex hormones.
+
+107
+00:10:59,040 --> 00:11:07,920
+ In the stomach, you learned a hormone released by the G cells in the stomach, the gastric
+
+108
+00:11:07,920 --> 00:11:16,080
+ pit, gastrin, gastrin is a hormone, and in the kidneys, you learned what hormone, you've
+
+109
+00:11:16,080 --> 00:11:20,520
+ seen it like three times now, arithopoietin.
+
+110
+00:11:20,520 --> 00:11:21,680
+ Just get those straight.
+
+111
+00:11:21,680 --> 00:11:27,800
+ Which ones are pure endocrine glands and which ones contain endocrine cells, but that is
+
+112
+00:11:27,800 --> 00:11:29,960
+ not their main job.
+
+113
+00:11:29,960 --> 00:11:34,440
+ They have other functions other than making hormones.
+
+114
+00:11:34,440 --> 00:11:42,920
+ This video is only going to be focusing on the pituitary gland.
+
+115
+00:11:42,920 --> 00:11:53,120
+ That little itty bitty, pea-sized shaped gland that sits in the cella tersica of the sphenoid
+
+116
+00:11:53,120 --> 00:12:01,880
+ bone, it weighs 0.02 ounces, but it controls so much.
+
+117
+00:12:01,880 --> 00:12:10,100
+ This is your master endocrine gland, so we will spend a lot of time just on this one
+
+118
+00:12:10,100 --> 00:12:14,320
+ gland in this video.
+
+119
+00:12:14,320 --> 00:12:21,680
+ When you look at the pituitary gland, you're going to see these two little sex, and they
+
+120
+00:12:21,680 --> 00:12:29,280
+ are totally different in the way they are making and storing their hormones.
+
+121
+00:12:29,280 --> 00:12:31,960
+ Made of different kind of tissue also.
+
+122
+00:12:31,960 --> 00:12:36,240
+ We're going to have the anterior pituitary gland that sits in the front.
+
+123
+00:12:36,240 --> 00:12:42,240
+ It is the bigger one, and then we're going to have the posterior pituitary gland in the
+
+124
+00:12:42,240 --> 00:12:45,800
+ back side.
+
+125
+00:12:45,800 --> 00:12:49,840
+ There is this word hypothesis.
+
+126
+00:12:49,840 --> 00:12:56,400
+ They, they, being the people that named all this stuff, are going to be calling the pituitary
+
+127
+00:12:56,400 --> 00:13:00,160
+ gland AKA hypothesis.
+
+128
+00:13:00,160 --> 00:13:08,400
+ When you see that word, that hypothesis, it is referring to the pituitary gland.
+
+129
+00:13:08,400 --> 00:13:14,840
+ The anterior pituitary gland is called the adeno hypothesis.
+
+130
+00:13:14,840 --> 00:13:20,440
+ They are just putting this term adeno in front of hypothesis.
+
+131
+00:13:20,440 --> 00:13:21,920
+ What does adeno mean?
+
+132
+00:13:21,920 --> 00:13:26,640
+ It has to do with this is glandular tissue.
+
+133
+00:13:26,640 --> 00:13:34,840
+ It is epithelial tissue, glandular tissue, remember, epithelial tissue makes up our glands.
+
+134
+00:13:34,840 --> 00:13:42,280
+ Then we have the posterior pituitary gland AKA neurohypophysis.
+
+135
+00:13:42,280 --> 00:13:50,280
+ We're putting neuro in front of hypothesis because the posterior pituitary gland is not
+
+136
+00:13:50,280 --> 00:13:52,080
+ glandular tissue.
+
+137
+00:13:52,080 --> 00:14:00,960
+ It is nervous tissue, totally different than the anterior pituitary gland.
+
+138
+00:14:00,960 --> 00:14:05,440
+ We're going to look at those closer.
+
+139
+00:14:05,440 --> 00:14:12,120
+ Let's have a quick look at the difference between the anterior pituitary gland and the
+
+140
+00:14:12,120 --> 00:14:14,000
+ posterior pituitary gland.
+
+141
+00:14:14,000 --> 00:14:19,000
+ Let's start with the posterior pituitary gland, the neurohypophysis.
+
+142
+00:14:19,000 --> 00:14:23,360
+ We said neuro means this is all nervous tissue.
+
+143
+00:14:23,360 --> 00:14:26,120
+ This is all nervous tissue.
+
+144
+00:14:26,120 --> 00:14:30,900
+ What we have here, number one, you need to know that the hypothalamus isn't basically
+
+145
+00:14:30,900 --> 00:14:34,840
+ in charge of the pituitary gland.
+
+146
+00:14:34,840 --> 00:14:46,600
+ The hypothalamus, we have our neurons up in the hypothalamus that are actually making
+
+147
+00:14:46,600 --> 00:14:51,040
+ the hormones that are going to be released from the posterior pituitary gland.
+
+148
+00:14:51,040 --> 00:14:53,960
+ They are making the hormones.
+
+149
+00:14:53,960 --> 00:15:05,440
+ They are sending those hormones down their axons into their axon terminals, where they
+
+150
+00:15:05,440 --> 00:15:08,640
+ are storing them.
+
+151
+00:15:08,640 --> 00:15:17,160
+ Just like in the nervous system where we have axon terminals that are storing our neurotransmitters,
+
+152
+00:15:17,160 --> 00:15:26,400
+ same thing, they are storing their chemical messengers, which are their hormones.
+
+153
+00:15:26,400 --> 00:15:34,360
+ In the hypothalamus, the neurons make their own hormones.
+
+154
+00:15:34,360 --> 00:15:45,600
+ They are sending it down their axons, storing it in their axon terminals, and then when this
+
+155
+00:15:45,600 --> 00:15:56,020
+ cell is activated, it's going to send an action potential and have the hormones released.
+
+156
+00:15:56,020 --> 00:16:01,280
+ From the axon terminals and those hormones, those chemical messengers will then be sent
+
+157
+00:16:01,280 --> 00:16:07,240
+ out into the blood and go to their target organs.
+
+158
+00:16:07,240 --> 00:16:16,320
+ There are only two posterior pituitary gland hormones that you need to know.
+
+159
+00:16:16,320 --> 00:16:22,760
+ Oxytocin and anti-diuretic hormone, and we'll look at those closer, but those are the two
+
+160
+00:16:22,760 --> 00:16:29,680
+ posterior pituitary gland hormones, oxytocin and anti-diuretic hormone.
+
+161
+00:16:29,680 --> 00:16:35,360
+ So posterior pituitary gland, all nervous tissue.
+
+162
+00:16:35,360 --> 00:16:42,960
+ When we get to the larger anterior pituitary gland, the adenohypophesis, adenoh again means
+
+163
+00:16:42,960 --> 00:16:44,880
+ glandular.
+
+164
+00:16:44,880 --> 00:16:52,520
+ So what's happening here, we still have up in the hypothalamus, we have our neurons that
+
+165
+00:16:52,520 --> 00:16:56,320
+ are actually making hormones.
+
+166
+00:16:56,320 --> 00:16:58,520
+ They are making hormones.
+
+167
+00:16:58,520 --> 00:17:03,200
+ These are called releasing hormones.
+
+168
+00:17:03,200 --> 00:17:12,960
+ And they release their hormones like any hormone is going to be released into a blood vessel.
+
+169
+00:17:12,960 --> 00:17:22,520
+ So these hypothalamus releasing hormones will be released into a blood vessel that is carried
+
+170
+00:17:22,520 --> 00:17:27,160
+ directly to their target cells.
+
+171
+00:17:27,160 --> 00:17:32,040
+ Now there's going to be a lot of different releasing hormones because there's a lot of
+
+172
+00:17:32,040 --> 00:17:37,760
+ different target cells because there's a lot of different hormones down in the anterior
+
+173
+00:17:37,760 --> 00:17:43,840
+ pituitary gland that are made by their respective target cells.
+
+174
+00:17:43,840 --> 00:17:49,720
+ So here we have a releasing hormone coming from the hypothalamus sent into the blood
+
+175
+00:17:49,720 --> 00:17:58,520
+ directly to their target cells and their target cells will release their respective hormones
+
+176
+00:17:58,520 --> 00:18:04,480
+ into the blood where there are hormones that are released from the anterior pituitary gland
+
+177
+00:18:04,480 --> 00:18:09,600
+ will be sent to their target organs.
+
+178
+00:18:09,600 --> 00:18:12,960
+ Hopefully that makes sense.
+
+179
+00:18:12,960 --> 00:18:20,240
+ So I just want to go over the hormones you're going to be learning in this lecture video.
+
+180
+00:18:20,240 --> 00:18:27,920
+ In the posterior pituitary gland, the neurohypophesis, remember this is all nervous tissue.
+
+181
+00:18:27,920 --> 00:18:33,120
+ The two hormones that are going to be released are the anti-diuretic hormone.
+
+182
+00:18:33,120 --> 00:18:38,320
+ Its target is going to be the collecting ducts in the kidney.
+
+183
+00:18:38,320 --> 00:18:44,880
+ We went over this when we were doing the kidney.
+
+184
+00:18:44,880 --> 00:18:52,680
+ And oxytocin, oxytocin, its target organs are going to be the smooth muscle of the uterus,
+
+185
+00:18:52,680 --> 00:19:01,360
+ the myometrium, and the mammary glands in the breast.
+
+186
+00:19:01,360 --> 00:19:05,280
+ So we're going to be looking at these more closely, but those are the two hormones from
+
+187
+00:19:05,280 --> 00:19:08,000
+ the posterior pituitary gland.
+
+188
+00:19:08,000 --> 00:19:18,040
+ In the anterior pituitary gland, we're going to be looking at six anterior pituitary gland
+
+189
+00:19:18,040 --> 00:19:23,240
+ hormones, there are a couple of more, but we're going to be concentrating on these six
+
+190
+00:19:23,240 --> 00:19:24,880
+ big ones.
+
+191
+00:19:24,880 --> 00:19:33,280
+ Growth hormone, adrenocortical trophic hormone, thyroid stimulating hormone, gonadotropin
+
+192
+00:19:33,280 --> 00:19:40,080
+ hormones, follicle stimulating, and luteinizing hormone, and prolactin.
+
+193
+00:19:40,080 --> 00:19:47,040
+ So we'll look at each of these hormones more closely also.
+
+194
+00:19:47,040 --> 00:20:00,360
+ So let's concentrate just on the posterior pituitary gland, aka the neurohypothesis.
+
+195
+00:20:00,360 --> 00:20:07,180
+ Once again, those two hormones that are released from the posterior pituitary gland are going
+
+196
+00:20:07,180 --> 00:20:14,280
+ to be anti-diuretic hormone and oxytocin.
+
+197
+00:20:14,280 --> 00:20:18,340
+ Who produces these hormones?
+
+198
+00:20:18,340 --> 00:20:28,920
+ The neurons up in the hypothalamus, they are produced by these neurons up in the hypothalamus.
+
+199
+00:20:28,920 --> 00:20:31,400
+ There's a special type of neurons.
+
+200
+00:20:31,400 --> 00:20:36,880
+ They call them neuro-secretatory cells, but they're basically neurons.
+
+201
+00:20:36,880 --> 00:20:45,120
+ They make those hormones, oxytocin, and anti-diuretic hormone, send them down.
+
+202
+00:20:45,120 --> 00:20:51,840
+ They're axons where they are going to be stored in axon terminals.
+
+203
+00:20:51,840 --> 00:21:00,040
+ Those axon terminals are within the posterior pituitary gland.
+
+204
+00:21:00,040 --> 00:21:06,320
+ When they are activated, they will get action potential.
+
+205
+00:21:06,320 --> 00:21:13,480
+ Those axon terminals will then release their respective hormones into the blood.
+
+206
+00:21:13,480 --> 00:21:20,640
+ Oxytocin is going to go to the smooth muscles of the uterus and the smooth muscles of the
+
+207
+00:21:20,640 --> 00:21:25,800
+ mammary glands.
+
+208
+00:21:25,800 --> 00:21:32,080
+ Anti-diuretic hormone, aka vasopressin, you'll see that term also.
+
+209
+00:21:32,080 --> 00:21:38,160
+ Anti-diuretic hormone, ADH, is going to go to the kidney tubules.
+
+210
+00:21:38,160 --> 00:21:43,240
+ Those are the target organs.
+
+211
+00:21:43,240 --> 00:21:45,080
+ So let's look at those two hormones.
+
+212
+00:21:45,080 --> 00:21:49,000
+ The first one is going to be oxytocin.
+
+213
+00:21:49,000 --> 00:21:53,360
+ Remember this is released from the posterior pituitary gland.
+
+214
+00:21:53,360 --> 00:21:56,560
+ It goes straight into the blood to its target organs.
+
+215
+00:21:56,560 --> 00:22:04,280
+ Its target organs are going to be the smooth muscle of the uterus, that myometrium.
+
+216
+00:22:04,280 --> 00:22:13,800
+ When the baby is about ready to be delivered, that head is going to be pushing on the cervix.
+
+217
+00:22:13,800 --> 00:22:17,240
+ The head of the baby pushes against the cervix.
+
+218
+00:22:17,240 --> 00:22:22,440
+ That impulse from the cervix is sent to the brain.
+
+219
+00:22:22,440 --> 00:22:29,760
+ The brain stimulates the pituitary gland to secrete oxytocin.
+
+220
+00:22:29,760 --> 00:22:37,360
+ Oxytocin is carried to the bloodstream and its target organ, the myometrium, and it stimulates
+
+221
+00:22:37,360 --> 00:22:41,160
+ uterine contractions.
+
+222
+00:22:41,160 --> 00:22:49,920
+ It pushes the baby further and further down and out during labor.
+
+223
+00:22:49,920 --> 00:22:56,040
+ Some of you may have heard of this term, pitocin.
+
+224
+00:22:56,040 --> 00:22:59,480
+ Pitocin is a synthetic oxytocin.
+
+225
+00:22:59,480 --> 00:23:05,280
+ If you need to start labor, for some reason, you are post-dates.
+
+226
+00:23:05,280 --> 00:23:09,600
+ You are now 42 weeks and your baby is getting too big.
+
+227
+00:23:09,600 --> 00:23:19,480
+ They will induce labor and they can induce labor with synthetic oxytocin, pitocin.
+
+228
+00:23:19,480 --> 00:23:24,360
+ So that's in the uterus smooth muscle, the myometrium.
+
+229
+00:23:24,360 --> 00:23:33,920
+ There is also oxytocin is going to work on the smooth muscles of the mammary glands.
+
+230
+00:23:33,920 --> 00:23:41,960
+ What happens when the baby does start suckling after delivery, that impulse, that suckling
+
+231
+00:23:41,960 --> 00:23:49,440
+ impulse is going to be carried to the hypothalamus and the hypothalamus will sense it and release
+
+232
+00:23:49,440 --> 00:23:56,840
+ oxytocin to squeeze out the milk that is being produced.
+
+233
+00:23:56,840 --> 00:24:02,760
+ There are smooth muscles in these mammary glands and they are going to squeeze and if
+
+234
+00:24:02,760 --> 00:24:10,000
+ you've ever breastfed, you know that feeling of a letdown when the milk is being squished
+
+235
+00:24:10,000 --> 00:24:11,480
+ out.
+
+236
+00:24:11,480 --> 00:24:15,120
+ That is from oxytocin also.
+
+237
+00:24:15,120 --> 00:24:22,120
+ And you may also note when you just delivered early on, when you get suckling, you're going
+
+238
+00:24:22,120 --> 00:24:30,480
+ to fill uterine contraction also which is going to be tightening up that uterus to hopefully
+
+239
+00:24:30,480 --> 00:24:40,640
+ it's pre-pregnant uterus size by that stimulation of the oxytocin just from the baby suckling.
+
+240
+00:24:40,640 --> 00:24:43,000
+ Kinda cool there.
+
+241
+00:24:43,000 --> 00:24:50,880
+ And the other posterior pituitary gland hormone is anti-diuretic hormone.
+
+242
+00:24:50,880 --> 00:24:59,000
+ You should already know this because we learned it when we were doing the urinary system.
+
+243
+00:24:59,000 --> 00:25:07,920
+ When you are dry, your body senses that you are dry, your plasma osmolarity increases which
+
+244
+00:25:07,920 --> 00:25:15,480
+ means you don't have enough free water, it's going to, your hypothalamus will trigger the
+
+245
+00:25:15,480 --> 00:25:19,680
+ release of ADH.
+
+246
+00:25:19,680 --> 00:25:28,120
+ Anti-diuretic hormone is released, it is going, it's target organ is on the collecting ducts
+
+247
+00:25:28,120 --> 00:25:37,880
+ of the kidney and it's going to cause a reabsorption of water back into your blood vessels.
+
+248
+00:25:37,880 --> 00:25:48,800
+ Anti-diuretic, anti-P hormone is going to re-absorb as much water as it can back into
+
+249
+00:25:48,800 --> 00:25:50,600
+ your blood vessels.
+
+250
+00:25:50,600 --> 00:25:56,960
+ That is, that's just a review for you guys.
+
+251
+00:25:56,960 --> 00:26:03,840
+ So by now you know the posterior pituitary gland, pretty simple, the neuro hypothesis
+
+252
+00:26:03,840 --> 00:26:09,240
+ makes sense, oxytocin, anti-diuretic hormone.
+
+253
+00:26:09,240 --> 00:26:19,960
+ Now we're going to the larger anterior pituitary gland, aka the adenohypophysis.
+
+254
+00:26:19,960 --> 00:26:26,440
+ Remember the posterior pituitary gland is not synthesized, synthesized hormones.
+
+255
+00:26:26,440 --> 00:26:27,640
+ It merely stores them.
+
+256
+00:26:27,640 --> 00:26:33,680
+ Who synthesizes the hormones in the posterior pituitary gland?
+
+257
+00:26:33,680 --> 00:26:39,720
+ We're in the hypothalamus, they are neurons in the hypothalamus that synthesize the hormones
+
+258
+00:26:39,720 --> 00:26:44,720
+ in the posterior pituitary gland.
+
+259
+00:26:44,720 --> 00:26:53,240
+ In the anterior pituitary gland, it does manufacture hormones, but the secretion of all the hormones
+
+260
+00:26:53,240 --> 00:27:02,920
+ in the anterior pituitary gland is regulated by hormones secreted by the hypothalamus.
+
+261
+00:27:02,920 --> 00:27:08,400
+ Remember we call those releasing hormones.
+
+262
+00:27:08,400 --> 00:27:17,240
+ The anterior pituitary gland makes and stores its hormones, but they are only released when
+
+263
+00:27:17,240 --> 00:27:21,480
+ the hypothalamus says so.
+
+264
+00:27:21,480 --> 00:27:29,720
+ Basically the hypothalamus is in charge of the pituitary gland.
+
+265
+00:27:29,720 --> 00:27:35,480
+ So let's look at these anterior pituitary gland hormones.
+
+266
+00:27:35,480 --> 00:27:41,200
+ There are six anterior pituitary hormones that you need to know.
+
+267
+00:27:41,200 --> 00:27:46,560
+ These are the six biggies, TSH.
+
+268
+00:27:46,560 --> 00:27:50,440
+ That stands for thyroid stimulating hormone.
+
+269
+00:27:50,440 --> 00:27:58,680
+ A-C-T-H, that stands for adrenocorticotrophic hormone, and we're going to look at each
+
+270
+00:27:58,680 --> 00:28:00,880
+ of these separately.
+
+271
+00:28:00,880 --> 00:28:11,840
+ 3, LH, luteinizing hormone, 4, F-S-H, follicle stimulating hormone.
+
+272
+00:28:11,840 --> 00:28:19,400
+ 5, growth hormone, 6, prolactin.
+
+273
+00:28:19,400 --> 00:28:23,160
+ So let's look at each of those individually.
+
+274
+00:28:23,160 --> 00:28:31,160
+ Before we look at each of these individual hormones, I just want you to understand that
+
+275
+00:28:31,160 --> 00:28:38,760
+ the hypothalamus is making these releasing hormones.
+
+276
+00:28:38,760 --> 00:28:48,120
+ So these releasing hormones are going to be sent down through blood vessels that are in
+
+277
+00:28:48,120 --> 00:28:57,200
+ the infidibulum, and then their target organ is going to be those cells in the anterior
+
+278
+00:28:57,200 --> 00:28:59,920
+ pituitary gland.
+
+279
+00:28:59,920 --> 00:29:08,400
+ Just to reinforce that concept, releasing hormones from the hypothalamus sent through
+
+280
+00:29:08,400 --> 00:29:17,920
+ blood vessels straight to their target cells in the anterior pituitary gland that are going
+
+281
+00:29:17,920 --> 00:29:25,360
+ to be releasing their own individual type of hormones.
+
+282
+00:29:25,360 --> 00:29:31,440
+ These are the six hormones we're going to be talking about.
+
+283
+00:29:31,440 --> 00:29:37,760
+ The first anterior pituitary hormone, TSH thyroid stimulating hormone.
+
+284
+00:29:37,760 --> 00:29:48,160
+ So TSH is released from the anterior pituitary gland, its target organ is the thyroid gland.
+
+285
+00:29:48,160 --> 00:29:51,320
+ Pretty simple thyroid stimulating hormone.
+
+286
+00:29:51,320 --> 00:29:54,400
+ Its target organ is the thyroid gland.
+
+287
+00:29:54,400 --> 00:30:01,320
+ It's going to stimulate the thyroid gland to release its thyroid hormones.
+
+288
+00:30:01,320 --> 00:30:06,840
+ The thyroid hormones, T3 and T4.
+
+289
+00:30:06,840 --> 00:30:14,560
+ Pretty simple, here is the thyroid gland on your model in the classroom right underneath
+
+290
+00:30:14,560 --> 00:30:19,520
+ the thyroid cartilage of the larynx, the thyroid gland.
+
+291
+00:30:19,520 --> 00:30:22,920
+ So this is your thyroid gland.
+
+292
+00:30:22,920 --> 00:30:30,440
+ And we'll talk about the thyroid hormones in another video when we talk about the thyroid
+
+293
+00:30:30,440 --> 00:30:32,840
+ gland specifically in its hormones.
+
+294
+00:30:32,840 --> 00:30:39,800
+ Right now we're just talking about the anterior pituitary hormone, TSH, its target organ is
+
+295
+00:30:39,800 --> 00:30:45,920
+ a thyroid gland which then will release thyroid hormone.
+
+296
+00:30:45,920 --> 00:30:54,680
+ The second hormone from the anterior pituitary gland is ACTH.
+
+297
+00:30:54,680 --> 00:31:05,000
+ Now what that stands for, adrenal corticotrophic hormone.
+
+298
+00:31:05,000 --> 00:31:13,120
+ This is going to the adrenal gland, the cortex of the adrenal gland.
+
+299
+00:31:13,120 --> 00:31:18,520
+ You've seen the adrenal gland before when we're talking about the sympathetic autonomic
+
+300
+00:31:18,520 --> 00:31:22,840
+ nervous system, there are two parts to the adrenal gland.
+
+301
+00:31:22,840 --> 00:31:30,920
+ The adrenal cortex, remember if an organ has a cortex the cortex is always the outside
+
+302
+00:31:30,920 --> 00:31:41,040
+ of the organ and the adrenal medulla which is the inner part of the adrenal gland.
+
+303
+00:31:41,040 --> 00:31:51,240
+ This hormone, ACTH, is only going to the adrenal cortex and it is going to cause the release
+
+304
+00:31:51,240 --> 00:31:58,160
+ of adrenal cortex hormones which are all corticose steroid hormones.
+
+305
+00:31:58,160 --> 00:32:04,760
+ And we'll talk about those types of hormones later when we talk about the adrenal gland
+
+306
+00:32:04,760 --> 00:32:07,320
+ specifically.
+
+307
+00:32:07,320 --> 00:32:16,520
+ But for now, know that ACTH from the anterior pituitary gland is causing the release of
+
+308
+00:32:16,520 --> 00:32:19,400
+ these adrenal cortex hormones.
+
+309
+00:32:19,400 --> 00:32:25,960
+ They are corticose, corticose, meaning the cortex, steroid hormones.
+
+310
+00:32:25,960 --> 00:32:30,840
+ They are steroids, different type of hormone that we've seen.
+
+311
+00:32:30,840 --> 00:32:33,960
+ These are steroid hormones.
+
+312
+00:32:33,960 --> 00:32:42,080
+ Remember the adrenal medulla, it's going to be releasing norepinephrine and epinephrine.
+
+313
+00:32:42,080 --> 00:32:47,520
+ But that is coming from the control of the sympathetic division of the autonomic nervous
+
+314
+00:32:47,520 --> 00:32:51,440
+ system.
+
+315
+00:32:51,440 --> 00:32:56,880
+ The next two hormones that we're going to talk about from the anterior pituitary gland
+
+316
+00:32:56,880 --> 00:33:03,640
+ is LH, luteinizing hormone and FSH, follicle stimulating hormone.
+
+317
+00:33:03,640 --> 00:33:07,320
+ You briefly saw these in the reproductive system.
+
+318
+00:33:07,320 --> 00:33:16,880
+ Their target organs are the gonads, testes and males, ovaries and females.
+
+319
+00:33:16,880 --> 00:33:25,120
+ The action of these hormones is to stimulate the maturation of the sex cells, either sperm
+
+320
+00:33:25,120 --> 00:33:36,160
+ or the egg release of an egg in the female, and induce secretion of sex hormones from
+
+321
+00:33:36,160 --> 00:33:42,200
+ the testes, which would be testosterone and other androgens, and then the ovaries we would
+
+322
+00:33:42,200 --> 00:33:48,800
+ have estrogen and progesterone.
+
+323
+00:33:48,800 --> 00:33:56,800
+ So remember LH and FSH, those are going to the gonads.
+
+324
+00:33:56,800 --> 00:34:01,920
+ This chart you briefly saw it in the reproductive system.
+
+325
+00:34:01,920 --> 00:34:10,000
+ I just want to show you how these hormones, FSH and LH are so important for proper ovulation
+
+326
+00:34:10,000 --> 00:34:15,100
+ and your menses, LH and FSH are released.
+
+327
+00:34:15,100 --> 00:34:26,120
+ There's going to be this huge spike in luteinizing hormone that is going to trigger ovulation.
+
+328
+00:34:26,120 --> 00:34:36,120
+ That seems to be a big question that I see in T's exams is what hormone triggers ovulation?
+
+329
+00:34:36,120 --> 00:34:39,800
+ So that is the luteinizing hormone.
+
+330
+00:34:39,800 --> 00:34:46,840
+ And you're going to see estrogen and progesterone are going up also from the gonads.
+
+331
+00:34:46,840 --> 00:34:54,180
+ Well here are the ovaries and we're going to get a drop in estrogen and a drop in progesterone
+
+332
+00:34:54,180 --> 00:34:57,680
+ and then we're going to have our menses.
+
+333
+00:34:57,680 --> 00:35:06,440
+ So very important for FSH and LH, very important in the female for proper ovulation and their
+
+334
+00:35:06,440 --> 00:35:08,440
+ menses cycle.
+
+335
+00:35:08,440 --> 00:35:13,380
+ Our fifth hormone from the anterior pituitary gland, growth hormone.
+
+336
+00:35:13,380 --> 00:35:21,200
+ Now the growth hormone is going to be targeting a wide range of cells that have to do with
+
+337
+00:35:21,200 --> 00:35:22,200
+ growth.
+
+338
+00:35:22,200 --> 00:35:26,960
+ Basically muscle, bone, cartilage, and liver.
+
+339
+00:35:26,960 --> 00:35:32,100
+ Your actions are wide, promotes the growth of body tissue.
+
+340
+00:35:32,100 --> 00:35:35,520
+ That is how you are growing.
+
+341
+00:35:35,520 --> 00:35:41,440
+ Now growth hormone is one of those hormones that if you have problems with it, it's going
+
+342
+00:35:41,440 --> 00:35:43,960
+ to affect you.
+
+343
+00:35:43,960 --> 00:35:54,280
+ If you have hyper secretion of growth hormone as a child, you are going to be growing exponentially.
+
+344
+00:35:54,280 --> 00:36:03,040
+ At age eight, this gentleman, Robert Wadlow, who's the tallest recorded human in history,
+
+345
+00:36:03,040 --> 00:36:08,280
+ eight feet, 11 inches, basically nine feet tall.
+
+346
+00:36:08,280 --> 00:36:15,720
+ When he was eight years old, he was six feet, two inches tall.
+
+347
+00:36:15,720 --> 00:36:18,000
+ Huge.
+
+348
+00:36:18,000 --> 00:36:19,480
+ This is his family.
+
+349
+00:36:19,480 --> 00:36:21,360
+ His family, no problems.
+
+350
+00:36:21,360 --> 00:36:28,240
+ His mom and dad, his ribs, but he had a hyper secretion of growth hormone.
+
+351
+00:36:28,240 --> 00:36:34,760
+ He died at age 22 years old at a weight of 492 pounds.
+
+352
+00:36:34,760 --> 00:36:38,960
+ He died of an actual infection of his foot.
+
+353
+00:36:38,960 --> 00:36:44,960
+ There's a lot of weight put down on his joints and his feet.
+
+354
+00:36:44,960 --> 00:36:53,480
+ He had to wear braces to help hold support his joints because he was so tall.
+
+355
+00:36:53,480 --> 00:37:02,280
+ Now, if you have hyper secretion of growth hormone in adults after you finish originally
+
+356
+00:37:02,280 --> 00:37:12,160
+ growing and your bones are no longer growing, this is the effect that prolonged growth hormone
+
+357
+00:37:12,160 --> 00:37:13,720
+ can have on adults.
+
+358
+00:37:13,720 --> 00:37:15,840
+ It's called acromegaly.
+
+359
+00:37:15,840 --> 00:37:23,480
+ You can see here's this person at age 16, looks pretty normal, still getting stimulation.
+
+360
+00:37:23,480 --> 00:37:29,520
+ The bones are growing, but they're not growing in a normal fashion.
+
+361
+00:37:29,520 --> 00:37:32,480
+ They are just getting bigger and wider.
+
+362
+00:37:32,480 --> 00:37:42,800
+ This is her at 52, total difference of appearance with growth hormone as an adult.
+
+363
+00:37:42,800 --> 00:37:48,080
+ That is called acromegaly.
+
+364
+00:37:48,080 --> 00:37:52,600
+ Here's a more recent patient that was studied.
+
+365
+00:37:52,600 --> 00:38:03,160
+ The growth hormone wasn't severe, wasn't hyper secreted hugely, is that even word hugely?
+
+366
+00:38:03,160 --> 00:38:10,600
+ You can see from 1977 to 1988, you can see this gradual change in her facial features.
+
+367
+00:38:10,600 --> 00:38:17,040
+ This is acromegaly, hyper secretion of growth hormone.
+
+368
+00:38:17,040 --> 00:38:24,000
+ If you have hypo secretion of growth hormone, you can get this type of dwarfism, it's called
+
+369
+00:38:24,000 --> 00:38:29,300
+ pituitary dwarfism.
+
+370
+00:38:29,300 --> 00:38:36,760
+ These are some famous actors that have had pituitary dwarfism and then this series, the
+
+371
+00:38:36,760 --> 00:38:45,640
+ little people of the big world, these people have also pituitary dwarfism.
+
+372
+00:38:45,640 --> 00:38:57,160
+ Now, our last hormone, yay, of the anterior pituitary gland is prolactin hormone.
+
+373
+00:38:57,160 --> 00:39:05,400
+ So prolactin, that is telling you it's pro-making lactation, it's making milk, it's a making
+
+374
+00:39:05,400 --> 00:39:07,480
+ milk hormone.
+
+375
+00:39:07,480 --> 00:39:15,440
+ Now prolactin and oxytocin work together, remember oxytocin is working on the mammary
+
+376
+00:39:15,440 --> 00:39:24,160
+ glands also, it's ejecting that milk, squirting that milk out with that let down the milk
+
+377
+00:39:24,160 --> 00:39:32,200
+ ejection and prolactin is actually making the milk in those mammary glands.
+
+378
+00:39:32,200 --> 00:39:37,920
+ So this is just showing you suckling signals, the hypothalamus, the hypothalamus is going
+
+379
+00:39:37,920 --> 00:39:47,200
+ to release oxytocin to eject the milk and release prolactin to induce lactation, the
+
+380
+00:39:47,200 --> 00:39:51,680
+ milk production.
+
+381
+00:39:51,680 --> 00:40:00,760
+ Here is our final review slide, this is the last slide of this lecture, remember the posterior
+
+382
+00:40:00,760 --> 00:40:09,520
+ pituitary gland, the neurohypothesis, this is all nervous tissue, it makes two hormones,
+
+383
+00:40:09,520 --> 00:40:15,680
+ the posterior pituitary gland doesn't make these two hormones, the hypothalamus makes
+
+384
+00:40:15,680 --> 00:40:23,760
+ these two hormones but they are stored in the terminal axons and when they're called to
+
+385
+00:40:23,760 --> 00:40:30,400
+ be released, they're going to release anti-diuretic hormone as action is on the collecting ducts
+
+386
+00:40:30,400 --> 00:40:39,440
+ of the kidney and oxytocin which is stimulating the smooth muscle of the uterus and the smooth
+
+387
+00:40:39,440 --> 00:40:45,760
+ muscles within the mammary glands to get milk ejection.
+
+388
+00:40:45,760 --> 00:40:54,200
+ The anterior pituitary gland, the adeno hypothesis has six hormones you need to know, growth
+
+389
+00:40:54,200 --> 00:41:05,960
+ hormone, thyroid stimulating hormone, ACTH which is going to the adrenal cortex, FSH and
+
+390
+00:41:05,960 --> 00:41:15,120
+ LH going to the gonads, testes and ovaries and prolactin which is going to milk the mammary
+
+391
+00:41:15,120 --> 00:41:18,120
+ glands to make milk.
+
+392
+00:41:18,120 --> 00:41:25,840
+ One other thing I want to bring up is hormones, there's two classes of hormones, there are
+
+393
+00:41:25,840 --> 00:41:35,480
+ going to be amino acid protein based hormones and steroid based hormones.
+
+394
+00:41:35,480 --> 00:41:44,900
+ All the hormones from the posterior and anterior pituitary gland, these are all protein amino
+
+395
+00:41:44,900 --> 00:41:56,840
+ acid based hormones and anytime you see any hormone that ends with IN, you know it's going
+
+396
+00:41:56,840 --> 00:42:01,760
+ to be a protein amino based hormone.
+
+397
+00:42:01,760 --> 00:42:06,000
+ Might be important on some exams, I'm not sure.
+
+398
+00:42:06,000 --> 00:42:14,440
+ So oxytocin, prolactin, the end in IN, you will see other hormones that might have an
+
+399
+00:42:14,440 --> 00:42:24,000
+ end in IN like melatonin, melatonin that you've already learned, erythropoietin, those are
+
+400
+00:42:24,000 --> 00:42:29,160
+ all amino acid protein based hormones.
+
+401
+00:42:29,160 --> 00:42:34,520
+ So all these hormones from the pituitary gland are protein based.
+
+402
+00:42:34,520 --> 00:42:43,520
+ When you get to steroid based hormones, the ones you're going to need to know are going
+
+403
+00:42:43,520 --> 00:42:52,560
+ to be the hormones released from the adrenal cortex, cortical hormones.
+
+404
+00:42:52,560 --> 00:42:55,680
+ These are steroid hormones.
+
+405
+00:42:55,680 --> 00:43:02,080
+ The ones released from the testes, testosterone and any androgens.
+
+406
+00:43:02,080 --> 00:43:05,320
+ These are steroid based hormones.
+
+407
+00:43:05,320 --> 00:43:13,560
+ The ones released from the ovary, estrogen and progesterone.
+
+408
+00:43:13,560 --> 00:43:19,280
+ These are also steroid based hormones.
+
+409
+00:43:19,280 --> 00:43:29,600
+ But as far as for you, everything released from the pituitary gland is protein amino acid
+
+410
+00:43:29,600 --> 00:43:31,480
+ based hormone.
+
+411
+00:43:31,480 --> 00:43:33,720
+ Just want it to bring that in.
+
+412
+00:43:33,720 --> 00:43:36,080
+ So that's it for this video.
+
+413
+00:43:36,080 --> 00:43:44,040
+ The next video will cover the rest of the endocrine glands and some organs that have
+
+414
+00:43:44,040 --> 00:43:45,040
+ endocrine cells.
+

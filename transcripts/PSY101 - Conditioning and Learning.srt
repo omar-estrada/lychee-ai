@@ -1,0 +1,2132 @@
+1
+00:00:00,000 --> 00:00:07,000
+ Hello and welcome. This week we are going to be talking about conditioning and learning.
+
+2
+00:00:07,000 --> 00:00:12,000
+ There's a whole bunch of really good YouTube videos out there and I have marked those for you to see.
+
+3
+00:00:12,000 --> 00:00:18,000
+ Some of those are going to happen within this lecture meeting as I have some numbers associated with certain slides.
+
+4
+00:00:18,000 --> 00:00:22,000
+ And you might want to stop the presentation, go watch the video and come back.
+
+5
+00:00:22,000 --> 00:00:26,000
+ They're not required, none of the information on the videos will be on the test,
+
+6
+00:00:26,000 --> 00:00:35,000
+ but they quite often allow you to see the material in a different way and to understand the material perhaps with a different voice.
+
+7
+00:00:35,000 --> 00:00:42,000
+ So let's start with talking about the different types of learning and the definition of learning is one that you do need to kind of understand.
+
+8
+00:00:42,000 --> 00:00:47,000
+ And what we say is a relatively permanent change in behavior due to an experience.
+
+9
+00:00:47,000 --> 00:00:54,000
+ Now the reason we have this definition is that we don't consider learning to be something that you just do one time.
+
+10
+00:00:54,000 --> 00:01:02,000
+ And it is based on experience, so if I'm a little kid and I've been told that the stove is hot, not the touch the stove when it's hot,
+
+11
+00:01:02,000 --> 00:01:06,000
+ I keep wanting to go up and touch the stove. In fact, I've always got my hands all over the stove.
+
+12
+00:01:06,000 --> 00:01:09,000
+ It's not working right now, but I've got my hand all over the stove.
+
+13
+00:01:09,000 --> 00:01:11,000
+ Then I keep saying don't touch the stove because it's hot.
+
+14
+00:01:11,000 --> 00:01:14,000
+ And then one time I go over and I touch the stove and it's hot.
+
+15
+00:01:14,000 --> 00:01:19,000
+ I learn not to touch the stove anymore because it's hot and I understand the difference.
+
+16
+00:01:19,000 --> 00:01:24,000
+ So we now have a relatively permanent change in behavior as I get to be an adult.
+
+17
+00:01:24,000 --> 00:01:29,000
+ I'll know when to and when not to touch the stove, but I've changed because of this experience that I had.
+
+18
+00:01:29,000 --> 00:01:34,000
+ So we say learning is this change that occurs.
+
+19
+00:01:34,000 --> 00:01:36,000
+ Now there are two types of learning.
+
+20
+00:01:36,000 --> 00:01:41,000
+ A associative learning is what we'll be focusing on in this lecture, but there's also cognitive learning.
+
+21
+00:01:41,000 --> 00:01:44,000
+ Now cognitive learning is what you do in school basically.
+
+22
+00:01:44,000 --> 00:01:48,000
+ It is what you learn in your brain you might want to say.
+
+23
+00:01:48,000 --> 00:01:53,000
+ So when we talk about learning math, that's cognitive learning.
+
+24
+00:01:53,000 --> 00:01:57,000
+ We say learning directions, that's cognitive learning.
+
+25
+00:01:57,000 --> 00:02:03,000
+ So cognitive learning is sort of what most of you think of as education or intelligence.
+
+26
+00:02:03,000 --> 00:02:09,000
+ But associative learning is very strong with us, and that's going to be classical and operant conditioning,
+
+27
+00:02:09,000 --> 00:02:13,000
+ and we're going to be talking about those a great deal here in a few minutes.
+
+28
+00:02:13,000 --> 00:02:18,000
+ And basically, these are all based on stimuluses and responses.
+
+29
+00:02:18,000 --> 00:02:23,000
+ If you don't know what a stimulus is, a stimulus is anything that gets a response.
+
+30
+00:02:23,000 --> 00:02:28,000
+ So I'm not going to do it because we're in a lecture right now, but if I was to suddenly scream in the classroom
+
+31
+00:02:28,000 --> 00:02:32,000
+ and you jumped, the scream would be the stimulus.
+
+32
+00:02:32,000 --> 00:02:38,000
+ The response would be the jump.
+
+33
+00:02:38,000 --> 00:02:42,000
+ With associative learning, there are a couple of big keywords that we want to understand.
+
+34
+00:02:42,000 --> 00:02:44,000
+ The first one is reinforcement.
+
+35
+00:02:44,000 --> 00:02:51,000
+ Now what I want to put for you to put right next to the word reinforcement is an increase in response,
+
+36
+00:02:51,000 --> 00:02:54,000
+ or an increase in behavior.
+
+37
+00:02:54,000 --> 00:02:59,000
+ We always see an increase in behavior with reinforcement.
+
+38
+00:02:59,000 --> 00:03:02,000
+ I don't care what word goes in front of the word reinforcement.
+
+39
+00:03:02,000 --> 00:03:05,000
+ If you see the word reinforcement, there is an increase in behavior.
+
+40
+00:03:05,000 --> 00:03:10,000
+ So if we talk about positive reinforcement, we're talking about an increase in behavior.
+
+41
+00:03:10,000 --> 00:03:15,000
+ If I talk about negative reinforcement, I'm talking about an increase in behavior.
+
+42
+00:03:15,000 --> 00:03:21,000
+ If I talk about walk-a-walk-a reinforcement, there's still an increase in behavior.
+
+43
+00:03:21,000 --> 00:03:30,000
+ The other two words that are associated with associative learning, I was trying to think of a different word,
+
+44
+00:03:30,000 --> 00:03:32,000
+ is antecedents.
+
+45
+00:03:32,000 --> 00:03:39,000
+ And antecedents are things that happen before a behavior and consequences, which are things that happen after a behavior.
+
+46
+00:03:39,000 --> 00:03:46,000
+ So I always think of associative behaviors as sort of the ABC of learning.
+
+47
+00:03:46,000 --> 00:03:51,000
+ Now the antecedent is before the behavior and the consequence is after the behavior.
+
+48
+00:03:51,000 --> 00:03:55,000
+ Now antecedents are linked to classical conditioning.
+
+49
+00:03:55,000 --> 00:03:59,000
+ So when we start talking about classical conditioning, we're going to talk about something that happens before behavior,
+
+50
+00:03:59,000 --> 00:04:02,000
+ and thus it changes our behavior.
+
+51
+00:04:02,000 --> 00:04:06,000
+ With operant conditioning, we're going to talk about the behavior and then the consequence of that behavior,
+
+52
+00:04:06,000 --> 00:04:09,000
+ and how that changes the next time we do that behavior.
+
+53
+00:04:09,000 --> 00:04:14,000
+ So classical is before operant is after.
+
+54
+00:04:14,000 --> 00:04:17,000
+ Let's again review, so you really understand the difference between these,
+
+55
+00:04:17,000 --> 00:04:20,000
+ because we're going to talk a lot about classical and operant.
+
+56
+00:04:20,000 --> 00:04:24,000
+ So classical is all about the antecedent and then the stimulus.
+
+57
+00:04:24,000 --> 00:04:27,000
+ So here's our antecedent and then we have this response.
+
+58
+00:04:27,000 --> 00:04:31,000
+ And the other thing about classical conditioning, it's all about reflexes.
+
+59
+00:04:31,000 --> 00:04:37,000
+ So what it is is it's all about the things that we do naturally, that we aren't trained to do.
+
+60
+00:04:37,000 --> 00:04:44,000
+ So blinking our eyes or sweating of our palms, they all come from the autotomic nervous system.
+
+61
+00:04:44,000 --> 00:04:49,000
+ Whereas operant conditioning is always going to be from the other nervous system.
+
+62
+00:04:49,000 --> 00:04:53,000
+ If it's an autotomic nervous system item, it's going to be classically conditioned.
+
+63
+00:04:53,000 --> 00:04:56,000
+ Everything else is going to come from operant conditioning.
+
+64
+00:04:56,000 --> 00:05:01,000
+ So it's all going to be about what happened after we do a certain thing.
+
+65
+00:05:01,000 --> 00:05:08,000
+ So if I make a funny joke and then you laugh, I decide, okay, I'm going to make a funny joke again because that worked.
+
+66
+00:05:08,000 --> 00:05:11,000
+ So that's operant conditioning, I made that decision.
+
+67
+00:05:11,000 --> 00:05:23,000
+ But if I see a scary little spider and my palms begin to sweat, I can't make my palms sweat unless I try to heat them up or I do something.
+
+68
+00:05:23,000 --> 00:05:28,000
+ So that's an autotomic nervous system that means it's going to be classically conditioned.
+
+69
+00:05:28,000 --> 00:05:36,000
+ A classical conditioning first, and the big wig with classical conditioning is Pavlov.
+
+70
+00:05:36,000 --> 00:05:41,000
+ Now Pavlov is a pretty brilliant man. He actually wasn't looking for classical conditioning.
+
+71
+00:05:41,000 --> 00:05:44,000
+ He was sitting digestion in dogs.
+
+72
+00:05:44,000 --> 00:05:51,000
+ Now if you'd like to see the actual experiment, Mr. Pavlov and his dogs, if you go down to this YouTube video, they do have some real life footage.
+
+73
+00:05:51,000 --> 00:05:59,000
+ It's not a very long video, and again, it's number one underneath that list of YouTube videos for you to watch.
+
+74
+00:05:59,000 --> 00:06:06,000
+ But what Pavlov was doing was trying to find out why we digestion. What is the steps in digestion?
+
+75
+00:06:06,000 --> 00:06:12,000
+ Well, the first step in digestion is to chew and make saliva, and the saliva helps break down the food.
+
+76
+00:06:12,000 --> 00:06:20,000
+ As such, it's very important for him when he rigs up these dogs to go ahead and have this little saliva collection.
+
+77
+00:06:20,000 --> 00:06:26,000
+ So he would present food the dogs would begin to chew and salivate or drool, and this drool would be caught.
+
+78
+00:06:26,000 --> 00:06:29,000
+ He'd measure how much drool they had.
+
+79
+00:06:29,000 --> 00:06:33,000
+ The only thing is, is think about this right now. I want you to drool.
+
+80
+00:06:33,000 --> 00:06:39,000
+ But you can't think about anything that tastes good and you can't bite your tongue.
+
+81
+00:06:39,000 --> 00:06:43,000
+ Yeah, it's kind of hard to do, isn't it? Because it's an autotomic nervous system.
+
+82
+00:06:43,000 --> 00:06:47,000
+ I don't have a stimulus, thus I'm not going to start to drool.
+
+83
+00:06:47,000 --> 00:06:56,000
+ Well, what happened with Pavlov, and what was very interesting, was that these dogs, when presented with food, would take a bite and they'd begin to drool.
+
+84
+00:06:56,000 --> 00:07:04,000
+ But after a bit of time, the dogs would begin to drool as they were being led to the area where they're going to be doing their experiments.
+
+85
+00:07:04,000 --> 00:07:12,000
+ And then after that, what began to happen is the dogs would begin to drool when the keepers would just begin to walk into the kennels.
+
+86
+00:07:12,000 --> 00:07:17,000
+ Well, it could be almost half an hour before they were actually going to be in the experiment.
+
+87
+00:07:17,000 --> 00:07:23,000
+ And so Pavlov was saying, "Well, how can these dogs begin to drool when they don't have a stimulus in front of them?"
+
+88
+00:07:23,000 --> 00:07:33,000
+ There's nothing to stimulate the creation of drool, which means they had to learn that this person who walked in was associated with food,
+
+89
+00:07:33,000 --> 00:07:41,000
+ and that that association is what created the dog's autotomic nervous system to begin to drool.
+
+90
+00:07:41,000 --> 00:07:46,000
+ Well, this is great, but remember, this is science, and it's got to be proven.
+
+91
+00:07:46,000 --> 00:07:52,000
+ So, what Pavlov does is begin to run a series of experiments.
+
+92
+00:07:52,000 --> 00:07:58,000
+ Now, he comes up with a few words, and we need to make sure we understand these Pavlovian terms as we move forward.
+
+93
+00:07:58,000 --> 00:08:04,000
+ The first one is a neutral stimulus, and that's basically a stimulus that does not evoke the desired response.
+
+94
+00:08:04,000 --> 00:08:11,000
+ I like to put the word "desired" response in there because it may evoke a response, but not the one that we're specifically looking for.
+
+95
+00:08:11,000 --> 00:08:19,000
+ A conditioned stimulus is one that evokes a response because we have taught the person to have that response to it.
+
+96
+00:08:19,000 --> 00:08:25,000
+ An unconditioned stimulus is one where, if presented the stimulus, you didn't have to be taught to do this.
+
+97
+00:08:25,000 --> 00:08:31,000
+ So, think about the dog and the food. It's presented some food. It naturally learns to drool.
+
+98
+00:08:31,000 --> 00:08:35,000
+ It didn't have to learn to create saliva when food is presented.
+
+99
+00:08:35,000 --> 00:08:40,000
+ So, stimulus is, if they're a correct stimulus, we'll get a response.
+
+100
+00:08:40,000 --> 00:08:44,000
+ An unconditioned response will be one in which we didn't have to learn it.
+
+101
+00:08:44,000 --> 00:08:50,000
+ So, we were given the unconditioned stimulus, and we started to drool.
+
+102
+00:08:50,000 --> 00:08:53,000
+ Whereas, a conditioned stimulus is going to lead to a conditioned response.
+
+103
+00:08:53,000 --> 00:09:01,000
+ Basically, what's going to happen is that I learned to respond this way.
+
+104
+00:09:01,000 --> 00:09:08,000
+ So, let's break this down a little bit easier. I kind of find sometimes the terminology by itself is a little looky.
+
+105
+00:09:08,000 --> 00:09:13,000
+ So, this is Pavlov and his experiment, and right here you see the same chart that's in your book,
+
+106
+00:09:13,000 --> 00:09:17,000
+ and we're basically going to do the same chart here, but I like using pictures.
+
+107
+00:09:17,000 --> 00:09:22,000
+ I find it, for me, a little bit more understandable.
+
+108
+00:09:22,000 --> 00:09:25,000
+ So, the first thing we're going to do is we're going to have this little bell,
+
+109
+00:09:25,000 --> 00:09:30,000
+ and we're going to be ringing the bell, and the dog will respond, but it doesn't drool.
+
+110
+00:09:30,000 --> 00:09:37,000
+ It doesn't make saliva. It may twist his head. It may bark, but basically this neutral stimulus will lead to nothing.
+
+111
+00:09:37,000 --> 00:09:42,000
+ Nothing means it doesn't give us the response we're looking for.
+
+112
+00:09:42,000 --> 00:09:48,000
+ So, now what we want to do is find this unconditioned stimulus to get this unconditioned response.
+
+113
+00:09:48,000 --> 00:09:52,000
+ So, if we give this dog meat, the dog is going to begin to drool to salivate.
+
+114
+00:09:52,000 --> 00:09:56,000
+ We know that the dog doesn't have to learn that. We don't have to learn that.
+
+115
+00:09:56,000 --> 00:10:01,000
+ You put some good food in my mouth, and I begin to salivate to help the digestion process.
+
+116
+00:10:01,000 --> 00:10:07,000
+ Well, this is the first step. We have to prove that this bell right now does not get the desired response.
+
+117
+00:10:07,000 --> 00:10:13,000
+ Our hope is that in the end, we're going to be able to ring the bell over here, and that will get drool.
+
+118
+00:10:13,000 --> 00:10:19,000
+ So, how do we do that? Well, we need to build a relationship up between the bell and the food.
+
+119
+00:10:19,000 --> 00:10:24,000
+ So, basically, we're going to present the food and ring the bell exactly at the same time,
+
+120
+00:10:24,000 --> 00:10:28,000
+ and this relationship then is being built between these two things.
+
+121
+00:10:28,000 --> 00:10:36,000
+ This is called the acquisition phase, so we're acquiring the conditioning, because the food will naturally lead to drooling.
+
+122
+00:10:36,000 --> 00:10:44,000
+ But in the brain of the dog, within the autonomic nervous system, the food and the bell are becoming the same thing.
+
+123
+00:10:44,000 --> 00:10:47,000
+ The bell represents food, and food represents the bell.
+
+124
+00:10:47,000 --> 00:10:54,000
+ If we've done well, in the end, I ring the bell, and I get drool.
+
+125
+00:10:54,000 --> 00:10:59,000
+ Well, this neutral stimulus has changed to a conditioned stimulus, hasn't it?
+
+126
+00:10:59,000 --> 00:11:04,000
+ Because now I get a conditioned response, and that's one of the neat things about this,
+
+127
+00:11:04,000 --> 00:11:10,000
+ is that a neutral stimulus will lead to nothing, an unconditioned stimulus should always lead to an unconditioned response,
+
+128
+00:11:10,000 --> 00:11:14,000
+ and a conditioned stimulus should always lead to a conditioned response.
+
+129
+00:11:14,000 --> 00:11:18,000
+ Well, this pattern is a preset pattern. We don't have much choice with this.
+
+130
+00:11:18,000 --> 00:11:21,000
+ If we're talking about classical conditioning, this is the pattern.
+
+131
+00:11:21,000 --> 00:11:28,000
+ So, we can put anything that's been classically conditioned, put it into this pattern, and we should see it works the same way.
+
+132
+00:11:28,000 --> 00:11:35,000
+ So, let's talk about a five-year-old boy, Johnny. Johnny is in his backyard, and he sees a little garden snake.
+
+133
+00:11:35,000 --> 00:11:41,000
+ Now, Johnny's not afraid of the garden snake. He goes up, he's going to go touch it, or look at it, or do something with it, he doesn't know.
+
+134
+00:11:41,000 --> 00:11:47,000
+ So, right now, the snake is a neutral stimulus, because he does not produce fear when he sees the snake.
+
+135
+00:11:47,000 --> 00:11:53,000
+ However, as he goes to look at the snake, an 18-wheeler blows its horn.
+
+136
+00:11:53,000 --> 00:11:59,000
+ Now, if you have an 18-wheeler who blows a horn right behind you, you're probably going to jump or have fear.
+
+137
+00:11:59,000 --> 00:12:02,000
+ So, the horn produces fear.
+
+138
+00:12:02,000 --> 00:12:08,000
+ Now, what happened, unfortunately, is that he's looking at the snake at the same time the horn is sounded.
+
+139
+00:12:08,000 --> 00:12:14,000
+ So, he begins to associate fear, which was the response to the horn with the snake.
+
+140
+00:12:14,000 --> 00:12:20,000
+ And now, when Johnny goes in the backyard, he sees the snake. He begins to back up a little bit. His heart races a little bit.
+
+141
+00:12:20,000 --> 00:12:25,000
+ Now, he's a little fear of the snake. Now, in the beginning, he had no fear of the snake.
+
+142
+00:12:25,000 --> 00:12:29,000
+ Remember, he was all over going to go play with it and touch it. Now, he has a fear of the snake.
+
+143
+00:12:29,000 --> 00:12:34,000
+ So, that neutral stimulus has become the conditioned stimulus. It had to change.
+
+144
+00:12:34,000 --> 00:12:47,000
+ Now, this can happen in many different ways. We'll talk about some of the fun things in class, where we have seen some Pavlovian classically conditioned things to yourself.
+
+145
+00:12:47,000 --> 00:12:52,000
+ What is important is something called extinction. Now, here's our second one.
+
+146
+00:12:52,000 --> 00:12:55,000
+ This one's kind of funny. I really do recommend you find this one.
+
+147
+00:12:55,000 --> 00:12:59,000
+ You'll remember about Pavlovian as a log. He's from this video. It's a cute video.
+
+148
+00:12:59,000 --> 00:13:07,000
+ But extinction basically says what happens is that if this dog isn't given some meat powder every once in a while, when the bell is wrong,
+
+149
+00:13:07,000 --> 00:13:16,000
+ that after a while, that connection, that relationship I built up between the food and the bell will begin to dissolve.
+
+150
+00:13:16,000 --> 00:13:21,000
+ And so extinction can occur. So, just because something happens once doesn't mean that it will be there forever.
+
+151
+00:13:21,000 --> 00:13:28,000
+ Or if we don't keep having it repeated after a while, the response we have to it is not there.
+
+152
+00:13:28,000 --> 00:13:35,000
+ Spontaneous recovery basically says, okay, so I had the dog in the bell and I did it 15 times.
+
+153
+00:13:35,000 --> 00:13:39,000
+ And after the 15th time, the dog would begin to drool whenever he heard the bell.
+
+154
+00:13:39,000 --> 00:13:47,000
+ But then I ring the bell 20 different times and the dog stopped drooling after a while because he's like, you know what, you're not giving me any food when you ring the bell.
+
+155
+00:13:47,000 --> 00:13:51,000
+ I figure this one out. It does not link anymore. There's no relationship.
+
+156
+00:13:51,000 --> 00:13:59,000
+ But then only one time I give him some food or even smell food when I ring the bell, he can spontaneously recover that training that he's had.
+
+157
+00:13:59,000 --> 00:14:08,000
+ That's one of the things with classical conditioning is that they're very easy to begin to reestablish that conditioning once it's been done to somebody.
+
+158
+00:14:08,000 --> 00:14:15,000
+ Now, the other thing about classical conditioning is that this is a phobia.
+
+159
+00:14:15,000 --> 00:14:18,000
+ Now, the big thing with phobias was done with a little Albert.
+
+160
+00:14:18,000 --> 00:14:23,000
+ And if you want to watch about a little Albert you read about in your book, you can go over here to this YouTube video.
+
+161
+00:14:23,000 --> 00:14:28,000
+ It's number three on that list and actually see a little Albert in this experiment.
+
+162
+00:14:28,000 --> 00:14:32,000
+ And basically, a phobia is a little different than a fear.
+
+163
+00:14:32,000 --> 00:14:41,000
+ A fear is something that is natural. We should naturally be standing at the top of this building looking out and saying, that's a long way down.
+
+164
+00:14:41,000 --> 00:14:48,000
+ Our heart may race a little bit because we know that if we were to step off this building and go, we, we go splat.
+
+165
+00:14:48,000 --> 00:14:55,000
+ And most of us don't want to go splat. So we have a natural fear looking out over high things.
+
+166
+00:14:55,000 --> 00:15:01,000
+ We know that danger is there. However, we still went up to the building.
+
+167
+00:15:01,000 --> 00:15:10,000
+ A phobia is when there's no real danger and it also may change our behavior.
+
+168
+00:15:10,000 --> 00:15:18,000
+ A phobia is an unrealistic fear. We can even know that the fear is wrong.
+
+169
+00:15:18,000 --> 00:15:22,000
+ And we know that we shouldn't be afraid. It doesn't mean that we're not afraid anyway.
+
+170
+00:15:22,000 --> 00:15:28,000
+ So while I might have a little fear standing up here looking out and a phobia, I couldn't get up in the first place.
+
+171
+00:15:28,000 --> 00:15:31,000
+ I'm standing down here and I'm saying, I am not taking an elevator up there.
+
+172
+00:15:31,000 --> 00:15:35,000
+ Nope. Nope. Not going up. Nope. Refuse.
+
+173
+00:15:35,000 --> 00:15:42,000
+ Now, the truth is I know I'm going to be inside this building and I know that I'm not going to fall out of the building by going up the elevator and just standing up there.
+
+174
+00:15:42,000 --> 00:15:51,000
+ But my fear, my unrealistic fear, that something would happen to me if I do that is so strong I can't even get in the elevator.
+
+175
+00:15:51,000 --> 00:15:55,000
+ That's when it becomes a phobia. That's when it crosses over.
+
+176
+00:15:55,000 --> 00:16:01,000
+ So what do we know about phobias? Well, little Albert was a baby and he was just a normal little kid.
+
+177
+00:16:01,000 --> 00:16:05,000
+ And basically they had this little dog that he played with and he liked the little dog.
+
+178
+00:16:05,000 --> 00:16:09,000
+ The dog was very cheerful and he seemed to be very happy with the dog at first.
+
+179
+00:16:09,000 --> 00:16:16,000
+ The next time they presented the dog, the dog basically went into this barking play position and that scared little Albert.
+
+180
+00:16:16,000 --> 00:16:22,000
+ But it scared him very severely because we're talking about a little teeny brain here that doesn't have a lot of power in it.
+
+181
+00:16:22,000 --> 00:16:32,000
+ What is interesting though is that because a dog is sort of indistinguishable from a cat to a baby.
+
+182
+00:16:32,000 --> 00:16:35,000
+ Do they know the difference between a dog and a cat? No.
+
+183
+00:16:35,000 --> 00:16:38,000
+ They know a dog has got four legs, fur, and a tail.
+
+184
+00:16:38,000 --> 00:16:43,000
+ So this animal he's afraid of has got four legs, a tail, and has got fur.
+
+185
+00:16:43,000 --> 00:16:46,000
+ A cat has also got four legs, fur, and a tail.
+
+186
+00:16:46,000 --> 00:16:52,000
+ As a baby he doesn't know the difference between a cat and a dog. He just knows that it's got four legs, fur, and a tail.
+
+187
+00:16:52,000 --> 00:16:56,000
+ And I don't like things that have got four legs, fur, and a tail.
+
+188
+00:16:56,000 --> 00:17:03,000
+ And cats can be a little aloof and maybe even sort of his set you a little bit and he's gone, boom, I'm out of there.
+
+189
+00:17:03,000 --> 00:17:10,000
+ So what will begin to happen now is that he will begin to associate fear with anything that's got four legs, fur, and a tail.
+
+190
+00:17:10,000 --> 00:17:15,000
+ So rabbits will become problematic. Llamas will become problematic.
+
+191
+00:17:15,000 --> 00:17:21,000
+ Basically animals may become fearful to him. He begins to develop a phobia of animals.
+
+192
+00:17:21,000 --> 00:17:27,000
+ It's an unrealistic fear. You can even know that it's unrealistic that that horse is two miles away.
+
+193
+00:17:27,000 --> 00:17:32,000
+ It doesn't matter. It's a big animal and I'm afraid of it.
+
+194
+00:17:32,000 --> 00:17:41,000
+ Phobias are interesting because you can experience a phobia by doing this, but we can also learn phobias vicariously through others.
+
+195
+00:17:41,000 --> 00:17:50,000
+ So if I watch somebody who's got a phobia, I can learn that from them, especially for a child.
+
+196
+00:17:50,000 --> 00:17:55,000
+ So I'm sorry. I'm going to pick on the ladies who go eee to those good old palmetto bugs.
+
+197
+00:17:55,000 --> 00:18:02,000
+ The palmetto bugs really don't want to be in your house, but they got washed out from outside. Their houses were destroyed or whatever we put poison down.
+
+198
+00:18:02,000 --> 00:18:06,000
+ They're like, fine, I'll move in here. And you see them?
+
+199
+00:18:06,000 --> 00:18:10,000
+ Well, the truth is that we should just take a big old shoe and whack it and kill it.
+
+200
+00:18:10,000 --> 00:18:16,000
+ But I'm a little girl. I watch my mother go eee and run away and dad comes over and goes whack with the shoe and he kills it.
+
+201
+00:18:16,000 --> 00:18:23,000
+ So the girl has begun to learn that I should be fearful of this bug because my mother was fearful of this bug.
+
+202
+00:18:23,000 --> 00:18:30,000
+ And that I shouldn't go near it because I'm vicariously learning through others.
+
+203
+00:18:30,000 --> 00:18:39,000
+ And so as she grows up, she may also start to develop a phobia of the palmetto bugs and eee and run away and can't do anything.
+
+204
+00:18:39,000 --> 00:18:45,000
+ So what we want to do is look at what are true phobias and what are fears.
+
+205
+00:18:45,000 --> 00:18:52,000
+ So remember, fears are realistic. We should be afraid to want a tall building and we're looking down. A little heart race is not a bad thing.
+
+206
+00:18:52,000 --> 00:18:57,000
+ It keeps us from basically doing harm to ourselves. That's what fear does.
+
+207
+00:18:57,000 --> 00:19:03,000
+ A phobia is an unrealistic fear, one that we even know that maybe we shouldn't be afraid of, but our body still reacts.
+
+208
+00:19:03,000 --> 00:19:11,000
+ It still is stimulated to that fear. So if I'm saying I won't go up that elevator or even if I do go up the elevator, I begin to sweat profusely.
+
+209
+00:19:11,000 --> 00:19:19,000
+ My heart begins to pound. And I'm like, jeez, I shouldn't be afraid, but my body is reacting anyway. That then becomes a phobia.
+
+210
+00:19:19,000 --> 00:19:24,000
+ So I have a phobia. It took me a long time to realize it was a phobia.
+
+211
+00:19:24,000 --> 00:19:29,000
+ But what I found was, is I have lived most of my life here in Florida with no big problems.
+
+212
+00:19:29,000 --> 00:19:36,000
+ When I moved to the big city, I found that I just kept trying to get tall apartments.
+
+213
+00:19:36,000 --> 00:19:42,000
+ Or I'd only live in apartments that were three stories or two stories, and I'd always live on the second or third story.
+
+214
+00:19:42,000 --> 00:19:49,000
+ When I went to Baltimore, we started getting 10, 15 story apartment complexes, and I worked hard to move up as high as I could.
+
+215
+00:19:49,000 --> 00:19:53,000
+ I also began to discover that I didn't like being under bridges.
+
+216
+00:19:53,000 --> 00:19:57,000
+ And here in Florida, we have a lot of bridges, but I go over bridges.
+
+217
+00:19:57,000 --> 00:20:02,000
+ I have no problem going over the Skyway Bridge, which is one of the highest bridges here in the state of Florida.
+
+218
+00:20:02,000 --> 00:20:07,000
+ No problem at being at the top of the bridge. What I don't like doing is being under the bridge.
+
+219
+00:20:07,000 --> 00:20:13,000
+ And so in Atlanta, there was an eight-lane highway, and I would get stopped every time underneath this bridge.
+
+220
+00:20:13,000 --> 00:20:17,000
+ And you'd look up, and the bridge would be slightly bouncing.
+
+221
+00:20:17,000 --> 00:20:22,000
+ Now, I know that that means that it's actually a healthy bridge. Bridges should flex, depending on the weather,
+
+222
+00:20:22,000 --> 00:20:26,000
+ especially in someplace where there could be ice. We want the ability to flex.
+
+223
+00:20:26,000 --> 00:20:33,000
+ But my heart would race. My palms would begin to sweat. I would begin to think about how do I get out of here.
+
+224
+00:20:33,000 --> 00:20:40,000
+ I got to the point where I began to find another way to get to work, so I could avoid that eight-lane highway,
+
+225
+00:20:40,000 --> 00:20:43,000
+ because you just never could seem to get all the way through without stopping at the light.
+
+226
+00:20:43,000 --> 00:20:49,000
+ So eventually I find a way around to work that doesn't take very long, and it gets me there, but I avoid the highway.
+
+227
+00:20:49,000 --> 00:20:57,000
+ Now, I've got a phobia, because I'm refusing to stay in low buildings. I'm refusing to drive one way.
+
+228
+00:20:57,000 --> 00:21:03,000
+ I changed my life around. I even know this is kind of silly, but that's what happened.
+
+229
+00:21:03,000 --> 00:21:08,000
+ I also began to discover I didn't like caves. I couldn't go in caves.
+
+230
+00:21:08,000 --> 00:21:14,000
+ Sometimes these caves were huge and enormous and beautiful, but I just couldn't go in it.
+
+231
+00:21:14,000 --> 00:21:21,000
+ So the question is, is what do I have a phobia of? If you think it's claustrophobia, that's not right.
+
+232
+00:21:21,000 --> 00:21:30,000
+ Because remember, I had no problem going into being in a large cave. It was the cave part that scared me.
+
+233
+00:21:30,000 --> 00:21:35,000
+ What I actually have a fear of, a phobia, is being crushed.
+
+234
+00:21:35,000 --> 00:21:46,000
+ I just know if I go in that cave, even though that cave has been standing there for 3 million years, 3 million in one day will be the day that cave crashes in on me, and I will get crushed.
+
+235
+00:21:46,000 --> 00:21:53,000
+ I just know that if I'm in a low apartment complex, something happens, I'm going to get the one that gets crushed.
+
+236
+00:21:53,000 --> 00:21:56,000
+ If I'm underneath that bridge, it's going to fall down on me.
+
+237
+00:21:56,000 --> 00:22:01,000
+ Now, have I ever been crushed? No, I've never been crushed.
+
+238
+00:22:01,000 --> 00:22:07,000
+ So the question is, how did I develop this phobia? Well, I developed it probably vicariously through other things.
+
+239
+00:22:07,000 --> 00:22:16,000
+ I watched videos of the San Francisco earthquake where we saw this two decker highway and one deck fell down on top of the other deck.
+
+240
+00:22:16,000 --> 00:22:22,000
+ Now, the people in the cars on the top deck, they didn't die. The people in the cars on the bottom deck, they got crushed.
+
+241
+00:22:22,000 --> 00:22:27,000
+ Things like Haiti don't help me much because there's lots of crushed people in those things.
+
+242
+00:22:27,000 --> 00:22:31,000
+ Hurricane Andrew, I see all these things where things are happening.
+
+243
+00:22:31,000 --> 00:22:37,000
+ So what happens is I originally have this phobia and it keeps getting reinforced all the time.
+
+244
+00:22:37,000 --> 00:22:41,000
+ So I never get to lose the phobia because it's reinforced.
+
+245
+00:22:41,000 --> 00:22:52,000
+ However, through desensitization, discussing this phobia in classes, I have gone to the point where my heart doesn't begin to raise and my palms don't begin to sweat.
+
+246
+00:22:52,000 --> 00:23:00,000
+ It was funny when I first did these lectures, it was very hard for me to even do the lecture because my heart would pound and my palms begin to sweat.
+
+247
+00:23:00,000 --> 00:23:09,000
+ But as I begin to talk more about it, as I begin to realize I have more control over this, I gradually have gotten less and less fear to the stimulus.
+
+248
+00:23:09,000 --> 00:23:19,000
+ Now, I still have a little bit harder time staying on the first or second floor of a 10-story apartment complex, or especially when I go to hotels, I always like to ask to stay up higher up.
+
+249
+00:23:19,000 --> 00:23:29,000
+ But I have gotten to the point where, you know what, I don't stay up all night because I have this fear that the apartment complex is going to crash on me or the hotel is going to come crashing on me.
+
+250
+00:23:29,000 --> 00:23:41,000
+ I can now sleep, it's not the most comfortable sleep, but I can do that because I've desensitized myself some to this in realizing that there's a good chance that it won't happen today, you might want to say.
+
+251
+00:23:41,000 --> 00:23:53,000
+ It's one reason I probably can never live in California, the earthquakes drive me nuts too much, but it's an unrealistic fear, thus it is a phobia.
+
+252
+00:23:53,000 --> 00:24:04,000
+ Now, the next type of condition we're going to talk about is operant conditioning, and operant conditioning is all about learning a response to a consequence.
+
+253
+00:24:04,000 --> 00:24:16,000
+ So basically, I have a behavior, and then I look to see how do you respond to that. Now, the big person with operant conditioning is Skinner, and Skinner did a lot of work with pigeons and mice.
+
+254
+00:24:16,000 --> 00:24:24,000
+ And Skinner, B.F. Skinner is our biggest American, probably psychologist that we can think of in America.
+
+255
+00:24:24,000 --> 00:24:29,000
+ This video is a little bit slow, but it is kind of interesting for those who like this kind of stuff.
+
+256
+00:24:29,000 --> 00:24:37,000
+ You actually get to see him train pigeons, he thought pigeons were far more intelligent than mice, and so he stopped working with mice after a while and started working with pigeons.
+
+257
+00:24:37,000 --> 00:24:51,000
+ You can see this also in your book, you'll see a picture of two pigeons playing ping pong, and he trained them to play ping pong, because the one who got the ball past the other one would get some food, and so they like food, so they would work hard to do that.
+
+258
+00:24:51,000 --> 00:25:00,000
+ Now, if you're looking at this page, you also notice a couple of things, one is called the law of effects, and one of the things you may have realized is by now, we don't talk about a lot of laws here in psychology.
+
+259
+00:25:00,000 --> 00:25:09,000
+ Remember, psychology is a science, and science is generally of laws. Why don't we talk about laws? Well, the primary reason is that laws mean that something doesn't change.
+
+260
+00:25:09,000 --> 00:25:16,000
+ It always stays the same, but we're talking about psychology here. The human body is changing, the brain is changing.
+
+261
+00:25:16,000 --> 00:25:22,000
+ So we don't have too many laws here in psychology because things are changing, so we tend to have more theories and hypothesis.
+
+262
+00:25:22,000 --> 00:25:36,000
+ Well, the law of effects basically says that if this response alters something, I'm going to be likely to change my response each time, so this is all about that behavior and thus the consequence.
+
+263
+00:25:36,000 --> 00:25:48,000
+ So we talk about reinforcers, and we talk about punishers. So remember, reinforcement was an increase in behavior, and punishment is going to be a decrease in behavior.
+
+264
+00:25:48,000 --> 00:25:57,000
+ So we have two types of reinforcement. We have positive reinforcement and negative reinforcement, and positive reinforcement is basically a positive event, begins.
+
+265
+00:25:57,000 --> 00:26:04,000
+ So we think about this little girl, she comes home, she does her little dance to her mom and dad, and they give her clap, clap, clap, clap, clap.
+
+266
+00:26:04,000 --> 00:26:12,000
+ What's she going to do next week? Oh, she's going to come home. She's going to say, "Mom and dad, look at me. Look at me. I've learned this new dance at school, and they're going to go, oh, do the dance."
+
+267
+00:26:12,000 --> 00:26:22,000
+ She does the dance. They go, clap, clap, clap, clap, clap, clap, clap. And she does this over three or four weeks. She keeps coming home, and she's asking mom and dad to watch her dance, and each time she does the dance, they get the clap, clap, clap, clap, clap, clap.
+
+268
+00:26:22,000 --> 00:26:27,000
+ So on week five, she comes from running home, and she just starts dancing for them.
+
+269
+00:26:27,000 --> 00:26:37,000
+ So what's changed? Well, she stopped asking. She stopped asking because for the last five weeks, every time she did a dance, she got a positive event that started right, clap, clap, clap, clap, clap, clap, clap.
+
+270
+00:26:37,000 --> 00:26:44,000
+ So why wouldn't she dance this week? Of course she would. She's learned that this is a good thing.
+
+271
+00:26:44,000 --> 00:26:52,000
+ So she's got an evil twin sister, and the evil twin sister, of course, is too delicate for ballet. She's going to be a soccer player.
+
+272
+00:26:52,000 --> 00:27:03,000
+ And mom and dad have been pretty smart. After all, they got somebody else to do the ballet. They've got somebody else to take their evil twin daughter to soccer practice.
+
+273
+00:27:03,000 --> 00:27:12,000
+ And so the daughter comes home from soccer practice at the very first stage. She comes running in the door with the ball, and she says, "Mommy, daddy, mommy, daddy, let me show you what I've learned today in soccer."
+
+274
+00:27:12,000 --> 00:27:25,000
+ And mom says, "Not in the house. You take the ball outside. We don't have balls in the house." And dad doesn't quite look over, and so she puts the ball down on the ground, and she kicks it anyway, and crash. It hits a vase.
+
+275
+00:27:25,000 --> 00:27:32,000
+ Dad kind of looks at and says, "Go to your room. Your mom told you not to kick that ball in the house, and you kick the ball anyway. Go to your room."
+
+276
+00:27:32,000 --> 00:27:35,000
+ And so she pouts, and off she goes to the room.
+
+277
+00:27:35,000 --> 00:27:45,000
+ Well week two comes along, and she comes running in from soccer practice, and she says, "Mommy, daddy, mommy, daddy, I learned something new today. I learned how to kind of spin and kick at the same time."
+
+278
+00:27:45,000 --> 00:27:51,000
+ And mom looks over at her and says, "What did I tell you last week? You take that ball out of the house."
+
+279
+00:27:51,000 --> 00:27:55,000
+ And the little girl looks at her and looks at dad, dad said, "You hurt her."
+
+280
+00:27:55,000 --> 00:28:00,000
+ And she spins and kicks the ball anyway, and crash this time, and lamp breaks.
+
+281
+00:28:00,000 --> 00:28:06,000
+ Oh, this really gets the parents upset. "You go to your room. We told you you couldn't do this."
+
+282
+00:28:06,000 --> 00:28:13,000
+ And the girl starts saying things like, "Oh, you don't like me. You like my sister better. You do all the things for her."
+
+283
+00:28:13,000 --> 00:28:20,000
+ "Oh, don't talk like that. You know we love you just as much. Yeah, I don't want to go to my room. That's not fair."
+
+284
+00:28:20,000 --> 00:28:27,000
+ And on and on this little argument goes for a couple of minutes, and eventually a girl goes off to her room.
+
+285
+00:28:27,000 --> 00:28:32,000
+ I think she's learned her lesson. Well, let's see what happens on week three.
+
+286
+00:28:32,000 --> 00:28:37,000
+ Week three comes in. She runs in the house. She says, "Watch. I've learned how to do a backward kick."
+
+287
+00:28:37,000 --> 00:28:42,000
+ She put the ball down on the ground, and just before she kicks the ball, the mom grabs it and says,
+
+288
+00:28:42,000 --> 00:28:51,000
+ "I have told you. You will not kick this ball in this house. You will not go to soccer anymore. You are out of this."
+
+289
+00:28:51,000 --> 00:28:58,000
+ And the girl bursts into tears and says, "You don't love me. Me, me, me, me, me, me, me, me, me."
+
+290
+00:28:58,000 --> 00:29:06,000
+ And stops off to her room. Well, the question is, is why did the girl want to kick the ball in the house again?
+
+291
+00:29:06,000 --> 00:29:14,000
+ Wasn't she punished each time? Well, the answer is no. She actually wasn't punished each time.
+
+292
+00:29:14,000 --> 00:29:22,000
+ You see, but the parents yelled at her. Ah, but you see, you're looking at things based on being a teacher.
+
+293
+00:29:22,000 --> 00:29:29,000
+ Are we concerned about the teacher or the learner? In this case, the little girl is the learner and the parents are the teacher.
+
+294
+00:29:29,000 --> 00:29:34,000
+ What is it that the learner wants from this exchange? What is the learner looking to get?
+
+295
+00:29:34,000 --> 00:29:38,000
+ And the learner is looking to get attention.
+
+296
+00:29:38,000 --> 00:29:45,000
+ Now, we've already called her the evil twin sister, so we already know she's kind of defined herself as the bad girl.
+
+297
+00:29:45,000 --> 00:29:51,000
+ But the thing is, is the first time she came running in the house with the ball, her parents wanted to send her outside.
+
+298
+00:29:51,000 --> 00:29:57,000
+ Was she going to get attention outside? No, because they didn't say they'd come with her. They said, "You go outside."
+
+299
+00:29:57,000 --> 00:30:00,000
+ So that was actually punishing her. She wasn't going to get attention.
+
+300
+00:30:00,000 --> 00:30:05,000
+ So if she wasn't going to get attention that way, she was going to get attention another way.
+
+301
+00:30:05,000 --> 00:30:10,000
+ And so she kicked the ball anyway. They paid attention to her by yelling at her and throwing her in the room.
+
+302
+00:30:10,000 --> 00:30:14,000
+ The next week comes by. She comes running in and again.
+
+303
+00:30:14,000 --> 00:30:20,000
+ They don't offer to take her outside. They just simply say, "Stop. Don't do this." She's not getting attention.
+
+304
+00:30:20,000 --> 00:30:24,000
+ So she goes ahead and kicks the ball anyway. She breaks the lamp.
+
+305
+00:30:24,000 --> 00:30:28,000
+ This time she gets a lot of attention, doesn't she? Because there's all kinds of arguments back and forth.
+
+306
+00:30:28,000 --> 00:30:31,000
+ She's getting what she wants, which is attention.
+
+307
+00:30:31,000 --> 00:30:35,000
+ Now you may say, "But I'm still punishing. It's not what she wants." No, all she wants is attention.
+
+308
+00:30:35,000 --> 00:30:39,000
+ If she's not going to get attention one way, she's going to try to get attention another way.
+
+309
+00:30:39,000 --> 00:30:42,000
+ And after all, she's already defined herself as the evil twin sister.
+
+310
+00:30:42,000 --> 00:30:45,000
+ So she knows the only way she's going to get attention is by being bad.
+
+311
+00:30:45,000 --> 00:30:51,000
+ And the parents are falling right into it. So the parents are actually giving her positive reinforcement.
+
+312
+00:30:51,000 --> 00:30:57,000
+ Why? Because a positive event has started for her. She wanted attention and she's getting attention.
+
+313
+00:30:57,000 --> 00:31:04,000
+ So in their own way, the parents may not realize this, but they are actually reinforcing her behavior to act badly.
+
+314
+00:31:04,000 --> 00:31:07,000
+ And this is a very common mistake that we find that people do.
+
+315
+00:31:07,000 --> 00:31:11,000
+ They don't realize that they're actually positive reinforcing bad events.
+
+316
+00:31:11,000 --> 00:31:17,000
+ Because what the person wants the most, what this child wants, is attention.
+
+317
+00:31:17,000 --> 00:31:22,000
+ She is no different with her soccer ball than her sister is with the dancing.
+
+318
+00:31:22,000 --> 00:31:28,000
+ They both want attention. They both got attention. So then what the heck is negative reinforcement?
+
+319
+00:31:28,000 --> 00:31:31,000
+ Well, negative reinforcement only takes something bad away.
+
+320
+00:31:31,000 --> 00:31:35,000
+ We like when you take bad things away. So let's think about this way.
+
+321
+00:31:35,000 --> 00:31:38,000
+ I've got a headache. A headache is not a good thing, is it?
+
+322
+00:31:38,000 --> 00:31:43,000
+ I don't like a headache. I don't want a headache. I want headaches to go away as fast as possible.
+
+323
+00:31:43,000 --> 00:31:48,000
+ As such, I take Ms. Birmingham's magical elixir. And what do you know, and about?
+
+324
+00:31:48,000 --> 00:31:53,000
+ Oh, a minute. My headache is gone. I feel wonderful.
+
+325
+00:31:53,000 --> 00:32:00,000
+ So I had this bad thing I didn't like. I took this medication and it ended my discomfort.
+
+326
+00:32:00,000 --> 00:32:05,000
+ So what am I going to do next time? I'm discomforted. Next time I've got a headache.
+
+327
+00:32:05,000 --> 00:32:09,000
+ I'm going to go find Ms. Birmingham's magical elixir, aren't I? And I'm going to take it again.
+
+328
+00:32:09,000 --> 00:32:12,000
+ Because it's going to get rid of my headache very quickly.
+
+329
+00:32:12,000 --> 00:32:18,000
+ Well, the other way we can look at this, especially with adults, is anxiety.
+
+330
+00:32:18,000 --> 00:32:23,000
+ Most of us do not like anxiety. We don't particularly like feeling bad.
+
+331
+00:32:23,000 --> 00:32:29,000
+ And again, we can also kind of realize that for most of us, if we go to work, we don't go to work to do a bad job.
+
+332
+00:32:29,000 --> 00:32:35,000
+ We try to go to work to do a good job. And so let's say I'm at work and I'm a cashier.
+
+333
+00:32:35,000 --> 00:32:39,000
+ And I begin to get this feeling that, I don't know, something is wrong.
+
+334
+00:32:39,000 --> 00:32:43,000
+ I think my cash drawer is off. I think this guy ripped me off.
+
+335
+00:32:43,000 --> 00:32:52,000
+ Well, I've got anxiety now, don't I? I've got this little nagging feeling that something is wrong and that I've been sort of played.
+
+336
+00:32:52,000 --> 00:32:57,000
+ Most of us don't like being played. So I've got this anxiety. I don't like this anxiety.
+
+337
+00:32:57,000 --> 00:33:01,000
+ And now I've got to go and tell a boss. I've got two different bosses.
+
+338
+00:33:01,000 --> 00:33:06,000
+ I've got the one. If I go tell them, they're going to yell and scream at me and tell me I'm an idiot kind of thing.
+
+339
+00:33:06,000 --> 00:33:11,000
+ And how do I let myself get ripped off? Well, that's only going to increase my anxiety, aren't I?
+
+340
+00:33:11,000 --> 00:33:13,000
+ So I'm probably not going to go to them.
+
+341
+00:33:13,000 --> 00:33:16,000
+ Now, I've got the other boss who's probably going to help me count my cash drawer.
+
+342
+00:33:16,000 --> 00:33:20,000
+ He's maybe going to go back over the videotape and let's see if we can find out what happened.
+
+343
+00:33:20,000 --> 00:33:29,000
+ I may get a little little lecture at the end of this because, well, the truth is I probably deserve a little lecture on how to be safer with the cash and when people are handing me cash.
+
+344
+00:33:29,000 --> 00:33:32,000
+ But that person's going to get rid of my anxiety, aren't they?
+
+345
+00:33:32,000 --> 00:33:36,000
+ I don't like anxiety. They're going to get rid of my anxiety.
+
+346
+00:33:36,000 --> 00:33:41,000
+ So what am I going to do the next time I'm not feeling comfortable in the store or I think something wrong has gone on?
+
+347
+00:33:41,000 --> 00:33:44,000
+ I'm going to go find the manager who helped me get rid of my anxiety.
+
+348
+00:33:44,000 --> 00:33:48,000
+ In fact, I may become very loyal to that manager because that manager helps me.
+
+349
+00:33:48,000 --> 00:33:57,000
+ And because they get rid of my anxiety, which is a bad thing, they are using negative reinforcement to increase the behavior that I'm going to report things to them.
+
+350
+00:33:57,000 --> 00:34:02,000
+ So they're going to get to know everything that's going on where the other manager has no idea what's going on.
+
+351
+00:34:02,000 --> 00:34:09,000
+ So negative reinforcement is something that's still seen all the time and something that we still respond to on a day basis.
+
+352
+00:34:09,000 --> 00:34:17,000
+ Again, I've got a really funny, I think it's kind of funny, a YouTube video about positive and negative reinforcement that you can watch.
+
+353
+00:34:17,000 --> 00:34:22,000
+ Now the timing of reinforcement becomes really critical.
+
+354
+00:34:22,000 --> 00:34:32,000
+ Now think about it, if that little girl came home and she did a little dance, but we waited, I don't know, an hour or two later to tell her what good job she did, it would be too long.
+
+355
+00:34:32,000 --> 00:34:35,000
+ It would be too far afterwards, especially for a little kid.
+
+356
+00:34:35,000 --> 00:34:40,000
+ Now what most child psychologists will say is that kids can only wait one minute per age of life.
+
+357
+00:34:40,000 --> 00:34:43,000
+ And basically, if they're under three, they're not waiting at all.
+
+358
+00:34:43,000 --> 00:34:49,000
+ So if I'm five years old, the best I can do is wait five minutes if I've got good patience at all.
+
+359
+00:34:49,000 --> 00:34:54,000
+ But for most kids, less than five minutes is what they're going to be able to wait at five years old.
+
+360
+00:34:54,000 --> 00:34:59,000
+ But it is through the timing of this reinforcement that we can begin to shape behavior.
+
+361
+00:34:59,000 --> 00:35:08,000
+ So let's say that I do have this, oh, I've got a kid who's not very good at getting up in the morning.
+
+362
+00:35:08,000 --> 00:35:10,000
+ And so what I want to do is begin to shape their behavior.
+
+363
+00:35:10,000 --> 00:35:14,000
+ I want them to brush their teeth, wash their face and make their bed.
+
+364
+00:35:14,000 --> 00:35:19,000
+ If I ask them to do all three things right away, there's a good chance that they're not going to get it done.
+
+365
+00:35:19,000 --> 00:35:26,000
+ So what I'm going to do is spend a little time just basically saying, look, we want you to get up in the morning and to just throw your cover over the bed.
+
+366
+00:35:26,000 --> 00:35:38,000
+ And as I see that they're doing this and they're being able to start doing this without being told, I'm telling them that they're doing a good job and maybe they even get a reward if they can do it five days in a row without me telling them they get to go to the dollar store or something.
+
+367
+00:35:38,000 --> 00:35:48,000
+ Well, now that they've got that behavior down, now I say, okay, you know what, you're doing so good on that, you go ahead and do that, but we also want you to begin to brush your teeth right after you make your bed.
+
+368
+00:35:48,000 --> 00:36:00,000
+ And so it may take me a little while to get them to make their bed and then brush their teeth, but after a while they're doing that without me having to tell them too much to do it, just say, hey, time to go get ready, they go make their bed and brush their teeth.
+
+369
+00:36:00,000 --> 00:36:12,000
+ Now I want them to brush their teeth and then I want them to wash their face. So each time what I'm doing is I'm adding a new behavior once they've got the other behaviors basically molded and ready to do.
+
+370
+00:36:12,000 --> 00:36:26,000
+ Now, the reason that shaping is important is that what it tells us that we have to do this by a step-by-step process, operant conditioning doesn't just occur in a one-time step, it generally takes multiple times and multiple small steps to get there.
+
+371
+00:36:26,000 --> 00:36:40,000
+ Well, one of the results of operant conditioning could also be superstitious behavior. So here we have this baseball player, and if you've ever tried to play baseball, hitting a round ball with a round bat, not a very easy thing to do.
+
+372
+00:36:40,000 --> 00:36:49,000
+ And so let's say we have this little baseball player here, he's kind of a nice kid, he's not the best player in the world, he's not the worst player in the world, he's just a nice medium player.
+
+373
+00:36:49,000 --> 00:37:02,000
+ Now, he sometimes hits, sometimes doesn't hit, but this particular game he gets there, and he does great, absolutely fabulous. He's never hit the ball as well.
+
+374
+00:37:02,000 --> 00:37:16,000
+ And he's trying to figure out what was different today than any other day, and he says, "Well, you know, I don't know, same bat, same ball, same me, same pitcher I've gone up against him before, but you don't have these new socks on." That's the only thing that was different.
+
+375
+00:37:16,000 --> 00:37:22,000
+ Now, the first time it doesn't really maybe connect, but you know, they kind of realize they have these new socks on.
+
+376
+00:37:22,000 --> 00:37:33,000
+ They go to practice the next day, and of course they don't have their new socks on, because they're dirty, mom's going to wash them, but they go and practice, and you know, they don't do as well.
+
+377
+00:37:33,000 --> 00:37:43,000
+ Don't, again, think much about it. But the day after that, the socks are washed, they happen to have them on, they go to practice, and they're just hitting really good, and they go, "Wow, look at this, I'm hitting good again."
+
+378
+00:37:43,000 --> 00:37:48,000
+ So what was the same today as two days ago when I was at the game?
+
+379
+00:37:48,000 --> 00:37:52,000
+ The only thing they can think that's the same is these socks.
+
+380
+00:37:52,000 --> 00:37:58,000
+ So they say, "Well, maybe the socks are lucky." Yeah, yeah, lucky socks, that's what it is.
+
+381
+00:37:58,000 --> 00:38:05,000
+ So the next day, they decide to wear their lucky socks again, and guess what? They bat really well.
+
+382
+00:38:05,000 --> 00:38:14,000
+ Well, now we've got some superstitious behavior beginning to occur. The truth is that socks do not make you a better baseball player.
+
+383
+00:38:14,000 --> 00:38:25,000
+ However, if they begin to believe that the socks will make them a better baseball player, then they're going to feel more confident when they have the socks on, and the more confident they feel, the better of a baseball player they're going to be.
+
+384
+00:38:25,000 --> 00:38:36,000
+ That's a self-fulfilling prophecy that we talked about in chapter one. So because I believe that the socks are going to help me, I become more confident, and the more confident I become, the better player I become.
+
+385
+00:38:36,000 --> 00:38:41,000
+ So when I don't have the socks, I get anxiety, and when I'm anxious, I don't hit as well.
+
+386
+00:38:41,000 --> 00:38:45,000
+ So the socks do become sort of a good-look charm you might want to say.
+
+387
+00:38:45,000 --> 00:38:49,000
+ Well, again, we have to prove this through science, and how did we actually see this in science?
+
+388
+00:38:49,000 --> 00:38:59,000
+ Well, this is Skinner again, and if you're looking at your chapter and you're looking at these different things, you saw a little picture of a mouse in a box, and that mouse in the box is called the Skinner box.
+
+389
+00:38:59,000 --> 00:39:06,000
+ Now, what we want the mouse to do is to touch that little rod, and when you touch the rod, a piece of food drops out, and the mouse gets a reward.
+
+390
+00:39:06,000 --> 00:39:18,000
+ Well, the one thing about mice is that they are very curious. They touch and feel everything so they can kind of know their whereabouts, and their whiskers are actually sensing organs for them. They can sense a lot with their whiskers.
+
+391
+00:39:18,000 --> 00:39:24,000
+ As such, they like to keep their whiskers clean. Just so like cats keep their whiskers clean a lot.
+
+392
+00:39:24,000 --> 00:39:33,000
+ So a mouse, let's say, cleans his whiskers, and right after he cleans his whiskers, for the first time, he touches the metal bar, and there comes a piece of food.
+
+393
+00:39:33,000 --> 00:39:42,000
+ Well, yum, yum, yum, yum. Eat the piece of food. My whiskers are dirty. I clean the whiskers. I am still hungry. I touch the bar. Let's see if it happens again, and boom!
+
+394
+00:39:42,000 --> 00:39:45,000
+ Well, what do you know? Another piece of food.
+
+395
+00:39:45,000 --> 00:39:49,000
+ Now, the only thing the mouse has to do is actually touch the bar.
+
+396
+00:39:49,000 --> 00:39:55,000
+ However, what's happened is the mouse has begun to associate, cleaning the whiskers, touch the bar, get the food.
+
+397
+00:39:55,000 --> 00:40:01,000
+ And you can see these mice begin to clean their whiskers so quickly. They go one, two, three, boom!
+
+398
+00:40:01,000 --> 00:40:05,000
+ And touch the bar, get food. One, two, three, touch the bar, get food.
+
+399
+00:40:05,000 --> 00:40:16,000
+ The truth is that they have picked up a superstitious behavior, because to them in their brain, the two behaviors are linked in order to get the consequence that they desire.
+
+400
+00:40:16,000 --> 00:40:28,000
+ For a nice little review about operant conditioning, I do recommend this YouTube video. You might want to wait until we get to the end on all of these things, but it is a nice little kind of review of all this.
+
+401
+00:40:28,000 --> 00:40:35,000
+ We talked about reinforcement. Let's talk about punishment. And punishment is any time we have an adverse consequence.
+
+402
+00:40:35,000 --> 00:40:42,000
+ Basically, a good thing stops or a bad thing starts. So punishment, a good thing stops, a bad thing starts.
+
+403
+00:40:42,000 --> 00:40:47,000
+ And we talk about two types of punishment, severe punishment and mild punishment.
+
+404
+00:40:47,000 --> 00:40:55,000
+ Now, the more severe the punishment is, the more likely that we're not going to see a long-term change in behavior.
+
+405
+00:40:55,000 --> 00:40:58,000
+ We may see a short-term change in behavior, but not a long-term.
+
+406
+00:40:58,000 --> 00:41:07,000
+ The more mild the punishment, mild to medium punishment, the more likely when linked with other items, we're going to see a longer-term change.
+
+407
+00:41:07,000 --> 00:41:13,000
+ So let's talk about punishment. I'm going 95 on 95, because after all, that's what it says, right? 95.
+
+408
+00:41:13,000 --> 00:41:20,000
+ And shortly I see those lights in my back rear mirror and he pulls me over.
+
+409
+00:41:20,000 --> 00:41:26,000
+ And I'm on 95, and because I'm going 95 miles an hour, he gives me a $300 speeding ticket.
+
+410
+00:41:26,000 --> 00:41:33,000
+ That's pretty severe, isn't it? The question is, is how long is it before you start to speed again?
+
+411
+00:41:33,000 --> 00:41:40,000
+ The truth is, some of you, you said as soon as the lights are out of my rear view, man, I'm speeding again.
+
+412
+00:41:40,000 --> 00:41:49,000
+ Others of you said, well, it may be a little while, maybe after I pay off the $300 ticket or a week or two, but yeah, my heavy foot is going to just keep me going down.
+
+413
+00:41:49,000 --> 00:41:56,000
+ Well, that was severe punishment, and for most of us, it really didn't work to make long-term change of behavior, did it?
+
+414
+00:41:56,000 --> 00:42:07,000
+ But then, there are those areas in Brevard County, and I happen to live near one here in Indiana, where you know if you go even a mile over the speed limit, you're getting a ticket.
+
+415
+00:42:07,000 --> 00:42:16,000
+ We have an area here in Indiana, where it's a 25-mile-an-hour speed zone, and it's very rare you see somebody go more than 27 or 28 miles an hour.
+
+416
+00:42:16,000 --> 00:42:21,000
+ Why? Because the cops are always there, and they're constantly giving tickets.
+
+417
+00:42:21,000 --> 00:42:29,000
+ Now, they don't give $300 tickets, these tend to be more like 75 to $100 tickets, they're much milder, but we get them a lot more often.
+
+418
+00:42:29,000 --> 00:42:41,000
+ So you very quickly realize that, you know, I'm not going to be able to get away with this, and it's not worth this aggravation of getting these little tickets all the time, because the little tickets add up, but it's a week or punishment, but it's done more often.
+
+419
+00:42:41,000 --> 00:42:47,000
+ So it's the fact that it tends to do things more often that we see this change begin to occur.
+
+420
+00:42:47,000 --> 00:42:57,000
+ Now, it may be a little longer for the change to occur, but it's going to be for a longer period of time, so that's over a medium punishment.
+
+421
+00:42:57,000 --> 00:43:07,000
+ Now, a very weak punishment, one that is just talky-talky-talky, sort of I'm going to throw you out of this park, I'm going to do this, I'm going to do that, but you don't follow through.
+
+422
+00:43:07,000 --> 00:43:14,000
+ We see a very slow response, and it's a very temporary response, because we realize that you're not going to follow through on it.
+
+423
+00:43:14,000 --> 00:43:24,000
+ So with punishment, it is going to be the severity of the punishment and the consistency of the punishment on whether or not it's going to have an absolute change in behavior.
+
+424
+00:43:24,000 --> 00:43:36,000
+ One of the big downsides to punishment is that if the punishment is severe, what we're going to find is that we're going to have an adverse stimulus.
+
+425
+00:43:36,000 --> 00:43:46,000
+ Basically, let's put this way. If I punish too hard, all I'm going to do is either escape the punishment or I'm going to avoid the punishment.
+
+426
+00:43:46,000 --> 00:43:57,000
+ So let's say that I'm a kid who gets bullied at school, made fun of. I go home and I tell my parents, "I can't stay in school anymore, they're yelling at me, they're making fun of me."
+
+427
+00:43:57,000 --> 00:44:00,000
+ And your parents say, "Well, you've got to go to school anyway."
+
+428
+00:44:00,000 --> 00:44:06,000
+ I'm just going to start skipping school, aren't I? Because I'm going to want to avoid or escape what's happening to me.
+
+429
+00:44:06,000 --> 00:44:11,000
+ If I'm a kid who's been told that if I drink and drive, I'll never be allowed out again in my life.
+
+430
+00:44:11,000 --> 00:44:23,000
+ And now, all of a sudden, I've sort of slipped up, I've had a couple of beers, I'm feeling a little fuzzy, but I'm afraid to tell them I'm going to go drive home myself anyway because I'm afraid of what's going to happen.
+
+431
+00:44:23,000 --> 00:44:30,000
+ I have avoidance of trying to get punished and I wind up in an accident because I really shouldn't have been drinking.
+
+432
+00:44:30,000 --> 00:44:35,000
+ I was so afraid of the punishment that I was willing to take a risky behavior.
+
+433
+00:44:35,000 --> 00:44:43,000
+ So we have to be careful with punishment that it needs to be medium to mild and that it needs to actually be directed at the action.
+
+434
+00:44:43,000 --> 00:44:50,000
+ But punish only, we're not going to see a change in behavior.
+
+435
+00:44:50,000 --> 00:44:56,000
+ What this little chart is doing is sort of looking at all the different things about punishment and reinforcement.
+
+436
+00:44:56,000 --> 00:45:02,000
+ What we want is to have basically reinforcement and punishment happening at the same time.
+
+437
+00:45:02,000 --> 00:45:16,000
+ So we have to remember that both positive reinforcement and negative reinforcement lead to an increase in behavior and that punishment, whether we're taking away something that's good or we're starting something that's bad,
+
+438
+00:45:16,000 --> 00:45:20,000
+ is supposedly going to lead to a decrease in behavior.
+
+439
+00:45:20,000 --> 00:45:26,000
+ Well, if we want the fastest change in behavior, we want a combination of both.
+
+440
+00:45:26,000 --> 00:45:31,000
+ We want to reinforce a good behavior and punish the bad behaviors.
+
+441
+00:45:31,000 --> 00:45:35,000
+ So let's say I have a 10-year-old who loves to interrupt me when I'm on the phone.
+
+442
+00:45:35,000 --> 00:45:37,000
+ Now, sorry, I can't do much with the little kids.
+
+443
+00:45:37,000 --> 00:45:40,000
+ As soon as they hear you talk, they're stimulated to talk to you.
+
+444
+00:45:40,000 --> 00:45:48,000
+ So you're on the phone and a five-year-old is going to want to talk to you at the same time because they hear a voice and it says, "Oh, time for me to talk to."
+
+445
+00:45:48,000 --> 00:45:49,000
+ But let's use the 10-year-old.
+
+446
+00:45:49,000 --> 00:45:55,000
+ The 10-year-olds should be old enough to begin to understand that when I'm on the phone, it's not the most appropriate time to talk to me.
+
+447
+00:45:55,000 --> 00:46:04,000
+ So let's say I make a phone call and at the end of the phone call, I've been on for half an hour and the kid hasn't interrupted me at all.
+
+448
+00:46:04,000 --> 00:46:09,000
+ After the phone call, I should go over to them and say, "You know, I want to thank you.
+
+449
+00:46:09,000 --> 00:46:11,000
+ I noticed that you let me have that phone call.
+
+450
+00:46:11,000 --> 00:46:16,000
+ It was a very important phone call and you left me alone to make that phone call.
+
+451
+00:46:16,000 --> 00:46:17,000
+ Thank you so much.
+
+452
+00:46:17,000 --> 00:46:22,000
+ I just really respect that you had the ability not to do that."
+
+453
+00:46:22,000 --> 00:46:28,000
+ And the 10-year-old is going to be very happy because you have basically given them positive reinforcement.
+
+454
+00:46:28,000 --> 00:46:30,000
+ You've noticed their good behavior.
+
+455
+00:46:30,000 --> 00:46:38,000
+ But next time you make a phone call, they come over and they try to talk to you and it's not an emergency, so there's no real reason for them to be talking to you.
+
+456
+00:46:38,000 --> 00:46:41,000
+ And when you get off the phone, you give them a demerit.
+
+457
+00:46:41,000 --> 00:46:49,000
+ And let's say you've created a system that if they interrupt you five times, then they lose a half an hour of TV time.
+
+458
+00:46:49,000 --> 00:46:55,000
+ And so they interrupted you twice during that phone call so they get two demerits.
+
+459
+00:46:55,000 --> 00:47:09,000
+ After a while, if they begin to keep getting praise when they don't interrupt you, and they keep losing TV time when they do interrupt you, they're going to have the fastest change of behavior because they're going to learn that, "Hey, look at that.
+
+460
+00:47:09,000 --> 00:47:12,000
+ When I do what's asked of me, good things begin to occur.
+
+461
+00:47:12,000 --> 00:47:16,000
+ When I don't do what's asking me, bad things begin to occur."
+
+462
+00:47:16,000 --> 00:47:20,000
+ But it's not so severe that I begin to avoid the punishment.
+
+463
+00:47:20,000 --> 00:47:25,000
+ I'm not going to completely not respond to you when you're on the phone.
+
+464
+00:47:25,000 --> 00:47:29,000
+ You don't want that either because you want to be able to say, "Hey, Joe, come here and need to ask you a question.
+
+465
+00:47:29,000 --> 00:47:31,000
+ You want Joe to come to you.
+
+466
+00:47:31,000 --> 00:47:34,000
+ You want Joe to come and tell you if there's a fire in the kitchen while you're on the phone."
+
+467
+00:47:34,000 --> 00:47:39,000
+ So you want them to be able to use some common sense, so we need to use a little bit of both.
+
+468
+00:47:39,000 --> 00:47:42,000
+ This works with dogs, this works with people, this works with everyone.
+
+469
+00:47:42,000 --> 00:47:47,000
+ It's a combination of both reinforcement and punishment that gets the fastest change.
+
+470
+00:47:47,000 --> 00:47:51,000
+ Punishment alone, we're just not going to see a lot of change.
+
+471
+00:47:51,000 --> 00:47:57,000
+ Positive reinforcement alone, we may actually not see a lot of change either.
+
+472
+00:47:57,000 --> 00:48:03,000
+ When we talk about reinforces, we also have to talk about different types of reinforces.
+
+473
+00:48:03,000 --> 00:48:05,000
+ Primary reinforces are unlearned.
+
+474
+00:48:05,000 --> 00:48:08,000
+ There are things that we naturally know, food, water, sex, pleasure.
+
+475
+00:48:08,000 --> 00:48:12,000
+ We don't have to be taught that those are good things because we need those.
+
+476
+00:48:12,000 --> 00:48:14,000
+ They're basic, they're biological.
+
+477
+00:48:14,000 --> 00:48:17,000
+ And that's the big thing about this is that they need to be biological.
+
+478
+00:48:17,000 --> 00:48:21,000
+ Secondary reinforcers, we've been taught have value.
+
+479
+00:48:21,000 --> 00:48:24,000
+ Things like grades, approval, praise, money.
+
+480
+00:48:24,000 --> 00:48:26,000
+ Money is an interesting one.
+
+481
+00:48:26,000 --> 00:48:28,000
+ Money is actually what's called a token.
+
+482
+00:48:28,000 --> 00:48:30,000
+ And it's what you say is tangible.
+
+483
+00:48:30,000 --> 00:48:33,000
+ I can put my fingers on it, secondary reinforcer.
+
+484
+00:48:33,000 --> 00:48:38,000
+ Now the reason that money is important to us is because we can exchange money for a primary
+
+485
+00:48:38,000 --> 00:48:39,000
+ reinforcer.
+
+486
+00:48:39,000 --> 00:48:41,000
+ I can take that money and I can buy food.
+
+487
+00:48:41,000 --> 00:48:44,000
+ I can take that money and I can buy clothing.
+
+488
+00:48:44,000 --> 00:48:46,000
+ I can take that money and I can even buy sex.
+
+489
+00:48:46,000 --> 00:48:52,000
+ I can take that money and I can exchange it for pleasure going to a movie in this case.
+
+490
+00:48:52,000 --> 00:48:57,000
+ So it becomes important to me because it represents a primary reinforcer.
+
+491
+00:48:57,000 --> 00:48:59,000
+ How do we know this?
+
+492
+00:48:59,000 --> 00:49:03,000
+ The book has this picture of this chimpanzee, if you'll notice in it.
+
+493
+00:49:03,000 --> 00:49:06,000
+ And he looks like he's over sort of at a slot machine.
+
+494
+00:49:06,000 --> 00:49:09,000
+ What he's really over is at the chip-o-meter.
+
+495
+00:49:09,000 --> 00:49:13,000
+ And basically what they did is they took some chimps and half the chimps, when they did
+
+496
+00:49:13,000 --> 00:49:17,000
+ a specific behavior they wanted, they would give them a banana.
+
+497
+00:49:17,000 --> 00:49:21,000
+ The other half the chimps, if they did the behavior, they got a token.
+
+498
+00:49:21,000 --> 00:49:27,000
+ They then take that token and put it into the vending machine and bump out popped a banana.
+
+499
+00:49:27,000 --> 00:49:32,000
+ The question was, would the chimpanzees work just as hard for that token, which represented
+
+500
+00:49:32,000 --> 00:49:35,000
+ a banana, as they would if they actually got the banana?
+
+501
+00:49:35,000 --> 00:49:39,000
+ And the truth was, is they worked just as hard for the chip.
+
+502
+00:49:39,000 --> 00:49:44,000
+ In fact, in some cases the chips became even a little more valuable because I could kind of
+
+503
+00:49:44,000 --> 00:49:48,000
+ weight cash in my chip a little bit later for when I really wanted my banana instead of having
+
+504
+00:49:48,000 --> 00:49:50,000
+ the banana right now.
+
+505
+00:49:50,000 --> 00:49:55,000
+ But either way, the token represented a primary reinforcer.
+
+506
+00:49:55,000 --> 00:49:59,000
+ Now the thing about primary reinforcers is that they may be different.
+
+507
+00:49:59,000 --> 00:50:01,000
+ Primary reinforcers are the same for everybody.
+
+508
+00:50:01,000 --> 00:50:05,000
+ But secondary reinforcers and tokens may be different per person.
+
+509
+00:50:05,000 --> 00:50:10,000
+ So I've got my American dollar, which is a good primary reinforcer, a secondary reinforcer
+
+510
+00:50:10,000 --> 00:50:12,000
+ here for me because I can buy that primary reinforcer.
+
+511
+00:50:12,000 --> 00:50:15,000
+ Sorry, I keep getting my two words mixed up.
+
+512
+00:50:15,000 --> 00:50:17,000
+ But my token, let me just do this way.
+
+513
+00:50:17,000 --> 00:50:22,000
+ My token of my dollar is important to me because I can go and exchange it for a soda.
+
+514
+00:50:22,000 --> 00:50:27,000
+ But if I take that same US dollar and I go to Vietnam and I'm down in the middle of the
+
+515
+00:50:27,000 --> 00:50:34,000
+ Mekong Delta, my token isn't very important anymore because I cannot exchange it for a
+
+516
+00:50:34,000 --> 00:50:35,000
+ primary reinforcer.
+
+517
+00:50:35,000 --> 00:50:39,000
+ My US dollar is useless to buying a Coca-Cola.
+
+518
+00:50:39,000 --> 00:50:42,000
+ I'm assuming they have Coca-Cola, Mel, and Mekong Delta.
+
+519
+00:50:42,000 --> 00:50:47,000
+ But I can't buy a drink with it because they want Vietnamese money, which is called the
+
+520
+00:50:47,000 --> 00:50:48,000
+ Dong.
+
+521
+00:50:48,000 --> 00:50:50,000
+ So if I have Vietnamese Dong, sure, great.
+
+522
+00:50:50,000 --> 00:50:56,000
+ I can now go get myself a soda, but an American dollar is useless.
+
+523
+00:50:56,000 --> 00:51:03,000
+ So secondary reinforcers are only valuable if they can be exchanged or they can get me
+
+524
+00:51:03,000 --> 00:51:06,000
+ something that is a primary reinforcer.
+
+525
+00:51:06,000 --> 00:51:11,000
+ That's why those gold stars are so important to little kids because for them, those 10
+
+526
+00:51:11,000 --> 00:51:14,000
+ gold stars equal the same as $10 bills to you and me.
+
+527
+00:51:14,000 --> 00:51:15,000
+ I get 10 gold stars.
+
+528
+00:51:15,000 --> 00:51:17,000
+ I get to go buy a toy.
+
+529
+00:51:17,000 --> 00:51:22,000
+ So the star represents my ability to exchange for pleasure.
+
+530
+00:51:22,000 --> 00:51:29,000
+ Before the end to this lecture, we will hit upon some more examples in class.
+
+531
+00:51:29,000 --> 00:51:31,000
+ Don't forget you have a test this week.
+
+532
+00:51:31,000 --> 00:51:36,000
+ If you have any questions, please feel free to email me and I will see you in class on
+
+533
+00:51:36,000 --> 00:51:37,000
+ Tuesday.
+

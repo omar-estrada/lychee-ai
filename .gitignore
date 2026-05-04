@@ -1,0 +1,4 @@
+venv/
+chroma_db/
+rag_model_cache/
+__pycache__/

@@ -1,0 +1,1268 @@
+1
+00:00:00,000 --> 00:00:06,800
+ Hey everyone, Ryan here, and welcome back to our orthodontics series.
+
+2
+00:00:06,800 --> 00:00:14,320
+ So we've been talking about biomechanics, which is a fancy combination of biology and
+
+3
+00:00:14,320 --> 00:00:15,320
+ mechanics.
+
+4
+00:00:15,320 --> 00:00:18,380
+ The last video we talked about the biology of tooth movement.
+
+5
+00:00:18,380 --> 00:00:25,600
+ In this video, we will talk about the mechanical principles of tooth movement.
+
+6
+00:00:25,600 --> 00:00:29,940
+ So first we have to talk about the center of resistance.
+
+7
+00:00:29,940 --> 00:00:36,680
+ So the center of resistance is a fixed point that a force must pass through in order to
+
+8
+00:00:36,680 --> 00:00:40,680
+ move an object in a straight line.
+
+9
+00:00:40,680 --> 00:00:43,200
+ So let me show you how that works.
+
+10
+00:00:43,200 --> 00:00:47,400
+ Let's say we have a free floating object in space.
+
+11
+00:00:47,400 --> 00:00:53,160
+ The center of resistance would be coincident with the center of mass.
+
+12
+00:00:53,160 --> 00:00:58,400
+ So for this uniform square, the center of resistance is right at its center.
+
+13
+00:00:58,400 --> 00:01:05,880
+ So if we push the square from the left and the force is applied through that center of
+
+14
+00:01:05,880 --> 00:01:11,800
+ resistance, the square will translate to the right.
+
+15
+00:01:11,800 --> 00:01:19,600
+ However, if we were to push on that square, let's say down here for instance, now the
+
+16
+00:01:19,600 --> 00:01:26,780
+ square will still move to the right, but it will also spin around as it does so because
+
+17
+00:01:26,780 --> 00:01:31,320
+ that force isn't being applied through the center of resistance.
+
+18
+00:01:31,320 --> 00:01:35,800
+ You can try this out for yourself with a pencil if you have one handy.
+
+19
+00:01:35,800 --> 00:01:44,840
+ You can put the pencil down on a flat surface and try to push it through its center of resistance.
+
+20
+00:01:44,840 --> 00:01:51,360
+ Now if you find the right spot to push on, the pencil will move straight across the table
+
+21
+00:01:51,360 --> 00:01:55,720
+ without rotating one way or the other.
+
+22
+00:01:55,720 --> 00:02:03,120
+ But if you press the pencil at either end, you'll see how it starts to spin and that
+
+23
+00:02:03,120 --> 00:02:08,240
+ is the center of resistance at work.
+
+24
+00:02:08,240 --> 00:02:12,840
+ Now for a tooth, it's a little bit different because the tooth isn't floating in space
+
+25
+00:02:12,840 --> 00:02:15,920
+ or laying flat on a table.
+
+26
+00:02:15,920 --> 00:02:21,040
+ It's tethered to bone and soft tissue at its root.
+
+27
+00:02:21,040 --> 00:02:27,400
+ So the center of resistance for a healthy tooth is generally about halfway between the
+
+28
+00:02:27,400 --> 00:02:32,560
+ alveolar crest and the root apex.
+
+29
+00:02:32,560 --> 00:02:37,160
+ So it would put it around the center of the root.
+
+30
+00:02:37,160 --> 00:02:45,080
+ Now the center of resistance tends to be located more apically for a periodontally compromised
+
+31
+00:02:45,080 --> 00:02:51,680
+ tooth that has loss of bone at the alveolar crest and the center of resistance tends to
+
+32
+00:02:51,680 --> 00:02:59,200
+ be located more occlusily for teeth when apical root resorption has happened because there's
+
+33
+00:02:59,200 --> 00:03:05,960
+ less root surface at the bottom and the new center of the clinical crown is further up.
+
+34
+00:03:05,960 --> 00:03:12,000
+ So really in all three of these cases, the center of resistance is located at the center
+
+35
+00:03:12,000 --> 00:03:18,120
+ of the portion of root that is bound to bone.
+
+36
+00:03:18,120 --> 00:03:22,840
+ Now the center of rotation is different.
+
+37
+00:03:22,840 --> 00:03:29,760
+ So the center of rotation is an unfixed point around which an object is rotating if and
+
+38
+00:03:29,760 --> 00:03:32,160
+ when it is rotating.
+
+39
+00:03:32,160 --> 00:03:39,720
+ Another way to say it is the point about which a body appears to have rotated as determined
+
+40
+00:03:39,720 --> 00:03:43,600
+ from its initial and final position.
+
+41
+00:03:43,600 --> 00:03:47,280
+ So let's go back to the pencil example.
+
+42
+00:03:47,280 --> 00:03:54,800
+ If you push the pencil, let's say down here near the tip or up here near the eraser, it
+
+43
+00:03:54,800 --> 00:03:59,240
+ will tend to rotate as we talked about before.
+
+44
+00:03:59,240 --> 00:04:07,840
+ So let's say we are going to push the pencil near its eraser and let's say the pencil will
+
+45
+00:04:07,840 --> 00:04:15,040
+ spin so that the tip stays relatively still and the rest of the pencil kind of spins around
+
+46
+00:04:15,040 --> 00:04:17,800
+ like this.
+
+47
+00:04:17,800 --> 00:04:24,680
+ So as it's rotating, the part of the pencil that stays where it is and doesn't appear
+
+48
+00:04:24,680 --> 00:04:30,120
+ to move is the center of rotation.
+
+49
+00:04:30,120 --> 00:04:36,440
+ So you can imagine that this center of rotation will change dramatically depending on where
+
+50
+00:04:36,440 --> 00:04:37,920
+ you apply the force.
+
+51
+00:04:37,920 --> 00:04:48,320
+ It is an entirely unfixed point and it's entirely dependent on where that force is being applied.
+
+52
+00:04:48,320 --> 00:04:54,160
+ So it's easy to apply force through the center of resistance for a pencil because you have
+
+53
+00:04:54,160 --> 00:05:01,520
+ access to its entire length along the pencil if it's lying down on a desk, for instance.
+
+54
+00:05:01,520 --> 00:05:06,680
+ But for a tooth, however, that's a completely different story because we know that the center
+
+55
+00:05:06,680 --> 00:05:16,920
+ of resistance is buried down here and a force that's applied up here at the bracket will
+
+56
+00:05:16,920 --> 00:05:24,000
+ not act through the center of resistance and will cause some kind of rotation of the
+
+57
+00:05:24,000 --> 00:05:25,720
+ tooth.
+
+58
+00:05:25,720 --> 00:05:30,800
+ So you can imagine that we will be dealing with the center of rotation quite a bit because
+
+59
+00:05:30,800 --> 00:05:40,040
+ it's very difficult to apply force through that center of resistance.
+
+60
+00:05:40,040 --> 00:05:44,760
+ Now of course we've been talking about forces already but I just want to briefly revisit
+
+61
+00:05:44,760 --> 00:05:46,320
+ the basics here.
+
+62
+00:05:46,320 --> 00:05:54,560
+ So a force is a linear vector with both magnitude, some amount of strength and direction.
+
+63
+00:05:54,560 --> 00:06:00,280
+ It's often represented by a straight arrow in force diagrams.
+
+64
+00:06:00,280 --> 00:06:06,280
+ So we usually would draw the arrow pointing towards an object for a push and draw the
+
+65
+00:06:06,280 --> 00:06:11,480
+ arrow away from an object to describe a pull.
+
+66
+00:06:11,480 --> 00:06:18,920
+ And orthodontics is really just a series of push and pull force systems applied to the
+
+67
+00:06:18,920 --> 00:06:20,880
+ teeth.
+
+68
+00:06:20,880 --> 00:06:25,200
+ Now the point of force application is also crucial.
+
+69
+00:06:25,200 --> 00:06:31,360
+ So not only does a force have magnitude and direction but it's also being applied to some
+
+70
+00:06:31,360 --> 00:06:35,640
+ specific location on the tooth, again usually at the bracket.
+
+71
+00:06:35,640 --> 00:06:41,760
+ Like we talked about before, any force against an object unless the force is directed through
+
+72
+00:06:41,760 --> 00:06:51,360
+ that object center of resistance causes a tendency to rotate which is also called a moment.
+
+73
+00:06:51,360 --> 00:06:59,560
+ So a moment or a moment of a force is the tendency of a force to cause a body to rotate
+
+74
+00:06:59,560 --> 00:07:04,760
+ about a specific axis which is the center of rotation.
+
+75
+00:07:04,760 --> 00:07:13,000
+ So a moment occurs whenever a force is delivered at some distance from the center of resistance.
+
+76
+00:07:13,000 --> 00:07:20,000
+ So the equation to calculate that is moment is equal to force times distance.
+
+77
+00:07:20,000 --> 00:07:28,240
+ So if a force is applied let's say here, again up here by the eraser you would multiply that
+
+78
+00:07:28,240 --> 00:07:40,480
+ forces magnitude by the distance of that application of the force to the center of resistance.
+
+79
+00:07:40,480 --> 00:07:47,680
+ So that's what the distance D is referring to.
+
+80
+00:07:47,680 --> 00:07:52,720
+ So you might notice we're really getting a little bit heavy into the mathematics side
+
+81
+00:07:52,720 --> 00:07:59,800
+ of things but this is almost identical to the equation for torque used in physics.
+
+82
+00:07:59,800 --> 00:08:05,080
+ And the equation is helpful because it helps us understand that the rotational tendency
+
+83
+00:08:05,080 --> 00:08:12,000
+ is stronger the further away the force is applied from the center of resistance.
+
+84
+00:08:12,000 --> 00:08:16,840
+ The bigger this number is the bigger this number will be.
+
+85
+00:08:16,840 --> 00:08:23,840
+ So this is like closing a door so you can take any door that's near you and try one
+
+86
+00:08:23,840 --> 00:08:30,640
+ time to push on that door with your hand close to the hinges of course be careful not to
+
+87
+00:08:30,640 --> 00:08:37,160
+ pinch your fingers but then try again to close that same door this time with your hand on
+
+88
+00:08:37,160 --> 00:08:42,400
+ the handle and notice how much easier it is the second time when you're applying that
+
+89
+00:08:42,400 --> 00:08:51,600
+ force further away from the hinge axis and that's because you have more rotational influence.
+
+90
+00:08:51,600 --> 00:09:00,040
+ So again just to revisit this concept if we're straight through the center of resistance
+
+91
+00:09:00,040 --> 00:09:05,480
+ that forces being applied straight through there we have no moment because the distance
+
+92
+00:09:05,480 --> 00:09:07,560
+ would be equal to zero.
+
+93
+00:09:07,560 --> 00:09:15,880
+ As soon as we go outside of that there's either going to be a counterclockwise moment
+
+94
+00:09:15,880 --> 00:09:25,160
+ or a clockwise moment that's wrapping around that center of resistance and that's representing
+
+95
+00:09:25,160 --> 00:09:27,600
+ a moment.
+
+96
+00:09:27,600 --> 00:09:29,720
+ Alright so let's keep it going.
+
+97
+00:09:29,720 --> 00:09:39,240
+ A couple refers to two parallel forces that are equal in magnitude opposite in direction
+
+98
+00:09:39,240 --> 00:09:46,680
+ and non-colinear which means they do not share a line of action in other words they're separated
+
+99
+00:09:46,680 --> 00:09:55,960
+ by some distance so a force couple creates pure rotation that is a pure moment either
+
+100
+00:09:55,960 --> 00:10:03,600
+ clockwise or counterclockwise which can be incredibly useful in orthodontics as you will
+
+101
+00:10:03,600 --> 00:10:05,840
+ soon see.
+
+102
+00:10:05,840 --> 00:10:14,440
+ So the magnitude of the moment of a couple or MC is equal to the magnitude of one of
+
+103
+00:10:14,440 --> 00:10:22,520
+ the applied forces times the perpendicular distance between those two forces.
+
+104
+00:10:22,520 --> 00:10:30,800
+ So here is our force couple, one force pointing this way and an equal and opposite force pointing
+
+105
+00:10:30,800 --> 00:10:38,800
+ this way and they are non-colinear so they're acting at some distance from each other.
+
+106
+00:10:38,800 --> 00:10:46,040
+ So in order to have a couple you need to have two points of contact, two separate points
+
+107
+00:10:46,040 --> 00:10:54,640
+ of contact and a wire, an orthodonic wire being engaged into a bracket slot often results
+
+108
+00:10:54,640 --> 00:11:04,840
+ in two points of contact which makes that very useful to us as orthodontists.
+
+109
+00:11:04,840 --> 00:11:11,320
+ And this is why, so we can look at some examples of couples and how they help us to move teeth
+
+110
+00:11:11,320 --> 00:11:14,800
+ in the desired directions.
+
+111
+00:11:14,800 --> 00:11:22,800
+ So in the first order that's from an occlusal view based on how the wire is pushing against
+
+112
+00:11:22,800 --> 00:11:31,480
+ the base of the bracket slot is applying a couple for us to rotate this tooth.
+
+113
+00:11:31,480 --> 00:11:41,040
+ So the wire is trying to get back to its original shape and so it's pushing on the bracket
+
+114
+00:11:41,040 --> 00:11:49,120
+ with the bracket base I should say at that point and it's pulling against the ligature
+
+115
+00:11:49,120 --> 00:11:53,880
+ that's tying that wire to that bracket on this side of the bracket.
+
+116
+00:11:53,880 --> 00:12:00,640
+ So we're having two forces that are equal and opposite and non-colinear.
+
+117
+00:12:00,640 --> 00:12:10,320
+ So this is creating a couple to provide mesiodistal rotation and so it wants to turn that tooth
+
+118
+00:12:10,320 --> 00:12:15,360
+ around in order to straighten out the wire.
+
+119
+00:12:15,360 --> 00:12:19,040
+ So that's an example of a first order couple.
+
+120
+00:12:19,040 --> 00:12:26,000
+ The second order is from a facial view and it's based on how the wire is pushing down
+
+121
+00:12:26,000 --> 00:12:35,600
+ on one end of the bracket and up on the other end creating a couple this time for mesiodistal
+
+122
+00:12:35,600 --> 00:12:39,160
+ angulation.
+
+123
+00:12:39,160 --> 00:12:45,640
+ And lastly for the third order that's from a proximal or side view and that's based on
+
+124
+00:12:45,640 --> 00:12:54,280
+ how a rectangular wire is engaged and twisted into the bracket slot so that it pushes on
+
+125
+00:12:54,280 --> 00:13:02,920
+ one end and down on the other end creating a tiny couple but it can be effective in order
+
+126
+00:13:02,920 --> 00:13:14,800
+ to tip this tooth or I should say torque this tooth for improved buccolingual inclination.
+
+127
+00:13:14,800 --> 00:13:22,040
+ So these are all examples of couples and how orthodontic wires act on brackets to generate
+
+128
+00:13:22,040 --> 00:13:23,640
+ these four systems.
+
+129
+00:13:23,640 --> 00:13:28,400
+ Now don't worry if you don't understand all the details of this I just wanted to illustrate
+
+130
+00:13:28,400 --> 00:13:35,000
+ some cool examples of these complicated mechanics to give them some clinical application because
+
+131
+00:13:35,000 --> 00:13:39,560
+ I know this stuff can get pretty tough to understand.
+
+132
+00:13:39,560 --> 00:13:44,600
+ So now we can apply all of these mechanical principles and terms to the types of tooth
+
+133
+00:13:44,600 --> 00:13:47,360
+ movement that we talked about in the last video.
+
+134
+00:13:47,360 --> 00:13:51,680
+ So the first of those is uncontrolled tipping.
+
+135
+00:13:51,680 --> 00:13:59,140
+ So the moment of couple to moment of force ratio is something that we can now use to
+
+136
+00:13:59,140 --> 00:14:02,800
+ describe each of these biomechanical movements.
+
+137
+00:14:02,800 --> 00:14:07,960
+ For this one the ratio is equal to zero.
+
+138
+00:14:07,960 --> 00:14:16,960
+ In other words the moment of the couple is equal to zero which means there's no couple
+
+139
+00:14:16,960 --> 00:14:23,360
+ here which makes sense because couples can be hard to obtain and this is the lowest
+
+140
+00:14:23,360 --> 00:14:27,200
+ effort and easiest tooth movement that we have.
+
+141
+00:14:27,200 --> 00:14:33,000
+ So if we're using a finger spring that's pushing against a tooth from only one point
+
+142
+00:14:33,000 --> 00:14:37,520
+ of contact well we're not going to have any couple there and it's just going to produce
+
+143
+00:14:37,520 --> 00:14:40,320
+ uncontrolled tipping.
+
+144
+00:14:40,320 --> 00:14:46,400
+ So in these diagrams that I'll have in the next couple slides the center of resistance
+
+145
+00:14:46,400 --> 00:14:51,320
+ is shown by the red x inside the circle.
+
+146
+00:14:51,320 --> 00:14:55,880
+ The center of rotation is shown by this black x.
+
+147
+00:14:55,880 --> 00:15:02,960
+ The force is shown by the straight blue arrow and any moment that's generated is represented
+
+148
+00:15:02,960 --> 00:15:06,440
+ by the curved blue arrows.
+
+149
+00:15:06,440 --> 00:15:13,040
+ So the center of rotation and center of resistance are almost at the same point.
+
+150
+00:15:13,040 --> 00:15:19,600
+ So the tooth rotates around a point very close to its center of resistance but usually the
+
+151
+00:15:19,600 --> 00:15:26,080
+ center of rotation is just slightly apical to that center of the root.
+
+152
+00:15:26,080 --> 00:15:34,480
+ Now because the force is applied at some distance from that center of rotation we have some
+
+153
+00:15:34,480 --> 00:15:41,880
+ amount of D so there's going to be a moment that's created to the tooth wants to rotate.
+
+154
+00:15:41,880 --> 00:15:48,660
+ The crown will go in the direction of the force and the root will go in the opposite
+
+155
+00:15:48,660 --> 00:15:50,440
+ direction.
+
+156
+00:15:50,440 --> 00:15:58,760
+ The tooth tips uncontrollably because there is no couple to counteract this moment of
+
+157
+00:15:58,760 --> 00:16:00,520
+ a force.
+
+158
+00:16:00,520 --> 00:16:05,000
+ So there's no controlling counteracting couple at work.
+
+159
+00:16:05,000 --> 00:16:11,320
+ The uncontrolled tipping is the result of one point of contact on the tooth crown like again
+
+160
+00:16:11,320 --> 00:16:15,340
+ a finger spring from a removable appliance.
+
+161
+00:16:15,340 --> 00:16:23,040
+ This is the easiest and fastest type of tooth movement but often undesirable.
+
+162
+00:16:23,040 --> 00:16:28,720
+ For control tipping the ratio is between 0 and 1.
+
+163
+00:16:28,720 --> 00:16:37,320
+ In other words the moment of a couple is less than the moment of the force.
+
+164
+00:16:37,320 --> 00:16:44,040
+ So the center of rotation here is moved apically away from the center of resistance and is
+
+165
+00:16:44,040 --> 00:16:47,160
+ at around the root apex.
+
+166
+00:16:47,160 --> 00:16:53,280
+ So at least this time the crown moves in the direction you want while the root stays more
+
+167
+00:16:53,280 --> 00:16:59,680
+ or less where it is instead of going back in the opposite direction.
+
+168
+00:16:59,680 --> 00:17:08,800
+ So force applied to a bracket causes translation of the tooth and some amount of rotation while
+
+169
+00:17:08,800 --> 00:17:15,180
+ the small couple applied to the tooth counteracts and negates that rotation.
+
+170
+00:17:15,180 --> 00:17:20,600
+ So instead of this root being moved this way like an uncontrolled tipping it stays where
+
+171
+00:17:20,600 --> 00:17:25,360
+ it is thanks to the couple that's being applied.
+
+172
+00:17:25,360 --> 00:17:32,160
+ In this example that would have to be a third order couple provided by a rectangular wire
+
+173
+00:17:32,160 --> 00:17:37,440
+ in an edge wise bracket.
+
+174
+00:17:37,440 --> 00:17:41,400
+ So for bodily movement the ratio is now 1.
+
+175
+00:17:41,400 --> 00:17:48,040
+ It's equal to 1 which means the moment of a couple equals the moment of a force.
+
+176
+00:17:48,040 --> 00:17:52,520
+ So notice how this moment of a couple is getting stronger and stronger as we go through these
+
+177
+00:17:52,520 --> 00:17:54,840
+ tooth movements.
+
+178
+00:17:54,840 --> 00:18:02,320
+ So here the tooth moves bodily or translates and the center of rotation is displaced infinitely
+
+179
+00:18:02,320 --> 00:18:07,760
+ far away from the center of resistance because there is no rotation.
+
+180
+00:18:07,760 --> 00:18:16,120
+ Ultimately the crown and the root move together the same amount in the same direction.
+
+181
+00:18:16,120 --> 00:18:21,880
+ In order to get successful bodily movement it requires both a force to move the crown
+
+182
+00:18:21,880 --> 00:18:28,200
+ and a fairly strong couple to prevent tipping altogether which is why this is one of the
+
+183
+00:18:28,200 --> 00:18:34,760
+ more difficult and slower movements to achieve.
+
+184
+00:18:34,760 --> 00:18:39,320
+ And then for root torque the ratio now is greater than 1.
+
+185
+00:18:39,320 --> 00:18:45,880
+ In other words the moment of a couple is greater than the moment of a force.
+
+186
+00:18:45,880 --> 00:18:50,880
+ So this is a unique type of tooth movement because this is the only time that the root
+
+187
+00:18:50,880 --> 00:18:54,320
+ is moving more than the crown itself.
+
+188
+00:18:54,320 --> 00:18:59,840
+ Therefore the center of rotation is displaced in the opposite direction and moves towards
+
+189
+00:18:59,840 --> 00:19:05,640
+ the incisal edge which this time stays relatively still.
+
+190
+00:19:05,640 --> 00:19:12,360
+ This movement is incredibly difficult to achieve and often requires some auxiliary appliances
+
+191
+00:19:12,360 --> 00:19:18,960
+ because you're trying to move a root through bone while keeping a crown steady which is
+
+192
+00:19:18,960 --> 00:19:26,240
+ sitting in essentially air which is a lot easier to move something through air than it
+
+193
+00:19:26,240 --> 00:19:28,540
+ is through bone.
+
+194
+00:19:28,540 --> 00:19:38,320
+ So it requires a very strong couple in order to successfully attain this tooth movement.
+
+195
+00:19:38,320 --> 00:19:44,400
+ Now then we have rotation where the ratio is irrelevant it doesn't really exist because
+
+196
+00:19:44,400 --> 00:19:51,080
+ this time we don't really have a moment of a force here the denominators equal effectively
+
+197
+00:19:51,080 --> 00:19:59,440
+ to zero and we're making a first order couple to spin the tooth around its long axis.
+
+198
+00:19:59,440 --> 00:20:05,880
+ So pure rotation refers to rotation of a tooth about its long axis.
+
+199
+00:20:05,880 --> 00:20:11,760
+ So now we're looking down on the tooth from an occlusal view and again hypothetically we
+
+200
+00:20:11,760 --> 00:20:17,080
+ don't have a moment of a force which would be the denominator in the ratio and a couple
+
+201
+00:20:17,080 --> 00:20:23,760
+ alone is applied to a tooth causing it to rotate about a center of resistance.
+
+202
+00:20:23,760 --> 00:20:29,560
+ Here we're looking at this premolar again from an occlusal view and it's spinning around
+
+203
+00:20:29,560 --> 00:20:41,120
+ to straighten it out in the arch and the center of rotation is at the center of resistance.
+
+204
+00:20:41,120 --> 00:20:47,960
+ Now here's a helpful diagram listing the names of different types of directional tooth movement.
+
+205
+00:20:47,960 --> 00:20:53,520
+ So protraction refers to forward movement, retraction, backward movement.
+
+206
+00:20:53,520 --> 00:21:01,080
+ Those are your bodily movements of course intrusion and extrusion are also technically
+
+207
+00:21:01,080 --> 00:21:08,440
+ bodily movement because it's another another version of pure translation.
+
+208
+00:21:08,440 --> 00:21:14,480
+ Tipping the crown forward is proclination tipping it backward is retroclination and
+
+209
+00:21:14,480 --> 00:21:20,960
+ then we have labial or buckle root torque and lingual or palatal root torque.
+
+210
+00:21:20,960 --> 00:21:26,600
+ So just a nice summary slide I put together to help explain the names of some of those
+
+211
+00:21:26,600 --> 00:21:29,640
+ tooth movements.
+
+212
+00:21:29,640 --> 00:21:33,600
+ And finally let's have a discussion about anchorage.
+
+213
+00:21:33,600 --> 00:21:40,520
+ So orthodontic anchorage is defined as resistance to unwanted tooth movement and it's based
+
+214
+00:21:40,520 --> 00:21:46,520
+ on the idea of Newton's third law that for every action there is an equal and opposite
+
+215
+00:21:46,520 --> 00:21:47,520
+ reaction.
+
+216
+00:21:47,520 --> 00:21:54,560
+ In other words for every desired tooth movement there is an equal and opposite potentially
+
+217
+00:21:54,560 --> 00:21:57,600
+ undesirable tooth movement.
+
+218
+00:21:57,600 --> 00:22:03,360
+ Now a really helpful way to think about this is teeth undergoing orthodontic treatment
+
+219
+00:22:03,360 --> 00:22:06,780
+ are in a constant tug of war.
+
+220
+00:22:06,780 --> 00:22:14,420
+ So if we're trying to pull these teeth with let's say there's a space here and we're closing
+
+221
+00:22:14,420 --> 00:22:20,160
+ space with an elastomeric chain we're trying to pull these teeth this direction well these
+
+222
+00:22:20,160 --> 00:22:23,920
+ teeth will naturally get pulled this way.
+
+223
+00:22:23,920 --> 00:22:30,400
+ So the goal of treatment is to produce more intentional desired tooth movement as opposed
+
+224
+00:22:30,400 --> 00:22:35,280
+ to unintentional undesirable tooth movement.
+
+225
+00:22:35,280 --> 00:22:40,920
+ Now here's another reason why light force is often preferred whenever we can have it
+
+226
+00:22:40,920 --> 00:22:46,440
+ because light force produces desired movement with little side effects.
+
+227
+00:22:46,440 --> 00:22:49,280
+ So there's less anchorage toll.
+
+228
+00:22:49,280 --> 00:22:54,800
+ In other words there's less equal and opposite force that we have to worry about.
+
+229
+00:22:54,800 --> 00:23:01,320
+ On the contrary really heavy force produces our desired tooth movement sure but it has
+
+230
+00:23:01,320 --> 00:23:09,880
+ more deleterious side effects and is more likely to put a toll on our anchorage.
+
+231
+00:23:09,880 --> 00:23:16,960
+ So just like in tug of war the bigger and stronger participants will contribute more.
+
+232
+00:23:16,960 --> 00:23:25,080
+ And so the bigger the surface area of the combined peridontal ligaments the more anchorage value
+
+233
+00:23:25,080 --> 00:23:31,760
+ a tooth or unit of teeth will have together and the more they will be able to resist tooth
+
+234
+00:23:31,760 --> 00:23:32,760
+ movement.
+
+235
+00:23:32,760 --> 00:23:38,880
+ So in this example if again we were trying to close this premolar extraction space and
+
+236
+00:23:38,880 --> 00:23:46,520
+ we were pitting these three anterior teeth against these three posterior teeth which unit
+
+237
+00:23:46,520 --> 00:23:52,040
+ of teeth do you think is going to move more.
+
+238
+00:23:52,040 --> 00:23:56,200
+ So if you said the anterior unit you were exactly right.
+
+239
+00:23:56,200 --> 00:24:04,040
+ They're getting overpowered by the overwhelming amount of PDL surface area in the posterior
+
+240
+00:24:04,040 --> 00:24:08,760
+ and so these back teeth are going to win the tug of war.
+
+241
+00:24:08,760 --> 00:24:14,920
+ The same thing goes if we were trying to open the space with a coil spring for instance.
+
+242
+00:24:14,920 --> 00:24:20,520
+ The front teeth would be pushed forward more than the back teeth would be pushed backward.
+
+243
+00:24:20,520 --> 00:24:28,640
+ Again this unit of teeth has more surface area thanks to these multi rooted molars and they're
+
+244
+00:24:28,640 --> 00:24:34,720
+ not going to budge as much as this anterior unit of teeth.
+
+245
+00:24:34,720 --> 00:24:40,040
+ So one application of this is called reciprocal anchorage.
+
+246
+00:24:40,040 --> 00:24:45,840
+ We now know that forces applied to one tooth unit cause an equal and opposite reactionary
+
+247
+00:24:45,840 --> 00:24:52,720
+ force on another tooth unit and if both units have equal anchorage values that means that
+
+248
+00:24:52,720 --> 00:24:59,920
+ the PDL area is the same then they will both experience equal and opposite tooth movement.
+
+249
+00:24:59,920 --> 00:25:09,160
+ So not only is the force equal and opposite but so is the movement that those teeth experience.
+
+250
+00:25:09,160 --> 00:25:14,480
+ So movement of one tooth can be pitted against another exactly like it.
+
+251
+00:25:14,480 --> 00:25:18,600
+ Like for diastemic closure between number eight and nine here.
+
+252
+00:25:18,600 --> 00:25:24,900
+ They both have roughly similar peridontal ligament surface areas.
+
+253
+00:25:24,900 --> 00:25:29,960
+ You can also pit a group of teeth against another group of teeth each with equal anchorage
+
+254
+00:25:29,960 --> 00:25:41,000
+ values such as a central lateral and canine and a second molar and a first molar.
+
+255
+00:25:41,000 --> 00:25:45,640
+ So it would be like in this example except we leave out the second molar here.
+
+256
+00:25:45,640 --> 00:25:52,280
+ These two units would be roughly equal to one another.
+
+257
+00:25:52,280 --> 00:25:58,800
+ Now the way to tip the scales in one direction or the other is called reinforced anchorage
+
+258
+00:25:58,800 --> 00:26:03,400
+ and there are several ways to reinforce our anchorage.
+
+259
+00:26:03,400 --> 00:26:08,680
+ In our tug of war analogy I equate this to just adding more people or adding stronger
+
+260
+00:26:08,680 --> 00:26:11,960
+ people to one of the two teams.
+
+261
+00:26:11,960 --> 00:26:17,840
+ So we can do this by adding more teeth to the anchor unit and that would distribute that
+
+262
+00:26:17,840 --> 00:26:23,880
+ equal and opposite reaction force over a larger PDL area.
+
+263
+00:26:23,880 --> 00:26:27,920
+ So the anchor unit doesn't move as much.
+
+264
+00:26:27,920 --> 00:26:33,640
+ Now we can also add extra oral sources like the back of the head for instance.
+
+265
+00:26:33,640 --> 00:26:40,240
+ So head gear can be used to augment anchorage as well but poor patient compliance they don't
+
+266
+00:26:40,240 --> 00:26:46,120
+ like to wear it and heavy intermittent forces from the head gear if it's being taken on
+
+267
+00:26:46,120 --> 00:26:52,820
+ and off all throughout the day are not good ways to counterbalance the light continuous
+
+268
+00:26:52,820 --> 00:26:57,040
+ force from orthodontic appliances.
+
+269
+00:26:57,040 --> 00:27:04,000
+ So those are just two examples of how we can reinforce our anchorage unit.
+
+270
+00:27:04,000 --> 00:27:08,280
+ Another way to really tip the scales is skeletal anchorage.
+
+271
+00:27:08,280 --> 00:27:14,400
+ So in our tug of war analogy I equate this to one side basically cheating and placing
+
+272
+00:27:14,400 --> 00:27:19,440
+ metal stakes in the ground and then planting their feet behind those stakes.
+
+273
+00:27:19,440 --> 00:27:26,160
+ Now the stakes can fall out but if not that team is not going to move at all.
+
+274
+00:27:26,160 --> 00:27:33,320
+ So our metal stakes here are called temporary anchorage devices and tads act like ankle
+
+275
+00:27:33,320 --> 00:27:36,040
+ lifts teeth when they are successful.
+
+276
+00:27:36,040 --> 00:27:41,880
+ They are not going to budge and so they are screwed into bone and they are not intended
+
+277
+00:27:41,880 --> 00:27:45,780
+ to move unless they fail and fall out.
+
+278
+00:27:45,780 --> 00:27:52,560
+ So bone screws are placed in the alveolar bone and they provide anchors for moving usually
+
+279
+00:27:52,560 --> 00:28:00,800
+ specific teeth whereas bone plates are attached to basal bone beneath the teeth by multiple
+
+280
+00:28:00,800 --> 00:28:06,000
+ bone screws and they provide an anchor for more extensive tooth movement.
+
+281
+00:28:06,000 --> 00:28:11,440
+ The bone screws are generally less invasive but are potentially less stable whereas bone
+
+282
+00:28:11,440 --> 00:28:18,860
+ plates are more invasive but can be more stable because multiple screws are being utilized.
+
+283
+00:28:18,860 --> 00:28:26,160
+ The lower limit for tad placement is generally around age 11 when the bone is mature enough
+
+284
+00:28:26,160 --> 00:28:34,080
+ in order to hold these tads with some amount of stability.
+
+285
+00:28:34,080 --> 00:28:42,280
+ For these many implants this concept of osteo integration that we talked about with permanent
+
+286
+00:28:42,280 --> 00:28:49,600
+ implants is not necessary and perhaps not desirable because they are meant to be temporary and
+
+287
+00:28:49,600 --> 00:28:57,000
+ we don't want them being permanently fixed biologically to the bone.
+
+288
+00:28:57,000 --> 00:29:04,000
+ Tads are particularly useful for distalizing and/or intruding molars which can be a notoriously
+
+289
+00:29:04,000 --> 00:29:09,080
+ difficult thing to do without them.
+
+290
+00:29:09,080 --> 00:29:15,560
+ So let's talk through some examples of anchorage in premolar extraction cases.
+
+291
+00:29:15,560 --> 00:29:22,760
+ So for a maximum anchorage case this might involve a severe crowding and/or incisor protrusion
+
+292
+00:29:22,760 --> 00:29:29,720
+ and those incisors are out too far and we want to favor the front teeth moving back and
+
+293
+00:29:29,720 --> 00:29:35,800
+ keep the anchor teeth where they are and we don't want those to move very much at all.
+
+294
+00:29:35,800 --> 00:29:42,080
+ So not more than a quarter of this extraction space should be closed by the anchor teeth
+
+295
+00:29:42,080 --> 00:29:44,520
+ moving forward.
+
+296
+00:29:44,520 --> 00:29:49,920
+ In a moderate anchorage case the anchor teeth can be permitted to move forward about a quarter
+
+297
+00:29:49,920 --> 00:29:54,880
+ or a half way into this extraction space and the same can be said for the front teeth moving
+
+298
+00:29:54,880 --> 00:29:55,880
+ back.
+
+299
+00:29:55,880 --> 00:30:01,040
+ More or less this is some reciprocal space closure.
+
+300
+00:30:01,040 --> 00:30:06,000
+ And for a minimum anchorage case the anchorage demand is very low and the anchor teeth are
+
+301
+00:30:06,000 --> 00:30:12,400
+ permitted to move forward into that extraction space and we often want them to do so while
+
+302
+00:30:12,400 --> 00:30:16,800
+ the front teeth this time we would prefer not to move back.
+
+303
+00:30:16,800 --> 00:30:24,040
+ This often requires some assistance with skeletal anchors or taking out second premolars instead
+
+304
+00:30:24,040 --> 00:30:30,600
+ of first premolars because then you're pitting more front teeth you're reinforcing that front
+
+305
+00:30:30,600 --> 00:30:35,520
+ anchorage against a smaller amount of back teeth.
+
+306
+00:30:35,520 --> 00:30:41,800
+ So those are just some examples of how we can use anchorage in order to treatment plan
+
+307
+00:30:41,800 --> 00:30:44,320
+ our cases.
+
+308
+00:30:44,320 --> 00:30:48,520
+ All right and that's it for this video guys thank you so much for watching I know it was
+
+309
+00:30:48,520 --> 00:30:53,960
+ a lot of technical jargon and terms but I really hope I was able to simplify it for
+
+310
+00:30:53,960 --> 00:30:57,880
+ you so you can understand the basics for your board exam.
+
+311
+00:30:57,880 --> 00:31:02,840
+ Please like this video if you enjoyed it and consider subscribing to this channel for more
+
+312
+00:31:02,840 --> 00:31:04,360
+ on dentistry.
+
+313
+00:31:04,360 --> 00:31:08,400
+ If you're interested in supporting me and what I do here please check out my Patreon
+
+314
+00:31:08,400 --> 00:31:14,880
+ page a huge thank you to all of my patrons here for all of their ongoing support you
+
+315
+00:31:14,880 --> 00:31:20,800
+ can unlock extras like access to my video slides to take notes on and practice questions
+
+316
+00:31:20,800 --> 00:31:25,560
+ for the board exam so go check that out the link will be in the description thanks again
+
+317
+00:31:25,560 --> 00:31:28,800
+ for watching everyone and I'll see you in the next video.
+

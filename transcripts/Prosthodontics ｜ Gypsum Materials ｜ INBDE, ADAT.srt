@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:06,320
+ Hey everyone, Ryan here and welcome back to our prosthodontic series.
+
+2
+00:00:06,320 --> 00:00:12,240
+ This video will be talking about gypsum materials, which is another important topic to note for
+
+3
+00:00:12,240 --> 00:00:18,280
+ the board exam and a great follow up to the impression materials video.
+
+4
+00:00:18,280 --> 00:00:27,680
+ So gypsum is mined as calcium sulfate dihydrate and this is the chemical formula, calcium sulfate
+
+5
+00:00:27,680 --> 00:00:34,480
+ and to water molecules, which is where the dihydrate part of the name comes from.
+
+6
+00:00:34,480 --> 00:00:41,440
+ Now it's manufactured with heat in order to get rid of some of this water to become calcium sulfate
+
+7
+00:00:41,440 --> 00:00:47,760
+ hemihydrate, which refers to the half water molecule present in the chemical formula.
+
+8
+00:00:47,760 --> 00:00:52,240
+ So all of these gypsum products that we're going to be talking about in this video
+
+9
+00:00:52,240 --> 00:00:58,720
+ are chemically the same. They all have this formula right here, but they differ
+
+10
+00:00:58,720 --> 00:01:04,400
+ in the size and shape of the particles and that's what really gives each of these gypsum materials
+
+11
+00:01:04,400 --> 00:01:09,840
+ a different characterization when used in dentistry.
+
+12
+00:01:09,840 --> 00:01:15,680
+ So the five different versions of gypsum used in dentistry that we'll be going over
+
+13
+00:01:15,680 --> 00:01:23,840
+ today are these five and they're conveniently listed type one through type five.
+
+14
+00:01:23,840 --> 00:01:32,880
+ Type one is impression plaster and how I remember this is that the one in the romanumeral one
+
+15
+00:01:32,880 --> 00:01:36,320
+ looks an awful lot like the eye and impression.
+
+16
+00:01:36,320 --> 00:01:42,240
+ So I remember that type two gypsum is model plaster.
+
+17
+00:01:42,240 --> 00:01:50,880
+ How I remember this one is that an M has two vertical lines on it.
+
+18
+00:01:50,880 --> 00:01:56,320
+ So that lines up with the two vertical lines of the romanumeral two.
+
+19
+00:01:56,320 --> 00:02:04,880
+ So that's how I remember bottle plaster. Type three is dental stone. Type four gypsum is dental stone,
+
+20
+00:02:04,880 --> 00:02:13,200
+ but it's improved. It has high strength and low expansion and type five gypsum is dental stone,
+
+21
+00:02:13,200 --> 00:02:20,400
+ high strength, high expansion. So the last three types are all forms of dental stone.
+
+22
+00:02:20,400 --> 00:02:28,560
+ The first two are forms of plaster. So let's go through each of these five types individually.
+
+23
+00:02:30,480 --> 00:02:36,480
+ But before we do, I want to talk about the significance of water because all these gypsum
+
+24
+00:02:36,480 --> 00:02:42,720
+ materials come in a powder form and we have to mix water in order to activate them and to get
+
+25
+00:02:42,720 --> 00:02:51,760
+ them to set. So water is incredibly important. I want to define gauging water, which is extra water
+
+26
+00:02:51,760 --> 00:02:58,320
+ needed to obtain a workable mix of material and does not chemically react with gypsum.
+
+27
+00:02:59,520 --> 00:03:06,320
+ So in other words, the gypsum powder that calcium sulfate hemihydrate chemically reacts
+
+28
+00:03:06,320 --> 00:03:13,760
+ with a set amount of water. But we also need some additional water, which we call gauging water,
+
+29
+00:03:13,760 --> 00:03:19,520
+ to make the product workable enough so that we can mix it with a spatula in a mixing bowl.
+
+30
+00:03:19,520 --> 00:03:26,320
+ So we can add more water or we can take away and have less water.
+
+31
+00:03:26,960 --> 00:03:32,560
+ Because the water makes the plaster or stone, if we add a little bit more and more of it,
+
+32
+00:03:32,560 --> 00:03:38,960
+ we increase the water to powder ratio. We make the stone or plaster weaker because
+
+33
+00:03:38,960 --> 00:03:43,920
+ the gypsum particles will be farther apart from one another the more water we add in.
+
+34
+00:03:43,920 --> 00:03:53,600
+ So we can think of having more water as making a thinner mix and a thin mix is going to be weaker
+
+35
+00:03:54,240 --> 00:04:04,480
+ whereas a thick mix is going to be stronger. Now, likewise, if we have these gypsum particles
+
+36
+00:04:04,480 --> 00:04:09,920
+ farther apart from one another, there's going to be more porosity in the material. And this goes
+
+37
+00:04:09,920 --> 00:04:16,960
+ along with it just being an overall weaker mix, whereas less water will result in less porosity
+
+38
+00:04:16,960 --> 00:04:21,440
+ and those gypsum particles being closer together. Of course, you want to stick to
+
+39
+00:04:22,080 --> 00:04:29,760
+ as close as possible to the water to powder ratio mentioned on the bag of gypsum powder.
+
+40
+00:04:29,760 --> 00:04:34,320
+ But if you wanted to mess around with the amount of water,
+
+41
+00:04:34,320 --> 00:04:40,400
+ this is what you could do and this is what you could expect to happen if you add more or less.
+
+42
+00:04:40,400 --> 00:04:48,160
+ And like we talked about in the last video, we talked about how we can manipulate setting time.
+
+43
+00:04:48,960 --> 00:04:55,120
+ We can also manipulate setting time of the gypsum by increasing or decreasing the amount of water.
+
+44
+00:04:55,120 --> 00:05:02,240
+ So if we add a thin mix, we'll increase the setting time as well as decrease the amount of
+
+45
+00:05:02,240 --> 00:05:08,800
+ expansion that the plaster stone experiences as it sets and the exact opposite is true
+
+46
+00:05:08,800 --> 00:05:13,520
+ for the other column. So again, like we talked about in the impression materials video,
+
+47
+00:05:13,520 --> 00:05:18,960
+ this is a really important this is really important information to know and I would just focus on
+
+48
+00:05:18,960 --> 00:05:24,000
+ memorizing one of these columns because as long as you know one of them, you just remember the
+
+49
+00:05:24,000 --> 00:05:32,480
+ opposite is true for the other. So let's dive into the type one gypsum that's the impression plaster.
+
+50
+00:05:32,480 --> 00:05:39,040
+ So all of these gypsum materials are going to experience some amount of expansion during
+
+51
+00:05:39,040 --> 00:05:44,880
+ setting. That's just how it chemically works. But this one actually has the second lowest
+
+52
+00:05:44,880 --> 00:05:54,320
+ expansion of all five. It's used for mounting casts in an articulator and I mean the verb form
+
+53
+00:05:54,320 --> 00:06:02,000
+ mounting. So it's not the actual mounted casts, but it's this white stone or white plaster I should
+
+54
+00:06:02,000 --> 00:06:10,880
+ say that helps support the casts of the articulator. So we see impression plaster here and also here.
+
+55
+00:06:10,880 --> 00:06:19,360
+ It's not strong. It's a very weak gypsum material and it wouldn't be sufficient for even making
+
+56
+00:06:19,360 --> 00:06:26,400
+ diagnostic casts as teeth could easily break off of it. The good news is it sets very quickly and
+
+57
+00:06:26,400 --> 00:06:32,560
+ however you remember this it has basically since it sets so fast probably within five to ten minutes
+
+58
+00:06:32,560 --> 00:06:39,840
+ if you have a fast set impression plaster, it has no time for expansion. So you can use that to
+
+59
+00:06:39,840 --> 00:06:49,600
+ remember that it experiences very little expansion. All right, the type two gypsum is model plaster
+
+60
+00:06:50,240 --> 00:06:57,920
+ and so model plaster is used to make casts that we can fabricate mouth guards and Essex retainers.
+
+61
+00:06:57,920 --> 00:07:02,560
+ These are those clear plastic retainers that you use following orthodontic treatment.
+
+62
+00:07:02,560 --> 00:07:12,720
+ Type three gypsum is dental stone and dental stone is the actual stone that we see here
+
+63
+00:07:12,720 --> 00:07:21,600
+ used to create the mounted casts. So these can be used for diagnostic casts for any sort of
+
+64
+00:07:21,600 --> 00:07:28,720
+ diagnostic purpose ranging from orthodontics to complex operative to fixed process and removable
+
+65
+00:07:28,720 --> 00:07:37,440
+ processes can be used can be made when using this kind of stone to create a diagnostic cast
+
+66
+00:07:37,440 --> 00:07:48,080
+ or even a working cast. Type four gypsum is dental stone and I've abbreviated this high strength
+
+67
+00:07:48,080 --> 00:07:56,000
+ low expansion HSLE and so type four stone is popular on the board exam because it has
+
+68
+00:07:56,000 --> 00:08:02,640
+ in many ways the best qualities of all the stones. So it has the best abrasion resistance
+
+69
+00:08:02,640 --> 00:08:08,720
+ though it requires the least amount of gauging water and it has the least amount of expansion.
+
+70
+00:08:08,720 --> 00:08:15,440
+ So all of these things are really really important and great qualities of the type four stone.
+
+71
+00:08:15,440 --> 00:08:24,800
+ It's also used for fabrication of dyes which we see pictured below. So a dye is the positive
+
+72
+00:08:24,800 --> 00:08:32,160
+ reproduction of a prepared tooth and it always should be poured in an improved dental stone
+
+73
+00:08:32,160 --> 00:08:39,200
+ or some other material that allows for a very accurate representation of what the crown prep
+
+74
+00:08:39,200 --> 00:08:44,720
+ actually looks like in the mouth and that's super important so that the crown that's made on the
+
+75
+00:08:44,720 --> 00:08:53,120
+ dye can fit in the patient's mouth accurately. So we'll talk more about this process of creating
+
+76
+00:08:53,120 --> 00:08:59,520
+ dyes ditching dyes and making crowns when we discuss the lab processing of crowns in a later video.
+
+77
+00:09:01,280 --> 00:09:08,000
+ And lastly we have type five gypsum which is dental stone high strength but this time high
+
+78
+00:09:08,000 --> 00:09:14,640
+ expansion. It's also used for the fabrication of dyes but potentially not as helpful because it
+
+79
+00:09:14,640 --> 00:09:25,680
+ experiences high expansion. So gypsum we when we're mixing it we typically take about 20 seconds if
+
+80
+00:09:25,680 --> 00:09:32,800
+ we're using a vacuum mixer or 30 seconds if we're mixing by hand in a mixing bowl with a spatula.
+
+81
+00:09:32,800 --> 00:09:40,560
+ The setting time for gypsum is approximately 45 to 60 minutes. Now I did mention before that using
+
+82
+00:09:40,560 --> 00:09:47,040
+ a fast set impression plaster or type one stone will set much faster in about five to 10 minutes.
+
+83
+00:09:47,040 --> 00:09:54,000
+ But the other forms of gypsum can take up to an hour to fully set and you can contrast this to
+
+84
+00:09:54,000 --> 00:10:01,760
+ the setting time of something like alginate which was only three to four minutes. After pouring it
+
+85
+00:10:01,760 --> 00:10:07,520
+ and letting it set you can disinfect with a bleach solution glute or aldehyde or iota force spray.
+
+86
+00:10:07,520 --> 00:10:15,440
+ So setting time I sort of alluded to this before and we talked about this in the impression materials
+
+87
+00:10:15,440 --> 00:10:22,880
+ video. We talked about how you can cause a faster or slower setting time for alginate and the same is
+
+88
+00:10:22,880 --> 00:10:30,480
+ true for gypsum materials. So knowing what decreases or increases the setting time is really high yield
+
+89
+00:10:30,480 --> 00:10:37,440
+ information for the board exam. The great news about this is that the first two bullet points here.
+
+90
+00:10:37,440 --> 00:10:47,280
+ So the first two bullet points of both columns are identical to the setting time principles
+
+91
+00:10:47,280 --> 00:10:53,200
+ for alginate that we talked about in the last video which makes this nice and easy to generalize
+
+92
+00:10:53,200 --> 00:11:00,800
+ and memorize. So just like an alginate using hotter water or using less water decreases the setting
+
+93
+00:11:00,800 --> 00:11:08,320
+ time and the opposite is true for making the setting time longer. Now we have some additional
+
+94
+00:11:08,320 --> 00:11:16,480
+ information here. The use of slurry water can also make the gypsum set quicker and the reason
+
+95
+00:11:16,480 --> 00:11:24,240
+ slurry water acts as an accelerator is because slurry water is basically water that's been saturated
+
+96
+00:11:24,240 --> 00:11:31,520
+ with both calcium and sulfate ions. Sort of the byproduct of having cut some casts and you just
+
+97
+00:11:31,520 --> 00:11:38,960
+ have this really saturated water. And remember calcium sulfate is one of the main materials one
+
+98
+00:11:38,960 --> 00:11:44,000
+ of the main chemical elements of gypsum. So if we have water that's very saturated with both of
+
+99
+00:11:44,000 --> 00:11:52,480
+ these ions it's going to allow that material to set much quicker. It also if we also increase
+
+100
+00:11:52,480 --> 00:11:58,000
+ the amount of time we're mixing the material that will also decrease the setting time allowing
+
+101
+00:11:58,000 --> 00:12:07,360
+ more of the gypsum the gypsum particles to interact with each other. All right and this is a great
+
+102
+00:12:07,360 --> 00:12:13,440
+ summary slide of all the things that we've talked about. So I think knowing the big overall trends
+
+103
+00:12:13,440 --> 00:12:20,240
+ are really helpful for these standardized exams. It's easy to get lost in the nitty gritty details
+
+104
+00:12:20,240 --> 00:12:25,680
+ but you can remember the big trends which usually provide enough information to answer
+
+105
+00:12:25,680 --> 00:12:34,720
+ what they're asking. So if we could make a general trend here from type one to type five
+
+106
+00:12:34,720 --> 00:12:42,400
+ we go from weaker to stronger gypsum material. So I have the arrow increasing with type five
+
+107
+00:12:42,400 --> 00:12:49,680
+ being the strongest material. In the opposite direction we have porosity so the least porous
+
+108
+00:12:49,680 --> 00:13:00,880
+ material is type five the most porous material is type one. But remember that there's only one
+
+109
+00:13:00,880 --> 00:13:08,400
+ thing I would probably add to this slide and it's to remember how important it is that type four
+
+110
+00:13:08,400 --> 00:13:15,440
+ has the best abrasion resistance the least amount of gauging water and the least amount of expansion
+
+111
+00:13:15,440 --> 00:13:20,240
+ which help luckily for us is in the name of the material itself.
+
+112
+00:13:20,240 --> 00:13:28,480
+ So that's it for this video. Thanks so much for watching everyone. I'm really excited to announce
+
+113
+00:13:28,480 --> 00:13:33,760
+ that I recently launched my patreon page so if you're interested in supporting me there and
+
+114
+00:13:33,760 --> 00:13:40,720
+ unlocking extras like access to my video slides to take notes on and study from go check that out
+
+115
+00:13:40,720 --> 00:13:45,760
+ the link will be in the description. Thanks so much for watching everyone and I'll see you all in the
+
+116
+00:13:45,760 --> 00:13:49,920
+ next video.
+

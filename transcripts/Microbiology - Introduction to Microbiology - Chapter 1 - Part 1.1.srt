@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:05,720
+ Hey everyone. Welcome to our first chapter. We're going to take a look at an introduction
+
+2
+00:00:05,720 --> 00:00:09,360
+ to microbiology and we're going to do it in two parts. In part one, we're going to start
+
+3
+00:00:09,360 --> 00:00:14,400
+ with just the basics of what is microbiology. We're going to look at the scope and why it's
+
+4
+00:00:14,400 --> 00:00:19,040
+ important and then even what types of microbes we're studying here. That'll be what we're
+
+5
+00:00:19,040 --> 00:00:23,560
+ going to start off with. So there are always different definitions for the same word as
+
+6
+00:00:23,560 --> 00:00:27,240
+ I'm sure you're well aware, but our textbook defines microbiology as the study of living
+
+7
+00:00:27,240 --> 00:00:33,120
+ things too small to be seen without magnification. Now biology is the study of life. So microbiology
+
+8
+00:00:33,120 --> 00:00:38,040
+ micro means small and so we're just really looking at small life. Now the truth is we
+
+9
+00:00:38,040 --> 00:00:43,240
+ get into things going on inside of these living organisms such as their cells and the cell
+
+10
+00:00:43,240 --> 00:00:46,960
+ structure. So we're not looking at just the organisms, but also how they work and things
+
+11
+00:00:46,960 --> 00:00:54,520
+ of that nature. These things, quote unquote, we often refer to them as microbes or microorganisms.
+
+12
+00:00:54,520 --> 00:01:00,160
+ These are things like bacteria and viruses or some of the more common types. One of the
+
+13
+00:01:00,160 --> 00:01:05,000
+ things I like to point out a couple things really, but number one is that we tend to not
+
+14
+00:01:05,000 --> 00:01:10,040
+ think about these and that's because we just don't ever see them obviously. But it's important
+
+15
+00:01:10,040 --> 00:01:13,880
+ to recognize that these really make up the vast majority of species on earth. Most life
+
+16
+00:01:13,880 --> 00:01:20,120
+ is fairly microscopic. We are as humans really amongst a small percentage of organisms that
+
+17
+00:01:20,120 --> 00:01:26,260
+ would be considered giants. We just don't really think about it that way. But on a percentage
+
+18
+00:01:26,260 --> 00:01:30,820
+ basis, most living things are too small to be seen with the naked eye. Now you can look
+
+19
+00:01:30,820 --> 00:01:35,920
+ at that both from a number of species standpoint, the percentage of species. You could also
+
+20
+00:01:35,920 --> 00:01:41,520
+ look at it, which would even be an even greater majority would just be the number of species,
+
+21
+00:01:41,520 --> 00:01:49,800
+ the quantity, the number of bacteria on earth, would probably outnumber people by thousands,
+
+22
+00:01:49,800 --> 00:01:55,680
+ if not probably more like millions to one, maybe even more, maybe even more like billions
+
+23
+00:01:55,680 --> 00:02:03,600
+ to one, probably be more accurate. So we are things of our size, I should say, are fairly
+
+24
+00:02:03,600 --> 00:02:10,320
+ in a fairly small percentage that is. So microbiology is looking at all of these things that we
+
+25
+00:02:10,320 --> 00:02:14,540
+ wouldn't normally see every day. It's one of the reasons why it's important because we
+
+26
+00:02:14,540 --> 00:02:17,460
+ just don't think about it and yet they have an impact on us, not some of the things we'll
+
+27
+00:02:17,460 --> 00:02:21,200
+ get into. Now the other thing I want to address besides the fact that we are giants and we
+
+28
+00:02:21,200 --> 00:02:24,900
+ don't only think about all these life forms, the other thing I like to address is that
+
+29
+00:02:24,900 --> 00:02:30,440
+ when we do think about them, we tend to think about them in a negative context. And I'm
+
+30
+00:02:30,440 --> 00:02:33,840
+ generalizing here, but I think for the most part, we tend to only worry about things when
+
+31
+00:02:33,840 --> 00:02:37,360
+ they affect us, especially when they affect us in a negative way. And for that reason,
+
+32
+00:02:37,360 --> 00:02:40,800
+ I think that we often only pay attention to microbes when they cause disease and when
+
+33
+00:02:40,800 --> 00:02:44,720
+ they're causing harm. And for that reason, we often refer to them as things like germs
+
+34
+00:02:44,720 --> 00:02:50,080
+ and viruses or a type of microbial, we tend to use that term in a negative way. So the
+
+35
+00:02:50,080 --> 00:02:57,400
+ idea is that while that's true, one of the questions here is why is this term inappropriate
+
+36
+00:02:57,400 --> 00:03:01,960
+ or why is it, I should say, why is it often inappropriate? And the reason is because most
+
+37
+00:03:01,960 --> 00:03:08,640
+ microbes are actually either beneficial or at the very least neutral, meaning they don't
+
+38
+00:03:08,640 --> 00:03:12,080
+ cause any harm. So they're actually either good for us in one way or another. It's not
+
+39
+00:03:12,080 --> 00:03:20,460
+ always a direct benefit, but they're either somehow beneficial to the earth or to people
+
+40
+00:03:20,460 --> 00:03:24,680
+ as a whole, or at the very least, they're just neutral and they don't really have any
+
+41
+00:03:24,680 --> 00:03:29,560
+ positive or negative effect, at least that we're aware of. So that's kind of microbiology
+
+42
+00:03:29,560 --> 00:03:34,480
+ in a nutshell. Study of small things, we're the giants, and we have to just recognize
+
+43
+00:03:34,480 --> 00:03:38,160
+ that most of these small things we just don't ever really become aware of. And a class like
+
+44
+00:03:38,160 --> 00:03:42,480
+ this is what, where I should say we get aware of those things, we bring those types of things
+
+45
+00:03:42,480 --> 00:03:46,840
+ to the front of our minds and to the front of our consciousness. And most of them are
+
+46
+00:03:46,840 --> 00:03:51,400
+ actually not that bad. Most of them are actually pretty good. Now we will focus on pathogens
+
+47
+00:03:51,400 --> 00:03:56,520
+ because while many are good, we have to focus on the bad ones so that we are aware of them.
+
+48
+00:03:56,520 --> 00:04:00,480
+ Now in the next part here, just real quick, the scope of microbiology is very broad.
+
+49
+00:04:00,480 --> 00:04:03,200
+ I don't want to get into this in too much detail here because I could talk about this
+
+50
+00:04:03,200 --> 00:04:06,680
+ all day. But it's important just to realize, as I mentioned, microbiology is the study
+
+51
+00:04:06,680 --> 00:04:14,320
+ of small life. And there's so much happening at this microscopic level that as a consequence
+
+52
+00:04:14,320 --> 00:04:19,000
+ of that, the field has been divided into many different sectors. So everything from a medical
+
+53
+00:04:19,000 --> 00:04:25,640
+ context, even to how diseases are spread as a whole. So you think these are the same thing.
+
+54
+00:04:25,640 --> 00:04:30,840
+ Chemical microbiology, public health, epidemiology, by the way, is kind of the study of how diseases
+
+55
+00:04:30,840 --> 00:04:36,400
+ and things spread. And really these are two separate fields directly related to each other.
+
+56
+00:04:36,400 --> 00:04:41,520
+ But studying them in a clinical setting versus how they spread outside of those clinical
+
+57
+00:04:41,520 --> 00:04:46,920
+ settings is kind of the difference here. Immunology, how our immune system responds. Industrial
+
+58
+00:04:46,920 --> 00:04:51,720
+ microbiology and agricultural microbiology are really putting microbes into a commercial
+
+59
+00:04:51,720 --> 00:04:56,240
+ context for the most part, and using them to make products or enhance products. And some
+
+60
+00:04:56,240 --> 00:05:03,200
+ quick examples there would be things like vaccines. You could use them for vitamin production.
+
+61
+00:05:03,200 --> 00:05:07,720
+ Even things like antibiotic production are just a couple of examples of how these are
+
+62
+00:05:07,720 --> 00:05:13,840
+ used. Agricultural microbiology is studying how they affect crops in crop production and
+
+63
+00:05:13,840 --> 00:05:18,360
+ or how they can be used to enhance crop production. In fact, microbes can actually be used to
+
+64
+00:05:18,360 --> 00:05:22,640
+ enhance crop production. And then environmental microbiology is really looking specifically
+
+65
+00:05:22,640 --> 00:05:27,520
+ at how microbes have an impact on the environment, which is somewhat self-explanatory there.
+
+66
+00:05:27,520 --> 00:05:32,600
+ So we're looking at it from the human standpoint, commercial standpoint, and then environmental
+
+67
+00:05:32,600 --> 00:05:37,720
+ standpoint. So with this class, we try and look at every one of these to a certain extent.
+
+68
+00:05:37,720 --> 00:05:42,440
+ But the truth is we'll focus on medical. We'll talk about public health and epidemiology.
+
+69
+00:05:42,440 --> 00:05:48,760
+ We'll definitely spend a lot of time on immunology. And we'll spend less time on the industrial
+
+70
+00:05:48,760 --> 00:05:54,560
+ agricultural and environmental simply because these first three topics take up a lot of
+
+71
+00:05:54,560 --> 00:05:59,600
+ our time, plus not everything that we talk about here is listed. So that's a general overview
+
+72
+00:05:59,600 --> 00:06:05,440
+ of the scope. Now, this is somewhat opinionated. So take it for what it is. It's my kind of
+
+73
+00:06:05,440 --> 00:06:11,200
+ opinion being very biased. But at least to me, why I think microbiology is important is
+
+74
+00:06:11,200 --> 00:06:15,240
+ it starts with an understanding that microbes are ubiquitous. Now, this may not be a term
+
+75
+00:06:15,240 --> 00:06:21,360
+ you're familiar with. So microbes are ubiquitous. What does ubiquitous mean? Ubiquitous means
+
+76
+00:06:21,360 --> 00:06:27,560
+ something is found everywhere. It's a very simple definition. So I'll say one more time.
+
+77
+00:06:27,560 --> 00:06:31,080
+ Ubiquitous means found everywhere. Now, once again, you'll find different definitions,
+
+78
+00:06:31,080 --> 00:06:34,640
+ different sources, but that's more or less the gist of it. Sometimes you'll hear it stated
+
+79
+00:06:34,640 --> 00:06:42,680
+ is found everywhere at the same time or found everywhere simultaneously, meaning that it
+
+80
+00:06:42,680 --> 00:06:48,240
+ doesn't just move from place to place. It means they're literally everywhere all at once.
+
+81
+00:06:48,240 --> 00:06:52,320
+ Most things are not ubiquitous. Even things like oxygen is not really ubiquitous. There's
+
+82
+00:06:52,320 --> 00:06:56,240
+ lots of places on earth where oxygen doesn't exist. So it's not a term you hear very often
+
+83
+00:06:56,240 --> 00:07:03,120
+ because it doesn't really apply, especially literally in most cases. So why is this significant
+
+84
+00:07:03,120 --> 00:07:09,160
+ then? Well, because they are everywhere. And everywhere we go, we are impacted by microbes,
+
+85
+00:07:09,160 --> 00:07:13,040
+ whether we realize it or not. Now, it's not always a significant impact. But microbes
+
+86
+00:07:13,040 --> 00:07:17,600
+ tend to have some kind of effect everywhere they're found. And that means that they haven't
+
+87
+00:07:17,600 --> 00:07:24,360
+ impacted everywhere they go. So for this reason, at least in my own personal opinion, microbiology
+
+88
+00:07:24,360 --> 00:07:29,960
+ is very important now. Many of you are going to go into the medical field. And really what's
+
+89
+00:07:29,960 --> 00:07:36,840
+ expected of you is just to be aware of what you don't see. As I mentioned, we're giants.
+
+90
+00:07:36,840 --> 00:07:41,040
+ We don't see these little microbes, but they definitely have an impact on us. So really
+
+91
+00:07:41,040 --> 00:07:45,720
+ the goal of this class is not to make you an expert in microbiology by any means, but
+
+92
+00:07:45,720 --> 00:07:51,120
+ to simply bring forward in your mind what these are. So you have a better idea of how
+
+93
+00:07:51,120 --> 00:07:57,240
+ they work and hopefully how to better protect yourself from them. So in the sex part, we
+
+94
+00:07:57,240 --> 00:08:02,680
+ want to look at what are the major types of microbes study. And I broke this down into
+
+95
+00:08:02,680 --> 00:08:07,240
+ really the six major types here. Now, we'll actually study a few other things that aren't
+
+96
+00:08:07,240 --> 00:08:11,440
+ specifically listed here. But for the most part, you can look at them as really a list
+
+97
+00:08:11,440 --> 00:08:19,120
+ of about seven basic types of microbes. So bacteria, archaea, and sometimes we hear that
+
+98
+00:08:19,120 --> 00:08:28,520
+ pronounces the archaea, but I always pronounce it archaea. The protozoa, the algae, the fungi,
+
+99
+00:08:28,520 --> 00:08:35,040
+ the helmets, and then the viruses. So each one of these is very different from the next.
+
+100
+00:08:35,040 --> 00:08:38,880
+ And these are very broad categories. So there's lots of variation within each one of these
+
+101
+00:08:38,880 --> 00:08:43,440
+ categories, but these are kind of the broadest categories of at least the most common types
+
+102
+00:08:43,440 --> 00:08:44,160
+ of microbes.
+

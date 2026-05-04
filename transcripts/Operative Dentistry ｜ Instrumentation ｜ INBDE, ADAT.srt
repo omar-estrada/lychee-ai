@@ -1,0 +1,1424 @@
+1
+00:00:00,000 --> 00:00:06,580
+ Hey everyone, Ryan here and welcome back to our Operative Dentistry series.
+
+2
+00:00:06,580 --> 00:00:13,000
+ In this video, we'll cover everything from hand instruments to hand pieces and burs used
+
+3
+00:00:13,000 --> 00:00:14,240
+ in Operative Dentistry.
+
+4
+00:00:14,240 --> 00:00:18,120
+ So put on your seat belts and let's get to it.
+
+5
+00:00:18,120 --> 00:00:25,520
+ So the two main categories of dental hand instruments are non-cutting and cutting instruments.
+
+6
+00:00:25,520 --> 00:00:29,760
+ This is certainly not a list of every dental instrument out there, but the ones that are
+
+7
+00:00:29,760 --> 00:00:33,600
+ most commonly used, and that'll come up on the board exam.
+
+8
+00:00:33,600 --> 00:00:38,600
+ In the second half of the video, we'll talk about hand pieces, which fall into their
+
+9
+00:00:38,600 --> 00:00:42,400
+ own category.
+
+10
+00:00:42,400 --> 00:00:47,000
+ So dental hand instruments have three main regions.
+
+11
+00:00:47,000 --> 00:00:55,040
+ The handle, which is represented here by the letter C, is usually about 6 mm in diameter.
+
+12
+00:00:55,040 --> 00:01:01,120
+ It can be eight-sided, like the one shown here, or it can be round, and sometimes it
+
+13
+00:01:01,120 --> 00:01:06,080
+ has a ribbed grip, like you see here, or it can be smooth and flat.
+
+14
+00:01:06,080 --> 00:01:12,720
+ The shank is represented here by the letter B, and the shank may have one or more bends
+
+15
+00:01:12,720 --> 00:01:13,720
+ in it.
+
+16
+00:01:13,720 --> 00:01:19,800
+ You see one bend right here, and then another right here.
+
+17
+00:01:19,800 --> 00:01:25,280
+ And that allows the working end, which we'll talk about in a second, to be aligned with
+
+18
+00:01:25,280 --> 00:01:29,480
+ the long axis of the handle.
+
+19
+00:01:29,480 --> 00:01:34,600
+ And so the working end is represented by the letter A, and it should lie along the long
+
+20
+00:01:34,600 --> 00:01:39,320
+ axis of the instrument for the best balance and control.
+
+21
+00:01:39,320 --> 00:01:44,560
+ So you can see and appreciate how that lines up pretty well with the long axis of the rest
+
+22
+00:01:44,560 --> 00:01:45,800
+ of the instrument there.
+
+23
+00:01:45,800 --> 00:01:54,680
+ And the working end either consists of a blade and a cutting edge, or a nib and a face.
+
+24
+00:01:54,680 --> 00:02:01,340
+ So the blade and cutting edge refers to terms for a cutting instrument, nib and face for
+
+25
+00:02:01,340 --> 00:02:03,120
+ a non-cutting instrument.
+
+26
+00:02:03,120 --> 00:02:10,200
+ So if we look at these diagrams up here, the nib refers to the entire hook part of this
+
+27
+00:02:10,200 --> 00:02:14,240
+ dental explorer, which is a non-cutting instrument.
+
+28
+00:02:14,240 --> 00:02:22,880
+ The face refers to the little point or the explorer time at the very end of the instrument.
+
+29
+00:02:22,880 --> 00:02:28,240
+ That's the part that's contacting the tooth or the restorative material.
+
+30
+00:02:28,240 --> 00:02:31,160
+ For cutting instruments, we have different terminology.
+
+31
+00:02:31,160 --> 00:02:36,960
+ The blade is the actual cutting part of the instrument, so that's this entire portion
+
+32
+00:02:36,960 --> 00:02:44,840
+ right here, and even more specifically, the cutting edge is the tiny little edge, the
+
+33
+00:02:44,840 --> 00:02:51,120
+ specific sharp part that contacts the tooth or the restorative material.
+
+34
+00:02:51,120 --> 00:02:56,840
+ So the handle is what you hold, the shank is for transition, and the working end is what
+
+35
+00:02:56,840 --> 00:03:00,000
+ actually does the work.
+
+36
+00:03:00,000 --> 00:03:05,760
+ So now we can talk about some specific non-cutting dental hand instruments.
+
+37
+00:03:05,760 --> 00:03:10,760
+ The first we'll talk about the dental mirror, the small angled mirror, allows you to see
+
+38
+00:03:10,760 --> 00:03:16,080
+ areas of the mouth that otherwise be difficult or impossible to see.
+
+39
+00:03:16,080 --> 00:03:23,560
+ For example, the occlusal surfaces of the upper molars, or lingual surfaces of the upper incisors,
+
+40
+00:03:23,560 --> 00:03:28,440
+ would require you to have the patient sitting way back, and you likely have to twist your
+
+41
+00:03:28,440 --> 00:03:33,680
+ neck somehow to get a clear view, but the mirror makes this a lot easier.
+
+42
+00:03:33,680 --> 00:03:40,500
+ We call this ability to look at oral structures using the mirror in direct vision, as opposed
+
+43
+00:03:40,500 --> 00:03:48,120
+ to direct vision, where your eyes can look at the tooth or structure of interest directly.
+
+44
+00:03:48,120 --> 00:03:54,360
+ The dental explorer provides tactile sensitivity to detect if margins of restorations have
+
+45
+00:03:54,360 --> 00:03:58,600
+ good integrity with the surrounding tooth structure, if the margins of crowns fit well
+
+46
+00:03:58,600 --> 00:04:03,760
+ to the tooth, and there are many other uses, historically they've been used to detect
+
+47
+00:04:03,760 --> 00:04:11,280
+ caries, but doing so to roughly can actually transition an incipient lesion to a cavitated
+
+48
+00:04:11,280 --> 00:04:16,240
+ lesion, like we talked about in the previous two videos.
+
+49
+00:04:16,240 --> 00:04:21,240
+ So we have different variations of the explorer, the shepherd's hook, maybe the most commonly
+
+50
+00:04:21,240 --> 00:04:28,520
+ used, also called a number 23 explorer, this is the classic curved end, again, most commonly
+
+51
+00:04:28,520 --> 00:04:30,120
+ used today.
+
+52
+00:04:30,120 --> 00:04:36,600
+ The back action explorer, or the number 17, is this flatter shorter hook, which is great
+
+53
+00:04:36,600 --> 00:04:43,920
+ for detecting interproximal areas, if you're detecting margins of restorations between
+
+54
+00:04:43,920 --> 00:04:48,360
+ teeth, and also for detecting sub-gingival calculus.
+
+55
+00:04:48,360 --> 00:04:55,000
+ Lastly, there is the number 2 or pigtail explorer, which curves under and around, and can be
+
+56
+00:04:55,000 --> 00:04:59,440
+ preferred by some providers for detecting crown and restoration margins.
+
+57
+00:04:59,440 --> 00:05:05,080
+ Again, there are more out there, but these are among the most common and commonly tested.
+
+58
+00:05:05,080 --> 00:05:10,040
+ The peridontal probe is used to routinely measure pocket depths, and they can be used
+
+59
+00:05:10,040 --> 00:05:14,760
+ to measure other things like the width of teeth, the amount of overbite of a patient,
+
+60
+00:05:14,760 --> 00:05:15,760
+ etc.
+
+61
+00:05:15,760 --> 00:05:22,960
+ There are different versions of this as well, the UNC-15 probe measures up to 15 millimeters.
+
+62
+00:05:22,960 --> 00:05:28,600
+ Each mark here, it's kind of small to see, but each mark represents 1 millimeter, and
+
+63
+00:05:28,600 --> 00:05:37,600
+ the bigger hash marks here represent 4-5 millimeters, 9-10, and the final increment 14-15.
+
+64
+00:05:37,600 --> 00:05:47,360
+ The Williams probe has little marks at 1-2-3, it skips 4, goes to 5, skips 6, and then 7-8-9-10,
+
+65
+00:05:47,360 --> 00:05:54,600
+ and the marquee probe shows 3-millimeter increments, 0-3 is this first silver part, then 3-6 is
+
+66
+00:05:54,600 --> 00:05:59,440
+ this thick hash, 6-9-9-12, etc.
+
+67
+00:05:59,440 --> 00:06:06,680
+ The amalgam condenser is used to condense amalgam into the depths and corners of a cavity preparation
+
+68
+00:06:06,680 --> 00:06:10,320
+ to ensure that there are no voids in the material.
+
+69
+00:06:10,320 --> 00:06:15,240
+ It can be also used for condensing composite in much the same way.
+
+70
+00:06:15,240 --> 00:06:20,840
+ Remember, we're still talking about non-cutting instruments here, so this part, the working
+
+71
+00:06:20,840 --> 00:06:25,960
+ end of this instrument is going to be called the nib, and it's the portion of the condensing
+
+72
+00:06:25,960 --> 00:06:32,360
+ instrument that does the work, and the face is the actual end of the instrument that comes
+
+73
+00:06:32,360 --> 00:06:36,400
+ into contact with the restorative material being condensed.
+
+74
+00:06:36,400 --> 00:06:42,080
+ This part is usually smooth, but it can also be serrated.
+
+75
+00:06:42,080 --> 00:06:48,200
+ The ball burnisher is one of my personal favorites, it typically has two ends, a small, round
+
+76
+00:06:48,200 --> 00:06:53,720
+ end, and a larger football-shaped end, and it's really great for burnishing and even
+
+77
+00:06:53,720 --> 00:06:58,920
+ carving the surface of an amalgam restoration before it completely sets to give it some
+
+78
+00:06:58,920 --> 00:07:04,840
+ contour and anatomy, or it can be used in a similar way to smooth out the occlusal surface
+
+79
+00:07:04,840 --> 00:07:08,120
+ of a composite restoration before it's cured.
+
+80
+00:07:08,120 --> 00:07:13,900
+ All right, so that's a brief overview of some of the most common non-cutting instruments.
+
+81
+00:07:13,900 --> 00:07:19,440
+ Let's talk about some cutting dental hand instruments this time, and we'll look at most
+
+82
+00:07:19,440 --> 00:07:25,080
+ of the, in fact, we'll look at all of the instruments listed here on this slide.
+
+83
+00:07:25,080 --> 00:07:30,200
+ It's a bit of an overgeneralization here, but this is generally what each of these categories
+
+84
+00:07:30,200 --> 00:07:36,160
+ of instruments applies to and works on, and I find it as a helpful memory tool for the
+
+85
+00:07:36,160 --> 00:07:39,280
+ board exam, just to keep this in the back of your head.
+
+86
+00:07:39,280 --> 00:07:46,440
+ So scalars are typically working to remove calculus from teeth, excavators are typically
+
+87
+00:07:46,440 --> 00:07:53,000
+ used on removing carious dentin, or at least working on dentin to structure, chisels for
+
+88
+00:07:53,000 --> 00:08:00,720
+ removing unsupported and/or friable enamel, and the other category, typically these are
+
+89
+00:08:00,720 --> 00:08:06,520
+ going to be used for modifying the restoration of some sort, others basically a category I
+
+90
+00:08:06,520 --> 00:08:12,720
+ threw together of a couple instruments that we'll mention at the end of this section of
+
+91
+00:08:12,720 --> 00:08:13,840
+ the video.
+
+92
+00:08:13,840 --> 00:08:20,960
+ All right, we can now introduce a formula that describes the dimensions of the working
+
+93
+00:08:20,960 --> 00:08:23,880
+ end of most cutting instruments.
+
+94
+00:08:23,880 --> 00:08:29,360
+ I see this come up on the board exams quite frequently, so let's spend some time unpacking
+
+95
+00:08:29,360 --> 00:08:33,080
+ and really understanding this concept.
+
+96
+00:08:33,080 --> 00:08:37,720
+ So the formula consists of four numbers.
+
+97
+00:08:37,720 --> 00:08:45,040
+ The first number corresponds to the width of the blade in tenths of a millimeter.
+
+98
+00:08:45,040 --> 00:08:52,400
+ So a number 10, a number of 10 means that the blade is one millimeter wide.
+
+99
+00:08:52,400 --> 00:08:56,960
+ So if we're looking at the width of the blade, we're talking about this dimension right in
+
+100
+00:08:56,960 --> 00:08:58,960
+ here.
+
+101
+00:08:58,960 --> 00:09:05,120
+ So again, a number of 10 for this number refers to one millimeter width of the blade, which
+
+102
+00:09:05,120 --> 00:09:10,520
+ is quite common, and also is the case for the instrument pictured here.
+
+103
+00:09:10,520 --> 00:09:15,640
+ So we'll write 10 down here for the first number.
+
+104
+00:09:15,640 --> 00:09:26,800
+ The second number refers to the angle of the cutting edge to the long axis of the blade.
+
+105
+00:09:26,800 --> 00:09:31,800
+ So this one is a little bit more involved, the cutting edge is here, the actual part that's
+
+106
+00:09:31,800 --> 00:09:35,440
+ contacting the tooth or restorative material.
+
+107
+00:09:35,440 --> 00:09:38,880
+ And the long axis of the blade runs up here.
+
+108
+00:09:38,880 --> 00:09:45,120
+ I apologize for it, not a perfect straight line there, but you can see what I'm going
+
+109
+00:09:45,120 --> 00:09:46,520
+ for there.
+
+110
+00:09:46,520 --> 00:09:53,520
+ So the angle between these two lines is a perfect 90 degrees in this case.
+
+111
+00:09:53,520 --> 00:10:00,000
+ So for this, we would just write 90 for our second number.
+
+112
+00:10:00,000 --> 00:10:06,160
+ That's the angle between the blade and the cutting edge.
+
+113
+00:10:06,160 --> 00:10:13,360
+ But if and only if this is 90 degrees, we can actually omit the second number from the
+
+114
+00:10:13,360 --> 00:10:14,360
+ formula.
+
+115
+00:10:14,360 --> 00:10:18,040
+ And that's because 90 is the most common.
+
+116
+00:10:18,040 --> 00:10:23,080
+ Most of these instruments are going to have a blade that is perpendicular to its cutting
+
+117
+00:10:23,080 --> 00:10:24,440
+ edge.
+
+118
+00:10:24,440 --> 00:10:31,280
+ So we can omit that number and we just assume that that angle is 90 degrees.
+
+119
+00:10:31,280 --> 00:10:34,880
+ Otherwise we have to list what that angle is.
+
+120
+00:10:34,880 --> 00:10:38,080
+ All right, let's move to the third number.
+
+121
+00:10:38,080 --> 00:10:42,560
+ This simply corresponds to the length of the blade.
+
+122
+00:10:42,560 --> 00:10:48,120
+ So that's going to be this dimension right in here.
+
+123
+00:10:48,120 --> 00:10:53,680
+ And so it's simply listing the length of the blade in millimeters.
+
+124
+00:10:53,680 --> 00:10:54,880
+ So this one's nice and easy.
+
+125
+00:10:54,880 --> 00:10:57,480
+ The blade happens to be seven millimeters long.
+
+126
+00:10:57,480 --> 00:11:02,200
+ So the third number, we just write seven.
+
+127
+00:11:02,200 --> 00:11:06,960
+ And finally, the fourth number, we get a little bit more complicated again.
+
+128
+00:11:06,960 --> 00:11:13,520
+ And the fourth number corresponds to the angle of the blade relative to the long axis of
+
+129
+00:11:13,520 --> 00:11:15,240
+ the handle.
+
+130
+00:11:15,240 --> 00:11:20,360
+ So remember the second number was the angle of the cutting edge to the long axis of the
+
+131
+00:11:20,360 --> 00:11:21,360
+ blade.
+
+132
+00:11:21,360 --> 00:11:29,360
+ Now this is the angle of the blade to the long axis of the handle or the entire instrument.
+
+133
+00:11:29,360 --> 00:11:34,800
+ So because there's a lot more variation in this number, it can literally be anywhere between
+
+134
+00:11:34,800 --> 00:11:37,480
+ zero and 360 degrees.
+
+135
+00:11:37,480 --> 00:11:46,120
+ So this one is reported not as an angle, but as a percentage of 360 degrees.
+
+136
+00:11:46,120 --> 00:11:54,120
+ So if this number were 10, let's say, that would signify 10% of 360 degrees, which means
+
+137
+00:11:54,120 --> 00:11:59,200
+ the blade would be 36 degrees off axis.
+
+138
+00:11:59,200 --> 00:12:08,280
+ This instrument's fourth number happens to be 14, which would correspond to 14% of 360
+
+139
+00:12:08,280 --> 00:12:11,040
+ degrees, which is about 50 degrees.
+
+140
+00:12:11,040 --> 00:12:16,680
+ So the angle that this blade takes relative to the long axis of the handle, which runs
+
+141
+00:12:16,680 --> 00:12:22,840
+ this way, this angle right in here happens to be 50 degrees.
+
+142
+00:12:22,840 --> 00:12:30,600
+ So we don't write 50, we write 14, which represents 14% of 360 degrees.
+
+143
+00:12:30,600 --> 00:12:35,680
+ So if you can remember what each of these numbers just kind of generally represents,
+
+144
+00:12:35,680 --> 00:12:38,840
+ that will be enormously helpful on the board exam.
+
+145
+00:12:38,840 --> 00:12:43,440
+ And the idea behind all of this is that if you know the formula of a cutting instrument,
+
+146
+00:12:43,440 --> 00:12:48,400
+ you can visualize and identify what kind of hand instrument it's describing.
+
+147
+00:12:48,400 --> 00:12:53,520
+ And the board exam will sometimes even refer to the specific formulas.
+
+148
+00:12:53,520 --> 00:12:59,440
+ So I'll include them in the slides for each of the following instruments we discuss.
+
+149
+00:12:59,440 --> 00:13:05,280
+ But if you've got nothing else out of this slide, just remember the kind of this part
+
+150
+00:13:05,280 --> 00:13:10,200
+ of the descriptions, and that will be enough to net you at least one or two questions when
+
+151
+00:13:10,200 --> 00:13:15,640
+ they ask about what a specific number of the formula refers to.
+
+152
+00:13:15,640 --> 00:13:22,720
+ And here's just another way of looking at it, we just broke this down a bit more simply.
+
+153
+00:13:22,720 --> 00:13:26,360
+ So let's start with the dental scalars and we'll actually start with an exception.
+
+154
+00:13:26,360 --> 00:13:31,520
+ The scalars that are used to remove calculus are one of the few cutting instruments that
+
+155
+00:13:31,520 --> 00:13:34,560
+ don't have that four digit formula.
+
+156
+00:13:34,560 --> 00:13:40,320
+ In fact, they follow a different numbering system entirely that we discuss more in depth
+
+157
+00:13:40,320 --> 00:13:44,720
+ in the periodontic series if you're interested in that.
+
+158
+00:13:44,720 --> 00:13:54,040
+ So scalars usually are two-sided and each working end has two cutting edges to it.
+
+159
+00:13:54,040 --> 00:13:59,720
+ And they adapt closely to the two surface and remove calculus from the crown or the
+
+160
+00:13:59,720 --> 00:14:01,160
+ root surface.
+
+161
+00:14:01,160 --> 00:14:07,240
+ There are universal types that can be used anywhere in the mouth and then specific types
+
+162
+00:14:07,240 --> 00:14:14,560
+ like Gracie instruments that are designed for specific teeth and areas in the mouth.
+
+163
+00:14:14,560 --> 00:14:18,440
+ On here we have another categorization.
+
+164
+00:14:18,440 --> 00:14:25,160
+ Sickle scalars are scalars that have sharp points at the end of their blades.
+
+165
+00:14:25,160 --> 00:14:31,800
+ And they are used for calculus above the gum line or super-gingival calculus so that you
+
+166
+00:14:31,800 --> 00:14:38,160
+ don't accidentally shred the gum tissue if you drive that sharp point subgingibly.
+
+167
+00:14:38,160 --> 00:14:44,640
+ Turettes on the other hand, not pictured here, have rounded edges and are used for calculus
+
+168
+00:14:44,640 --> 00:14:52,000
+ below the gum line because you have less risk of damaging the soft tissue.
+
+169
+00:14:52,000 --> 00:14:57,760
+ Spoon excavators are used for gentle and controlled carries removal.
+
+170
+00:14:57,760 --> 00:15:05,080
+ Their formula is 11.5/7/14 and now you know what all that is talking about.
+
+171
+00:15:05,080 --> 00:15:11,080
+ The second number is omitted because the cutting edge is perpendicular to the blade as it is
+
+172
+00:15:11,080 --> 00:15:13,200
+ in most instruments.
+
+173
+00:15:13,200 --> 00:15:19,100
+ Some operators like using small controlled movements with the spoon excavator to scrape
+
+174
+00:15:19,100 --> 00:15:25,720
+ carious dentin with the spoon shaped paddles of this excavator.
+
+175
+00:15:25,720 --> 00:15:32,640
+ And this is most useful for very soft, infected dentin removal.
+
+176
+00:15:32,640 --> 00:15:38,180
+ The black spoon is just a larger, more robust version of the spoon excavator.
+
+177
+00:15:38,180 --> 00:15:44,720
+ It can be also used to burnish metal like a Tafelmeyer matrix band or the margin of a
+
+178
+00:15:44,720 --> 00:15:54,280
+ gold crown with the rounded back of this black spoon working end.
+
+179
+00:15:54,280 --> 00:16:03,580
+ You can notice how this first number is larger, 15 referring to the blade width being 1.5mm
+
+180
+00:16:03,580 --> 00:16:09,200
+ as opposed to a little bit less in the spoon excavator.
+
+181
+00:16:09,200 --> 00:16:16,160
+ The enamel hatchet is a double ended cutting instrument used for planing walls of enamel.
+
+182
+00:16:16,160 --> 00:16:23,160
+ And the bevel on one end of the instrument planes the facial wall and the bevel on the
+
+183
+00:16:23,160 --> 00:16:27,600
+ other end of the instrument planes the lingual wall.
+
+184
+00:16:27,600 --> 00:16:33,800
+ Here's a close up view of what that process might look like in part of the cavity preparation
+
+185
+00:16:33,800 --> 00:16:35,840
+ process.
+
+186
+00:16:35,840 --> 00:16:40,800
+ The bin angle chisel is also a double ended cutting instrument used for planing walls
+
+187
+00:16:40,800 --> 00:16:41,800
+ of enamel.
+
+188
+00:16:41,800 --> 00:16:47,160
+ It's called bin angle because there are two angles in the shank.
+
+189
+00:16:47,160 --> 00:16:54,400
+ We can locate one here and one here and that's to allow for the proper orientation of the
+
+190
+00:16:54,400 --> 00:16:59,520
+ blade for optimal control and balance when using this instrument.
+
+191
+00:16:59,520 --> 00:17:05,800
+ It's similar to the enamel hatchet and function but this blade happens to be perpendicular
+
+192
+00:17:05,800 --> 00:17:09,240
+ to the blade of the enamel hatchet.
+
+193
+00:17:09,240 --> 00:17:16,280
+ So it enables use in the other side of the mouth or in areas that an enamel hatchet simply
+
+194
+00:17:16,280 --> 00:17:18,600
+ cannot access.
+
+195
+00:17:18,600 --> 00:17:24,040
+ So if we compare this directly with the enamel hatchet you can see how this blade you can
+
+196
+00:17:24,040 --> 00:17:31,400
+ kind of see the face of that blade whereas this one is parallel to the screen or perpendicular
+
+197
+00:17:31,400 --> 00:17:37,080
+ to the screen I should say so that you can notice that those two blades are perpendicular
+
+198
+00:17:37,080 --> 00:17:39,960
+ to each other.
+
+199
+00:17:39,960 --> 00:17:45,560
+ The gingival margin trimmer is similar to the enamel hatchet except this instrument is designed
+
+200
+00:17:45,560 --> 00:17:51,200
+ for planing enamel at the gingival floor of a preparation rather than the facial and
+
+201
+00:17:51,200 --> 00:17:55,320
+ lingual walls like the two instruments we just talked about.
+
+202
+00:17:55,320 --> 00:18:00,080
+ And don't worry we'll talk much more about the anatomy of a cavity preparation including
+
+203
+00:18:00,080 --> 00:18:07,120
+ the external and internal walls in the next video in the series.
+
+204
+00:18:07,120 --> 00:18:14,040
+ So the cutting edge of this instrument is most importantly not perpendicular to the long
+
+205
+00:18:14,040 --> 00:18:16,140
+ axis of the blade.
+
+206
+00:18:16,140 --> 00:18:22,880
+ So this is one of the times when there will be a second number in this four digit formula
+
+207
+00:18:22,880 --> 00:18:29,160
+ for the distinct two versions of this gingival marginal trimmer.
+
+208
+00:18:29,160 --> 00:18:36,600
+ So the distal margin trimmer has a number, a second number that's greater than 90 which
+
+209
+00:18:36,600 --> 00:18:42,200
+ is for a gingival floor on the distal side of a tooth.
+
+210
+00:18:42,200 --> 00:18:49,440
+ The mesial gingival margin trimmer has a number less than 90 which is for the gingival floor
+
+211
+00:18:49,440 --> 00:18:52,280
+ on the mesial side of a tooth.
+
+212
+00:18:52,280 --> 00:18:57,960
+ So just remember for the distal you're going to see a number greater than 90 for the mesial
+
+213
+00:18:57,960 --> 00:19:05,280
+ version of this instrument you're going to see a second number less than 90.
+
+214
+00:19:05,280 --> 00:19:11,040
+ The main difference and benefit of the gingival margin trimmer over the enamel hatchet is
+
+215
+00:19:11,040 --> 00:19:18,400
+ that angle of the cutting edge which allows for you to properly bevel the gingival floor.
+
+216
+00:19:18,400 --> 00:19:24,440
+ And again we can talk about more of that in the rest of the series.
+
+217
+00:19:24,440 --> 00:19:29,680
+ So you can appreciate how this enamel hatchet again that cutting edge is perpendicular to
+
+218
+00:19:29,680 --> 00:19:35,360
+ the long axis of the blade whereas that is not the case if we were to follow that long
+
+219
+00:19:35,360 --> 00:19:41,360
+ axis of the blade this cutting edge is not perpendicular and nor is this one and this
+
+220
+00:19:41,360 --> 00:19:47,680
+ is showing the two different variations of this instrument depending on which side of
+
+221
+00:19:47,680 --> 00:19:51,440
+ the tooth you're working on.
+
+222
+00:19:51,440 --> 00:19:57,440
+ Alright next we have the discord cleoid carver which is yet another double ended instrument
+
+223
+00:19:57,440 --> 00:20:04,800
+ it typically has a rounded handle and it's used for a carving and contouring amalgam.
+
+224
+00:20:04,800 --> 00:20:12,040
+ The cleoid end refers to the claw like end for carving grooves into the amalgam and the
+
+225
+00:20:12,040 --> 00:20:22,000
+ discord end is the circular disc like end for carving pits and fossa in the amalgam.
+
+226
+00:20:22,000 --> 00:20:28,000
+ The Holland back carver is a double ended round handle instrument used for placing, carving
+
+227
+00:20:28,000 --> 00:20:30,760
+ and contouring amalgam.
+
+228
+00:20:30,760 --> 00:20:39,520
+ The two ends on either side of the instrument are oriented 90 degrees to one another.
+
+229
+00:20:39,520 --> 00:20:43,520
+ Alright so that's enough about hand instruments let's talk about how to hold them.
+
+230
+00:20:43,520 --> 00:20:50,840
+ So a normal pin grasp involves holding a dental instrument with your index finger and your
+
+231
+00:20:50,840 --> 00:20:56,880
+ thumb and the instrument would rest on the middle finger supporting it.
+
+232
+00:20:56,880 --> 00:21:04,680
+ Your ring finger is used as a finger rest on a nearby steady surface to keep this hand
+
+233
+00:21:04,680 --> 00:21:07,000
+ stabilized.
+
+234
+00:21:07,000 --> 00:21:13,920
+ However the board examiners and most dental providers today prefer the modified pin grasp
+
+235
+00:21:13,920 --> 00:21:20,440
+ which adds the middle finger to grabbing the instrument and so the instrument would then
+
+236
+00:21:20,440 --> 00:21:25,320
+ rest on the ring finger behind it.
+
+237
+00:21:25,320 --> 00:21:31,840
+ This provides additional control for fine motor function and then you use both your
+
+238
+00:21:31,840 --> 00:21:37,720
+ ring finger and your pinky finger together for a stable finger rest.
+
+239
+00:21:37,720 --> 00:21:45,320
+ A firm finger rest is necessary for stabilization of your hand so in a case the patient moves
+
+240
+00:21:45,320 --> 00:21:53,680
+ it around you essentially move with them because those fingers are directly and stably supported
+
+241
+00:21:53,680 --> 00:22:00,040
+ on one of their oral structures so you can rest on adjacent teeth or the maxilla which
+
+242
+00:22:00,040 --> 00:22:02,240
+ are the most stable structures.
+
+243
+00:22:02,240 --> 00:22:08,160
+ The mandible is stable if the patient is biting on a bite block but otherwise they can freely
+
+244
+00:22:08,160 --> 00:22:14,800
+ open their clothes and again you will move with them if that's the case.
+
+245
+00:22:14,800 --> 00:22:19,720
+ Also maintaining a short working radius is important and that means that you grab the
+
+246
+00:22:19,720 --> 00:22:25,720
+ instrument more towards the working end so that your fulcrum is nearer to the working
+
+247
+00:22:25,720 --> 00:22:30,840
+ end for more control and more accuracy.
+
+248
+00:22:30,840 --> 00:22:33,760
+ Alright let's talk about rotary instruments now.
+
+249
+00:22:33,760 --> 00:22:41,560
+ So we have the low speed or slow speed handpiece which operates at less than 12,000 RPMs.
+
+250
+00:22:41,560 --> 00:22:48,840
+ RPMs are revolutions per minute and even though it's the slowest of these handpiece
+
+251
+00:22:48,840 --> 00:22:57,160
+ varieties 12,000 RPM is still pretty quick that's 200 spins per second and so it can
+
+252
+00:22:57,160 --> 00:23:02,480
+ easily injure yourself or the patient if you're not careful.
+
+253
+00:23:02,480 --> 00:23:08,040
+ The low speed handpiece is used for cleaning and polishing teeth with a trophy cup for
+
+254
+00:23:08,040 --> 00:23:14,120
+ finishing and polishing a restoration with a polishing cup or brush and perhaps most important
+
+255
+00:23:14,120 --> 00:23:20,240
+ for the board exam for carries excavation. The board examiners love to ask about this
+
+256
+00:23:20,240 --> 00:23:28,880
+ that a large round burr in a slow speed handpiece is the best way to carefully remove a affected
+
+257
+00:23:28,880 --> 00:23:32,480
+ dentin near the pulp.
+
+258
+00:23:32,480 --> 00:23:36,000
+ Here is the slow speed motor.
+
+259
+00:23:36,000 --> 00:23:43,800
+ This is the latch type contraingal slow speed attachment for carries excavation and polishing
+
+260
+00:23:43,800 --> 00:23:52,520
+ and this here is the straight attachment for the trophy cup for hygiene cleanings.
+
+261
+00:23:52,520 --> 00:23:59,200
+ The high speed handpiece is used for tooth preparation whether that be for carries removal,
+
+262
+00:23:59,200 --> 00:24:06,080
+ for crowns, removing old restorations and many other procedures that require quote unquote
+
+263
+00:24:06,080 --> 00:24:14,760
+ drilling teeth. They usually have a fiber optic light and an air water spray built into
+
+264
+00:24:14,760 --> 00:24:17,520
+ the unit.
+
+265
+00:24:17,520 --> 00:24:24,840
+ The medium speed handpiece is not routinely used but it can be used for the same applications
+
+266
+00:24:24,840 --> 00:24:31,640
+ as the high speed though not quite as efficient and notice how the high speed operates at greater
+
+267
+00:24:31,640 --> 00:24:38,560
+ than 200,000 RPM so you can imagine how quick that burr that is going to be inside that
+
+268
+00:24:38,560 --> 00:24:45,120
+ handpiece is going to be rotating. The medium speed operates between these two thresholds
+
+269
+00:24:45,120 --> 00:24:47,800
+ for low and high speed.
+
+270
+00:24:47,800 --> 00:24:53,800
+ The restat is this foot pedal that is used to control all of these handpiece varieties
+
+271
+00:24:53,800 --> 00:25:01,560
+ often with variable speed depending on how hard you push down on this foot pedal.
+
+272
+00:25:01,560 --> 00:25:10,680
+ The switch right here turns the water on and off when you are using a high speed handpiece.
+
+273
+00:25:10,680 --> 00:25:17,000
+ So burrs that you load into the handpieces have their own anatomy of course more terminology
+
+274
+00:25:17,000 --> 00:25:22,520
+ but there is an overlapping term with hand instruments that can be kind of confusing.
+
+275
+00:25:22,520 --> 00:25:28,840
+ So let's break this down real quick. A burr consists of a shank which does not serve the
+
+276
+00:25:28,840 --> 00:25:32,440
+ same purpose as the shank for hand instruments.
+
+277
+00:25:32,440 --> 00:25:38,480
+ So the shank here is the part of the burr that is inserted into the head of the handpiece
+
+278
+00:25:38,480 --> 00:25:44,920
+ so that's the part that is going inside this area of the handpiece.
+
+279
+00:25:44,920 --> 00:25:52,160
+ The neck is the part which transitions to the head which is the actual cutting part of the
+
+280
+00:25:52,160 --> 00:25:59,520
+ instrument that does the work. The first of these is a high speed burr, the second of
+
+281
+00:25:59,520 --> 00:26:05,240
+ these is a latch type slow speed burr.
+
+282
+00:26:05,240 --> 00:26:13,920
+ So burrs were created and we had two main categories of these diamond burrs historically
+
+283
+00:26:13,920 --> 00:26:20,040
+ called diamond instruments and not burrs but we are going to call them and collapse them
+
+284
+00:26:20,040 --> 00:26:25,560
+ into the greater category of burrs because that's what the ADA and manufacturers have
+
+285
+00:26:25,560 --> 00:26:27,060
+ done.
+
+286
+00:26:27,060 --> 00:26:31,920
+ So let's talk about the carbide burrs first. They are made of tungsten carbide and this
+
+287
+00:26:31,920 --> 00:26:38,160
+ is what they look like. They come in a variety of sizes and shapes and because of their material
+
+288
+00:26:38,160 --> 00:26:44,760
+ and design they are better for end cutting. So they are better for cutting at their ends
+
+289
+00:26:44,760 --> 00:26:51,320
+ like for punch cuts to start a preparation. They also create a smooth preparation wall,
+
+290
+00:26:51,320 --> 00:26:57,640
+ they are good for amalgam removal and for creating retentive features. They also tend
+
+291
+00:26:57,640 --> 00:27:00,880
+ to produce less heat.
+
+292
+00:27:00,880 --> 00:27:05,760
+ The diamond burrs on the other hand are better for side cutting although you can use either
+
+293
+00:27:05,760 --> 00:27:10,920
+ of these for end in side cutting of course but if we are being technical and talking
+
+294
+00:27:10,920 --> 00:27:15,880
+ about things that the board examiners like to ask they are better for side cutting and
+
+295
+00:27:15,880 --> 00:27:22,520
+ are therefore preferable for preparations, bevels and enameloplasty due to the greater
+
+296
+00:27:22,520 --> 00:27:30,120
+ hardness of diamond and the more effective cutting overall but as a downside it generates
+
+297
+00:27:30,120 --> 00:27:35,560
+ more heat and they are way more expensive.
+
+298
+00:27:35,560 --> 00:27:41,960
+ Interestingly for carbide burrs the amount of blades corresponds to its function so if
+
+299
+00:27:41,960 --> 00:27:49,880
+ we start with 6 blades that is a typical cutting burr but if we go up to 12 blades that is
+
+300
+00:27:49,880 --> 00:27:55,440
+ a finishing burr so it is going to cut less but it is going to cut smoother so it is great
+
+301
+00:27:55,440 --> 00:28:01,640
+ for finishing a restoration getting towards that polishing final state.
+
+302
+00:28:01,640 --> 00:28:07,320
+ If we add even more blades to the mix we are getting into fine and ultra fine finishing
+
+303
+00:28:07,320 --> 00:28:13,480
+ burrs so you can think of it like this, the more blades that you have the less too structure
+
+304
+00:28:13,480 --> 00:28:20,640
+ each of those blades is going to be digging in so more blades means a smoother cut and
+
+305
+00:28:20,640 --> 00:28:26,880
+ less blades is more aggressive and more cutting efficient.
+
+306
+00:28:26,880 --> 00:28:32,640
+ For diamonds similar policy but the finer the grit of the diamond the less aggressive
+
+307
+00:28:32,640 --> 00:28:41,120
+ the burr will be the coarser the grit of the diamond the more aggressive it will be.
+
+308
+00:28:41,120 --> 00:28:45,480
+ So let's talk about some specific burrs commonly tested on the board exam and I mean these
+
+309
+00:28:45,480 --> 00:28:48,000
+ come up all the time.
+
+310
+00:28:48,000 --> 00:28:57,960
+ The 245 burr pictured here on the left is 3mm long and 0.8mm in diameter.
+
+311
+00:28:57,960 --> 00:29:02,320
+ I wish I had some kind of memory trick for you but I promise you memorize this if you
+
+312
+00:29:02,320 --> 00:29:13,160
+ can it will certainly show up on test day so 3mm long this part here 0.8mm in diameter.
+
+313
+00:29:13,160 --> 00:29:19,880
+ It's described as being pear shaped or inverted cone sometimes it's called an inverted cone
+
+314
+00:29:19,880 --> 00:29:29,560
+ design and it has these rounded corners along the bottom and it sort of tapers up towards
+
+315
+00:29:29,560 --> 00:29:33,560
+ the neck of the instrument.
+
+316
+00:29:33,560 --> 00:29:42,440
+ The 330 burr pictured on the right is half the length of the 245 so it's only 1.5mm long
+
+317
+00:29:42,440 --> 00:29:47,920
+ but it's the same diameter it's sort of an optical illusion here but this is actually
+
+318
+00:29:47,920 --> 00:29:54,960
+ the same diameter it's still 0.8mm in diameter and it's the same shape pear shaped or inverted
+
+319
+00:29:54,960 --> 00:29:56,520
+ cone.
+
+320
+00:29:56,520 --> 00:30:03,560
+ The smaller size is helpful for pediatric preparations so it's often a go to for your
+
+321
+00:30:03,560 --> 00:30:11,060
+ primary tooth cavity preps and lastly we have the 169 elber another commonly chosen one
+
+322
+00:30:11,060 --> 00:30:18,000
+ this is a tapered fissured design it tapers down this way as you go towards the neck of
+
+323
+00:30:18,000 --> 00:30:26,480
+ the instrument and it's preferred for this thin tip of the burr that's used for creating
+
+324
+00:30:26,480 --> 00:30:33,120
+ retentive features secondary retentive features and we can talk more about slot design and
+
+325
+00:30:33,120 --> 00:30:35,200
+ the next video.
+
+326
+00:30:35,200 --> 00:30:44,440
+ So 245 330 most commonly tested 169 el sometimes gets tested for its unique shape.
+
+327
+00:30:44,440 --> 00:30:50,160
+ And lastly some hazards that we need to talk about for these rotary instruments I mentioned
+
+328
+00:30:50,160 --> 00:30:56,320
+ even the slow speeds are operating at relatively quick speeds and so you can easily damage
+
+329
+00:30:56,320 --> 00:31:03,480
+ tissue if you're not careful so some things to keep in mind the pulp is at risk due to
+
+330
+00:31:03,480 --> 00:31:09,100
+ the vibration caused by the instrument heat generated particularly from diamond instruments
+
+331
+00:31:09,100 --> 00:31:15,480
+ and desiccation so it's always important if you're operating at high speeds you're generating
+
+332
+00:31:15,480 --> 00:31:21,640
+ a lot of heat we want to rely on that air and water spray from the handpiece and also
+
+333
+00:31:21,640 --> 00:31:28,560
+ making sure that everything is well isolated so that we don't slip and damage soft tissue
+
+334
+00:31:28,560 --> 00:31:33,600
+ the lips the tongue and the cheek are all examples of nearby soft tissue.
+
+335
+00:31:33,600 --> 00:31:40,800
+ So using cotton roll isolation rubber dam isolation using firm finger rests operating
+
+336
+00:31:40,800 --> 00:31:45,720
+ with your fulcrum near to the working end of a hand instrument all of those are great
+
+337
+00:31:45,720 --> 00:31:50,760
+ practices to eliminate potential hazards.
+
+338
+00:31:50,760 --> 00:31:58,640
+ So we have to protect our eyes we use glasses with side shields protect our ears we have
+
+339
+00:31:58,640 --> 00:32:04,880
+ potential hearing loss which depends on the intensity of the loudness the frequency of
+
+340
+00:32:04,880 --> 00:32:09,880
+ the sound the duration of the noise and the susceptibility of the individual these handpieces
+
+341
+00:32:09,880 --> 00:32:15,240
+ can get quite loud and if you're using them all through the day Monday to Friday you're
+
+342
+00:32:15,240 --> 00:32:22,120
+ going to be experiencing quite a lot of duration of noise so that's something to keep in mind
+
+343
+00:32:22,120 --> 00:32:28,160
+ as well and of course inhalation risk you know these things I'm sure we're going to
+
+344
+00:32:28,160 --> 00:32:36,520
+ get some changes in our PPE after this coronavirus pandemic but as far as the board exam is concerned
+
+345
+00:32:36,520 --> 00:32:41,560
+ for now things they like to know for you to know about is that the rubber dam protects
+
+346
+00:32:41,560 --> 00:32:46,720
+ the patient from inhalation and masks protect the personnel including the doctor and the
+
+347
+00:32:46,720 --> 00:32:53,800
+ staff alright so that's it for this video on instrumentation I know it was a lot of stuff
+
+348
+00:32:53,800 --> 00:32:58,480
+ to cover but hopefully you found it helpful and enjoyed listening so thank you so much
+
+349
+00:32:58,480 --> 00:33:03,360
+ for watching guys please like this video if you enjoyed it and subscribe to this channel
+
+350
+00:33:03,360 --> 00:33:09,120
+ for much more on operative and all things dentistry if you're interested in supporting this channel
+
+351
+00:33:09,120 --> 00:33:15,680
+ and what I do please check out my patreon page thank you to Michael Raja, Rabbi Boyd,
+
+352
+00:33:15,680 --> 00:33:23,720
+ Rhea Wadwa, Jonathan Muff, David Jayden, Isabella Kaldis, Ali Benstier, Berea Hefnawi and all
+
+353
+00:33:23,720 --> 00:33:30,240
+ of my patrons out there for their support you can unlock extra content like access to
+
+354
+00:33:30,240 --> 00:33:34,960
+ my video slides if you want to take notes on them and additional practice questions and
+
+355
+00:33:34,960 --> 00:33:40,480
+ explanations for the board exam so go check that out the link is in the description below
+
+356
+00:33:40,480 --> 00:33:43,160
+ thanks again for watching everyone I'll see you in the next video
+

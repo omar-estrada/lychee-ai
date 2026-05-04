@@ -1,0 +1,484 @@
+1
+00:00:00,000 --> 00:00:06,200
+ Hey everyone, Ryan here, and welcome back to our Peridontic series.
+
+2
+00:00:06,200 --> 00:00:12,060
+ So here's a reminder of all the categories that the board exam tests in Peridontics.
+
+3
+00:00:12,060 --> 00:00:17,660
+ So far we've covered diagnosis of Peridontal disease, including different classifications
+
+4
+00:00:17,660 --> 00:00:21,840
+ for things like forcation involvement and gingeral recession.
+
+5
+00:00:21,840 --> 00:00:28,000
+ We also talked extensively about etiology like plaque and other local factors.
+
+6
+00:00:28,000 --> 00:00:33,440
+ This video will cover the high yield information for the Peridontal disease process, focusing
+
+7
+00:00:33,440 --> 00:00:36,320
+ on what you need to know for the board exam.
+
+8
+00:00:36,320 --> 00:00:41,980
+ And in later videos we'll talk about treatment planning, prognosis, and the heavily requested
+
+9
+00:00:41,980 --> 00:00:48,800
+ Peridontal treatment, both surgical and non-surgical, then we'll finish up by talking about prevention
+
+10
+00:00:48,800 --> 00:00:51,160
+ and maintenance.
+
+11
+00:00:51,160 --> 00:00:56,780
+ So like I mentioned in the very first video, Peridontal disease is an interplay between
+
+12
+00:00:56,780 --> 00:00:59,760
+ bacteria and the host.
+
+13
+00:00:59,760 --> 00:01:05,720
+ Plaque is the initiating factor, and the host responds often damaging its own tissue in
+
+14
+00:01:05,720 --> 00:01:07,880
+ order to protect itself.
+
+15
+00:01:07,880 --> 00:01:12,860
+ So it's important to talk about the immune cells that play a part in this response.
+
+16
+00:01:12,860 --> 00:01:17,920
+ So the first cell we'll talk about is the neutrophil, and neutrophils are the first
+
+17
+00:01:17,920 --> 00:01:23,080
+ line of defense, and they're considered the most important cells involved in controlling
+
+18
+00:01:23,080 --> 00:01:30,880
+ this bacterial challenge and destroying peridontal tissue via release of destructive molecules.
+
+19
+00:01:30,880 --> 00:01:36,880
+ So all of those bacteria that we talked about in the third video, like P. gingivalis and
+
+20
+00:01:36,880 --> 00:01:42,720
+ all of these other pathogenic bacteria, are the attackers, neutrophils are the primary
+
+21
+00:01:42,720 --> 00:01:44,720
+ defenders.
+
+22
+00:01:44,720 --> 00:01:51,440
+ So neutrophils are going to migrate from blood vessels that are underneath the gingiva into
+
+23
+00:01:51,440 --> 00:01:59,200
+ the peridontal pocket by directed locomotion known as chemotaxis, where they form a barrier
+
+24
+00:01:59,200 --> 00:02:05,120
+ to protect the body from these peridontal pathogenic bacteria.
+
+25
+00:02:05,120 --> 00:02:10,760
+ They internalize the bacteria via phagocytosis, so they eat them and then kill them using
+
+26
+00:02:10,760 --> 00:02:12,960
+ this biologic bleach.
+
+27
+00:02:12,960 --> 00:02:18,960
+ It's a really nasty chemical of myeloparoxide and oxygen radicals.
+
+28
+00:02:18,960 --> 00:02:24,440
+ So this stuff is nasty for the bacteria and they can't really survive with this mix of
+
+29
+00:02:24,440 --> 00:02:25,440
+ chemicals.
+
+30
+00:02:25,440 --> 00:02:32,880
+ MMP8, also known as neutrophil collagenase, is the most important proteinase involved
+
+31
+00:02:32,880 --> 00:02:40,920
+ in destruction of peridontal tissues, and it's inhibited by this antibiotic tetracycline.
+
+32
+00:02:40,920 --> 00:02:47,160
+ So MMPs are really important destructive enzymes to know, and they'll come up again later in
+
+33
+00:02:47,160 --> 00:02:53,380
+ the video, and basically what this slide is saying is that neutrophils are the first responders,
+
+34
+00:02:53,380 --> 00:02:59,480
+ they sniff out the invading bacteria, follow where they are by chemotaxis, eat them by
+
+35
+00:02:59,480 --> 00:03:08,880
+ phagocytosis, and then release strong destructive enzymes that not only kill the bacteria inside
+
+36
+00:03:08,880 --> 00:03:15,240
+ of them, but they also destroy peridontal tissue around them.
+
+37
+00:03:15,240 --> 00:03:23,760
+ So neutrophils, like any cell in the body, can perform not well, and there can be abnormalities
+
+38
+00:03:23,760 --> 00:03:25,480
+ associated with them.
+
+39
+00:03:25,480 --> 00:03:32,360
+ So defective neutrophil chemotaxis, for example, can lead to aggressive peridontitis.
+
+40
+00:03:32,360 --> 00:03:36,760
+ So we talked about certain bacteria that can cause aggressive peridontitis, that would
+
+41
+00:03:36,760 --> 00:03:45,200
+ be the really long name, acrogatibacter, actinomycetimcomatans, we remember that because the AA bacteria
+
+42
+00:03:45,200 --> 00:03:53,920
+ causes the A form of peridontitis, but also a problem with the own body response can cause
+
+43
+00:03:53,920 --> 00:03:58,800
+ this form of peridontitis as well, so that's important to know.
+
+44
+00:03:58,800 --> 00:04:04,040
+ The problem with neutrophils and when they don't work properly is it's a lose-lose situation.
+
+45
+00:04:04,040 --> 00:04:09,440
+ If you have too much neutrophil activity, you can cause too much tissue destruction, and
+
+46
+00:04:09,440 --> 00:04:15,520
+ if you have too little, it can lead to an unchecked bacteria challenge, which also leads
+
+47
+00:04:15,520 --> 00:04:17,280
+ to tissue destruction.
+
+48
+00:04:17,280 --> 00:04:24,880
+ So it has to be just right in order to prevent this unnecessary tissue damage, but of course,
+
+49
+00:04:24,880 --> 00:04:31,120
+ the best possible scenario is to not have these invading pathogenic bacteria.
+
+50
+00:04:31,120 --> 00:04:36,760
+ And other neutrophil abnormalities include these, I wouldn't need to know those for
+
+51
+00:04:36,760 --> 00:04:42,120
+ the board exam, so don't worry so much about those.
+
+52
+00:04:42,120 --> 00:04:47,280
+ So the next immune cell we'll talk about is the macrophage, and these are antigen-presenting
+
+53
+00:04:47,280 --> 00:04:54,640
+ cells, including monocytes and dendritic cells, and they regulate the immune response by releasing
+
+54
+00:04:54,640 --> 00:04:58,840
+ cytokines like IL-8.
+
+55
+00:04:58,840 --> 00:05:01,000
+ Mass cells are also involved.
+
+56
+00:05:01,000 --> 00:05:09,960
+ They cause vascular permeability and dilation of blood vessels, and they're really well-known
+
+57
+00:05:09,960 --> 00:05:12,040
+ to produce IgE.
+
+58
+00:05:12,040 --> 00:05:19,080
+ This is immunoglobulin E, and they're antibodies that are famously produced by mass cells.
+
+59
+00:05:19,080 --> 00:05:26,480
+ This is a pretty common board question, part one and part two boards could ask this sort
+
+60
+00:05:26,480 --> 00:05:27,480
+ of question.
+
+61
+00:05:27,480 --> 00:05:32,720
+ Remembering IgE is always associated with the mass cell.
+
+62
+00:05:32,720 --> 00:05:39,520
+ And lymphocytes is another category of immune cells to know for the peridontal response.
+
+63
+00:05:39,520 --> 00:05:44,840
+ So B cells become plasma cells and make antibodies.
+
+64
+00:05:44,840 --> 00:05:52,760
+ The T helper cells, also known as CD4 cells, that's because the CD4 is a glycoprotein found
+
+65
+00:05:52,760 --> 00:05:58,920
+ on the surface of these cells, and they help with communication between all the different
+
+66
+00:05:58,920 --> 00:06:00,560
+ immune cells.
+
+67
+00:06:00,560 --> 00:06:07,400
+ The T set of toxic cells, also called CD8 cells, because CD8 is a glycoprotein found
+
+68
+00:06:07,400 --> 00:06:14,960
+ on the surface of these cells, they directly kill intracellular antigens.
+
+69
+00:06:14,960 --> 00:06:19,720
+ And then we have NK cells, which stands for natural killer cells.
+
+70
+00:06:19,720 --> 00:06:24,340
+ There are specific type of T cell that can recognize and kill tumor and virally infected
+
+71
+00:06:24,340 --> 00:06:25,780
+ cells.
+
+72
+00:06:25,780 --> 00:06:32,000
+ So all of these cells can, of course, like the macrophages and the mass cells and the
+
+73
+00:06:32,000 --> 00:06:33,520
+ neutrophils.
+
+74
+00:06:33,520 --> 00:06:38,960
+ There's a lot of interplay in the immune system, and so each of these has a very specific role
+
+75
+00:06:38,960 --> 00:06:45,400
+ to play when responding to any sort of infection.
+
+76
+00:06:45,400 --> 00:06:53,020
+ So the pro-inflammatory mediators are listed here, these are those chemicals that favor
+
+77
+00:06:53,020 --> 00:06:58,360
+ the destructive nature of peridontal disease, where the body destroys itself in order to
+
+78
+00:06:58,360 --> 00:07:01,760
+ protect itself from the peridontal pathogens.
+
+79
+00:07:01,760 --> 00:07:08,800
+ That's that sort of innate irony of peridontal disease, or the oxymoron of peridontal disease.
+
+80
+00:07:08,800 --> 00:07:15,760
+ So for these, maybe don't remember all the specific numbers, if you have room for this
+
+81
+00:07:15,760 --> 00:07:17,760
+ kind of information, that's great.
+
+82
+00:07:17,760 --> 00:07:23,400
+ If not, I would walk away knowing MMPs is the most important thing to take away from
+
+83
+00:07:23,400 --> 00:07:24,560
+ this video.
+
+84
+00:07:24,560 --> 00:07:34,380
+ MMP stands for matrix metalloproteinase and proteinase, anything that's an ACE is an enzyme,
+
+85
+00:07:34,380 --> 00:07:40,840
+ and so it eats proteins, that's what proteinase means, and that's exactly what it does.
+
+86
+00:07:40,840 --> 00:07:46,420
+ It destroys the most common protein in the human body, which is collagen.
+
+87
+00:07:46,420 --> 00:07:52,440
+ So MMPs destroying collagen, and collagen's certainly present in the ginger bus, so it's
+
+88
+00:07:52,440 --> 00:08:00,240
+ going to be causing a lot of localized tissue damage, and is a primary mediator in the peridontal
+
+89
+00:08:00,240 --> 00:08:03,400
+ tissue destruction process.
+
+90
+00:08:03,400 --> 00:08:09,400
+ So definitely no MMPs, and those are released again by the neutrophils.
+
+91
+00:08:09,400 --> 00:08:15,680
+ And just like we have pro-inflammatory mediators, we also have anti-inflammatory mediators, and
+
+92
+00:08:15,680 --> 00:08:19,200
+ those are some of the ones listed below.
+
+93
+00:08:19,200 --> 00:08:24,880
+ And so these oppose that tissue destruction, so it's a constant balance between pro and
+
+94
+00:08:24,880 --> 00:08:30,360
+ anti-inflammatory mediators, both of which are sort of sitting on opposite ends of a
+
+95
+00:08:30,360 --> 00:08:33,960
+ seesaw.
+
+96
+00:08:33,960 --> 00:08:41,680
+ So some specifics, the pathogenesis of gingivitis, there are four different stages outlined here.
+
+97
+00:08:41,680 --> 00:08:47,800
+ The initial lesion occurs within two to four days, and it starts with neutrophil infiltration.
+
+98
+00:08:47,800 --> 00:08:52,740
+ Again, that's that first line of defense by the human body.
+
+99
+00:08:52,740 --> 00:08:59,180
+ Stage two is considered an early lesion, that's from four to seven days, and the T lymphocytes
+
+100
+00:08:59,180 --> 00:09:04,940
+ are the next cell to sort of step up to the plate and attack.
+
+101
+00:09:04,940 --> 00:09:09,880
+ When you see the early lesion, you see increased collagen loss and bleeding on probing.
+
+102
+00:09:09,880 --> 00:09:15,040
+ So more classic signs of gingival inflammation.
+
+103
+00:09:15,040 --> 00:09:17,880
+ Stage three is considered an established lesion.
+
+104
+00:09:17,880 --> 00:09:23,200
+ This is 14 to 21 days, and then the B cells step up to the plate.
+
+105
+00:09:23,200 --> 00:09:29,720
+ They infiltrate, including mature, they also grow into mature plasma cells, so they're
+
+106
+00:09:29,720 --> 00:09:36,160
+ releasing antibodies, and causing more collagen loss, clinical changes in color, contour,
+
+107
+00:09:36,160 --> 00:09:37,160
+ and consistency.
+
+108
+00:09:37,160 --> 00:09:42,080
+ Again, those are our three C's associated with gingivitis, and now we're really getting
+
+109
+00:09:42,080 --> 00:09:45,840
+ into an established gingivitis situation.
+
+110
+00:09:45,840 --> 00:09:51,120
+ And stage four, an advanced lesion, this is where we get transitioned to irreversible
+
+111
+00:09:51,120 --> 00:09:52,120
+ damage.
+
+112
+00:09:52,120 --> 00:09:58,080
+ Again, all this, these first three stages are the reversible stages of gingivitis.
+
+113
+00:09:58,080 --> 00:10:04,600
+ Once we get bone loss at stage four, that irreversible damage, now we've transitioned
+
+114
+00:10:04,600 --> 00:10:10,800
+ to periodontitis, where we have irreversible tissue damage.
+
+115
+00:10:10,800 --> 00:10:16,880
+ So as mentioned before, environmental and systemic factors like smoking and diabetes
+
+116
+00:10:16,880 --> 00:10:22,880
+ might influence the progression of periodontal disease, but these things don't cause disease.
+
+117
+00:10:22,880 --> 00:10:28,960
+ Again, without plaque, you're not going to get this immune response, you're not going
+
+118
+00:10:28,960 --> 00:10:31,280
+ to get periodontal disease.
+
+119
+00:10:31,280 --> 00:10:32,600
+ So thanks again for watching everyone.
+
+120
+00:10:32,600 --> 00:10:36,640
+ I hope you found this video helpful in your studies, and we'll see you all in the next
+
+121
+00:10:36,640 --> 00:10:37,080
+ video.
+

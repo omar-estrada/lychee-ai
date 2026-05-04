@@ -1,0 +1,1352 @@
+1
+00:00:00,000 --> 00:00:11,400
+ Hey everyone, Ryan here and welcome back to our oral medicine series.
+
+2
+00:00:11,400 --> 00:00:14,580
+ This video will be about COPD and asthma.
+
+3
+00:00:14,580 --> 00:00:21,880
+ These are two of the main pulmonary diseases that appear on the board exam.
+
+4
+00:00:21,880 --> 00:00:28,800
+ So COPD stands for chronic obstructive pulmonary disease, chronic referring to the fact that
+
+5
+00:00:28,800 --> 00:00:36,580
+ it's long term actually causes irreversible damage, obstructive meaning blocking pulmonary
+
+6
+00:00:36,580 --> 00:00:38,700
+ referring to airflow.
+
+7
+00:00:38,700 --> 00:00:45,540
+ So altogether, it's the term for a preventable respiratory disorder that involves the restriction
+
+8
+00:00:45,540 --> 00:00:50,220
+ of airflow that is not fully reversible.
+
+9
+00:00:50,220 --> 00:00:55,100
+ It's currently the third leading cause of death in the United States and the most common
+
+10
+00:00:55,100 --> 00:00:59,180
+ cause for it is cigarette smoking.
+
+11
+00:00:59,180 --> 00:01:03,700
+ So there are two main clinical manifestations of this disorder.
+
+12
+00:01:03,700 --> 00:01:09,220
+ On the left, we have chronic bronchitis and on the right, we have emphysema.
+
+13
+00:01:09,220 --> 00:01:14,900
+ So chronic bronchitis is all about chronic inflammation in the airways.
+
+14
+00:01:14,900 --> 00:01:22,020
+ So cigarette smoke or environmental pollutants irritate the bronchial walls and increase the
+
+15
+00:01:22,020 --> 00:01:25,660
+ size of mucus glands and goblet cells.
+
+16
+00:01:25,660 --> 00:01:31,900
+ So this causes lots and lots of mucus production on top of the airways getting inflamed and
+
+17
+00:01:31,900 --> 00:01:32,900
+ narrowed.
+
+18
+00:01:32,900 --> 00:01:39,540
+ So it's a lot harder for that patient to breathe both in and out.
+
+19
+00:01:39,540 --> 00:01:45,700
+ So the classic chronic bronchitis patient is known as a blue bloater.
+
+20
+00:01:45,700 --> 00:01:51,460
+ And they have this chronic productive cough with lots of sputum.
+
+21
+00:01:51,460 --> 00:01:57,500
+ They have a noisy chest with ronkai, which refers to this rattling sound and also they
+
+22
+00:01:57,500 --> 00:02:00,020
+ might have some wheezing sounds.
+
+23
+00:02:00,020 --> 00:02:07,620
+ The chest extra actually appears normal, but they have elevated hemoglobin, peripheral edema,
+
+24
+00:02:07,620 --> 00:02:14,740
+ and the patients tend to be cyanotic with blue skin and overweight, hence the blue bloater
+
+25
+00:02:14,740 --> 00:02:16,740
+ moniker.
+
+26
+00:02:16,740 --> 00:02:23,140
+ Now on the right, we have emphysema, which involves only the alveoli or the air sacs,
+
+27
+00:02:23,140 --> 00:02:30,540
+ which are the functional units of the lung distal to or after the terminal bronchioles.
+
+28
+00:02:30,540 --> 00:02:38,340
+ So chronic smoke inhalation damages the lung epithelium, releasing these inflammatory mediators
+
+29
+00:02:38,340 --> 00:02:47,500
+ and enzymes like elastase that end up destroying lung tissue, resulting in these enlarged air
+
+30
+00:02:47,500 --> 00:02:51,140
+ spaces or enlarged alveoli.
+
+31
+00:02:51,140 --> 00:02:59,660
+ So they also lose elastic recoil as a result of these enzymes like elastase.
+
+32
+00:02:59,660 --> 00:03:06,140
+ So this makes breathing a lot more difficult, specifically breathing out or expiration.
+
+33
+00:03:06,140 --> 00:03:12,980
+ So how you can remember this, whereas chronic bronchitis affects both inspiration and expiration.
+
+34
+00:03:12,980 --> 00:03:20,020
+ Emphysema affects more expiration, so E for emphysema, E for expiration.
+
+35
+00:03:20,020 --> 00:03:24,340
+ The classic emphysema patient is known as a pink puffer.
+
+36
+00:03:24,340 --> 00:03:29,900
+ So they usually don't have a cough or much sputum, and they have a pretty quiet chest,
+
+37
+00:03:29,900 --> 00:03:31,820
+ no ronkai or wheezing.
+
+38
+00:03:31,820 --> 00:03:38,300
+ However, their chest is often barrel shaped with these over-inflated lungs due to the
+
+39
+00:03:38,300 --> 00:03:43,100
+ trapping of air, because they really struggle to expiry that air.
+
+40
+00:03:43,100 --> 00:03:50,220
+ So as a result, the diaphragm is usually flattened, and the heart is usually smaller, because
+
+41
+00:03:50,220 --> 00:03:54,500
+ it's squished between those oversized lungs.
+
+42
+00:03:54,500 --> 00:03:59,900
+ And then the puffer part comes from having smoked for a long period of time.
+
+43
+00:03:59,900 --> 00:04:07,700
+ So pink puffers tend to be old, thin, and have severe dyspnea or trouble breathing.
+
+44
+00:04:07,700 --> 00:04:13,980
+ Now most patients with COPD may exhibit features of both of these diseases, so you could fall
+
+45
+00:04:13,980 --> 00:04:20,020
+ into one category or the other, or you could exhibit symptoms and signs from both of these
+
+46
+00:04:20,020 --> 00:04:24,220
+ unique categories.
+
+47
+00:04:24,220 --> 00:04:28,340
+ So how about diagnosis of COPD?
+
+48
+00:04:28,340 --> 00:04:29,820
+ Well we have a couple of methods.
+
+49
+00:04:29,820 --> 00:04:37,540
+ The spirometer is used to measure the amount of air that a person can breathe out.
+
+50
+00:04:37,540 --> 00:04:43,260
+ So how this works is the patient would take a deep breath and blow into this tube as hard
+
+51
+00:04:43,260 --> 00:04:49,060
+ as possible with a clip on their nose, so all the air is being released through the mouth.
+
+52
+00:04:49,060 --> 00:04:55,020
+ And it's hooked up to a machine that records the results.
+
+53
+00:04:55,020 --> 00:05:05,940
+ And so the forced expiry volume in one second, that's FEV1, that is less than 70% the predicted
+
+54
+00:05:05,940 --> 00:05:13,780
+ volume called the forced vital capacity, or FVC for short, in the absence of any other
+
+55
+00:05:13,780 --> 00:05:19,740
+ pulmonary disease is given a COPD diagnosis.
+
+56
+00:05:19,740 --> 00:05:26,500
+ Now depending on the severity, COPD is labeled anywhere from stage one for mild to stage
+
+57
+00:05:26,500 --> 00:05:30,020
+ four for very severe.
+
+58
+00:05:30,020 --> 00:05:36,540
+ We can also do pulse oximetry, so pulse oximeter is a lot easier to do, and it measures the
+
+59
+00:05:36,540 --> 00:05:44,860
+ oxygen saturation or the percentage of hemoglobin saturated with oxygen in the arterial blood.
+
+60
+00:05:44,860 --> 00:05:50,740
+ So it isn't used to diagnose COPD, but it can be used to supplement a diagnosis, or in
+
+61
+00:05:50,740 --> 00:05:55,900
+ our case, help determine the patient's current health status and the pulmonary function
+
+62
+00:05:55,900 --> 00:05:58,380
+ while in the dental chair.
+
+63
+00:05:58,380 --> 00:06:04,820
+ So the spirometer is something that a medical professional would be involved in to diagnose
+
+64
+00:06:04,820 --> 00:06:05,980
+ the patient.
+
+65
+00:06:05,980 --> 00:06:10,260
+ The pulse oximeter is just something that we could use in the dental chair to monitor
+
+66
+00:06:10,260 --> 00:06:13,100
+ their current status.
+
+67
+00:06:13,100 --> 00:06:22,540
+ Mental blood gas measurement and chest radiographs can also aid in the diagnosis of COPD.
+
+68
+00:06:22,540 --> 00:06:29,220
+ Now although COPD is irreversible, medications can be used in order to slow the progression
+
+69
+00:06:29,220 --> 00:06:32,220
+ or at least manage the disease.
+
+70
+00:06:32,220 --> 00:06:40,180
+ So inhaled anticholinergics are considered bronchodilators, and they function to reduce
+
+71
+00:06:40,180 --> 00:06:46,940
+ mucous secretion in the airways and relax smooth muscle in order to open up the airways
+
+72
+00:06:46,940 --> 00:06:51,820
+ by blocking acetylcholine at the muscarinic receptors.
+
+73
+00:06:51,820 --> 00:06:57,620
+ So some examples would be iprotropium and teotropium, the tropiums.
+
+74
+00:06:57,620 --> 00:07:07,180
+ Now next we have the inhaled beta adrenergic agonists, and these are also called bronchodilators.
+
+75
+00:07:07,180 --> 00:07:13,100
+ These are also considered bronchodilators, and they function to relax smooth muscle of
+
+76
+00:07:13,100 --> 00:07:18,260
+ the airways by increasing cyclic AMP levels.
+
+77
+00:07:18,260 --> 00:07:25,740
+ Some are fast acting like epinephrine, while others are longer acting like endocateral.
+
+78
+00:07:25,740 --> 00:07:32,580
+ Combining these two categories can have significant benefits because they work by different mechanisms
+
+79
+00:07:32,580 --> 00:07:35,860
+ but they work to achieve the same outcome.
+
+80
+00:07:35,860 --> 00:07:44,020
+ They both function to open the airways essentially and make breathing easier for the COPD patients.
+
+81
+00:07:44,020 --> 00:07:50,580
+ Corticosteroids work by reducing inflammation and suppressing the immune response.
+
+82
+00:07:50,580 --> 00:07:55,200
+ Some examples are fluticazone, which is an inhaled drug and prednisone, which is an
+
+83
+00:07:55,200 --> 00:07:57,380
+ oral medication.
+
+84
+00:07:57,380 --> 00:08:02,780
+ And lastly we have the phosphodiesterase inhibitors, like theophiline, as sort of a
+
+85
+00:08:02,780 --> 00:08:08,860
+ last resort, this medication can have some side effects that are not so fun.
+
+86
+00:08:08,860 --> 00:08:15,900
+ Now I like these drug categories because they're as easy to remember as A, B, C, D.
+
+87
+00:08:15,900 --> 00:08:20,060
+ And so that's how I tend to remember these drug categories.
+
+88
+00:08:20,060 --> 00:08:26,540
+ And one possible management strategy is to start with an anticholinergic for stage 1
+
+89
+00:08:26,540 --> 00:08:35,740
+ COPD and then adding a long-acting bronchodilator if that patient's stage 2, adding a corticosteroid
+
+90
+00:08:35,740 --> 00:08:43,580
+ to the mix if they're stage 3, and then using theophiline as a last resort for stage 4,
+
+91
+00:08:43,580 --> 00:08:45,780
+ very severe COPD.
+
+92
+00:08:45,780 --> 00:08:51,260
+ So not only do we have this order, A, B, C, D, but it also tends to be the order in which
+
+93
+00:08:51,260 --> 00:08:55,380
+ those drugs are prescribed for COPD patients.
+
+94
+00:08:55,380 --> 00:09:00,700
+ So a nice little memory tip to help you remember those drug categories.
+
+95
+00:09:00,700 --> 00:09:07,940
+ Next let's talk about some considerations for COPD patients that are in the dental chair.
+
+96
+00:09:07,940 --> 00:09:13,660
+ So smoking cessation is the most effective and cost-effective intervention that can help
+
+97
+00:09:13,660 --> 00:09:19,740
+ manage COPD, so we want to encourage that for patients who are actively smoking.
+
+98
+00:09:19,740 --> 00:09:27,260
+ Some innervational therapies include things like nicotine replacement and bupropion therapy.
+
+99
+00:09:27,260 --> 00:09:35,260
+ We want to avoid pulmonary irritants, so excellent isolation and suction is really useful for
+
+100
+00:09:35,260 --> 00:09:38,460
+ these types of patients.
+
+101
+00:09:38,460 --> 00:09:44,420
+ Patients with moderate to severe COPD should be placed in a semisupine or upright chair
+
+102
+00:09:44,420 --> 00:09:51,180
+ position instead of a supine position to help prevent difficulty breathing and discomfort
+
+103
+00:09:51,180 --> 00:09:54,140
+ for the patient.
+
+104
+00:09:54,140 --> 00:10:00,420
+ Bilateral mandibular blocks or bilateral greater palatine blocks can cause an unpleasant airway
+
+105
+00:10:00,420 --> 00:10:07,140
+ constriction feeling in some of these patients, so that should be avoided whenever possible.
+
+106
+00:10:07,140 --> 00:10:12,900
+ Rubber dams can also constrict breathing ability for patients with severe disease, so avoid
+
+107
+00:10:12,900 --> 00:10:16,340
+ those also when possible.
+
+108
+00:10:16,340 --> 00:10:22,900
+ We certainly want to avoid narcotics and barbiturates because they are respiratory depressants and
+
+109
+00:10:22,900 --> 00:10:27,340
+ we do not want to be depressing pulmonary function.
+
+110
+00:10:27,340 --> 00:10:33,540
+ We want to avoid macrolide antibiotics like erythromycin and also siprofloxacin if the
+
+111
+00:10:33,540 --> 00:10:41,100
+ patient is taking theofiline because these antibiotics can reduce the metabolism of theofiline
+
+112
+00:10:41,100 --> 00:10:48,820
+ resulting in theofiline toxicity which may involve things like nausea, vomiting, insomnia,
+
+113
+00:10:48,820 --> 00:10:52,700
+ headache, arrhythmia and even convulsions.
+
+114
+00:10:52,700 --> 00:11:01,140
+ A pulse oximeter should be used to monitor oxygen saturation throughout the dental procedure.
+
+115
+00:11:01,140 --> 00:11:07,580
+ Nitrous oxide inhalation generally should not be used for severe COPD patients because nitrous
+
+116
+00:11:07,580 --> 00:11:14,700
+ oxide might accumulate in the air spaces of the compromised lung.
+
+117
+00:11:14,700 --> 00:11:20,340
+ Low flow oxygen at a rate of 2 liters per minute is recommended if a person's oxygen
+
+118
+00:11:20,340 --> 00:11:25,900
+ saturation is below 95%.
+
+119
+00:11:25,900 --> 00:11:32,820
+ In general anesthesia is not recommended for COPD patients for airway concerns.
+
+120
+00:11:32,820 --> 00:11:41,140
+ Lastly, if the patients taking systemic corticosteroids for COPD, they might require supplementation
+
+121
+00:11:41,140 --> 00:11:46,420
+ for major surgical procedures due to the concern for adrenal suppression.
+
+122
+00:11:46,420 --> 00:11:51,740
+ This is a consideration for anyone who takes corticosteroids chronically and we'll talk
+
+123
+00:11:51,740 --> 00:11:57,420
+ more about that in the next video in this series.
+
+124
+00:11:57,420 --> 00:12:03,180
+ Now for a poorly controlled or unstable COPD patient, this is somebody who's symptomatic
+
+125
+00:12:03,180 --> 00:12:10,060
+ with shortness of breath at rest, productive cough, upper respiratory infection or an oxygen
+
+126
+00:12:10,060 --> 00:12:13,220
+ saturation that's below 91%.
+
+127
+00:12:13,220 --> 00:12:16,540
+ Those are things that we're considering unstable.
+
+128
+00:12:16,540 --> 00:12:21,740
+ And that type of patient should be rescheduled and the appropriate medical referral should
+
+129
+00:12:21,740 --> 00:12:22,980
+ be made.
+
+130
+00:12:22,980 --> 00:12:26,220
+ It's what I call defer and refer.
+
+131
+00:12:26,220 --> 00:12:32,580
+ So as in the past, if the patient needs emergency care, you can consider some conservative treatment
+
+132
+00:12:32,580 --> 00:12:38,820
+ or a hospital referral depending on the presence or absence of symptoms, your own emergency
+
+133
+00:12:38,820 --> 00:12:41,940
+ preparedness and a multitude of other factors.
+
+134
+00:12:41,940 --> 00:12:48,420
+ But for the board exam, if a situation is unstable, it's uncontrolled, it's symptomatic,
+
+135
+00:12:48,420 --> 00:12:52,900
+ then we want to refer for medical consultation.
+
+136
+00:12:52,900 --> 00:12:58,340
+ Now also for a COPD patient, we want to look out for cardiovascular comorbidities which
+
+137
+00:12:58,340 --> 00:13:06,060
+ are very common in COPD patients and then follow those patient considerations when necessary.
+
+138
+00:13:06,060 --> 00:13:12,940
+ As far as oral manifestations of COPD, we see things like halitosis, staining of the teeth,
+
+139
+00:13:12,940 --> 00:13:19,540
+ nicotine stomatitis, periodontal disease and oral cancer that are related to smoking because
+
+140
+00:13:19,540 --> 00:13:24,460
+ the vast majority of these patients are going to be chronic smokers.
+
+141
+00:13:24,460 --> 00:13:29,780
+ Poor oral hygiene might lead to aspiration pneumonia in these patients.
+
+142
+00:13:29,780 --> 00:13:36,060
+ The pneumonia is an infection of the lungs and/or airways and aspiration pneumonia occurs when
+
+143
+00:13:36,060 --> 00:13:41,820
+ something containing bacteria like food or even saliva is breathed into the lungs or
+
+144
+00:13:41,820 --> 00:13:45,940
+ airways leading to this pneumonia.
+
+145
+00:13:45,940 --> 00:13:51,020
+ Dry mouth is something we see in a lot of these conditions that we've talked about so
+
+146
+00:13:51,020 --> 00:13:58,340
+ far in the series, but in this case specifically, it's due to the side effects of the anti-colonergic
+
+147
+00:13:58,340 --> 00:14:01,260
+ medications, those tropiums.
+
+148
+00:14:01,260 --> 00:14:06,860
+ And then Steven Johnson syndrome has been linked to theophiling use.
+
+149
+00:14:06,860 --> 00:14:12,580
+ All right, so the second half of this video is going to be about asthma.
+
+150
+00:14:12,580 --> 00:14:17,740
+ Asthma is also a chronic respiratory disease associated with airway obstruction, but this
+
+151
+00:14:17,740 --> 00:14:24,820
+ one is characterized by reversible episodes of increased airway responsiveness that leads
+
+152
+00:14:24,820 --> 00:14:31,460
+ to episodes of breathing difficulty, coughing, or wheezing.
+
+153
+00:14:31,460 --> 00:14:36,980
+ And the broccular tissue is sensitive to several stimuli, and there are many things that can
+
+154
+00:14:36,980 --> 00:14:43,900
+ trigger an asthma attack or flare up, it could be, an allergen like pollen, an upper respiratory
+
+155
+00:14:43,900 --> 00:14:52,860
+ infection, exercise, cold air, NSAIDs, chemicals, smoke, and even anxiety and stress.
+
+156
+00:14:52,860 --> 00:14:58,420
+ And one of the first things you should ask an asthmatic patient is what triggers their
+
+157
+00:14:58,420 --> 00:15:05,420
+ attacks, and then make sure to avoid those things in the dental setting as much as possible.
+
+158
+00:15:05,420 --> 00:15:11,660
+ As far as pathophysiology for this one, airway obstruction can be the result of many different
+
+159
+00:15:11,660 --> 00:15:12,660
+ things.
+
+160
+00:15:12,660 --> 00:15:19,900
+ It could be smooth muscle spasm, inflammation of the bronchial mucosa, and/or goblet cell
+
+161
+00:15:19,900 --> 00:15:26,740
+ hyperplasia, that means too many goblet cells, which is also seen in chronic bronchitis.
+
+162
+00:15:26,740 --> 00:15:33,500
+ And the excess mucus from these goblet cells would plug up the airways, making this volume
+
+163
+00:15:33,500 --> 00:15:35,740
+ a lot smaller.
+
+164
+00:15:35,740 --> 00:15:42,420
+ And as far as diagnosing, as with COPD, spirometry is the gold standard.
+
+165
+00:15:42,420 --> 00:15:49,420
+ Allergy testing and sputum smears could also be done in addition to that.
+
+166
+00:15:49,420 --> 00:15:54,740
+ So now for asthma medications, there is a lot of overlap with the COPD ones, and I have
+
+167
+00:15:54,740 --> 00:16:00,420
+ another ABCD, but this one comes with some caveats.
+
+168
+00:16:00,420 --> 00:16:09,140
+ So anti-asmatics for asthma management are used either for long-term control or short-term
+
+169
+00:16:09,140 --> 00:16:17,340
+ immediate relief, and the combination of those two is usually used to improve lung function.
+
+170
+00:16:17,340 --> 00:16:23,340
+ And I actually want to start this one with the C, the corticosteroids, because inhaled
+
+171
+00:16:23,340 --> 00:16:30,940
+ corticosteroids are currently the most effective anti-inflammatory medication for treating persistent
+
+172
+00:16:30,940 --> 00:16:31,940
+ asthma.
+
+173
+00:16:31,940 --> 00:16:37,400
+ And similar with COPD, they reduce inflammation.
+
+174
+00:16:37,400 --> 00:16:43,500
+ So some examples are a prednisone, budessinide, and fluticazone.
+
+175
+00:16:43,500 --> 00:16:50,860
+ Now we also have our bronchodilators back once again, these beta-adronergic agonists, and
+
+176
+00:16:50,860 --> 00:16:56,460
+ they activate the beta-2 receptors to relax smooth muscle of the airways just like they
+
+177
+00:16:56,460 --> 00:16:59,660
+ did with COPD.
+
+178
+00:16:59,660 --> 00:17:07,460
+ For an acute asthma attack, the first line of defense is going to be a short-acting bronchodilator,
+
+179
+00:17:07,460 --> 00:17:12,820
+ like albuterol, via an inhaler, or a nebulizer.
+
+180
+00:17:12,820 --> 00:17:18,860
+ You can also pair this with supplemental oxygen via a face mask or nasal hood, and if the
+
+181
+00:17:18,860 --> 00:17:26,020
+ symptoms worsen or do not improve after that, then you would administer epinephrine subcutaneously
+
+182
+00:17:26,020 --> 00:17:31,580
+ and likely activate EMS, aka call 911.
+
+183
+00:17:31,580 --> 00:17:37,980
+ What's cool is that there are combination drugs that combine a corticosteroid with a long-acting
+
+184
+00:17:37,980 --> 00:17:40,340
+ beta-adronergic agonist.
+
+185
+00:17:40,340 --> 00:17:51,900
+ For example, 4-motorol and budessinide combined become cymbicort, or salmetarol, and fluticazone
+
+186
+00:17:51,900 --> 00:17:56,860
+ combined become adver, and you may have heard of those names before, and that's what's
+
+187
+00:17:56,860 --> 00:18:00,620
+ going on with those drugs.
+
+188
+00:18:00,620 --> 00:18:07,340
+ Let's go to our A for antihistamines, and those block the histamine receptor.
+
+189
+00:18:07,340 --> 00:18:13,080
+ Cymbine is an organic compound released by mast cells during degranulation, which happens
+
+190
+00:18:13,080 --> 00:18:21,280
+ when an allergen binds to the IgE, the immunoglobulin E, attached to those mast cells, and histamine
+
+191
+00:18:21,280 --> 00:18:29,420
+ is responsible for three things in the classic allergic response, redness, swelling, and itchiness,
+
+192
+00:18:29,420 --> 00:18:36,900
+ so blocking that with diphenhydramine or benedryl, or phexofenidine, which is a legra, and you
+
+193
+00:18:36,900 --> 00:18:41,500
+ may have heard of those two before, helps to calm the allergic response.
+
+194
+00:18:41,500 --> 00:18:48,100
+ Now, there is an asterisk after antihistamines, because antihistamines are not prescribed
+
+195
+00:18:48,100 --> 00:18:53,020
+ for asthma, they're given for allergies.
+
+196
+00:18:53,020 --> 00:18:58,740
+ But if allergies trigger your asthma, then that's when an antihistamine can be used to
+
+197
+00:18:58,740 --> 00:19:05,140
+ help control asthma and prevent those asthma attacks, so hopefully that makes sense.
+
+198
+00:19:05,140 --> 00:19:12,300
+ Decongestants, or D, do exactly what you'd expect, they reduce nasal congestion.
+
+199
+00:19:12,300 --> 00:19:20,020
+ And pseudo-ephedrin, brand name pseudofed, is an A1 or alpha-1 selective agonist, which
+
+200
+00:19:20,020 --> 00:19:26,760
+ means it's a vasoconstrictor, so it constricts nasal blood vessels, reducing nasal swelling
+
+201
+00:19:26,760 --> 00:19:28,580
+ and inflammation.
+
+202
+00:19:28,580 --> 00:19:36,260
+ It's mostly used to treat cold, flu, allergies, and sinusitis, but once again, if allergies
+
+203
+00:19:36,260 --> 00:19:43,940
+ are the precipitating factor for asthma, it can be used to indirectly manage your asthma.
+
+204
+00:19:43,940 --> 00:19:50,060
+ And lastly, we have leukotrying receptor antagonists, which of course, block leukotrying, which
+
+205
+00:19:50,060 --> 00:19:59,140
+ is a pro-inflammatory mediator that the body releases after coming in contact with an allergen.
+
+206
+00:19:59,140 --> 00:20:07,700
+ And these leukasts are examples of the leukotrying receptor antagonists.
+
+207
+00:20:07,700 --> 00:20:10,500
+ So patient considerations for asthma.
+
+208
+00:20:10,500 --> 00:20:17,060
+ If we see asthma on the patient box, what are things we want to be thinking about?
+
+209
+00:20:17,060 --> 00:20:22,220
+ Well the primary goal is to prevent an acute asthma attack.
+
+210
+00:20:22,220 --> 00:20:25,020
+ That's the last thing that we want in the dental chair.
+
+211
+00:20:25,020 --> 00:20:28,740
+ So we want to avoid any precipitating factors.
+
+212
+00:20:28,740 --> 00:20:31,460
+ So what are those precipitating factors?
+
+213
+00:20:31,460 --> 00:20:33,660
+ Stress and anxiety is one of them.
+
+214
+00:20:33,660 --> 00:20:36,620
+ So we want to reduce stress, be kind and gentle.
+
+215
+00:20:36,620 --> 00:20:43,260
+ Again, explain the procedures, answer their questions, and we also could consider a short-acting
+
+216
+00:20:43,260 --> 00:20:49,780
+ benzodiazepine before the appointment, and we can consider nitrous oxide during the appointment
+
+217
+00:20:49,780 --> 00:20:54,380
+ as long as the patient isn't a symptomatic for asthma at that moment.
+
+218
+00:20:54,380 --> 00:20:57,820
+ They're not actively wheezing or something like that.
+
+219
+00:20:57,820 --> 00:21:03,620
+ We also want to confirm the patient is taking their asthma medication as directed, and we
+
+220
+00:21:03,620 --> 00:21:12,340
+ want to have their rescue inhaler and an EpiPen ready and accessible if they have an attack.
+
+221
+00:21:12,340 --> 00:21:17,340
+ Once again, we want to have excellent isolation to minimize any tooth enamel, dust, or any
+
+222
+00:21:17,340 --> 00:21:21,020
+ other pulmonary irritants that could trigger an episode.
+
+223
+00:21:21,020 --> 00:21:26,700
+ We want to avoid NSAIDs because they have been shown to precipitate asthma attacks in
+
+224
+00:21:26,700 --> 00:21:29,220
+ a small percent of the population.
+
+225
+00:21:29,220 --> 00:21:31,980
+ So that's very, very important to note.
+
+226
+00:21:31,980 --> 00:21:36,700
+ Once again, avoid narcotics and barbiturates because they have respiratory depressive
+
+227
+00:21:36,700 --> 00:21:40,900
+ properties and can also trigger an attack.
+
+228
+00:21:40,900 --> 00:21:44,580
+ We want to track the patient's oxygen saturation.
+
+229
+00:21:44,580 --> 00:21:47,360
+ Once again, valuable information to have.
+
+230
+00:21:47,360 --> 00:21:55,900
+ It should be somewhere between 97% and 100%, and if it drops below that 95% level, then
+
+231
+00:21:55,900 --> 00:22:01,340
+ consider oxygen supplementation, that low-flow oxygen.
+
+232
+00:22:01,340 --> 00:22:04,780
+ And again, I would reschedule, defer, and refer.
+
+233
+00:22:04,780 --> 00:22:09,420
+ If the patient is actively coughing, wheezing, they forgot to take their medication that they
+
+234
+00:22:09,420 --> 00:22:13,180
+ usually do, etc.
+
+235
+00:22:13,180 --> 00:22:19,260
+ Oral manifestations of asthma, the zerostomia, or dry mouth, this time is due to the usage
+
+236
+00:22:19,260 --> 00:22:27,460
+ of inhalers that dry out the mouth, as opposed to the anti-colonergics from COPD, which also
+
+237
+00:22:27,460 --> 00:22:30,300
+ dry out the mouth.
+
+238
+00:22:30,300 --> 00:22:36,700
+ These patients have increased carious risk due to the decreased salivary flow.
+
+239
+00:22:36,700 --> 00:22:43,180
+ Gastroesophageal reflux disease is common in patients with asthma and is exacerbated
+
+240
+00:22:43,180 --> 00:22:48,420
+ by the use of bronchodilators and theophiline.
+
+241
+00:22:48,420 --> 00:22:54,940
+ Oral candidiasis occurs in about 5% of patients who used inhaled corticosteroids for long
+
+242
+00:22:54,940 --> 00:22:57,620
+ periods of time.
+
+243
+00:22:57,620 --> 00:23:03,460
+ Enamel defects have been associated with severe asthma in children, while periodontitis
+
+244
+00:23:03,460 --> 00:23:08,260
+ has been associated with severe asthma in adults.
+
+245
+00:23:08,260 --> 00:23:14,260
+ And asthmatics who are mouth breathers may be associated with higher rates of malocclusion,
+
+246
+00:23:14,260 --> 00:23:22,820
+ specifically excess overjet, posterior crossbite, high palatal vault, and increased face height,
+
+247
+00:23:22,820 --> 00:23:28,820
+ all associated with habitual mouth breathing.
+
+248
+00:23:28,820 --> 00:23:33,780
+ And since we're talking about pulmonary diseases, I wanted to briefly cover indications and
+
+249
+00:23:33,780 --> 00:23:39,900
+ contraindications to both nitrous oxide in this slide and oxygen on the next slide,
+
+250
+00:23:39,900 --> 00:23:44,020
+ the two most used gases in dentistry.
+
+251
+00:23:44,020 --> 00:23:50,660
+ Nitrous oxide can be helpful for someone with dental anxiety, a strong gag reflex, and what
+
+252
+00:23:50,660 --> 00:23:52,980
+ we just talked about, asthma.
+
+253
+00:23:52,980 --> 00:24:00,260
+ And since nitrous oxide is not irritating to the trachea and the bronchi, asthma is not
+
+254
+00:24:00,260 --> 00:24:06,900
+ a contraindication to the use of nitrous oxide, provided the patient is not having an attack
+
+255
+00:24:06,900 --> 00:24:10,100
+ or wheezing at that moment.
+
+256
+00:24:10,100 --> 00:24:18,380
+ So poorly controlled asthma we defer and refer, but otherwise nitrous is totally fine.
+
+257
+00:24:18,380 --> 00:24:24,660
+ But in fact, there's a benefit in administering nitrous oxide, since in many asthmatics, the
+
+258
+00:24:24,660 --> 00:24:29,940
+ primary precipitate is usually emotional stress, especially in children.
+
+259
+00:24:29,940 --> 00:24:35,380
+ So you could see how nitrous oxide could actually help prevent us from having an attack in the
+
+260
+00:24:35,380 --> 00:24:37,060
+ chair.
+
+261
+00:24:37,060 --> 00:24:43,940
+ Now there are a lot of contraindications, most of which are relative, not absolute contraindications,
+
+262
+00:24:43,940 --> 00:24:48,220
+ but I still want to mention them so you're aware of them when it's time for you to sit
+
+263
+00:24:48,220 --> 00:24:49,940
+ for your board exam.
+
+264
+00:24:49,940 --> 00:24:56,420
+ So patients with COPD have a reduced ability to move gases into and out of the lungs.
+
+265
+00:24:56,420 --> 00:24:59,460
+ We talked about that at the very beginning of this video.
+
+266
+00:24:59,460 --> 00:25:05,180
+ Therefore, it's more difficult to administer nitrous oxide, and more importantly, is more
+
+267
+00:25:05,180 --> 00:25:09,380
+ difficult to get it out of the patient's lungs.
+
+268
+00:25:09,380 --> 00:25:16,220
+ While it can be used in mild to moderate cases, severe COPD patients have a respiratory drive
+
+269
+00:25:16,220 --> 00:25:22,660
+ triggered by decreased oxygen levels, as opposed to a healthy patient whose drive to breathe
+
+270
+00:25:22,660 --> 00:25:26,820
+ is triggered by increased carbon dioxide levels.
+
+271
+00:25:26,820 --> 00:25:32,700
+ So what that means is administering nitrous oxide, which is always given alongside lots
+
+272
+00:25:32,700 --> 00:25:39,240
+ of oxygen, can actually decrease the patient's drive to breathe, which is potentially very,
+
+273
+00:25:39,240 --> 00:25:42,660
+ very dangerous for a severe COPD patient.
+
+274
+00:25:42,660 --> 00:25:44,260
+ So we could put a little asterisk here.
+
+275
+00:25:44,260 --> 00:25:45,260
+ It's not.
+
+276
+00:25:45,260 --> 00:25:48,060
+ And for mild to moderate COPD patients, it's okay.
+
+277
+00:25:48,060 --> 00:25:52,580
+ But once we get to that severe and above level, we really want to try to avoid nitrous
+
+278
+00:25:52,580 --> 00:25:56,060
+ oxide for those patients.
+
+279
+00:25:56,060 --> 00:25:57,060
+ Nasal obstruction.
+
+280
+00:25:57,060 --> 00:26:03,940
+ So since nitrous oxide must be administered through a nasal mask, this is a relative
+
+281
+00:26:03,940 --> 00:26:09,420
+ contraindication depending on how severe the obstruction is.
+
+282
+00:26:09,420 --> 00:26:15,780
+ Even habitual mouth breathers may have difficulty using the nasal mask.
+
+283
+00:26:15,780 --> 00:26:22,020
+ Multiple sclerosis involves nerve de-biolination, especially in the central nervous system.
+
+284
+00:26:22,020 --> 00:26:28,460
+ And leads to weakness, poor muscle coordination, speech disturbances among other neurological
+
+285
+00:26:28,460 --> 00:26:29,900
+ disturbances.
+
+286
+00:26:29,900 --> 00:26:34,580
+ And chronic use of nitrous oxide can produce similar symptoms.
+
+287
+00:26:34,580 --> 00:26:39,300
+ So it's not recommended to use nitrous oxide chronically in these patients.
+
+288
+00:26:39,300 --> 00:26:43,620
+ One or two times is perfectly fine, though.
+
+289
+00:26:43,620 --> 00:26:44,620
+ Pregnancy.
+
+290
+00:26:44,620 --> 00:26:45,620
+ This is an important one.
+
+291
+00:26:45,620 --> 00:26:51,860
+ Nitrous oxide readily enters fetal circulation, and it can be toxic to cells undergoing
+
+292
+00:26:51,860 --> 00:26:53,380
+ mitosis.
+
+293
+00:26:53,380 --> 00:26:58,900
+ So pregnant patients should avoid nitrous oxide, especially when they are early on in
+
+294
+00:26:58,900 --> 00:27:02,060
+ their pregnancy.
+
+295
+00:27:02,060 --> 00:27:07,020
+ Psychiatric disorders are often managed with prescribed medications, but they can be difficult
+
+296
+00:27:07,020 --> 00:27:08,020
+ to manage.
+
+297
+00:27:08,020 --> 00:27:14,020
+ It's probably a good idea to consult the patient's psychiatrist before administering nitrous
+
+298
+00:27:14,020 --> 00:27:20,700
+ oxide because their reaction to inhalation sedation could be unpredictable.
+
+299
+00:27:20,700 --> 00:27:25,780
+ All with that, communication barriers are important because much of the monitoring of
+
+300
+00:27:25,780 --> 00:27:30,900
+ a patient's conscious sedation with nitrous oxide is done verbally to make sure it's working
+
+301
+00:27:30,900 --> 00:27:31,900
+ properly.
+
+302
+00:27:31,900 --> 00:27:35,940
+ You're checking in with the patient, checking to see how they're feeling, and confirming
+
+303
+00:27:35,940 --> 00:27:39,420
+ with the patient that they're at the right stage of sedation.
+
+304
+00:27:39,420 --> 00:27:45,060
+ So having a language barrier could be a potential problem.
+
+305
+00:27:45,060 --> 00:27:46,580
+ Otitis media.
+
+306
+00:27:46,580 --> 00:27:51,180
+ So nitrous oxide should be avoided in children with a middle ear infection.
+
+307
+00:27:51,180 --> 00:27:58,460
+ That's what otitis media is, because of concerns about pressure buildup and gas diffusion.
+
+308
+00:27:58,460 --> 00:28:00,820
+ And lastly, sickle cell disease.
+
+309
+00:28:00,820 --> 00:28:07,580
+ So regular use of nitrous oxide can actually interfere with vitamin B12 metabolism, which
+
+310
+00:28:07,580 --> 00:28:13,700
+ is a problem because these patients, the sickle cell patients, have a B12 deficiency
+
+311
+00:28:13,700 --> 00:28:18,000
+ already.
+
+312
+00:28:18,000 --> 00:28:19,000
+ All right.
+
+313
+00:28:19,000 --> 00:28:24,500
+ And lastly, let's talk about a couple indications and contraindications for oxygen use.
+
+314
+00:28:24,500 --> 00:28:29,820
+ So in the yes column, we have COPD and asthma, the two main diseases we talked about.
+
+315
+00:28:29,820 --> 00:28:37,100
+ And humidified low flow oxygen can be provided to COPD patients safely to help alleviate an
+
+316
+00:28:37,100 --> 00:28:38,780
+ unpleasant airway.
+
+317
+00:28:38,780 --> 00:28:43,340
+ And oxygen is also safe and sometimes indicated for asthma patients.
+
+318
+00:28:43,340 --> 00:28:48,500
+ We talked about this and those patient consideration slides for both COPD and asthma.
+
+319
+00:28:48,500 --> 00:28:50,700
+ So that makes perfect sense.
+
+320
+00:28:50,700 --> 00:28:57,060
+ I want to be clear that once again, there are no absolute contraindications to oxygen,
+
+321
+00:28:57,060 --> 00:29:02,140
+ but it should be administered with caution in two specific scenarios.
+
+322
+00:29:02,140 --> 00:29:07,980
+ And that's for patients who have taken or are currently taking bleomycin, which is a
+
+323
+00:29:07,980 --> 00:29:14,900
+ chemotherapeutic agent that can damage the lungs and patients who are suffering from
+
+324
+00:29:14,900 --> 00:29:19,180
+ paraquat poisoning, which is a toxic herbicide.
+
+325
+00:29:19,180 --> 00:29:25,500
+ And since oxygen is administered alongside nitrous oxide when doing inhalation sedation,
+
+326
+00:29:25,500 --> 00:29:33,740
+ these two things would also be contraindications to nitrous oxide sedation as well.
+
+327
+00:29:33,740 --> 00:29:34,740
+ All right.
+
+328
+00:29:34,740 --> 00:29:35,740
+ So that's it for this video guys.
+
+329
+00:29:35,740 --> 00:29:40,020
+ Thank you so much for watching, please like this video if you enjoyed it and subscribe
+
+330
+00:29:40,020 --> 00:29:42,780
+ to this channel for much more on dentistry.
+
+331
+00:29:42,780 --> 00:29:47,100
+ If you'd like to support me, please check out my Patreon page and thank you to all of
+
+332
+00:29:47,100 --> 00:29:49,460
+ my patrons here for their support.
+
+333
+00:29:49,460 --> 00:29:53,700
+ You can unlock access to my video slides to take notes on and practice questions for
+
+334
+00:29:53,700 --> 00:29:54,900
+ the board exams.
+
+335
+00:29:54,900 --> 00:29:55,900
+ So go check that out.
+
+336
+00:29:55,900 --> 00:29:57,780
+ The link will be in the description.
+
+337
+00:29:57,780 --> 00:29:59,340
+ Thanks again for watching everyone.
+
+338
+00:29:59,340 --> 00:30:00,860
+ I'll see you in the next video.
+

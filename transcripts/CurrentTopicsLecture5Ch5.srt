@@ -1,0 +1,1800 @@
+1
+00:00:00,000 --> 00:00:06,800
+ Welcome to our next chapter, Chapter 5 Life in the Greenhouse here on Earth, where we'll
+
+2
+00:00:06,800 --> 00:00:12,300
+ also learn about photosynthesis and global climate change.
+
+3
+00:00:12,300 --> 00:00:18,080
+ Make sure you check out our learning outcomes and recognize them as we come to them throughout
+
+4
+00:00:18,080 --> 00:00:20,520
+ our lessons and readings.
+
+5
+00:00:20,520 --> 00:00:23,360
+ Here's a question.
+
+6
+00:00:23,360 --> 00:00:27,200
+ Most scientists disagree that global climate change is occurring.
+
+7
+00:00:27,200 --> 00:00:34,600
+ Well, the answer to that one is a big false.
+
+8
+00:00:34,600 --> 00:00:41,920
+ In late 2015, high-level representatives of governments of nearly all the Earth's nations
+
+9
+00:00:41,920 --> 00:00:45,280
+ met in Paris for a historic dialogue.
+
+10
+00:00:45,280 --> 00:00:53,440
+ The end result was an agreement signed on December 12 in 2015 to combat global warming.
+
+11
+00:00:53,440 --> 00:01:02,040
+ The 195 signatory countries agreed to eliminate human-derived greenhouse gas emissions by 2050.
+
+12
+00:01:02,040 --> 00:01:07,460
+ As the agreement is being implemented, developing countries are to receive financial assistance
+
+13
+00:01:07,460 --> 00:01:09,760
+ to help cut emissions.
+
+14
+00:01:09,760 --> 00:01:13,920
+ And aid will be given to those nations that lack the resources to mitigate the negative
+
+15
+00:01:13,920 --> 00:01:16,680
+ effects of climate change.
+
+16
+00:01:16,680 --> 00:01:22,120
+ In dozens of cities throughout the world, hundreds of thousands of activists and ordinary
+
+17
+00:01:22,120 --> 00:01:28,720
+ citizens participated in peaceful and dramatic marches in the days leading up to the conference.
+
+18
+00:01:28,720 --> 00:01:33,400
+ The size of these rallies may have given world leaders the confidence to act.
+
+19
+00:01:33,400 --> 00:01:40,320
+ Indeed, many of these leaders were exhilarated by the hard-won final product.
+
+20
+00:01:40,320 --> 00:01:47,240
+ This is truly a historic moment, said Ban Kimun, the United Nations Secretary-General.
+
+21
+00:01:47,240 --> 00:01:52,080
+ For the first time, we've truly a universal agreement on climate change, one of the most
+
+22
+00:01:52,080 --> 00:01:55,080
+ crucial problems on Earth.
+
+23
+00:01:55,080 --> 00:02:02,000
+ Many environmental activists were more circumspect, noting that the accord did not specify any
+
+24
+00:02:02,000 --> 00:02:08,400
+ particular actions to combat the growing threat of climate change.
+
+25
+00:02:08,400 --> 00:02:13,760
+ Secretary-General Ban Kimun's description of climate change as one of Earth's most crucial
+
+26
+00:02:13,760 --> 00:02:16,520
+ problems is not an exaggeration.
+
+27
+00:02:16,520 --> 00:02:23,160
+ But what could sound like a small increase, the 1 degree Celsius temperature rise recorded
+
+28
+00:02:23,160 --> 00:02:29,440
+ since the beginning of the Industrial Revolution, dramatic climate shifts have already occurred.
+
+29
+00:02:29,440 --> 00:02:33,280
+ Mountain glaciers and polar ice caps are disappearing.
+
+30
+00:02:33,280 --> 00:02:39,720
+ While sea levels rise, storms have become more severe and destructive, and insects carrying
+
+31
+00:02:39,720 --> 00:02:44,280
+ disease have changed their distribution patterns.
+
+32
+00:02:44,280 --> 00:02:47,960
+ This has threatened human populations.
+
+33
+00:02:47,960 --> 00:02:55,280
+ Scientists say that anything above a 2 degree Celsius, which is 3.6 degrees Fahrenheit, increase
+
+34
+00:02:55,280 --> 00:03:02,560
+ over the historical average will doom us to a future of even more severe consequences.
+
+35
+00:03:02,560 --> 00:03:08,360
+ These consequences include even more severe storms, and resulting widespread food and
+
+36
+00:03:08,360 --> 00:03:10,760
+ water shortages.
+
+37
+00:03:10,760 --> 00:03:16,680
+ Given what scientists say about the severity of the crisis and the consequences of inaction,
+
+38
+00:03:16,680 --> 00:03:22,040
+ it may be crucial for humanity's survival and well-being that we band together to address
+
+39
+00:03:22,040 --> 00:03:24,000
+ climate change.
+
+40
+00:03:24,000 --> 00:03:29,840
+ The Paris Accord, although far from perfect, is an important step in that process.
+
+41
+00:03:29,840 --> 00:03:36,640
+ But what can science tell us about how we got in this predicament in the first place?
+
+42
+00:03:36,640 --> 00:03:47,200
+ And perhaps more important, what can we do about it now?
+
+43
+00:03:47,200 --> 00:03:52,520
+ Global warming is the progressive increase of Earth's average temperature that's been
+
+44
+00:03:52,520 --> 00:03:56,680
+ occurring over the past century.
+
+45
+00:03:56,680 --> 00:04:02,320
+ There's little debate among scientists and government-appointed panels about the nature
+
+46
+00:04:02,320 --> 00:04:07,680
+ and cause of global warming.
+
+47
+00:04:07,680 --> 00:04:11,720
+ And global warming is contributing to global climate change.
+
+48
+00:04:11,720 --> 00:04:16,960
+ The local changes in average temperature, precipitation and sea level relative to historical
+
+49
+00:04:16,960 --> 00:04:26,240
+ conditions that are occurring in locations all over the planet.
+
+50
+00:04:26,240 --> 00:04:32,680
+ Scientists who publish and peer reviewed journals and respected scientific panels and societies
+
+51
+00:04:32,680 --> 00:04:40,320
+ such as the Intergovernmental Panel on Climate Control, otherwise known as the IPCC, the
+
+52
+00:04:40,320 --> 00:04:45,920
+ National Academy of Sciences, and the American Association for the Advancement of Science
+
+53
+00:04:45,920 --> 00:04:52,760
+ the AAAS all agree that the average temperature on Earth is increasing and that most of the
+
+54
+00:04:52,760 --> 00:05:01,280
+ global warming observed in the past century is attributable to human activities.
+
+55
+00:05:01,280 --> 00:05:09,400
+ Again, global climate change is the local changes in average climate conditions, including
+
+56
+00:05:09,400 --> 00:05:21,960
+ temperature, precipitation and sea level, and this is again relative to historic conditions.
+
+57
+00:05:21,960 --> 00:05:28,040
+ Global Earth's climate does fluctuate over time due to changes in Earth's orbit and solar
+
+58
+00:05:28,040 --> 00:05:30,280
+ output.
+
+59
+00:05:30,280 --> 00:05:38,360
+ Human-caused or anthropogenic global warming has dramatically increased the rate of change.
+
+60
+00:05:38,360 --> 00:05:46,120
+ Again, it's about here the rate of change, so much so it might be difficult for humans
+
+61
+00:05:46,120 --> 00:05:49,720
+ to even adjust.
+
+62
+00:05:49,720 --> 00:05:55,760
+ Economic global warming is caused by recent increases in the concentration of particular
+
+63
+00:05:55,760 --> 00:06:00,440
+ gases called greenhouse gases in the atmosphere.
+
+64
+00:06:00,440 --> 00:06:13,520
+ These include water vapor, carbon dioxide or CO2, methane known as CH4, and ozone or O3.
+
+65
+00:06:13,520 --> 00:06:19,680
+ The accumulation of many of the greenhouse gases is a direct result of coal, oil, and
+
+66
+00:06:19,680 --> 00:06:22,920
+ natural gas combustion.
+
+67
+00:06:22,920 --> 00:06:30,200
+ The most abundant gas emitted by the combustion of fossil fuels is carbon dioxide, so for
+
+68
+00:06:30,200 --> 00:06:39,600
+ this reason carbon dioxide is considered the most important greenhouse gas to control.
+
+69
+00:06:39,600 --> 00:06:45,360
+ Much atmospheric gas is a greenhouse gas, well from our previous slides, we've learned
+
+70
+00:06:45,360 --> 00:06:52,280
+ that it's all three of these methane, water vapor and carbon dioxide with CO2 being the
+
+71
+00:06:52,280 --> 00:06:57,600
+ number one to control.
+
+72
+00:06:57,600 --> 00:07:02,400
+ The presence of carbon dioxide and all the other greenhouse gases in the atmosphere leads
+
+73
+00:07:02,400 --> 00:07:10,600
+ to a phenomenon called the greenhouse effect.
+
+74
+00:07:10,600 --> 00:07:17,480
+ These gases being in our atmosphere trap the energy that comes to earth from our very
+
+75
+00:07:17,480 --> 00:07:20,200
+ own sun.
+
+76
+00:07:20,200 --> 00:07:29,520
+ The sun warms the earth's surface, that heat bounces back up, radiates outward, but all
+
+77
+00:07:29,520 --> 00:07:36,240
+ of it doesn't get to escape back into space, so some of it's reflected back down to earth
+
+78
+00:07:36,240 --> 00:07:43,280
+ by the greenhouse gases.
+
+79
+00:07:43,280 --> 00:07:50,520
+ So we could say the greenhouse gases we have here on earth act like a sort of a atmospheric
+
+80
+00:07:50,520 --> 00:07:57,000
+ blanket, just like you sleeping under a blanket, your body heat warms the blanket and traps
+
+81
+00:07:57,000 --> 00:08:02,040
+ the heat, so that blanket keeps you warm.
+
+82
+00:08:02,040 --> 00:08:07,800
+ As we get more greenhouse gases accumulating in the atmosphere, it's like having a thicker
+
+83
+00:08:07,800 --> 00:08:16,400
+ blanket, more heat is retained and re-radiated, just like a warmer temperature under a blanket
+
+84
+00:08:16,400 --> 00:08:18,800
+ that you might use yourself.
+
+85
+00:08:18,800 --> 00:08:25,200
+ Well, what if I told you that the greenhouse effect is good for life here on earth?
+
+86
+00:08:25,200 --> 00:08:31,840
+ Well, that actually is true, it's not in itself a dangerous phenomenon, it's necessary for
+
+87
+00:08:31,840 --> 00:08:35,480
+ humans and all other living organisms here on earth.
+
+88
+00:08:35,480 --> 00:08:42,960
+ If earth's atmosphere did not have some greenhouse gases, too much heat would be lost to space,
+
+89
+00:08:42,960 --> 00:08:46,840
+ and then the earth would be too cold to support life.
+
+90
+00:08:46,840 --> 00:08:53,320
+ The danger imposed by anthropogenic global warming is in the speed of temperature increase,
+
+91
+00:08:53,320 --> 00:08:57,920
+ and thus the changes in weather patterns and sea levels that exceed the ability of many
+
+92
+00:08:57,920 --> 00:09:00,340
+ living organisms to adapt.
+
+93
+00:09:00,340 --> 00:09:08,000
+ So what might this mean for our very own species?
+
+94
+00:09:08,000 --> 00:09:13,560
+ Well remember we have a lot of water here on earth, and bodies of water absorb energy
+
+95
+00:09:13,560 --> 00:09:18,400
+ and help maintain stable temperatures here on earth.
+
+96
+00:09:18,400 --> 00:09:23,920
+ You'll remember with the hydrogen bonds that water has between the water molecules, it
+
+97
+00:09:23,920 --> 00:09:28,640
+ makes water heat up slowly and resist temperature changes.
+
+98
+00:09:28,640 --> 00:09:37,320
+ This is actually good for life on earth because we don't like drastic temperature changes.
+
+99
+00:09:37,320 --> 00:09:43,240
+ Heat is the total amount of energy associated with the movement of atoms and molecules,
+
+100
+00:09:43,240 --> 00:09:50,280
+ and temperature measures the intensity of heat or how fast the molecules are moving.
+
+101
+00:09:50,280 --> 00:09:57,640
+ Large volumes contain more heat due to greater totals of molecular movements.
+
+102
+00:09:57,640 --> 00:10:02,560
+ Again the formation of hydrogen bonds between neighboring molecules of water makes it more
+
+103
+00:10:02,560 --> 00:10:09,040
+ cohesive than other liquids, in other words water molecules tend to stick together.
+
+104
+00:10:09,040 --> 00:10:13,840
+ These same hydrogen bonds also make water resistant to temperature changes.
+
+105
+00:10:13,840 --> 00:10:19,480
+ Even when a large amount of heat is added, that phenomenon occurs because when water
+
+106
+00:10:19,480 --> 00:10:24,960
+ is heated the energy first must disrupt the hydrogen bonds.
+
+107
+00:10:24,960 --> 00:10:29,940
+ Only after enough of the hydrogen bonds have been broken can heat cause individual water
+
+108
+00:10:29,940 --> 00:10:35,040
+ molecules to move faster, thus increasing their temperature.
+
+109
+00:10:35,040 --> 00:10:41,720
+ When water cools, the hydrogen bonds reform between adjacent water molecules.
+
+110
+00:10:41,720 --> 00:10:44,720
+ This releases heat into the atmosphere.
+
+111
+00:10:44,720 --> 00:10:50,560
+ A body of water can store a large amount of heat from its surroundings while experiencing
+
+112
+00:10:50,560 --> 00:10:58,760
+ only a small increase in temperature and vice versa.
+
+113
+00:10:58,760 --> 00:11:05,880
+ Water's heat, absorbing capacity, has important effects on our Earth's climate.
+
+114
+00:11:05,880 --> 00:11:11,560
+ And after all we have a lot of water on Earth with all of our oceans and lakes and all that
+
+115
+00:11:11,560 --> 00:11:17,840
+ water helps to keep temperatures moderate by absorbing huge amounts of heat radiated
+
+116
+00:11:17,840 --> 00:11:23,360
+ by the sun and then releasing that heat during less sunnier times.
+
+117
+00:11:23,360 --> 00:11:41,360
+ This warms the air and prevents large temperature swings.
+
+118
+00:11:41,360 --> 00:11:56,360
+ [BLANK_AUDIO]
+
+119
+00:12:11,360 --> 00:12:29,840
+ As the temperature continues to rise, individual water molecules can move fast enough to break
+
+120
+00:12:29,840 --> 00:12:34,980
+ free of all hydrogen bonds and then rise up into the air as water vapor.
+
+121
+00:12:34,980 --> 00:12:39,960
+ And that's the basis for our water cycle here on Earth.
+
+122
+00:12:39,960 --> 00:12:47,520
+ Water moves from land, oceans, and lakes to clouds, and then back to the Earth's surfaces
+
+123
+00:12:47,520 --> 00:12:53,880
+ again, as we see in this diagram here.
+
+124
+00:12:53,880 --> 00:12:59,760
+ As the amount of heat trapped near our Earth's surface has increased, well, the water cycle
+
+125
+00:12:59,760 --> 00:13:00,760
+ has changed.
+
+126
+00:13:00,760 --> 00:13:02,200
+ It's sped up.
+
+127
+00:13:02,200 --> 00:13:09,120
+ The intensification of the cycle leads to more extremes on both ends of the climate spectrum.
+
+128
+00:13:09,120 --> 00:13:14,500
+ In other words, wet places are getting wetter and dry places are getting drier.
+
+129
+00:13:14,500 --> 00:13:24,000
+ The carbon dioxide increase driving this change comes from many different sources.
+
+130
+00:13:24,000 --> 00:13:28,680
+ First I'll ask this question, "How does your body heat compare to the cool lake where
+
+131
+00:13:28,680 --> 00:13:31,160
+ you swim?"
+
+132
+00:13:31,160 --> 00:13:37,280
+ Well the answer is B. Remember that heat is the total amount of energy associated with
+
+133
+00:13:37,280 --> 00:13:43,520
+ the movement of atoms and molecules, while a lake contains more heat because it has a
+
+134
+00:13:43,520 --> 00:13:49,200
+ greater volume of molecular movement than just your body.
+
+135
+00:13:49,200 --> 00:13:58,880
+ To help us understand a little bit more about our greenhouse gases like carbon dioxide, let's
+
+136
+00:13:58,880 --> 00:14:02,400
+ take a look at the flow of carbon on Earth.
+
+137
+00:14:02,400 --> 00:14:07,680
+ The flow of carbon on Earth is called the carbon cycle.
+
+138
+00:14:07,680 --> 00:14:13,620
+ Remember that the atoms that make up living organisms primarily contain a lot of carbon.
+
+139
+00:14:13,620 --> 00:14:20,320
+ That's why we call life here on Earth carbon based life or organic life.
+
+140
+00:14:20,320 --> 00:14:27,040
+ Carbon can also be found in the atmosphere as carbon dioxide, it can also be found absorbed
+
+141
+00:14:27,040 --> 00:14:42,520
+ in the water, lakes and our oceans and other bodies of water and even in rocks as well.
+
+142
+00:14:42,520 --> 00:14:48,760
+ And most of the carbon dioxide in our atmosphere is actually not from natural processes, it
+
+143
+00:14:48,760 --> 00:14:56,920
+ comes from the combustion of fossil fuels, which as you can see when we go back to the
+
+144
+00:14:56,920 --> 00:15:03,800
+ this picture is shown here with industry emitting carbon dioxide into the atmosphere.
+
+145
+00:15:03,800 --> 00:15:15,520
+ It's also emitted into the atmosphere from Earth through volcanoes as well.
+
+146
+00:15:15,520 --> 00:15:23,600
+ As part of the carbon cycle, carbon dioxide is absorbed by plants and algae and some bacteria
+
+147
+00:15:23,600 --> 00:15:26,920
+ who are able to perform photosynthesis.
+
+148
+00:15:26,920 --> 00:15:33,680
+ They take in the carbon dioxide and they convert it to sugars or carbohydrates with the use
+
+149
+00:15:33,680 --> 00:15:36,080
+ of sunlight energy.
+
+150
+00:15:36,080 --> 00:15:41,520
+ And then this, the sugars created by photosynthesis are the source of cellular energy
+
+151
+00:15:41,520 --> 00:15:45,800
+ for most organisms here on Earth.
+
+152
+00:15:45,800 --> 00:15:53,560
+ That carbon is eventually then released by the organisms that consume the carbohydrates
+
+153
+00:15:53,560 --> 00:15:59,360
+ by, well, breathing for one thing when you breathe out carbon dioxide that goes back
+
+154
+00:15:59,360 --> 00:16:01,400
+ into the atmosphere.
+
+155
+00:16:01,400 --> 00:16:08,440
+ But you can also release carbon back to Earth when you die as well and decomposers break
+
+156
+00:16:08,440 --> 00:16:15,440
+ down the carbohydrates in your body and other molecules and then release that back to Earth.
+
+157
+00:16:15,440 --> 00:16:24,000
+ There are some unconsumed carbohydrates that have been buried for millennia and those
+
+158
+00:16:24,000 --> 00:16:29,200
+ are called fossil fuels.
+
+159
+00:16:29,200 --> 00:16:34,760
+ These are highly concentrated energy sources, lots of carbon and hydrogen and bonds with
+
+160
+00:16:34,760 --> 00:16:40,600
+ their potential energy in those bonds, just waiting there for us to dig them out and burn
+
+161
+00:16:40,600 --> 00:16:44,480
+ them as our fuel.
+
+162
+00:16:44,480 --> 00:16:50,360
+ These were produced from unconsumed carbohydrates of ancient buried organisms.
+
+163
+00:16:50,360 --> 00:16:54,440
+ They're transformed by heat and pressure.
+
+164
+00:16:54,440 --> 00:17:00,600
+ Examples include petroleum, coal, and natural gas.
+
+165
+00:17:00,600 --> 00:17:07,120
+ Humans now use fossil fuels, especially since the industrial revolution to power homes, vehicles,
+
+166
+00:17:07,120 --> 00:17:08,640
+ and businesses.
+
+167
+00:17:08,640 --> 00:17:16,880
+ This releases that stored carbon that's been there for millions of years and then, unfortunately,
+
+168
+00:17:16,880 --> 00:17:25,600
+ contributes to the accumulation of atmospheric carbon dioxide.
+
+169
+00:17:25,600 --> 00:17:29,320
+ Human use of fossil fuels is having a measurable effect.
+
+170
+00:17:29,320 --> 00:17:35,160
+ Increases in carbon dioxide in the atmosphere are well documented by direct measurements
+
+171
+00:17:35,160 --> 00:17:38,240
+ over the past 50 years.
+
+172
+00:17:38,240 --> 00:17:42,560
+ In addition, scientists can analyze fossil air.
+
+173
+00:17:42,560 --> 00:17:43,560
+ Can you believe it?
+
+174
+00:17:43,560 --> 00:17:44,560
+ Fossilized air.
+
+175
+00:17:44,560 --> 00:17:52,280
+ But yeah, it's been trapped within ancient ice sheets and then we can use that to determine
+
+176
+00:17:52,280 --> 00:17:57,440
+ carbon dioxide over longer time spans.
+
+177
+00:17:57,440 --> 00:18:05,240
+ Such measurement is possible because snow falling on an ice sheet traps the air as snow accumulates
+
+178
+00:18:05,240 --> 00:18:12,520
+ underlying snow is compressed into ice and the trapped air becomes tiny, ice encased
+
+179
+00:18:12,520 --> 00:18:14,320
+ air bubbles.
+
+180
+00:18:14,320 --> 00:18:23,280
+ It gives us a way to look back into history and see what the earth's atmosphere was like
+
+181
+00:18:23,280 --> 00:18:26,440
+ at the time those air bubbles were trapped.
+
+182
+00:18:26,440 --> 00:18:30,760
+ These are called ice cores.
+
+183
+00:18:30,760 --> 00:18:36,760
+ From these, we were able to see that current carbon dioxide levels are the highest level
+
+184
+00:18:36,760 --> 00:18:45,160
+ in over 400,000 years and we know temperature and carbon dioxide levels are correlated.
+
+185
+00:18:45,160 --> 00:18:51,960
+ First, I want to go back to this graph as well as we can see the average concentration
+
+186
+00:18:51,960 --> 00:18:56,600
+ of carbon dioxide steadily increasing over time.
+
+187
+00:18:56,600 --> 00:19:04,320
+ Here, carbon dioxide concentration is measured in parts per million.
+
+188
+00:19:04,320 --> 00:19:10,680
+ And this graph is only from 1960 to 2017.
+
+189
+00:19:10,680 --> 00:19:15,920
+ Imagine what the graph would look like over the last 400,000 years.
+
+190
+00:19:15,920 --> 00:19:23,960
+ But this is well documented actual data and evidence.
+
+191
+00:19:23,960 --> 00:19:32,740
+ Again, temperature and carbon dioxide levels are correlated and here we can see that.
+
+192
+00:19:32,740 --> 00:19:39,200
+ Here we see records of temperature and atmospheric carbon dioxide concentration from Antarctic
+
+193
+00:19:39,200 --> 00:19:40,880
+ ice cores.
+
+194
+00:19:40,880 --> 00:19:46,800
+ This data indicates that increases in carbon dioxide levels are correlated with higher
+
+195
+00:19:46,800 --> 00:19:47,800
+ temperatures.
+
+196
+00:19:47,800 --> 00:19:54,740
+ So, when carbon dioxide levels and the atmosphere are high, well, take a look at what happens
+
+197
+00:19:54,740 --> 00:19:56,040
+ to the temperature.
+
+198
+00:19:56,040 --> 00:19:59,000
+ The temperature also goes up.
+
+199
+00:19:59,000 --> 00:20:06,000
+ Take a look at the present one right here.
+
+200
+00:20:06,000 --> 00:20:14,320
+ Carbon dioxide concentration is way up here and what's going to happen to our temperature.
+
+201
+00:20:14,320 --> 00:20:17,120
+ If we look in the past, look at the blue line.
+
+202
+00:20:17,120 --> 00:20:27,760
+ This is what's happened every time our carbon dioxide levels have gotten high.
+
+203
+00:20:27,760 --> 00:20:32,920
+ There's a video embedded into this slide show called the carbon cycle.
+
+204
+00:20:32,920 --> 00:20:38,480
+ If you're unable to play it over your slide show, you can also click on this YouTube video
+
+205
+00:20:38,480 --> 00:20:53,400
+ here or just do a search on YouTube for carbon cycle and there's a plethora of videos available.
+
+206
+00:20:53,400 --> 00:20:59,760
+ Modern plants and certain microorganisms do as their ancient predecessors did, they absorb
+
+207
+00:20:59,760 --> 00:21:04,800
+ carbon dioxide from the atmosphere and convert it to carbohydrates.
+
+208
+00:21:04,800 --> 00:21:10,480
+ Is it possible that we could depend on these modern organisms to reduce the amount of greenhouse
+
+209
+00:21:10,480 --> 00:21:16,760
+ gases released by fossil fuel burning and thus the threat posed by global climate change?
+
+210
+00:21:16,760 --> 00:21:24,040
+ Well, photosynthesis is the process that traps light energy from the sun and uses it to convert
+
+211
+00:21:24,040 --> 00:21:28,880
+ carbon dioxide and water into sugars or carbohydrates.
+
+212
+00:21:28,880 --> 00:21:35,240
+ In other words, photosynthesis transforms solar energy into the chemical energy required
+
+213
+00:21:35,240 --> 00:21:40,000
+ by all living things here on Earth.
+
+214
+00:21:40,000 --> 00:21:46,680
+ In the picture below, we see a chloroplasts, which is an organelle that all photosynthetic
+
+215
+00:21:46,680 --> 00:21:51,680
+ organisms have in order to do these reactions.
+
+216
+00:21:51,680 --> 00:22:03,760
+ Plants, some protists like algae and some bacteria like cyanobacteria are able to do this.
+
+217
+00:22:03,760 --> 00:22:12,640
+ A chloroplasts is like an envelope, it has an inner and outer membrane to enclose it.
+
+218
+00:22:12,640 --> 00:22:18,760
+ Some other parts are the stroma, which is the fluid-filled compartment.
+
+219
+00:22:18,760 --> 00:22:24,480
+ This holds a lot of enzymes or proteins for doing the process of photosynthesis.
+
+220
+00:22:24,480 --> 00:22:27,480
+ It's like a thick fluid area.
+
+221
+00:22:27,480 --> 00:22:32,120
+ Then there's these little stacks of disks called the phylicoids.
+
+222
+00:22:32,120 --> 00:22:37,400
+ These are little structures that have membranes of their own that are stacked in piles and
+
+223
+00:22:37,400 --> 00:22:45,000
+ again increase the surface area for areas to do photosynthesis reactions.
+
+224
+00:22:45,000 --> 00:22:52,440
+ These phylicoids also hold chlorophyll, which is different pigment molecules.
+
+225
+00:22:52,440 --> 00:22:56,360
+ There's more than one type of chlorophyll, but there are different pigment molecules
+
+226
+00:22:56,360 --> 00:22:58,640
+ made of protein.
+
+227
+00:22:58,640 --> 00:23:04,600
+ They cover the surface of the phylicoid disk and they absorb light energy from the sun.
+
+228
+00:23:04,600 --> 00:23:07,120
+ That's their job.
+
+229
+00:23:07,120 --> 00:23:16,020
+ Some of them are more made to absorb the electromagnetic spectrum parts that are purple
+
+230
+00:23:16,020 --> 00:23:19,840
+ and blue that we would see as visible light.
+
+231
+00:23:19,840 --> 00:23:26,400
+ Others, red and oranges, but you'll notice that most of these photosynthetic organisms
+
+232
+00:23:26,400 --> 00:23:34,160
+ are green and that's because their chlorophyll reflects back the green light.
+
+233
+00:23:34,160 --> 00:23:39,040
+ That's because they're not using as much of the green light as they are the purple,
+
+234
+00:23:39,040 --> 00:23:43,920
+ blues, oranges and reds.
+
+235
+00:23:43,920 --> 00:23:46,320
+ This is why plants are green.
+
+236
+00:23:46,320 --> 00:23:51,280
+ They reflect the visible light that they're not using and it turns out that they're just
+
+237
+00:23:51,280 --> 00:23:56,960
+ not really using much of the greens and yellows.
+
+238
+00:23:56,960 --> 00:24:00,560
+ Here's the equation for the process of photosynthesis.
+
+239
+00:24:00,560 --> 00:24:08,400
+ We take carbon dioxide from the atmosphere also some water and light energy from the sun.
+
+240
+00:24:08,400 --> 00:24:17,040
+ From that, reactions occur which make glucose, sugar, carbohydrate that feeds the world and
+
+241
+00:24:17,040 --> 00:24:23,520
+ then oxygen which, hey, we kind of like oxygen too because we need to breathe that.
+
+242
+00:24:23,520 --> 00:24:31,280
+ The chemical equation that's balanced is listed here and it occurs in two steps in different
+
+243
+00:24:31,280 --> 00:24:33,440
+ areas of the chloroplasts.
+
+244
+00:24:33,440 --> 00:24:42,400
+ The light reactions which occur in the phylicoids in the chlorophyll laden areas and then the
+
+245
+00:24:42,400 --> 00:24:49,200
+ light independent reactions or sometimes also known as the Calvin cycle which occurs in
+
+246
+00:24:49,200 --> 00:24:54,280
+ the stroma which is the liquid portion of the chloroplasts.
+
+247
+00:24:54,280 --> 00:24:56,800
+ So here's a big picture of chloroplasts.
+
+248
+00:24:56,800 --> 00:25:02,120
+ The light reactions occur here in the phylicoids where we have plenty of chlorophyll absorbing
+
+249
+00:25:02,120 --> 00:25:13,120
+ sunlight and then dark reactions where the sugar is actually made here in the stroma.
+
+250
+00:25:13,120 --> 00:25:21,480
+ In the light reactions sunlight actually excites chlorophyll, it excites the electrons in chlorophyll
+
+251
+00:25:21,480 --> 00:25:22,480
+ molecules.
+
+252
+00:25:22,480 --> 00:25:28,960
+ We've talked about in our last chapter how important electrons are, how they have potential
+
+253
+00:25:28,960 --> 00:25:34,440
+ energy and when they move that changes to kinetic energy.
+
+254
+00:25:34,440 --> 00:25:41,680
+ Well it's kind of the same idea here is that sunlight hits chlorophyll and it bounces up
+
+255
+00:25:41,680 --> 00:25:46,000
+ electrons.
+
+256
+00:25:46,000 --> 00:25:51,480
+ Then we have some receivers that grab onto those electrons as well.
+
+257
+00:25:51,480 --> 00:25:57,200
+ Remember electrons also like to travel with their hydrogen so we have again kind of the
+
+258
+00:25:57,200 --> 00:26:04,760
+ taxi cab that grabs onto them, the NAD, this time it's pH, for cell respiration it was
+
+259
+00:26:04,760 --> 00:26:10,720
+ just NADH but in photosynthesis their molecule is NADPH.
+
+260
+00:26:10,720 --> 00:26:14,280
+ They grab that extra H on the end there.
+
+261
+00:26:14,280 --> 00:26:20,280
+ The light reactions are also thing to generate some ATP and they're going to produce some
+
+262
+00:26:20,280 --> 00:26:25,720
+ oxygen as well.
+
+263
+00:26:25,720 --> 00:26:31,440
+ The light reactions use water, that's why you need to water your plants.
+
+264
+00:26:31,440 --> 00:26:39,440
+ They actually split water and they take the hydrogens which contain their wonderful electrons
+
+265
+00:26:39,440 --> 00:26:45,320
+ and then they use those electrons to move them along enzymes just kind of like cell respiration
+
+266
+00:26:45,320 --> 00:26:46,320
+ here.
+
+267
+00:26:46,320 --> 00:26:51,000
+ When the electrons move along these enzymes it pumps hydrogen down here into the middle
+
+268
+00:26:51,000 --> 00:26:52,600
+ of the filacoid.
+
+269
+00:26:52,600 --> 00:27:00,320
+ Now we get that concentration gradient difference where hydrogen moves to an area and then moves
+
+270
+00:27:00,320 --> 00:27:07,240
+ down again ATP synthase which is strategically placed so that these hydrogens move down it
+
+271
+00:27:07,240 --> 00:27:12,520
+ and spin it and so some ATP is made also from photosynthesis.
+
+272
+00:27:12,520 --> 00:27:19,720
+ Most people don't know that but it is but the electrons move forward and I won't get
+
+273
+00:27:19,720 --> 00:27:22,160
+ into all the details here.
+
+274
+00:27:22,160 --> 00:27:29,600
+ The electrons move forward with their hydrogens through their little taxi cab and are delivered
+
+275
+00:27:29,600 --> 00:27:36,880
+ to the stroma out here where the calvin cycle or light independent reactions occur.
+
+276
+00:27:36,880 --> 00:27:44,280
+ So this part is really similar to cell respiration in that we're trying to gather electrons with
+
+277
+00:27:44,280 --> 00:27:52,880
+ their H's of course, they travel as an H and the taxi cab molecule brings it to this last
+
+278
+00:27:52,880 --> 00:27:58,400
+ reaction here, the light independent reactions where we're going to use again those hydrogens
+
+279
+00:27:58,400 --> 00:28:03,280
+ with their electron to generate sugar this time.
+
+280
+00:28:03,280 --> 00:28:08,400
+ But in doing so with some of the other things going on here we are able to generate some
+
+281
+00:28:08,400 --> 00:28:14,840
+ ATP as well.
+
+282
+00:28:14,840 --> 00:28:19,040
+ Which molecule is produced during the light reactions of photosynthesis?
+
+283
+00:28:19,040 --> 00:28:27,360
+ Well that is oxygen and if I go back here oxygen is produced when plants split water.
+
+284
+00:28:27,360 --> 00:28:32,920
+ When the H's and electrons are taken from the water then we have oxygen left over as
+
+285
+00:28:32,920 --> 00:28:43,720
+ a byproduct so the plant breathes that out.
+
+286
+00:28:43,720 --> 00:28:48,880
+ Which molecule is the final product of the light independent reactions?
+
+287
+00:28:48,880 --> 00:28:53,520
+ Well we haven't talked about that yet but I hope from the equations that I showed you
+
+288
+00:28:53,520 --> 00:29:01,280
+ that you know that it is letter A that it's the sugar glucose.
+
+289
+00:29:01,280 --> 00:29:07,240
+ There's some other molecules involved listed here that we'll talk about a little bit.
+
+290
+00:29:07,240 --> 00:29:13,000
+ So the light independent reactions also known as the Kelvin cycle are a series of reactions
+
+291
+00:29:13,000 --> 00:29:19,160
+ that occur in the liquid portion of the chloroplast called the stroma.
+
+292
+00:29:19,160 --> 00:29:27,720
+ Their job is to use those H's that were gathered from the light reactions and even the ATP that
+
+293
+00:29:27,720 --> 00:29:36,840
+ was generated and then produce sugar.
+
+294
+00:29:36,840 --> 00:29:43,960
+ The light independent reactions or Kelvin cycle begins with RUBP.
+
+295
+00:29:43,960 --> 00:29:52,640
+ This is the molecule that's coming off of the cycle so the job is that this enzyme here
+
+296
+00:29:52,640 --> 00:30:01,160
+ called rubisco, ribulose, biphosphate, carboxylase oxygenase you can tell it's an enzyme there
+
+297
+00:30:01,160 --> 00:30:09,520
+ with all the ASE endings but this enzyme grabs carbon dioxide out of the air and then joins
+
+298
+00:30:09,520 --> 00:30:17,400
+ it with RUBP which is coming off of the Kelvin cycle and makes a six carbon molecule which
+
+299
+00:30:17,400 --> 00:30:27,040
+ then a series of reactions breaks it into two three carbon molecules.
+
+300
+00:30:27,040 --> 00:30:34,040
+ As we can see here here we see rubisco the enzyme grabbing RUBP coming off of the cycle
+
+301
+00:30:34,040 --> 00:30:40,220
+ that's the leftovers from the last turn of the cycle also grabbing carbon dioxide out
+
+302
+00:30:40,220 --> 00:30:47,480
+ of the air joining them together and making a product that eventually results in what's
+
+303
+00:30:47,480 --> 00:30:52,600
+ called G3P this is kind of the precursor of glucose.
+
+304
+00:30:52,600 --> 00:30:59,360
+ We don't actually end up with C6H1206 glucose right away it's going to take a little bit
+
+305
+00:30:59,360 --> 00:31:06,880
+ for the plant to actually build that but G3P is a three carbon molecule that can be used
+
+306
+00:31:06,880 --> 00:31:13,360
+ to make glucose eventually and then the plant will be able to store that glucose as usually
+
+307
+00:31:13,360 --> 00:31:23,880
+ starch in its big storage vacuole that we know that plant cells have.
+
+308
+00:31:23,880 --> 00:31:29,800
+ Again there is a photosynthesis animation embedded into this PowerPoint and if it doesn't work
+
+309
+00:31:29,800 --> 00:31:36,720
+ just go to YouTube and do a search for photosynthesis animation and you'll be able to find all
+
+310
+00:31:36,720 --> 00:31:43,960
+ kinds of videos that will pop up so we've established that in order to do this wonderful
+
+311
+00:31:43,960 --> 00:31:51,920
+ process of photosynthesis plants need carbon dioxide to do that as well as water and other
+
+312
+00:31:51,920 --> 00:32:01,480
+ things as well so how do plants allow carbon dioxide into their leaves leaves are like
+
+313
+00:32:01,480 --> 00:32:07,200
+ big solar panels attracting sunlight well within the leaves are these little openings
+
+314
+00:32:07,200 --> 00:32:15,360
+ called stomata and if you had a microscope and took a thin peel of a leaf you'd be able
+
+315
+00:32:15,360 --> 00:32:21,200
+ to see stomata and they look like this they look like little eyeballs looking at you actually
+
+316
+00:32:21,200 --> 00:32:28,080
+ and they can open and close so if they want to close to conserve water or not let air in
+
+317
+00:32:28,080 --> 00:32:35,080
+ they can do that or they can open up wide and let lots of carbon dioxide into the leaf
+
+318
+00:32:35,080 --> 00:32:40,120
+ but then also when they are open they will lose water as well these cells that are kind
+
+319
+00:32:40,120 --> 00:32:45,640
+ of banana shaped around this the stomata are called guard cells and they help regulate
+
+320
+00:32:45,640 --> 00:32:51,200
+ the stomata openings.
+
+321
+00:32:51,200 --> 00:32:56,920
+ Transpiration is the movement of water through the stomata again when the stomata are open
+
+322
+00:32:56,920 --> 00:33:06,040
+ like we see here they're letting carbon dioxide in but they're losing water in the process
+
+323
+00:33:06,040 --> 00:33:11,640
+ in a tropical plant that's really not a problem but in a desert plant that might be a problem
+
+324
+00:33:11,640 --> 00:33:18,360
+ we'll talk about that when the stomata are closed like we see in the bottom picture water
+
+325
+00:33:18,360 --> 00:33:26,480
+ can be conserved but getting carbon dioxide in then becomes a problem so higher temperatures
+
+326
+00:33:26,480 --> 00:33:32,460
+ can lower the rate of photosynthesis because a plant doesn't want to leave its stomata
+
+327
+00:33:32,460 --> 00:33:41,000
+ open and then risk loss of all that water.
+
+328
+00:33:41,000 --> 00:33:46,240
+ What structures and land plants allow carbon dioxide to enter and oxygen gas to be released
+
+329
+00:33:46,240 --> 00:33:55,360
+ well as well as water well that would be letter B the stomata.
+
+330
+00:33:55,360 --> 00:34:02,680
+ So back to that problem here where plants have their stomata open and then well that
+
+331
+00:34:02,680 --> 00:34:08,680
+ lets in a lot of carbon dioxide so that's good for making sugar through photosynthesis
+
+332
+00:34:08,680 --> 00:34:14,660
+ but it also risks the loss of water.
+
+333
+00:34:14,660 --> 00:34:18,920
+ Again tropical plants not a problem where there's plenty of moisture but in a desert
+
+334
+00:34:18,920 --> 00:34:24,160
+ that could be a huge problem.
+
+335
+00:34:24,160 --> 00:34:33,200
+ Well there's a few reasons that plants have evolved other mechanisms and the loss of water
+
+336
+00:34:33,200 --> 00:34:35,840
+ through the stomata is one of them.
+
+337
+00:34:35,840 --> 00:34:42,420
+ Another reason that plants have evolved another type of mechanism for photosynthesis is due
+
+338
+00:34:42,420 --> 00:34:50,360
+ to a process called photorespiration and photorespiration counteracts photosynthesis.
+
+339
+00:34:50,360 --> 00:34:59,220
+ You see rubisco evolved a long time ago when there really wasn't a lot of oxygen on earth
+
+340
+00:34:59,220 --> 00:35:07,280
+ but it turns out that besides grabbing carbon dioxide out of the air rubisco also sometimes
+
+341
+00:35:07,280 --> 00:35:11,560
+ accidentally grabs oxygen and that's not good.
+
+342
+00:35:11,560 --> 00:35:19,000
+ We want our photosynthetic enzyme rubisco we want that to grab carbon dioxide so that
+
+343
+00:35:19,000 --> 00:35:28,080
+ we can be very efficient and make sugar carbohydrates but if rubisco grabs oxygen and then joins
+
+344
+00:35:28,080 --> 00:35:35,560
+ it to the RUBP we make an acid it's called glycolate that really is not going to be useful
+
+345
+00:35:35,560 --> 00:35:36,560
+ to the plant.
+
+346
+00:35:36,560 --> 00:35:43,840
+ In fact it makes an acid that must be destroyed it creates more work for the plant and the
+
+347
+00:35:43,840 --> 00:35:51,360
+ plant won't make sugar and it won't make ATP and will release carbon dioxide instead
+
+348
+00:35:51,360 --> 00:35:52,360
+ of oxygen.
+
+349
+00:35:52,360 --> 00:35:59,560
+ It's kind of like in the picture below where here rubisco is supposed to be with CO2 but
+
+350
+00:35:59,560 --> 00:36:06,600
+ well once in a while it is good at grabbing oxygen as well so again that's called photorespiration
+
+351
+00:36:06,600 --> 00:36:13,440
+ so it just shows us that our enzyme rubisco is not perfect though we wish it was but it
+
+352
+00:36:13,440 --> 00:36:20,800
+ is not perfect so it's another reason why plants have evolved another way to do photosynthesis
+
+353
+00:36:20,800 --> 00:36:26,000
+ to avoid some of these problems again one of the problems to avoid is loss of water through
+
+354
+00:36:26,000 --> 00:36:35,840
+ the stomata and another problem is to avoid having rubisco grab the wrong molecule oxygen.
+
+355
+00:36:35,840 --> 00:36:42,280
+ The type of photosynthesis that we've been talking about is called C3 photosynthesis where
+
+356
+00:36:42,280 --> 00:36:50,360
+ that whole process actually resulted in making a three carbon molecule that eventually we
+
+357
+00:36:50,360 --> 00:36:53,760
+ turn to sugar or the plant turns to sugar.
+
+358
+00:36:53,760 --> 00:37:00,440
+ They are strictly only using bad enzyme rubisco so we know once in a while rubisco does grab
+
+359
+00:37:00,440 --> 00:37:09,600
+ oxygen by accident so photorespiration may occur they are able to conserve water when
+
+360
+00:37:09,600 --> 00:37:19,840
+ hot by closing their stomata soybeans are a good example of C3 plants.
+
+361
+00:37:19,840 --> 00:37:28,080
+ As the earth warms it's possible that the abundance of C3 plants may decline as a result
+
+362
+00:37:28,080 --> 00:37:38,200
+ of the increased burden of photorespiration in C4 plants they're able to avoid that problem
+
+363
+00:37:38,200 --> 00:37:45,400
+ of photorespiration by using a different enzyme all together initially to grab carbon dioxide
+
+364
+00:37:45,400 --> 00:37:53,000
+ out of the air it's called PEP carboxylase it's used to grab carbon dioxide out of the
+
+365
+00:37:53,000 --> 00:37:59,920
+ air it's very good at it and then it passes it on eventually then to rubisco who's a little
+
+366
+00:37:59,920 --> 00:38:07,000
+ deeper within the plant and then photosynthesis occurs as normal but it produces a four carbon
+
+367
+00:38:07,000 --> 00:38:17,120
+ sugar instead of a three carbon sugar so we say C4 plants have additional pathways to concentrate
+
+368
+00:38:17,120 --> 00:38:26,000
+ carbon dioxide to produce their four carbon sugars mostly grasses are C4 plants as the
+
+369
+00:38:26,000 --> 00:38:34,080
+ earth warms it's possible that the abundance of C4 plants might increase and again C4 plants
+
+370
+00:38:34,080 --> 00:38:46,200
+ are mostly grasses whereas most trees are the C3 plants because net rates of photosynthesis
+
+371
+00:38:46,200 --> 00:38:53,440
+ in grasslands as measured by grams of carbon dioxide removed from the atmosphere per acre
+
+372
+00:38:53,440 --> 00:39:01,920
+ per year are 30% to 60% less than the rates of forests the replacement of trees with grasses
+
+373
+00:39:01,920 --> 00:39:13,720
+ significantly decreases the rate of removal of carbon dioxide from the atmosphere corn
+
+374
+00:39:13,720 --> 00:39:24,920
+ is also a C4 plant besides grasses a third type of plant and third type of photosynthesis
+
+375
+00:39:24,920 --> 00:39:33,280
+ called cam photosynthesis these plants typically live in drier areas and are trying to avoid
+
+376
+00:39:33,280 --> 00:39:39,040
+ that problem of losing water through their stomata so to combat that they close their
+
+377
+00:39:39,040 --> 00:39:46,400
+ stomata during the day and then they open the stomata at night so while the stomata
+
+378
+00:39:46,400 --> 00:39:53,880
+ are open at night they allow carbon dioxide in and then they store it as an organic acid
+
+379
+00:39:53,880 --> 00:40:00,240
+ and then once the sun comes out for the day the stomata close up and then those organic
+
+380
+00:40:00,240 --> 00:40:06,000
+ acids that have the carbon dioxide stored within them are broken down and then used
+
+381
+00:40:06,000 --> 00:40:18,600
+ for photosynthesis during the day again jade is an example of a cam plant so what type
+
+382
+00:40:18,600 --> 00:40:24,960
+ of plants open their stomata only at night well that would be the cam plants they open
+
+383
+00:40:24,960 --> 00:40:32,280
+ their stomata night and let the carbon dioxide in and conserve water that way but photosynthesis
+
+384
+00:40:32,280 --> 00:40:37,080
+ still requires light so they still do photosynthesis during the day it's just that they
+
+385
+00:40:37,080 --> 00:40:46,520
+ have to collect their carbon dioxide at night again as earth warms up amount or abundance
+
+386
+00:40:46,520 --> 00:40:54,920
+ of cam plants will probably increase so again as earth warms up we have c4 plants and possibly
+
+387
+00:40:54,920 --> 00:41:03,360
+ even cam plants outperforming the c3 plants and as we've already established c3 plants
+
+388
+00:41:03,360 --> 00:41:15,920
+ like trees actually take more carbon dioxide out of the air then do the c4 plants so as
+
+389
+00:41:15,920 --> 00:41:24,080
+ the c4 plants outperform the c3 plants deforestation the loss of trees can happen naturally in
+
+390
+00:41:24,080 --> 00:41:31,700
+ a warming earth but it's already happening at higher the natural rates thanks to human
+
+391
+00:41:31,700 --> 00:41:39,760
+ activities deforestation occurs when forests are cleared for logging farming and over ever
+
+392
+00:41:39,760 --> 00:41:45,840
+ expanding human settlements it contributes directly to the increase in carbon dioxide
+
+393
+00:41:45,840 --> 00:41:52,680
+ within the atmosphere current estimates are that up to 25% of the carbon dioxide introduced
+
+394
+00:41:52,680 --> 00:41:58,760
+ into the atmosphere originates from the cutting and burning of forests in just the tropics
+
+395
+00:41:58,760 --> 00:42:06,720
+ alone clearly one effective way to reduce global warming is to reduce deforestation and
+
+396
+00:42:06,720 --> 00:42:22,760
+ promote photosynthesis by planting trees or c3 plants through reforestation projects
+
+397
+00:42:22,760 --> 00:42:28,640
+ in the worst case rising temperatures due to global warming will cause vegetative land
+
+398
+00:42:28,640 --> 00:42:37,520
+ to become desert completely eliminating photosynthesis in certain areas conversely warming temperatures
+
+399
+00:42:37,520 --> 00:42:44,120
+ will expose more snow and ice covered regions permitting additional photosynthesis in such
+
+400
+00:42:44,120 --> 00:42:51,880
+ regions as that unfortunately enhanced carbon dioxide uptake is likely to be offset by carbon
+
+401
+00:42:51,880 --> 00:42:58,800
+ dioxide released from the more rapid decay of carbohydrates in the soil in these formerly
+
+402
+00:42:58,800 --> 00:43:11,840
+ frozen regions loss of ice and snow will also lead to increased heat gain of earth surface
+
+403
+00:43:11,840 --> 00:43:17,640
+ as formerly reflective surfaces become darker and more absorbent of light energy as we've
+
+404
+00:43:17,640 --> 00:43:24,480
+ seen there's no guarantee that increased photosynthesis will soak up much of the excess carbon dioxide
+
+405
+00:43:24,480 --> 00:43:30,880
+ released by fossil fuel combustion in fact the overall rate of photosynthesis might even
+
+406
+00:43:30,880 --> 00:43:47,360
+ decline on a warmer planet so how can we slow this problem of global climate change anthropogenic
+
+407
+00:43:47,360 --> 00:43:53,680
+ climate change has resulted in droughts in some areas and torrential rains and others
+
+408
+00:43:53,680 --> 00:43:59,000
+ climate change will cause the extinction of animals and plants that have narrow temperature
+
+409
+00:43:59,000 --> 00:44:07,400
+ requirements climate change has already contributed to the spread of infectious diseases and dangerous
+
+410
+00:44:07,400 --> 00:44:16,160
+ pests that were once once limited to just the tropical environments by temperature alone
+
+411
+00:44:16,160 --> 00:44:22,640
+ such as certain mosquitoes that could only live in tropical environments a lot of these
+
+412
+00:44:22,640 --> 00:44:30,640
+ mosquitoes also carry certain diseases and you are only limited to catching them if you
+
+413
+00:44:30,640 --> 00:44:43,280
+ lived in a tropical environment but if the earth warms their territory will expand in
+
+414
+00:44:43,280 --> 00:44:50,000
+ fact it's already happening this particular mosquito we see here they're beginning to
+
+415
+00:44:50,000 --> 00:45:01,360
+ move into geographical areas where they were once excluded another problem with the increasing
+
+416
+00:45:01,360 --> 00:45:09,640
+ rate of carbon dioxide absorbed by the ocean is causing the ocean to get more acidic or
+
+417
+00:45:09,640 --> 00:45:17,000
+ acidify or acidification this is damaging and killing coral reefs and threatening algae
+
+418
+00:45:17,000 --> 00:45:23,400
+ in the open ocean and the organisms that depend on them remember algae are organisms that
+
+419
+00:45:23,400 --> 00:45:32,280
+ can do photosynthesis but they're being threatened now because of the excess carbon dioxide so
+
+420
+00:45:32,280 --> 00:45:42,240
+ clearly excess carbon dioxide in the atmosphere is already imposing a cost on people which
+
+421
+00:45:42,240 --> 00:45:48,240
+ category do you think accounts for most of the carbon dioxide emissions for a country
+
+422
+00:45:48,240 --> 00:45:59,880
+ well it's industry United States has a disproportionate impact on the rate of carbon dioxide emissions
+
+423
+00:45:59,880 --> 00:46:07,560
+ into the atmosphere the United States is home to only four percent of the world population
+
+424
+00:46:07,560 --> 00:46:14,120
+ but the United States produces close to twenty five percent of the carbon dioxide emitted
+
+425
+00:46:14,120 --> 00:46:22,680
+ by fossil fuel burning in fact the average US household is responsible for 50,000 kilograms
+
+426
+00:46:22,680 --> 00:46:35,520
+ of annual carbon dioxide emissions the emissions rate of carbon dioxide is known as your carbon
+
+427
+00:46:35,520 --> 00:46:44,120
+ footprint for an average American it's twice that of a Japanese citizen or a German individual
+
+428
+00:46:44,120 --> 00:46:52,200
+ three times that of the global average four times that of someone from Sweden and 20 times
+
+429
+00:46:52,200 --> 00:47:05,720
+ that of the average Indian most of the emissions for an individual country come from industry
+
+430
+00:47:05,720 --> 00:47:13,720
+ followed by transportation and then by commercial residential and agricultural admissions all
+
+431
+00:47:13,720 --> 00:47:20,200
+ of us can work to reduce our personal contribution to global warming by decreasing residential
+
+432
+00:47:20,200 --> 00:47:28,280
+ and transportation emissions most residential emissions are from energy used to heat in cool
+
+433
+00:47:28,280 --> 00:47:34,640
+ homes and to power electrical appliances transportation emissions are affected by our
+
+434
+00:47:34,640 --> 00:47:44,200
+ choice of vehicles for transport and the fuel economy of our cars and even the distances traveled
+
+435
+00:47:44,200 --> 00:47:51,840
+ following slides show ways that individuals like average citizens can decrease the greenhouse
+
+436
+00:47:51,840 --> 00:47:58,240
+ gas emissions and it indicates the number of kilograms of carbon dioxide that each action
+
+437
+00:47:58,240 --> 00:48:05,160
+ could save annually they might seem trivial in comparison of the scope of the problem
+
+438
+00:48:05,160 --> 00:48:11,320
+ but when they're multiplied by more than 320 million people in the US the savings then can
+
+439
+00:48:11,320 --> 00:48:26,560
+ become significant driving energy efficient vehicles carpooling recycling walking instead
+
+440
+00:48:26,560 --> 00:48:35,580
+ of driving buying higher efficiency appliances buying food and other products with reusable
+
+441
+00:48:35,580 --> 00:48:44,480
+ or recyclable packaging or reduced packaging using push mowers instead of power mode mowers
+
+442
+00:48:44,480 --> 00:48:51,680
+ planting shade trees around the home to decrease energy consumption and to remove carbon dioxide
+
+443
+00:48:51,680 --> 00:49:00,800
+ by photosynthesis as an added bonus having an effect on industrial commercial and agricultural
+
+444
+00:49:00,800 --> 00:49:07,640
+ sectors is difficult for anyone individual changes in these areas will instead take leadership
+
+445
+00:49:07,640 --> 00:49:13,160
+ from those policymakers who are committed to reducing emissions making these changes
+
+446
+00:49:13,160 --> 00:49:19,360
+ requires that our leaders and all of us understand that even though the implications of and solutions
+
+447
+00:49:19,360 --> 00:49:27,400
+ to global warming may be open to debate the fact that it is occurring at an unprecedented
+
+448
+00:49:27,400 --> 00:49:42,240
+ rate is not open to debate the evidence the data shows it is occurring especially with
+
+449
+00:49:42,240 --> 00:49:53,200
+ the problem of the speed at which things are changing again be sure to review the learning
+
+450
+00:49:53,200 --> 00:50:21,040
+ outcomes for the chapter.
+
