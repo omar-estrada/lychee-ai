@@ -9,21 +9,21 @@ from rag  import Generator
 from transcriber import Transcriber
 
 
-
 def create_ui(generator, transcriber, content_manager: ContentManager):
     messages = []
 
     with gr.Blocks() as demo:
         gr.Markdown('# 🍒 Lychee AI')
-        with gr.Sidebar():
-            gr.Markdown('### 📂 Manage Videos')
-            videos_files = gr.File(label='Upload Video', file_count='multiple')
-            # delete_btn = gr.Button('Clear Database', variant='stop')
-            
-        with gr.Column():
-            chatbot = gr.Chatbot(label='Lecture Assistant', height=800)
-            question = gr.Textbox(label='Question')
-            submit = gr.Button('Ask')
+        with gr.Row():
+            with gr.Column():
+                chatbot = gr.Chatbot(label='Lecture Assistant', resizable=True)
+                question = gr.Textbox(label='Question')
+                submit = gr.Button('Ask')
+
+            with gr.Column(scale=0.2):
+                gr.Markdown('### 📂 Manage Videos')
+                videos_files = gr.File(label='Upload Video', file_count='multiple')
+                # delete_btn = gr.Button('Clear Database', variant='stop')
         
         def on_transcript_generated(transcript_path):
             generator.add_transcript(transcript_path)
