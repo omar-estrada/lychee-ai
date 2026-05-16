@@ -47,6 +47,7 @@ def _get_transcript_and_time(result):
 
 class Generator:
     def __init__(self):
+        self._transcripts = set()
         logging.info('Generator#__init__')
         rag_model = HuggingFaceEmbeddings(
             model_name='BAAI/bge-large-en-v1.5',
@@ -80,9 +81,16 @@ class Generator:
     #  transcript.
     def add_transcript(self, transcript_path):
         logging.info('Generator#add_transcript: transcript_path=%s', transcript_path)
+        if transcript_path in self._transcripts:
+            logging.info('Transcript already added, returning')
+            return
         loader = TimestampedSrtLoader(transcript_path)
         docs = loader.load()
-        self._vector_db.add_documents(docs)
+        try:
+            self._vector_db.add_documents(docs)
+            self._transcripts.add(transcript_path)
+        except Exception:
+            logging.warn('Error adding transcript %s', transcript_path)
     
     # def delete_transcript()
     # self._vector_db.delete(where={'source': selected_video})
