@@ -41,3 +41,13 @@ The first run will take more time since the HuggingFace embeddings model will be
 2. Load a video using the right-hand panel.
 
 3. Type a question in the box and click on `Ask`.
+
+# Batch testing
+
+To run all the queries in transcripts_qa.csv in batch (non-interactive) mode, run
+
+```shell
+python3 test.py
+```
+
+The answers obtain from the system will be output to rag_metrics.csv.

@@ -1,0 +1,8 @@
+langchain==0.3.0
+langchain-community
+chromadb
+sentence-transformers
+ollama
+pysrt
+gradio
+openai-whisper

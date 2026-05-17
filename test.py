@@ -1,3 +1,7 @@
+"""Script to run all the queries in transcripts_qa.csv.
+
+The answers are output to rag_metrics.csv.
+"""
 import csv
 import logging
 
@@ -8,7 +12,7 @@ TRANSCRIPTS_DIR = 'transcripts'
 
 def main():
     logging.basicConfig(
-        level=logging.INFO,
+        level=logging.DEBUG,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     )
 

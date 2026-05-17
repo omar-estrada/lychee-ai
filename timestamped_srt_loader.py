@@ -8,11 +8,11 @@ import pysrt
 from langchain_community.document_loaders.base import BaseLoader
 from langchain.schema import Document
 
-"""Class that loads SRT (SubRip subtitles file) keeping the timestamp."""
 class TimestampedSrtLoader(BaseLoader):
+    """Class that loads SRT (SubRip subtitles file) keeping the timestamps."""
     def __init__(self, path: str):
         self._path = path
-        self._nchunks = 3
+        self._nchunks = 10
         self._overlap = 1
     
     def load(self):
@@ -21,10 +21,10 @@ class TimestampedSrtLoader(BaseLoader):
         docs = []
         for i in range(0, len(entries), self._nchunks):
             entry = entries[i]
-            transcript = ' '.join([e.text for e in entries[i:i+self._nchunks]])
+            transcript = ' '.join([e.text for e in entries[i:i+self._nchunks+self._overlap]])
             filename = ''.join(self._path.split('/')[-1].split('.')[:-1])
             content = f'Content: {transcript}\nSource: {filename}\nTime: {entry.start}'
-            logging.debug('transcript: %s', transcript)
+            # logging.debug('transcript: %s', transcript)
             metadata = {
                 'source': self._path,
                 'start_srttime': str(entry.start),

@@ -1,3 +1,4 @@
+"""Main model classes."""
 import logging
 import time
 
@@ -10,6 +11,7 @@ from langchain.prompts import PromptTemplate
 from timestamped_srt_loader import TimestampedSrtLoader
 import utils
 
+# Uncomment this to output debug information to debug wrong answers.
 #import langchain
 # langchain.debug = True
 
@@ -46,6 +48,7 @@ def _get_transcript_and_time(result):
 
 
 class Generator:
+    """Retrieval-Augmented Generator to obtain answers from content on transcripts."""
     def __init__(self):
         self._transcripts = set()
         logging.info('Generator#__init__')
@@ -80,6 +83,7 @@ class Generator:
     #  than a transcript and that automatically extracts the
     #  transcript.
     def add_transcript(self, transcript_path):
+        """Adds the transcript to the vector database."""
         logging.info('Generator#add_transcript: transcript_path=%s', transcript_path)
         if transcript_path in self._transcripts:
             logging.info('Transcript already added, returning')
@@ -92,10 +96,14 @@ class Generator:
         except Exception:
             logging.warn('Error adding transcript %s', transcript_path)
     
-    # def delete_transcript()
-    # self._vector_db.delete(where={'source': selected_video})
-    
     def invoke(self, query):
+        """Invokes the RAG chain to obtain an answer based on the transcripts added to the DB.
+        
+        Return: a 3-tuple (answer, transcript_path, srttime), where:
+           answer: the text answer for the query
+           transcript_path: the transcript contain the answer
+           srttime: the time (format hh:mm:ss,mmm) in the transcript that contains the answer.
+        """
         logging.info('Generator#invoke: query=%s', query)
         start = time.time()
         result = self._rag_chain.invoke(query)
