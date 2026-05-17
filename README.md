@@ -32,7 +32,8 @@ cd lychee-ai/
 python3 webui.py
 ```
 
-The first run will take more time since the HuggingFace embeddings model will be downloaded (but they are cached, so subsequent runs are faster).
+The first run will take more time since the HuggingFace embeddings model will be downloaded
+(but they are cached, so subsequent runs are faster).
 
 # Usage
 
@@ -44,10 +45,16 @@ The first run will take more time since the HuggingFace embeddings model will be
 
 # Batch testing
 
-To run all the queries in transcripts_qa.csv in batch (non-interactive) mode, run
+To run all the queries in transcripts_qa.csv (with the transcripts in the transcripts/ directory)
+in batch (non-interactive) mode, run
 
 ```shell
 python3 test.py
 ```
 
 The answers obtain from the system will be output to rag_metrics.csv.
+
+# Dataset
+
+The transcripts were obtained from the videos listed in video_url_mapping.csv. The videos, in turn,
+where obtained from https://github.com/dondongwon/LPMDataset.

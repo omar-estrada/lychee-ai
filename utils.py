@@ -3,6 +3,7 @@ import os
 
 
 class Csv:
+    """Utility class to create and write comma-separated values (CSV) files."""
     def __init__(self, filename, headers):
         exists = os.path.exists(filename)
         self._csvfile = open(filename, 'a')

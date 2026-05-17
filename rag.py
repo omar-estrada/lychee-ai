@@ -48,7 +48,15 @@ def _get_transcript_and_time(result):
 
 
 class Generator:
-    """Retrieval-Augmented Generator to obtain answers from content on transcripts."""
+    """Retrieval-Augmented Generator to obtain answers from content on transcripts.
+    
+    Llama3 was chosen as the model because: 1) it's run locally, which ensures
+    that data is kept private; 2) it's compact enough to be run with affordable accelerators.
+
+    BAAI/bge-large-en-v1.5 is used because it doesn't truncate the text in chunks that contain
+    a large amount of text (unlinke all-MiniLM-L6-v2 and all-mpnet-base-v2, that inject only
+    the first sentence in the LLM context).
+    """
     def __init__(self):
         self._transcripts = set()
         logging.info('Generator#__init__')

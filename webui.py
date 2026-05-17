@@ -1,3 +1,7 @@
+"""Entrypoint for the web app.
+
+Search in the output for the Gradio URL to access the web UI remotely.
+"""
 import logging
 import os
 import sys
@@ -23,13 +27,11 @@ def create_ui(generator, transcriber, content_manager: ContentManager):
             with gr.Column(scale=0.2):
                 gr.Markdown('### 📂 Manage Videos')
                 videos_files = gr.File(label='Upload Video', file_count='multiple')
-                # delete_btn = gr.Button('Clear Database', variant='stop')
         
         def on_transcript_generated(transcript_path):
             generator.add_transcript(transcript_path)
             video_name = content_manager.get_video_name(transcript_path)
             gr.Info(f'{video_name} has been added to the knowledge DB.', duration=3)
-            # show message indicating that the transcript has been added
     
         def on_video_added(videos_paths: list[str]):
             logging.info('on_video_added: %s', videos_paths)
@@ -48,7 +50,6 @@ def create_ui(generator, transcriber, content_manager: ContentManager):
         submit.click(fn=ask_question, inputs=question, outputs=chatbot)
         question.submit(fn=ask_question, inputs=question, outputs=chatbot)
         videos_files.upload(fn=on_video_added, inputs=videos_files)
-    # delete_btn.click(fn=videos_manager.delete, inputs=videos_lst)
     return demo
 
 
